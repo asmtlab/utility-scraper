@@ -81,6 +81,30 @@ STATES = {
     'Wyoming': 'WY'
 }
 
+REGION_1 = [ 'CT', 'ME', 'MA', 'NH', 'RI', 'VT' ]
+REGION_2 = [ 'NJ', 'NY', ]
+REGION_3 = [ 'DE', 'MD', 'PA', 'VA', 'WV' ]
+REGION_4 = [ 'AL', 'FL', 'GA', 'KY', 'MS', 'NC', 'SC', 'TN' ]
+REGION_5 = [ 'IL', 'IN', 'MI', 'MN', 'OH', 'WI' ]
+REGION_6 = [ 'TX', 'AR', 'LA', 'NM', 'OK' ]
+REGION_7 = [ 'IA', 'KS', 'MO', 'NE' ]
+REGION_8 = [ 'CO', 'MT', 'ND', 'SD', 'UT', 'WY' ]
+REGION_9 = [ 'AZ', 'CA', 'HI', 'NV' ]
+REGION_10 = [ 'AK', 'ID', 'OR', 'WA' ]
+
+REGIONS = [
+    REGION_1,
+    REGION_2,
+    REGION_3,
+    REGION_4,
+    REGION_5,
+    REGION_6,
+    REGION_7,
+    REGION_8,
+    REGION_9,
+    REGION_10
+]
+
 #### FILE INFO ####
 DATASETS_DIRECTORY_PATH = "datasets" # path to dataset directory 
 ENERGY_PRODUCTION_BY_STATE_FILE = "annual_generation_state.xls"

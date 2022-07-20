@@ -1,0 +1,2142 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Chugach Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.chugachelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 146722886.0,
+   "Residential-Customers": 121498.0,
+   "Commercial-Sales-($)": 300027046.0,
+   "Commercial-Customers": 22667.0,
+   "Industrial-Sales-($)": 8108536.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 144172.0,
+   "Total-Production-MWh": 1963368.0,
+   "Production-from-Renewable-Energy-MWh": 152996.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1810372.0,
+   "cities-served": [
+    "Anchorage municipality",
+    "Cooper Landing CDP",
+    "Whittier",
+    "Moose Pass CDP",
+    "Hope CDP",
+    "Tyonek CDP",
+    "Crown Point CDP",
+    "Beluga CDP",
+    "Sunrise CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Anchorage Municipality, AK",
+     "population": 291247
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 144171
+    }
+   ]
+  },
+  {
+   "company": "Matanuska Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.mea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 97869778.0,
+   "Residential-Customers": 61672.0,
+   "Commercial-Sales-($)": 58121874.0,
+   "Commercial-Customers": 6697.0,
+   "Total-Customers": 68369.0,
+   "Total-Production-MWh": 701931.0,
+   "Production-from-Renewable-Energy-MWh": 23379.0,
+   "Production-from-Non-Renewable-Energy-MWh": 678552.0,
+   "cities-served": [
+    "Houston, AK",
+    "Palmer, AK",
+    "Wasilla, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Anchorage Municipality, AK",
+     "population": 291247
+    },
+    {
+     "county": "Matanuska-Susitna Borough, AK",
+     "population": 107081
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 68369
+    }
+   ]
+  },
+  {
+   "company": "Golden Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.gvea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 80222566.0,
+   "Residential-Customers": 40161.0,
+   "Commercial-Sales-($)": 31659889.0,
+   "Commercial-Customers": 6789.0,
+   "Industrial-Sales-($)": 153034293.0,
+   "Industrial-Customers": 545.0,
+   "Total-Customers": 47495.0,
+   "Total-Production-MWh": 906048.0,
+   "Production-from-Renewable-Energy-MWh": 56648.0,
+   "Production-from-Non-Renewable-Energy-MWh": 849400.0,
+   "cities-served": [
+    "Anderson, AK",
+    "Delta Junction, AK",
+    "Fairbanks, AK",
+    "Nenana, AK",
+    "North Pole, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Fairbanks North Star Borough, AK",
+     "population": 95655
+    },
+    {
+     "county": "Southeast Fairbanks Census Area, AK",
+     "population": 6808
+    },
+    {
+     "county": "Denali Borough, AK",
+     "population": 1619
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 47495
+    }
+   ]
+  },
+  {
+   "company": "Homer Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.homerelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 49288764.0,
+   "Residential-Customers": 28700.0,
+   "Commercial-Sales-($)": 40550484.0,
+   "Commercial-Customers": 4353.0,
+   "Industrial-Sales-($)": 14268043.0,
+   "Industrial-Customers": 23.0,
+   "Total-Customers": 33076.0,
+   "Total-Production-MWh": 433484.0,
+   "Production-from-Non-Renewable-Energy-MWh": 433484.0,
+   "cities-served": [
+    "Homer, AK",
+    "Kachemak, AK",
+    "Kenai, AK",
+    "Seldovia, AK",
+    "Soldotna, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Kenai Peninsula Borough, AK",
+     "population": 58799
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 33077
+    }
+   ]
+  },
+  {
+   "company": "Alaska Electric Light & Power Company",
+   "company-type": "Investor Owned",
+   "website": "http://www.aelp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19726445.0,
+   "Residential-Customers": 15053.0,
+   "Commercial-Sales-($)": 11952111.0,
+   "Commercial-Customers": 2401.0,
+   "Industrial-Sales-($)": 14229903.0,
+   "Industrial-Customers": 124.0,
+   "Total-Customers": 17578.0,
+   "Total-Production-MWh": 142120.0,
+   "Production-from-Renewable-Energy-MWh": 143438.0,
+   "Production-from-Non-Renewable-Energy-MWh": -1318.0,
+   "cities-served": [
+    "Juneau and"
+   ],
+   "counties-served": [
+    {
+     "county": "Juneau City and Borough, AK",
+     "population": 32255
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 17578
+    }
+   ]
+  },
+  {
+   "company": "Alaska Village Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.avec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 21764220.0,
+   "Residential-Customers": 7882.0,
+   "Commercial-Sales-($)": 31677562.0,
+   "Commercial-Customers": 3669.0,
+   "Total-Customers": 11551.0,
+   "Total-Production-MWh": 117395.0,
+   "Production-from-Non-Renewable-Energy-MWh": 117395.0,
+   "cities-served": [
+    "Akhiok, AK",
+    "Akiak, AK",
+    "Alakanuk, AK",
+    "Aleknagik, AK",
+    "Allakaket, AK",
+    "Ambler, AK",
+    "Aniak, AK",
+    "Anvik, AK",
+    "Bethel, AK",
+    "Bettles, AK",
+    "Brevig Mission, AK",
+    "Buckland, AK",
+    "Chefornak, AK",
+    "Chevak, AK",
+    "Chuathbaluk, AK",
+    "Clark's Point, AK",
+    "Deering, AK",
+    "Dillingham, AK",
+    "Diomede, AK",
+    "Eek, AK",
+    "Ekwok, AK",
+    "Elim, AK",
+    "Emmonak, AK",
+    "Fort Yukon, AK",
+    "Galena, AK",
+    "Gambell, AK",
+    "Golovin, AK",
+    "Goodnews Bay, AK",
+    "Grayling, AK",
+    "Holy Cross, AK",
+    "Hooper Bay, AK",
+    "Hughes, AK",
+    "Huslia, AK",
+    "Kaltag, AK",
+    "Kiana, AK",
+    "Kivalina, AK",
+    "Kobuk, AK",
+    "Kodiak, AK",
+    "Kotlik, AK",
+    "Kotzebue, AK",
+    "Koyuk, AK",
+    "Koyukuk, AK",
+    "Kwethluk, AK",
+    "Larsen Bay, AK",
+    "Lower Kalskag, AK",
+    "Manokotak, AK",
+    "Marshall, AK",
+    "McGrath, AK",
+    "Mekoryuk, AK",
+    "Mountain Village, AK",
+    "Napakiak, AK",
+    "Napaskiak, AK",
+    "Nenana, AK",
+    "New Stuyahok, AK",
+    "Nightmute, AK",
+    "Nikolai, AK",
+    "Nome, AK",
+    "Noorvik, AK",
+    "Nulato, AK",
+    "Nunam Iqua, AK",
+    "Nunapitchuk, AK",
+    "Old Harbor, AK",
+    "Ouzinkie, AK",
+    "Pilot Station, AK",
+    "Platinum, AK",
+    "Port Lions, AK",
+    "Quinhagak, AK",
+    "Ruby, AK",
+    "Russian Mission, AK",
+    "Savoonga, AK",
+    "Scammon Bay, AK",
+    "Selawik, AK",
+    "Shageluk, AK",
+    "Shaktoolik, AK",
+    "Shishmaref, AK",
+    "Shungnak, AK",
+    "St. Mary's, AK",
+    "St. Michael, AK",
+    "Stebbins, AK",
+    "Tanana, AK",
+    "Teller, AK",
+    "Togiak, AK",
+    "Toksook Bay, AK",
+    "Unalakleet, AK",
+    "Upper Kalskag, AK",
+    "Wales, AK",
+    "White Mountain, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    },
+    {
+     "county": "Kodiak Island Borough, AK",
+     "population": 13101
+    },
+    {
+     "county": "Nome Census Area, AK",
+     "population": 10046
+    },
+    {
+     "county": "Kusilvak Census Area, AK",
+     "population": 8368
+    },
+    {
+     "county": "Northwest Arctic Borough, AK",
+     "population": 7793
+    },
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    },
+    {
+     "county": "Dillingham Census Area, AK",
+     "population": 4857
+    },
+    {
+     "county": "Yakutat City and Borough, AK",
+     "population": 662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 11551
+    }
+   ]
+  },
+  {
+   "company": "Alaska Power and Telephone",
+   "company-type": "Investor Owned",
+   "website": "https://www.aptalaska.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 9108814.0,
+   "Residential-Customers": 5582.0,
+   "Commercial-Sales-($)": 11916556.0,
+   "Commercial-Customers": 2626.0,
+   "Total-Customers": 8208.0,
+   "Total-Production-MWh": 70844.0,
+   "Production-from-Renewable-Energy-MWh": 53641.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17203.0,
+   "cities-served": [
+    "Akhiok, AK",
+    "Akiak, AK",
+    "Akutan, AK",
+    "Alakanuk, AK",
+    "Aleknagik, AK",
+    "Allakaket, AK",
+    "Ambler, AK",
+    "Anaktuvuk Pass, AK",
+    "Anderson, AK",
+    "Angoon, AK",
+    "Aniak, AK",
+    "Anvik, AK",
+    "Atqasuk, AK",
+    "Bethel, AK",
+    "Bettles, AK",
+    "Brevig Mission, AK",
+    "Buckland, AK",
+    "Chefornak, AK",
+    "Chevak, AK",
+    "Chignik, AK",
+    "Chuathbaluk, AK",
+    "Coffman Cove, AK",
+    "Cold Bay, AK",
+    "Cordova, AK",
+    "Craig, AK",
+    "Deering, AK",
+    "Delta Junction, AK",
+    "Dillingham, AK",
+    "Eagle, AK",
+    "Edna Bay, AK",
+    "Eek, AK",
+    "Egegik, AK",
+    "Ekwok, AK",
+    "Elim, AK",
+    "Emmonak, AK",
+    "Fairbanks, AK",
+    "False Pass, AK",
+    "Fort Yukon, AK",
+    "Galena, AK",
+    "Gambell, AK",
+    "Golovin, AK",
+    "Goodnews Bay, AK",
+    "Grayling, AK",
+    "Gustavus, AK",
+    "Holy Cross, AK",
+    "Homer, AK",
+    "Hoonah, AK",
+    "Hooper Bay, AK",
+    "Houston, AK",
+    "Hughes, AK",
+    "Huslia, AK",
+    "Hydaburg, AK",
+    "Juneau and, AK",
+    "Kachemak, AK",
+    "Kake, AK",
+    "Kaltag, AK",
+    "Kasaan, AK",
+    "Kenai, AK",
+    "Ketchikan, AK",
+    "Kiana, AK",
+    "King Cove, AK",
+    "Klawock, AK",
+    "Kobuk, AK",
+    "Kodiak, AK",
+    "Kotlik, AK",
+    "Kotzebue, AK",
+    "Koyuk, AK",
+    "Koyukuk, AK",
+    "Kupreanof, AK",
+    "Kwethluk, AK",
+    "Larsen Bay, AK",
+    "Lower Kalskag, AK",
+    "Manokotak, AK",
+    "Marshall, AK",
+    "McGrath, AK",
+    "Mekoryuk, AK",
+    "Mountain Village, AK",
+    "Napakiak, AK",
+    "Napaskiak, AK",
+    "Nenana, AK",
+    "New Stuyahok, AK",
+    "Newhalen, AK",
+    "Nightmute, AK",
+    "Nikolai, AK",
+    "Nome, AK",
+    "Nondalton, AK",
+    "Noorvik, AK",
+    "North Pole, AK",
+    "Nuiqsut, AK",
+    "Nulato, AK",
+    "Nunam Iqua, AK",
+    "Nunapitchuk, AK",
+    "Old Harbor, AK",
+    "Ouzinkie, AK",
+    "Palmer, AK",
+    "Pelican, AK",
+    "Pilot Point, AK",
+    "Pilot Station, AK",
+    "Platinum, AK",
+    "Point Hope, AK",
+    "Port Heiden, AK",
+    "Port Lions, AK",
+    "Quinhagak, AK",
+    "Ruby, AK",
+    "Russian Mission, AK",
+    "Sand Point, AK",
+    "Savoonga, AK",
+    "Saxman, AK",
+    "Scammon Bay, AK",
+    "Selawik, AK",
+    "Seldovia, AK",
+    "Seward, AK",
+    "Shageluk, AK",
+    "Shaktoolik, AK",
+    "Shungnak, AK",
+    "Sitka and, AK",
+    "Soldotna, AK",
+    "St. Mary's, AK",
+    "St. Michael, AK",
+    "Stebbins, AK",
+    "Tanana, AK",
+    "Teller, AK",
+    "Tenakee Springs, AK",
+    "Thorne Bay, AK",
+    "Togiak, AK",
+    "Toksook Bay, AK",
+    "Unalakleet, AK",
+    "Unalaska, AK",
+    "Upper Kalskag, AK",
+    "Utqiagvik, AK",
+    "Valdez, AK",
+    "Wainwright, AK",
+    "Wales, AK",
+    "Wasilla, AK",
+    "White Mountain, AK",
+    "Whittier, AK",
+    "Wrangell and, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Anchorage Municipality, AK",
+     "population": 291247
+    },
+    {
+     "county": "Matanuska-Susitna Borough, AK",
+     "population": 107081
+    },
+    {
+     "county": "Fairbanks North Star Borough, AK",
+     "population": 95655
+    },
+    {
+     "county": "Kenai Peninsula Borough, AK",
+     "population": 58799
+    },
+    {
+     "county": "Juneau City and Borough, AK",
+     "population": 32255
+    },
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    },
+    {
+     "county": "Ketchikan Gateway Borough, AK",
+     "population": 13948
+    },
+    {
+     "county": "Kodiak Island Borough, AK",
+     "population": 13101
+    },
+    {
+     "county": "North Slope Borough, AK",
+     "population": 11031
+    },
+    {
+     "county": "Nome Census Area, AK",
+     "population": 10046
+    },
+    {
+     "county": "Sitka City and Borough, AK",
+     "population": 8458
+    },
+    {
+     "county": "Kusilvak Census Area, AK",
+     "population": 8368
+    },
+    {
+     "county": "Northwest Arctic Borough, AK",
+     "population": 7793
+    },
+    {
+     "county": "Chugach Census Area, AK",
+     "population": 7102
+    },
+    {
+     "county": "Southeast Fairbanks Census Area, AK",
+     "population": 6808
+    },
+    {
+     "county": "Prince of Wales-Hyder Census Area, AK",
+     "population": 5753
+    },
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    },
+    {
+     "county": "Aleutians West Census Area, AK",
+     "population": 5232
+    },
+    {
+     "county": "Dillingham Census Area, AK",
+     "population": 4857
+    },
+    {
+     "county": "Aleutians East Borough, AK",
+     "population": 3420
+    },
+    {
+     "county": "Petersburg Borough, AK",
+     "population": 3398
+    },
+    {
+     "county": "Copper River Census Area, AK",
+     "population": 2617
+    },
+    {
+     "county": "Hoonah-Angoon Census Area, AK",
+     "population": 2365
+    },
+    {
+     "county": "Wrangell City and Borough, AK",
+     "population": 2127
+    },
+    {
+     "county": "Haines Borough, AK",
+     "population": 2080
+    },
+    {
+     "county": "Denali Borough, AK",
+     "population": 1619
+    },
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    },
+    {
+     "county": "Skagway Municipality, AK",
+     "population": 1240
+    },
+    {
+     "county": "Bristol Bay Borough, AK",
+     "population": 844
+    },
+    {
+     "county": "Yakutat City and Borough, AK",
+     "population": 662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 8208
+    }
+   ]
+  },
+  {
+   "company": "KPU Ketchikan",
+   "company-type": "Municipal",
+   "website": "https://www.kputel.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9030408.0,
+   "Residential-Customers": 6515.0,
+   "Commercial-Sales-($)": 8185883.0,
+   "Commercial-Customers": 1357.0,
+   "Industrial-Sales-($)": 2256266.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 7886.0,
+   "Total-Production-MWh": 96610.0,
+   "Production-from-Renewable-Energy-MWh": 96716.0,
+   "Production-from-Non-Renewable-Energy-MWh": -106.0,
+   "cities-served": [
+    "Ketchikan, AK",
+    "Saxman, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Ketchikan Gateway Borough, AK",
+     "population": 13948
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 7886
+    }
+   ]
+  },
+  {
+   "company": "Kodiak Electric Association Inc",
+   "company-type": "Cooperative",
+   "website": "https://www.kodiakelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6753000.0,
+   "Residential-Customers": 4944.0,
+   "Commercial-Sales-($)": 3682000.0,
+   "Commercial-Customers": 1092.0,
+   "Industrial-Sales-($)": 13620000.0,
+   "Industrial-Customers": 117.0,
+   "Total-Customers": 6153.0,
+   "Total-Production-MWh": 157571.0,
+   "Production-from-Renewable-Energy-MWh": 157571.0,
+   "cities-served": [
+    "Akhiok, AK",
+    "Kodiak, AK",
+    "Larsen Bay, AK",
+    "Old Harbor, AK",
+    "Ouzinkie, AK",
+    "Port Lions, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Kodiak Island Borough, AK",
+     "population": 13101
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 6152
+    }
+   ]
+  },
+  {
+   "company": "City of Sitka Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofsitka.com/departments/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7070161.349,
+   "Residential-Customers": 3767.0,
+   "Commercial-Sales-($)": 6534513.923,
+   "Commercial-Customers": 1976.0,
+   "Industrial-Sales-($)": 3110024.728,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 5772.0,
+   "cities-served": [
+    "Sitka and"
+   ],
+   "counties-served": [
+    {
+     "county": "Sitka City and Borough, AK",
+     "population": 8458
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 5772
+    }
+   ]
+  },
+  {
+   "company": "Copper Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cvea.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4176052.587,
+   "Residential-Customers": 3021.0,
+   "Commercial-Sales-($)": 15619447.413,
+   "Commercial-Customers": 827.0,
+   "Total-Customers": 3848.0,
+   "Total-Production-MWh": 96412.0,
+   "Production-from-Renewable-Energy-MWh": 58733.0,
+   "Production-from-Non-Renewable-Energy-MWh": 37679.0,
+   "cities-served": [
+    "Cordova, AK",
+    "Valdez, AK",
+    "Whittier, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Chugach Census Area, AK",
+     "population": 7102
+    },
+    {
+     "county": "Copper River Census Area, AK",
+     "population": 2617
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 3848
+    }
+   ]
+  },
+  {
+   "company": "Petersburg Power Plant",
+   "company-type": "Municipal",
+   "website": "https://www.petersburgak.gov/power-light",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2296537.549,
+   "Residential-Customers": 1405.0,
+   "Commercial-Sales-($)": 1220300.395,
+   "Commercial-Customers": 782.0,
+   "Industrial-Sales-($)": 2111162.055,
+   "Industrial-Customers": 31.0,
+   "Total-Customers": 2218.0,
+   "Total-Production-MWh": 14383.0,
+   "Production-from-Renewable-Energy-MWh": 13520.0,
+   "Production-from-Non-Renewable-Energy-MWh": 863.0,
+   "cities-served": [
+    "Petersburg CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Petersburg Borough, AK",
+     "population": 3398
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 2218
+    }
+   ]
+  },
+  {
+   "company": "Nome Joint Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.njus.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3213572.405,
+   "Residential-Customers": 1761.0,
+   "Commercial-Sales-($)": 6607827.595,
+   "Commercial-Customers": 456.0,
+   "Total-Customers": 2217.0,
+   "Total-Production-MWh": 33504.0,
+   "Production-from-Renewable-Energy-MWh": 2130.0,
+   "Production-from-Non-Renewable-Energy-MWh": 31374.0,
+   "cities-served": [
+    "Nome"
+   ],
+   "counties-served": [
+    {
+     "county": "Nome Census Area, AK",
+     "population": 10046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 2217
+    }
+   ]
+  },
+  {
+   "company": "Wrangell, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.wrangell.com/electrical/welcome-wrangell-municipal-light-power",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1607432.653,
+   "Residential-Customers": 1189.0,
+   "Commercial-Sales-($)": 2350567.347,
+   "Commercial-Customers": 854.0,
+   "Total-Customers": 2043.0,
+   "Total-Production-MWh": 520.0,
+   "Production-from-Non-Renewable-Energy-MWh": 520.0,
+   "cities-served": [
+    "Wrangell and"
+   ],
+   "counties-served": [
+    {
+     "county": "Wrangell City and Borough, AK",
+     "population": 2127
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 2043
+    }
+   ]
+  },
+  {
+   "company": "Barrow Utilities & Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.bueci.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1845213.757,
+   "Residential-Customers": 1534.0,
+   "Commercial-Sales-($)": 5143686.243,
+   "Commercial-Customers": 498.0,
+   "Total-Customers": 2032.0,
+   "Total-Production-MWh": 18932.0,
+   "Production-from-Non-Renewable-Energy-MWh": 18932.0,
+   "cities-served": [
+    "Utqiagvik"
+   ],
+   "counties-served": [
+    {
+     "county": "North Slope Borough, AK",
+     "population": 11031
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 2032
+    }
+   ]
+  },
+  {
+   "company": "Cordova Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.cordovaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1623396.07,
+   "Residential-Customers": 971.0,
+   "Commercial-Sales-($)": 2985750.742,
+   "Commercial-Customers": 679.0,
+   "Industrial-Sales-($)": 1819153.188,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1654.0,
+   "Total-Production-MWh": 26746.0,
+   "Production-from-Renewable-Energy-MWh": 18681.0,
+   "Production-from-Non-Renewable-Energy-MWh": 8065.0,
+   "cities-served": [
+    "Cordova"
+   ],
+   "counties-served": [
+    {
+     "county": "Chugach Census Area, AK",
+     "population": 7102
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1654
+    }
+   ]
+  },
+  {
+   "company": "Nushagak Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.nushtel.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2333048.07,
+   "Residential-Customers": 982.0,
+   "Commercial-Sales-($)": 5302280.252,
+   "Commercial-Customers": 506.0,
+   "Industrial-Sales-($)": 464371.678,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1490.0,
+   "Total-Production-MWh": 18553.0,
+   "Production-from-Non-Renewable-Energy-MWh": 18553.0,
+   "cities-served": [
+    "Aleknagik, AK",
+    "Clark's Point, AK",
+    "Dillingham, AK",
+    "Ekwok, AK",
+    "Manokotak, AK",
+    "New Stuyahok, AK",
+    "Togiak, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Dillingham Census Area, AK",
+     "population": 4857
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1490
+    }
+   ]
+  },
+  {
+   "company": "Inside Passage Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.insidepassageelectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2472264.294,
+   "Residential-Customers": 1100.0,
+   "Commercial-Sales-($)": 1805263.158,
+   "Commercial-Customers": 251.0,
+   "Industrial-Sales-($)": 622472.548,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 1360.0,
+   "Total-Production-MWh": 7348.0,
+   "Production-from-Non-Renewable-Energy-MWh": 7348.0,
+   "cities-served": [
+    "Angoon, AK",
+    "Hoonah, AK",
+    "Kake, AK",
+    "Wrangell and, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Wrangell City and Borough, AK",
+     "population": 2127
+    },
+    {
+     "county": "Haines Borough, AK",
+     "population": 2080
+    },
+    {
+     "county": "Skagway Municipality, AK",
+     "population": 1240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1360
+    }
+   ]
+  },
+  {
+   "company": "Kotzebue Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.kea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2897723.0,
+   "Residential-Customers": 1185.0,
+   "Commercial-Sales-($)": 4039772.0,
+   "Commercial-Customers": 120.0,
+   "Total-Customers": 1305.0,
+   "Total-Production-MWh": 18753.0,
+   "Production-from-Renewable-Energy-MWh": 2649.0,
+   "Production-from-Non-Renewable-Energy-MWh": 16190.0,
+   "cities-served": [
+    "Kotzebue"
+   ],
+   "counties-served": [
+    {
+     "county": "Northwest Arctic Borough, AK",
+     "population": 7793
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1305
+    }
+   ]
+  },
+  {
+   "company": "North Slope Borough Power & Light",
+   "company-type": "Municipal",
+   "website": "https://www.north-slope.org/departments/public-works/power-generation-distribution",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1167486.683,
+   "Residential-Customers": 762.0,
+   "Commercial-Sales-($)": 6907313.317,
+   "Commercial-Customers": 459.0,
+   "Total-Customers": 1221.0,
+   "Total-Production-MWh": 63854.0,
+   "Production-from-Non-Renewable-Energy-MWh": 63854.0,
+   "cities-served": [
+    "Anaktuvuk Pass, AK",
+    "Atqasuk, AK",
+    "Kaktovik, AK",
+    "Nuiqsut, AK",
+    "Point Hope, AK",
+    "Utqiagvik, AK",
+    "Wainwright, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "North Slope Borough, AK",
+     "population": 11031
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1221
+    }
+   ]
+  },
+  {
+   "company": "Unalaska, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ci.unalaska.ak.us/publicutilities/page/electrical-distribution-division",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1088969.798,
+   "Residential-Customers": 762.0,
+   "Commercial-Sales-($)": 2246140.186,
+   "Commercial-Customers": 237.0,
+   "Industrial-Sales-($)": 9454090.016,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 1018.0,
+   "Total-Production-MWh": 44877.0,
+   "Production-from-Non-Renewable-Energy-MWh": 44877.0,
+   "cities-served": [
+    "Unalaska"
+   ],
+   "counties-served": [
+    {
+     "county": "Aleutians West Census Area, AK",
+     "population": 5232
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 1018
+    }
+   ]
+  },
+  {
+   "company": "Metlakatla Power & Light",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Metlakatla-Power-and-Light-161731280900989/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1135105.829,
+   "Residential-Customers": 692.0,
+   "Commercial-Sales-($)": 1455692.295,
+   "Commercial-Customers": 193.0,
+   "Industrial-Sales-($)": 14201.876,
+   "Industrial-Customers": 72.0,
+   "Total-Customers": 957.0,
+   "Total-Production-MWh": 18592.0,
+   "Production-from-Renewable-Energy-MWh": 17557.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1035.0,
+   "cities-served": [
+    "Metlakatla CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Prince of Wales-Hyder Census Area, AK",
+     "population": 5753
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 957
+    }
+   ]
+  },
+  {
+   "company": "Unalakleet Valley Elec Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.facebook.com/UnalakleetElectric/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 639545.613,
+   "Residential-Customers": 272.0,
+   "Commercial-Sales-($)": 1141454.387,
+   "Commercial-Customers": 114.0,
+   "Total-Customers": 386.0,
+   "Total-Production-MWh": 3597.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3597.0,
+   "cities-served": [
+    "Unalakleet"
+   ],
+   "counties-served": [
+    {
+     "county": "Nome Census Area, AK",
+     "population": 10046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 386
+    }
+   ]
+  },
+  {
+   "company": "Galena, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ci.galena.ak.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 486180.588,
+   "Residential-Customers": 108.0,
+   "Commercial-Sales-($)": 2492819.412,
+   "Commercial-Customers": 251.0,
+   "Total-Customers": 359.0,
+   "Total-Production-MWh": 4955.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4955.0,
+   "cities-served": [
+    "Galena"
+   ],
+   "counties-served": [
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 359
+    }
+   ]
+  },
+  {
+   "company": "INN Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.innelectric.com/index.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 454165.053,
+   "Residential-Customers": 165.0,
+   "Commercial-Sales-($)": 981534.947,
+   "Commercial-Customers": 115.0,
+   "Total-Customers": 280.0,
+   "Total-Production-MWh": 3492.0,
+   "Production-from-Renewable-Energy-MWh": 3332.0,
+   "Production-from-Non-Renewable-Energy-MWh": 160.0,
+   "cities-served": [
+    "Newhalen, AK",
+    "Nondalton, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 280
+    }
+   ]
+  },
+  {
+   "company": "TDX Power",
+   "company-type": "Investor Owned",
+   "website": "http://www.tdxpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 167683.19,
+   "Residential-Customers": 80.0,
+   "Commercial-Sales-($)": 10462841.81,
+   "Commercial-Customers": 194.0,
+   "Total-Customers": 274.0,
+   "Total-Production-MWh": 49509.0,
+   "Production-from-Renewable-Energy-MWh": 347.0,
+   "Production-from-Non-Renewable-Energy-MWh": 49162.0,
+   "cities-served": [
+    "Allakaket, AK",
+    "Anaktuvuk Pass, AK",
+    "Anvik, AK",
+    "Atqasuk, AK",
+    "Bettles, AK",
+    "Fort Yukon, AK",
+    "Galena, AK",
+    "Grayling, AK",
+    "Holy Cross, AK",
+    "Hughes, AK",
+    "Huslia, AK",
+    "Kaktovik, AK",
+    "Kaltag, AK",
+    "Koyukuk, AK",
+    "McGrath, AK",
+    "Nenana, AK",
+    "Nikolai, AK",
+    "Nuiqsut, AK",
+    "Nulato, AK",
+    "Point Hope, AK",
+    "Ruby, AK",
+    "Shageluk, AK",
+    "Tanana, AK",
+    "Utqiagvik, AK",
+    "Wainwright, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "North Slope Borough, AK",
+     "population": 11031
+    },
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 274
+    }
+   ]
+  },
+  {
+   "company": "McGrath Light & Power",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 416089.502,
+   "Residential-Customers": 175.0,
+   "Commercial-Sales-($)": 943010.498,
+   "Commercial-Customers": 96.0,
+   "Total-Customers": 271.0,
+   "Total-Production-MWh": 1900.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1900.0,
+   "cities-served": [
+    "McGrath"
+   ],
+   "counties-served": [
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 271
+    }
+   ]
+  },
+  {
+   "company": "Akiachak Native Community Electric Company",
+   "company-type": "Cooperative",
+   "website": "https://www.alaskan-natives.com/513/akiachak-native-community/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 256258.589,
+   "Residential-Customers": 184.0,
+   "Commercial-Sales-($)": 1115241.411,
+   "Commercial-Customers": 56.0,
+   "Total-Customers": 240.0,
+   "cities-served": [
+    "Akiachak CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 240
+    }
+   ]
+  },
+  {
+   "company": "Kuiggluum Kallugvia",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 405757.308,
+   "Residential-Customers": 187.0,
+   "Commercial-Sales-($)": 453742.692,
+   "Commercial-Customers": 37.0,
+   "Total-Customers": 224.0,
+   "cities-served": [
+    "Akiak, AK",
+    "Aniak, AK",
+    "Bethel, AK",
+    "Chefornak, AK",
+    "Chuathbaluk, AK",
+    "Eek, AK",
+    "Goodnews Bay, AK",
+    "Kwethluk, AK",
+    "Lower Kalskag, AK",
+    "Mekoryuk, AK",
+    "Napakiak, AK",
+    "Napaskiak, AK",
+    "Nightmute, AK",
+    "Nunapitchuk, AK",
+    "Platinum, AK",
+    "Quinhagak, AK",
+    "Toksook Bay, AK",
+    "Upper Kalskag, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 224
+    }
+   ]
+  },
+  {
+   "company": "Aniak Light & Power Company",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 460561.983,
+   "Residential-Customers": 172.0,
+   "Commercial-Sales-($)": 700438.017,
+   "Commercial-Customers": 30.0,
+   "Total-Customers": 202.0,
+   "Total-Production-MWh": 2183.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2183.0,
+   "cities-served": [
+    "Aniak"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 202
+    }
+   ]
+  },
+  {
+   "company": "Saint Paul, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.stpaulak.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 268759.571,
+   "Residential-Customers": 130.0,
+   "Commercial-Sales-($)": 1031240.429,
+   "Commercial-Customers": 70.0,
+   "Total-Customers": 200.0,
+   "cities-served": [
+    "St. Paul"
+   ],
+   "counties-served": [
+    {
+     "county": "Aleutians West Census Area, AK",
+     "population": 5232
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 200
+    }
+   ]
+  },
+  {
+   "company": "Middle Kuskokwim Electric",
+   "company-type": "Cooperative",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 425703.092,
+   "Residential-Customers": 119.0,
+   "Commercial-Sales-($)": 658296.908,
+   "Commercial-Customers": 61.0,
+   "Total-Customers": 180.0,
+   "cities-served": [
+    "Akiak, AK",
+    "Aniak, AK",
+    "Bethel, AK",
+    "Chefornak, AK",
+    "Chuathbaluk, AK",
+    "Eek, AK",
+    "Goodnews Bay, AK",
+    "Kwethluk, AK",
+    "Lower Kalskag, AK",
+    "Mekoryuk, AK",
+    "Napakiak, AK",
+    "Napaskiak, AK",
+    "Nightmute, AK",
+    "Nunapitchuk, AK",
+    "Platinum, AK",
+    "Quinhagak, AK",
+    "Toksook Bay, AK",
+    "Upper Kalskag, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 180
+    }
+   ]
+  },
+  {
+   "company": "Tenakee Springs, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 157711.054,
+   "Residential-Customers": 126.0,
+   "Commercial-Sales-($)": 63288.946,
+   "Commercial-Customers": 40.0,
+   "Total-Customers": 166.0,
+   "cities-served": [
+    "Tenakee Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Hoonah-Angoon Census Area, AK",
+     "population": 2365
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 166
+    }
+   ]
+  },
+  {
+   "company": "Tanana Power Co Inc",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 200518.258,
+   "Residential-Customers": 107.0,
+   "Commercial-Sales-($)": 485181.742,
+   "Commercial-Customers": 52.0,
+   "Total-Customers": 159.0,
+   "cities-served": [
+    "Tanana"
+   ],
+   "counties-served": [
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 159
+    }
+   ]
+  },
+  {
+   "company": "Tuntutuliak Community Services Association",
+   "company-type": "Cooperative",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 310325.799,
+   "Residential-Customers": 130.0,
+   "Commercial-Sales-($)": 317074.201,
+   "Commercial-Customers": 10.0,
+   "Total-Customers": 140.0,
+   "cities-served": [
+    "Tuntutuliak CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 140
+    }
+   ]
+  },
+  {
+   "company": "Napakiak Ircinraq Power",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 572100.0,
+   "Residential-Customers": 135.0,
+   "Total-Customers": 135.0,
+   "cities-served": [
+    "Napakiak"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 135
+    }
+   ]
+  },
+  {
+   "company": "Gold Country Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.facebook.com/Gold-Country-Energy-201059866573908/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 173534.783,
+   "Residential-Customers": 121.0,
+   "Commercial-Sales-($)": 65465.217,
+   "Commercial-Customers": 14.0,
+   "Total-Customers": 135.0,
+   "cities-served": [
+    "Allakaket, AK",
+    "Anvik, AK",
+    "Bettles, AK",
+    "Fort Yukon, AK",
+    "Galena, AK",
+    "Grayling, AK",
+    "Holy Cross, AK",
+    "Hughes, AK",
+    "Huslia, AK",
+    "Kaltag, AK",
+    "Koyukuk, AK",
+    "McGrath, AK",
+    "Nenana, AK",
+    "Nikolai, AK",
+    "Nulato, AK",
+    "Ruby, AK",
+    "Shageluk, AK",
+    "Tanana, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 135
+    }
+   ]
+  },
+  {
+   "company": "Chignik, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.chigniklagoon.net/chignik-lagoon-utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 132037.013,
+   "Residential-Customers": 62.0,
+   "Commercial-Sales-($)": 133762.987,
+   "Commercial-Customers": 68.0,
+   "Total-Customers": 130.0,
+   "cities-served": [
+    "Chignik",
+    "Chignik Lagoon CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 130
+    }
+   ]
+  },
+  {
+   "company": "Kwig Power Company",
+   "company-type": "Political Subdivision",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 335813.953,
+   "Residential-Customers": 107.0,
+   "Commercial-Sales-($)": 329186.047,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 127.0,
+   "cities-served": [
+    "Kwigillingok CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 127
+    }
+   ]
+  },
+  {
+   "company": "G & K Inc",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 184042.22,
+   "Residential-Customers": 68.0,
+   "Commercial-Sales-($)": 1183157.837,
+   "Commercial-Customers": 58.0,
+   "Industrial-Sales-($)": 57999.942,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 127.0,
+   "cities-served": [
+    "Fairbanks, AK",
+    "North Pole, AK"
+   ],
+   "counties-served": [
+    {
+     "county": "Fairbanks North Star Borough, AK",
+     "population": 95655
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 127
+    }
+   ]
+  },
+  {
+   "company": "Ouzinkie, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 162375.479,
+   "Residential-Customers": 78.0,
+   "Commercial-Sales-($)": 97624.521,
+   "Commercial-Customers": 34.0,
+   "Total-Customers": 112.0,
+   "cities-served": [
+    "Ouzinkie"
+   ],
+   "counties-served": [
+    {
+     "county": "Kodiak Island Borough, AK",
+     "population": 13101
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 112
+    }
+   ]
+  },
+  {
+   "company": "White Mountain, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 132823.758,
+   "Residential-Customers": 67.0,
+   "Commercial-Sales-($)": 267376.242,
+   "Commercial-Customers": 37.0,
+   "Total-Customers": 104.0,
+   "cities-served": [
+    "White Mountain"
+   ],
+   "counties-served": [
+    {
+     "county": "Nome Census Area, AK",
+     "population": 10046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 104
+    }
+   ]
+  },
+  {
+   "company": "Pelican Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 102116.402,
+   "Residential-Customers": 77.0,
+   "Commercial-Sales-($)": 90883.598,
+   "Commercial-Customers": 24.0,
+   "Total-Customers": 101.0,
+   "cities-served": [
+    "Skagway CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Skagway Municipality, AK",
+     "population": 1240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 101
+    }
+   ]
+  },
+  {
+   "company": "Larsen Bay, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 129034.921,
+   "Residential-Customers": 52.0,
+   "Commercial-Sales-($)": 177401.191,
+   "Commercial-Customers": 41.0,
+   "Industrial-Sales-($)": 16063.887,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 94.0,
+   "cities-served": [
+    "Larsen Bay"
+   ],
+   "counties-served": [
+    {
+     "county": "Kodiak Island Borough, AK",
+     "population": 13101
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 94
+    }
+   ]
+  },
+  {
+   "company": "Akutan, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.akutanak.us/city-services.html",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 435600.0,
+   "Residential-Customers": 85.0,
+   "Total-Customers": 85.0,
+   "cities-served": [
+    "Akutan"
+   ],
+   "counties-served": [
+    {
+     "county": "Aleutians East Borough, AK",
+     "population": 3420
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 85
+    }
+   ]
+  },
+  {
+   "company": "Elfin Cove, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 71910.112,
+   "Residential-Customers": 47.0,
+   "Commercial-Sales-($)": 88089.888,
+   "Commercial-Customers": 32.0,
+   "Total-Customers": 79.0,
+   "cities-served": [
+    "Pelican",
+    "Elfin Cove CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Hoonah-Angoon Census Area, AK",
+     "population": 2365
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 79
+    }
+   ]
+  },
+  {
+   "company": "Kokhanok Village Council",
+   "company-type": "Political Subdivision",
+   "website": "https://www.kokhanok.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 189791.121,
+   "Residential-Customers": 58.0,
+   "Commercial-Sales-($)": 197608.879,
+   "Commercial-Customers": 21.0,
+   "Total-Customers": 79.0,
+   "cities-served": [
+    "Kokhanok CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 79
+    }
+   ]
+  },
+  {
+   "company": "Chitina Electric",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 69579.85,
+   "Residential-Customers": 43.0,
+   "Commercial-Sales-($)": 152820.15,
+   "Commercial-Customers": 34.0,
+   "Total-Customers": 77.0,
+   "cities-served": [
+    "Chitina CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Copper River Census Area, AK",
+     "population": 2617
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 77
+    }
+   ]
+  },
+  {
+   "company": "Ipnatchiaq Electric Company",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 183397.849,
+   "Residential-Customers": 51.0,
+   "Commercial-Sales-($)": 308602.151,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 71.0,
+   "cities-served": [
+    "Deering"
+   ],
+   "counties-served": [
+    {
+     "county": "Northwest Arctic Borough, AK",
+     "population": 7793
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 71
+    }
+   ]
+  },
+  {
+   "company": "Hughes Power & Light",
+   "company-type": "Investor Owned",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 138105.263,
+   "Residential-Customers": 45.0,
+   "Commercial-Sales-($)": 169394.737,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 65.0,
+   "cities-served": [
+    "Hughes"
+   ],
+   "counties-served": [
+    {
+     "county": "Yukon-Koyukuk Census Area, AK",
+     "population": 5343
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 65
+    }
+   ]
+  },
+  {
+   "company": "Tatitlek Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 114930.876,
+   "Residential-Customers": 39.0,
+   "Commercial-Sales-($)": 100069.124,
+   "Commercial-Customers": 25.0,
+   "Total-Customers": 64.0,
+   "cities-served": [
+    "Tatitlek CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Chugach Census Area, AK",
+     "population": 7102
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 64
+    }
+   ]
+  },
+  {
+   "company": "Igiugig Electric Company",
+   "company-type": "Political Subdivision",
+   "website": "https://www.igiugig.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 80848.697,
+   "Residential-Customers": 30.0,
+   "Commercial-Sales-($)": 137851.303,
+   "Commercial-Customers": 26.0,
+   "Total-Customers": 56.0,
+   "cities-served": [
+    "Igiugig CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 56
+    }
+   ]
+  },
+  {
+   "company": "Pedro Bay Village Council (Utility Company)",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 47000.0,
+   "Residential-Customers": 26.0,
+   "Commercial-Sales-($)": 94000.0,
+   "Commercial-Customers": 18.0,
+   "Total-Customers": 44.0,
+   "cities-served": [
+    "Pedro Bay CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake and Peninsula Borough, AK",
+     "population": 1476
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 44
+    }
+   ]
+  }
+ ]
+}

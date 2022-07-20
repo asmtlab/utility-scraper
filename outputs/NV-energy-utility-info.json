@@ -1,0 +1,1128 @@
+{
+ "electrical-providers": [
+  {
+   "company": "NV Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.nvenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2283197686.086,
+   "Residential-Customers": 1891760.0,
+   "Commercial-Sales-($)": 1277020920.914,
+   "Commercial-Customers": 282766.0,
+   "Industrial-Sales-($)": 1590071873.0,
+   "Industrial-Customers": 3370.0,
+   "Total-Customers": 2177896.0,
+   "Total-Production-MWh": 65308978.0,
+   "Production-from-Renewable-Energy-MWh": 28324461.0,
+   "Production-from-Non-Renewable-Energy-MWh": 36984517.0,
+   "cities-served": [
+    "Ackley, IA",
+    "Ackworth, IA",
+    "Adel, IA",
+    "Alcester, SD",
+    "Alleman, IA",
+    "Allison, IA",
+    "Alton, IA",
+    "Altoona, IA",
+    "Alvord, IA",
+    "Ankeny, IA",
+    "Anthon, IA",
+    "Aplington, IA",
+    "Arcadia, IA",
+    "Archer, IA",
+    "Aredale, IA",
+    "Arion, IA",
+    "Arthur, IA",
+    "Aspinwall, IA",
+    "Auburn, IA",
+    "Audubon, IA",
+    "Aurelia, IA",
+    "Avoca, IA",
+    "Ayrshire, IA",
+    "Badger, IA",
+    "Barnes City, IA",
+    "Barnum, IA",
+    "Battle Creek, IA",
+    "Beacon, IA",
+    "Bedford, IA",
+    "Bettendorf, IA",
+    "Bevington, IA",
+    "Blanchard, IA",
+    "Blencoe, IA",
+    "Blue Grass, IA",
+    "Bode, IA",
+    "Bondurant, IA",
+    "Boulder City, NV",
+    "Boyden, IA",
+    "Braddyville, IA",
+    "Bradgate, IA",
+    "Brayton, IA",
+    "Breda, IA",
+    "Bristow, IA",
+    "Bronson, IA",
+    "Brunsville, IA",
+    "Buck Grove, IA",
+    "Buffalo, IA",
+    "Bussey, IA",
+    "Calumet, IA",
+    "Camanche, IA",
+    "Carbon, IA",
+    "Carlin, NV",
+    "Carlisle, IA",
+    "Carroll, IA",
+    "Carson, IA",
+    "Carson City, NV",
+    "Castana, IA",
+    "Charles City, IA",
+    "Charter Oak, IA",
+    "Chatsworth, IA",
+    "Cherokee, IA",
+    "Clare, IA",
+    "Clarinda, IA",
+    "Clarion, IA",
+    "Clarksville, IA",
+    "Cleghorn, IA",
+    "Clinton, IA",
+    "Clive, IA",
+    "Coburg, IA",
+    "Coin, IA",
+    "Colfax, IA",
+    "College Springs, IA",
+    "Colona, IL",
+    "Coralville, IA",
+    "Corning, IA",
+    "Correctionville, IA",
+    "Council Bluffs, IA",
+    "Craig, IA",
+    "Crescent, IA",
+    "Cumming, IA",
+    "Cushing, IA",
+    "Cylinder, IA",
+    "Dakota City, NE",
+    "Dakota City, IA",
+    "Dallas Center, IA",
+    "Danbury, IA",
+    "Davenport, IA",
+    "De Soto, IA",
+    "Dedham, IA",
+    "Defiance, IA",
+    "Deloit, IA",
+    "Denison, IA",
+    "Denver, IA",
+    "Des Moines, IA",
+    "Doon, IA",
+    "Dougherty, IA",
+    "Dow City, IA",
+    "Dumont, IA",
+    "Duncombe, IA",
+    "Dunkerton, IA",
+    "Dunlap, IA",
+    "Eagle Grove, IA",
+    "Earlham, IA",
+    "Earling, IA",
+    "Early, IA",
+    "Eddyville, IA",
+    "Eldridge, IA",
+    "Elk Horn, IA",
+    "Elk Run Heights, IA",
+    "Elkhart, IA",
+    "Elko, NV",
+    "Elliott, IA",
+    "Emerson, IA",
+    "Emmetsburg, IA",
+    "Essex, IA",
+    "Evansdale, IA",
+    "Exira, IA",
+    "Fairview, SD",
+    "Fallon, NV",
+    "Farragut, IA",
+    "Fernley, NV",
+    "Floyd, IA",
+    "Fonda, IA",
+    "Fort Dodge, IA",
+    "Galva, IA",
+    "Geneva, IA",
+    "Gilbertville, IA",
+    "Gilmore City, IA",
+    "Glenwood, IA",
+    "Goldfield, IA",
+    "Granger, IA",
+    "Granville, IA",
+    "Gravity, IA",
+    "Gray, IA",
+    "Grimes, IA",
+    "Griswold, IA",
+    "Halbur, IA",
+    "Hamburg, IA",
+    "Hamilton, IA",
+    "Hampton, IA",
+    "Hancock, IA",
+    "Hansell, IA",
+    "Hardy, IA",
+    "Hartford, IA",
+    "Harvey, IA",
+    "Hastings, IA",
+    "Henderson, NV",
+    "Henderson, IA",
+    "Hepburn, IA",
+    "Hills, IA",
+    "Hinton, IA",
+    "Holstein, IA",
+    "Hornick, IA",
+    "Hospers, IA",
+    "Hudson, IA",
+    "Hudson, SD",
+    "Hull, IA",
+    "Humboldt, IA",
+    "Ida Grove, IA",
+    "Imogene, IA",
+    "Indianola, IA",
+    "Inwood, IA",
+    "Iowa City, IA",
+    "Ireton, IA",
+    "Irwin, IA",
+    "Janesville, IA",
+    "Jefferson, SD",
+    "Jesup, IA",
+    "Johnston, IA",
+    "Jolley, IA",
+    "Keomah Village, IA",
+    "Kingsley, IA",
+    "Kirkman, IA",
+    "Kirkville, IA",
+    "Kiron, IA",
+    "Knierim, IA",
+    "Knoxville, IA",
+    "Lake City, IA",
+    "Lakeside, IA",
+    "Lanesboro, IA",
+    "Larrabee, IA",
+    "Las Vegas, NV",
+    "Latimer, IA",
+    "Lawton, IA",
+    "Le Claire, IA",
+    "Le Mars, IA",
+    "Lehigh, IA",
+    "Leighton, IA",
+    "Lewis, IA",
+    "Lidderdale, IA",
+    "Little Sioux, IA",
+    "Livermore, IA",
+    "Logan, IA",
+    "Lohrville, IA",
+    "Lovelock, NV",
+    "Lovilia, IA",
+    "Lu Verne, IA",
+    "Lytton, IA",
+    "Macedonia, IA",
+    "Magnolia, IA",
+    "Malvern, IA",
+    "Manson, IA",
+    "Marcus, IA",
+    "Marne, IA",
+    "Martensdale, IA",
+    "Marysville, IA",
+    "Maurice, IA",
+    "McClelland, IA",
+    "Melcher-Dallas, IA",
+    "Meriden, IA",
+    "Merrill, IA",
+    "Milo, IA",
+    "Minburn, IA",
+    "Minden, IA",
+    "Mingo, IA",
+    "Missouri Valley, IA",
+    "Mitchellville, IA",
+    "Modale, IA",
+    "Mondamin, IA",
+    "Monroe, IA",
+    "Moorhead, IA",
+    "Moorland, IA",
+    "Moville, IA",
+    "Nashua, IA",
+    "Nemaha, IA",
+    "New Hartford, IA",
+    "New Market, IA",
+    "New Sharon, IA",
+    "Newell, IA",
+    "Nodaway, IA",
+    "North Las Vegas, NV",
+    "North Liberty, IA",
+    "North Sioux City, SD",
+    "Northboro, IA",
+    "Norwalk, IA",
+    "Oakland, IA",
+    "Odebolt, IA",
+    "Onawa, IA",
+    "Orange City, IA",
+    "Oskaloosa, IA",
+    "Otho, IA",
+    "Oto, IA",
+    "Ottosen, IA",
+    "Oyens, IA",
+    "Pacific Junction, IA",
+    "Palmer, IA",
+    "Panama, IA",
+    "Panorama Park, IA",
+    "Parkersburg, IA",
+    "Patterson, IA",
+    "Paullina, IA",
+    "Pella, IA",
+    "Persia, IA",
+    "Pierson, IA",
+    "Pioneer, IA",
+    "Pisgah, IA",
+    "Plainfield, IA",
+    "Pleasant Hill, IA",
+    "Pleasantville, IA",
+    "Pocahontas, IA",
+    "Polk City, IA",
+    "Pomeroy, IA",
+    "Portsmouth, IA",
+    "Prairie City, IA",
+    "Primghar, IA",
+    "Princeton, IA",
+    "Quimby, IA",
+    "Randolph, IA",
+    "Raymond, IA",
+    "Red Oak, IA",
+    "Redfield, IA",
+    "Reinbeck, IA",
+    "Remsen, IA",
+    "Reno, NV",
+    "Ricketts, IA",
+    "Riverdale, IA",
+    "Riverton, IA",
+    "Rock Valley, IA",
+    "Rockwell, IA",
+    "Rockwell City, IA",
+    "Rodney, IA",
+    "Runnells, IA",
+    "Ruthven, IA",
+    "Rutland, IA",
+    "Sac City, IA",
+    "Salix, IA",
+    "Sanborn, IA",
+    "Sandyville, IA",
+    "Schaller, IA",
+    "Schleswig, IA",
+    "Sergeant Bluff, IA",
+    "Shambaugh, IA",
+    "Sheffield, IA",
+    "Sheldon, IA",
+    "Shell Rock, IA",
+    "Shenandoah, IA",
+    "Sidney, IA",
+    "Silver City, IA",
+    "Sioux Center, IA",
+    "Sioux City, IA",
+    "Sloan, IA",
+    "Smithland, IA",
+    "Soldier, IA",
+    "Somers, IA",
+    "South Lake Tahoe, CA",
+    "Sparks, NV",
+    "Spring Hill, IA",
+    "St. Charles, IA",
+    "St. Marys, IA",
+    "Storm Lake, IA",
+    "Stout, IA",
+    "Struble, IA",
+    "Sutherland, IA",
+    "Swan, IA",
+    "Tabor, IA",
+    "Templeton, IA",
+    "Thor, IA",
+    "Thurman, IA",
+    "Treynor, IA",
+    "Truckee, CA",
+    "Truesdale, IA",
+    "Turin, IA",
+    "Underwood, IA",
+    "University Heights, IA",
+    "University Park, IA",
+    "Urbandale, IA",
+    "Ute, IA",
+    "Vail, IA",
+    "Valeria, IA",
+    "Van Meter, IA",
+    "Varina, IA",
+    "Villisca, IA",
+    "Vincent, IA",
+    "Walnut, IA",
+    "Washta, IA",
+    "Waterloo, IA",
+    "Waukee, IA",
+    "Waverly, IA",
+    "West Des Moines, IA",
+    "Westphalia, IA",
+    "Westside, IA",
+    "Whiting, IA",
+    "Willey, IA",
+    "Wilton, IA",
+    "Windsor Heights, IA",
+    "Winnemucca, NV",
+    "Yerington, NV",
+    "Yetter, IA",
+    "Yorktown, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, NV",
+     "population": 2265461
+    },
+    {
+     "county": "Polk County, IA",
+     "population": 492401
+    },
+    {
+     "county": "Washoe County, NV",
+     "population": 486492
+    },
+    {
+     "county": "Placer County, CA",
+     "population": 404739
+    },
+    {
+     "county": "El Dorado County, CA",
+     "population": 191185
+    },
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    },
+    {
+     "county": "Johnson County, IA",
+     "population": 152854
+    },
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    },
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    },
+    {
+     "county": "Nevada County, CA",
+     "population": 102241
+    },
+    {
+     "county": "Dallas County, IA",
+     "population": 99678
+    },
+    {
+     "county": "Pottawattamie County, IA",
+     "population": 93667
+    },
+    {
+     "county": "Lyon County, NV",
+     "population": 59235
+    },
+    {
+     "county": "Carson City, NV",
+     "population": 58639
+    },
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Warren County, IA",
+     "population": 52403
+    },
+    {
+     "county": "Nye County, NV",
+     "population": 51591
+    },
+    {
+     "county": "Douglas County, NV",
+     "population": 49488
+    },
+    {
+     "county": "Clinton County, IA",
+     "population": 46460
+    },
+    {
+     "county": "Cerro Gordo County, IA",
+     "population": 43127
+    },
+    {
+     "county": "Jasper County, IA",
+     "population": 37813
+    },
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    },
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    },
+    {
+     "county": "Wapello County, IA",
+     "population": 35437
+    },
+    {
+     "county": "Marion County, IA",
+     "population": 33414
+    },
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    },
+    {
+     "county": "Churchill County, NV",
+     "population": 25516
+    },
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    },
+    {
+     "county": "Mahaska County, IA",
+     "population": 22190
+    },
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    },
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    },
+    {
+     "county": "Buchanan County, IA",
+     "population": 20565
+    },
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    },
+    {
+     "county": "Humboldt County, NV",
+     "population": 17285
+    },
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    },
+    {
+     "county": "Madison County, IA",
+     "population": 16548
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Floyd County, IA",
+     "population": 15627
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    },
+    {
+     "county": "Mills County, IA",
+     "population": 14484
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    },
+    {
+     "county": "Mono County, CA",
+     "population": 13195
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    },
+    {
+     "county": "Grundy County, IA",
+     "population": 12329
+    },
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    },
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    },
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    },
+    {
+     "county": "Cherokee County, IA",
+     "population": 11658
+    },
+    {
+     "county": "Montgomery County, IA",
+     "population": 10330
+    },
+    {
+     "county": "Keokuk County, IA",
+     "population": 10033
+    },
+    {
+     "county": "Franklin County, IA",
+     "population": 10019
+    },
+    {
+     "county": "Calhoun County, IA",
+     "population": 9927
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    },
+    {
+     "county": "Palo Alto County, IA",
+     "population": 8996
+    },
+    {
+     "county": "Monona County, IA",
+     "population": 8751
+    },
+    {
+     "county": "Monroe County, IA",
+     "population": 7577
+    },
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    },
+    {
+     "county": "Ida County, IA",
+     "population": 7005
+    },
+    {
+     "county": "Pershing County, NV",
+     "population": 6650
+    },
+    {
+     "county": "Fremont County, IA",
+     "population": 6605
+    },
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    },
+    {
+     "county": "Lander County, NV",
+     "population": 5734
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    },
+    {
+     "county": "Mineral County, NV",
+     "population": 4554
+    },
+    {
+     "county": "Storey County, NV",
+     "population": 4104
+    },
+    {
+     "county": "Adams County, IA",
+     "population": 3704
+    },
+    {
+     "county": "Sierra County, CA",
+     "population": 3236
+    },
+    {
+     "county": "Eureka County, NV",
+     "population": 1855
+    },
+    {
+     "county": "Alpine County, CA",
+     "population": 1204
+    },
+    {
+     "county": "Esmeralda County, NV",
+     "population": 729
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 1355820
+    },
+    {
+     "state": "Iowa",
+     "customers": 716924
+    },
+    {
+     "state": "Illinois",
+     "customers": 85447
+    },
+    {
+     "state": "Ohio",
+     "customers": 23344
+    },
+    {
+     "state": "Texas",
+     "customers": 15379
+    },
+    {
+     "state": "South Dakota",
+     "customers": 5203
+    },
+    {
+     "state": "Pennsylvania",
+     "customers": 3837
+    },
+    {
+     "state": "Maryland",
+     "customers": 2909
+    },
+    {
+     "state": "New Jersey",
+     "customers": 748
+    },
+    {
+     "state": "Delaware",
+     "customers": 284
+    },
+    {
+     "state": "District of Columbia",
+     "customers": 125
+    },
+    {
+     "state": "New York",
+     "customers": 99
+    }
+   ]
+  },
+  {
+   "company": "Overton Power District No 5",
+   "company-type": "Political Subdivision",
+   "website": "https://www.opd5.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 21216000.0,
+   "Residential-Customers": 13889.0,
+   "Commercial-Sales-($)": 10742000.0,
+   "Commercial-Customers": 2641.0,
+   "Industrial-Sales-($)": 6196000.0,
+   "Industrial-Customers": 48.0,
+   "Total-Customers": 16578.0,
+   "cities-served": [
+    "Mesquite",
+    "Moapa Valley CDP",
+    "Bunkerville CDP",
+    "Moapa Town CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, NV",
+     "population": 2265461
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 16578
+    }
+   ]
+  },
+  {
+   "company": "Boulder City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.bcnv.org/625/Utilities-Department---Infrastructure",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10060454.0,
+   "Residential-Customers": 7102.0,
+   "Commercial-Sales-($)": 6460852.0,
+   "Commercial-Customers": 1112.0,
+   "Industrial-Sales-($)": 126618.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 8220.0,
+   "cities-served": [
+    "Boulder City"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, NV",
+     "population": 2265461
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 8220
+    }
+   ]
+  },
+  {
+   "company": "Mount Wheeler Power",
+   "company-type": "Cooperative",
+   "website": "https://www.mwpower.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6659735.0,
+   "Residential-Customers": 5364.0,
+   "Commercial-Sales-($)": 3730353.0,
+   "Commercial-Customers": 1836.0,
+   "Industrial-Sales-($)": 29126676.0,
+   "Industrial-Customers": 540.0,
+   "Total-Customers": 7740.0,
+   "cities-served": [
+    "Ely",
+    "McGill CDP",
+    "Eureka CDP",
+    "Ruth CDP",
+    "Lund CDP",
+    "Preston CDP",
+    "Baker CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Nye County, NV",
+     "population": 51591
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "White Pine County, NV",
+     "population": 9080
+    },
+    {
+     "county": "Eureka County, NV",
+     "population": 1855
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 7327
+    },
+    {
+     "state": "Utah",
+     "customers": 414
+    }
+   ]
+  },
+  {
+   "company": "Wells Rural Electric Company",
+   "company-type": "Cooperative",
+   "website": "https://www.wrec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6345450.0,
+   "Residential-Customers": 4983.0,
+   "Commercial-Sales-($)": 5830000.0,
+   "Commercial-Customers": 1151.0,
+   "Industrial-Sales-($)": 32435000.0,
+   "Industrial-Customers": 164.0,
+   "Total-Customers": 6298.0,
+   "cities-served": [
+    "Carlin, NV",
+    "Wells, NV",
+    "Wendover, UT",
+    "West Wendover, NV"
+   ],
+   "counties-served": [
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "White Pine County, NV",
+     "population": 9080
+    },
+    {
+     "county": "Eureka County, NV",
+     "population": 1855
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 5604
+    },
+    {
+     "state": "Utah",
+     "customers": 694
+    }
+   ]
+  },
+  {
+   "company": "Raft River Rural Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.rrelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4372049.0,
+   "Residential-Customers": 3205.0,
+   "Commercial-Sales-($)": 5737819.0,
+   "Commercial-Customers": 713.0,
+   "Industrial-Sales-($)": 10160588.0,
+   "Industrial-Customers": 1289.0,
+   "Total-Customers": 5207.0,
+   "cities-served": [
+    "Albion, ID",
+    "Malta, ID",
+    "Oakley, ID",
+    "Snowville, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    },
+    {
+     "county": "Power County, ID",
+     "population": 7878
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2670
+    },
+    {
+     "state": "Nevada",
+     "customers": 1810
+    },
+    {
+     "state": "Utah",
+     "customers": 726
+    }
+   ]
+  },
+  {
+   "company": "City of Fallon Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.fallonnevada.gov/residents/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3836020.162,
+   "Residential-Customers": 4062.0,
+   "Commercial-Sales-($)": 5742239.917,
+   "Commercial-Customers": 779.0,
+   "Industrial-Sales-($)": 1619739.921,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 4844.0,
+   "cities-served": [
+    "Fallon"
+   ],
+   "counties-served": [
+    {
+     "county": "Churchill County, NV",
+     "population": 25516
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 4844
+    }
+   ]
+  },
+  {
+   "company": "Harney Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.hec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2331818.168,
+   "Residential-Customers": 1696.0,
+   "Commercial-Sales-($)": 1552989.032,
+   "Commercial-Customers": 636.0,
+   "Industrial-Sales-($)": 11057692.8,
+   "Industrial-Customers": 1440.0,
+   "Total-Customers": 3772.0,
+   "cities-served": [
+    "Fort McDermitt CDP",
+    "McDermitt CDP",
+    "Orovada CDP",
+    "Crane CDP",
+    "Denio CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Malheur County, OR",
+     "population": 31571
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Humboldt County, NV",
+     "population": 17285
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Harney County, OR",
+     "population": 7495
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 2402
+    },
+    {
+     "state": "Nevada",
+     "customers": 1370
+    }
+   ]
+  },
+  {
+   "company": "Lincoln County Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.lcpd1.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1262501.26,
+   "Residential-Customers": 1485.0,
+   "Commercial-Sales-($)": 1270838.533,
+   "Commercial-Customers": 432.0,
+   "Industrial-Sales-($)": 1719860.207,
+   "Industrial-Customers": 124.0,
+   "Total-Customers": 2041.0,
+   "cities-served": [
+    "Caliente",
+    "Pioche CDP",
+    "Panaca CDP",
+    "Alamo CDP",
+    "Bennett Springs CDP",
+    "Hiko CDP",
+    "Ursine CDP",
+    "Dry Valley CDP",
+    "Rachel CDP",
+    "Beaverdam CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NV",
+     "population": 4499
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 2041
+    }
+   ]
+  },
+  {
+   "company": "Alamo Power District No 3",
+   "company-type": "Political Subdivision",
+   "website": "https://www.apd3.energy/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1066835.499,
+   "Residential-Customers": 606.0,
+   "Commercial-Sales-($)": 416894.714,
+   "Commercial-Customers": 91.0,
+   "Industrial-Sales-($)": 211869.787,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 737.0,
+   "cities-served": [
+    "Alamo CDP",
+    "Hiko CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NV",
+     "population": 4499
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 737
+    }
+   ]
+  }
+ ]
+}

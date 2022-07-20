@@ -1,0 +1,2747 @@
+{
+ "electrical-providers": [
+  {
+   "company": "PacifiCorp",
+   "company-type": "Investor Owned",
+   "website": "https://www.pacificorp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1886521838.0,
+   "Residential-Customers": 1752587.0,
+   "Commercial-Sales-($)": 1572847130.0,
+   "Commercial-Customers": 226225.0,
+   "Industrial-Sales-($)": 1240293512.0,
+   "Industrial-Customers": 32989.0,
+   "Total-Customers": 2011801.0,
+   "Total-Production-MWh": 53156855.0,
+   "Production-from-Renewable-Energy-MWh": 9719336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43437520.0,
+   "cities-served": [
+    "Adams, OR",
+    "Albany, OR",
+    "Alpine, UT",
+    "Alta, UT",
+    "Alturas, CA",
+    "Amalga, UT",
+    "American Fork, UT",
+    "Ammon, ID",
+    "Annabella, UT",
+    "Apple Valley, UT",
+    "Arco, ID",
+    "Arimo, ID",
+    "Arlington, OR",
+    "Ashland, OR",
+    "Ashton, ID",
+    "Astoria, OR",
+    "Athena, OR",
+    "Aumsville, OR",
+    "Aurora, UT",
+    "Bairoil, WY",
+    "Bancroft, ID",
+    "Bandon, OR",
+    "Bar Nunn, WY",
+    "Basalt, ID",
+    "Basin, WY",
+    "Bear River, WY",
+    "Bear River City, UT",
+    "Beaver, UT",
+    "Bend, OR",
+    "Big Piney, WY",
+    "Blanding, UT",
+    "Bloomington, ID",
+    "Bluffdale, UT",
+    "Bonanza, OR",
+    "Brian Head, UT",
+    "Brighton, UT",
+    "Brownsville, OR",
+    "Buffalo, WY",
+    "Butte Falls, OR",
+    "Byron, WY",
+    "Cannon Beach, OR",
+    "Canyonville, OR",
+    "Casper, WY",
+    "Castle Dale, UT",
+    "Castle Valley, UT",
+    "Cave Junction, OR",
+    "Cedar City, UT",
+    "Cedar Fort, UT",
+    "Cedar Highlands, UT",
+    "Cedar Hills, UT",
+    "Centerfield, UT",
+    "Centerville, UT",
+    "Central Point, OR",
+    "Central Valley, UT",
+    "Charleston, UT",
+    "Chiloquin, OR",
+    "Circleville, UT",
+    "Clarkston, UT",
+    "Clawson, UT",
+    "Clearfield, UT",
+    "Cleveland, UT",
+    "Clifton, ID",
+    "Clinton, UT",
+    "Coalville, UT",
+    "Coburg, OR",
+    "Cody, WY",
+    "Cokeville, WY",
+    "College Place, WA",
+    "Coos Bay, OR",
+    "Coquille, OR",
+    "Corinne, UT",
+    "Cornish, UT",
+    "Corvallis, OR",
+    "Cottage Grove, OR",
+    "Cottonwood Heights, UT",
+    "Cowley, WY",
+    "Crescent City, CA",
+    "Creswell, OR",
+    "Culver, OR",
+    "Dallas, OR",
+    "Daniel, UT",
+    "Dayton, WA",
+    "Dayton, ID",
+    "Deaver, WY",
+    "Delta, UT",
+    "Deweyville, UT",
+    "Diamondville, WY",
+    "Dorris, CA",
+    "Douglas, WY",
+    "Downey, ID",
+    "Draper, UT",
+    "Dubois, ID",
+    "Dunsmuir, CA",
+    "Eagle Mountain, UT",
+    "Eagle Point, OR",
+    "East Carbon, UT",
+    "East Thermopolis, WY",
+    "Echo, OR",
+    "Edgerton, WY",
+    "Elmo, UT",
+    "Elsinore, UT",
+    "Elwood, UT",
+    "Emery, UT",
+    "Enoch, UT",
+    "Enterprise, OR",
+    "Enterprise, UT",
+    "Ephraim, UT",
+    "Etna, CA",
+    "Eureka, UT",
+    "Evanston, WY",
+    "Evansville, WY",
+    "Fairfield, UT",
+    "Fairview, UT",
+    "Falls City, OR",
+    "Farmington, UT",
+    "Farr West, UT",
+    "Fayette, UT",
+    "Ferron, UT",
+    "Fielding, UT",
+    "Firth, ID",
+    "Fort Jones, CA",
+    "Fountain Green, UT",
+    "Francis, UT",
+    "Franklin, ID",
+    "Frannie, WY",
+    "Fruit Heights, UT",
+    "Garden City, UT",
+    "Garland, UT",
+    "Gates, OR",
+    "Gearhart, OR",
+    "Genola, UT",
+    "Georgetown, ID",
+    "Glendale, OR",
+    "Glendo, WY",
+    "Glenrock, WY",
+    "Glenwood, UT",
+    "Gold Hill, OR",
+    "Goshen, UT",
+    "Grace, ID",
+    "Grandview, WA",
+    "Granger, WA",
+    "Grants Pass, OR",
+    "Grantsville, UT",
+    "Grass Valley, OR",
+    "Green River, WY",
+    "Green River, UT",
+    "Greybull, WY",
+    "Guernsey, WY",
+    "Gunnison, UT",
+    "Halsey, OR",
+    "Hamer, ID",
+    "Hanna, WY",
+    "Harrah, WA",
+    "Harrisburg, OR",
+    "Harrisville, UT",
+    "Hartville, WY",
+    "Heber, UT",
+    "Helix, OR",
+    "Helper, UT",
+    "Henefer, UT",
+    "Hermiston, OR",
+    "Herriman, UT",
+    "Hideout, UT",
+    "Highland, UT",
+    "Hinckley, UT",
+    "Holden, UT",
+    "Holladay, UT",
+    "Honeyville, UT",
+    "Hood River, OR",
+    "Hooper, UT",
+    "Howell, UT",
+    "Huntington, UT",
+    "Huntsville, UT",
+    "Hurricane, UT",
+    "Hyde Park, UT",
+    "Hyrum, UT",
+    "Idaho Falls, ID",
+    "Ilwaco, WA",
+    "Independence, OR",
+    "Independence, UT",
+    "Iona, ID",
+    "Ivins, UT",
+    "Jacksonville, OR",
+    "Jefferson, OR",
+    "Joseph, OR",
+    "Joseph, UT",
+    "Junction, UT",
+    "Junction City, OR",
+    "Kamas, UT",
+    "Kanarraville, UT",
+    "Kemmerer, WY",
+    "Kingston, UT",
+    "Kirby, WY",
+    "Klamath Falls, OR",
+    "La Barge, WY",
+    "La Verkin, UT",
+    "Laketown, UT",
+    "Lakeview, OR",
+    "Lander, WY",
+    "Laramie, WY",
+    "Lava Hot Springs, ID",
+    "Layton, UT",
+    "Leamington, UT",
+    "Lebanon, OR",
+    "Leeds, UT",
+    "Lehi, UT",
+    "Levan, UT",
+    "Lewiston, UT",
+    "Lewisville, ID",
+    "Lincoln City, OR",
+    "Lindon, UT",
+    "Logan, UT",
+    "Lostine, OR",
+    "Lovell, WY",
+    "Lynndyl, UT",
+    "Lyons, OR",
+    "Mabton, WA",
+    "Madras, OR",
+    "Malad City, ID",
+    "Malin, OR",
+    "Manderson, WY",
+    "Manti, UT",
+    "Mantua, UT",
+    "Mapleton, UT",
+    "Marbleton, WY",
+    "Marriott-Slaterville, UT",
+    "Marysvale, UT",
+    "Mayfield, UT",
+    "Maywood Park, OR",
+    "McCammon, ID",
+    "Medford, OR",
+    "Menan, ID",
+    "Mendon, UT",
+    "Merrill, OR",
+    "Metolius, OR",
+    "Midvale, UT",
+    "Midway, UT",
+    "Midwest, WY",
+    "Milford, UT",
+    "Mill City, OR",
+    "Millcreek, UT",
+    "Millersburg, OR",
+    "Mills, WY",
+    "Millville, UT",
+    "Minersville, UT",
+    "Moab, UT",
+    "Mona, UT",
+    "Monroe, UT",
+    "Monroe, OR",
+    "Montague, CA",
+    "Montpelier, ID",
+    "Moro, OR",
+    "Moroni, UT",
+    "Mosier, OR",
+    "Mount Pleasant, UT",
+    "Mount Shasta, CA",
+    "Moxee, WA",
+    "Mud Lake, ID",
+    "Murray, UT",
+    "Myrtle Creek, OR",
+    "Myrtle Point, OR",
+    "Naches, WA",
+    "Naples, UT",
+    "Nephi, UT",
+    "New Harmony, UT",
+    "Newdale, ID",
+    "Newton, UT",
+    "Nibley, UT",
+    "North Bend, OR",
+    "North Logan, UT",
+    "North Ogden, UT",
+    "North Salt Lake, UT",
+    "Oak City, UT",
+    "Oakland, OR",
+    "Oakley, UT",
+    "Ogden, UT",
+    "Opal, WY",
+    "Ophir, UT",
+    "Orangeville, UT",
+    "Orem, UT",
+    "Oxford, ID",
+    "Panguitch, UT",
+    "Paradise, UT",
+    "Paragonah, UT",
+    "Paris, ID",
+    "Park City, UT",
+    "Parker, ID",
+    "Parowan, UT",
+    "Payson, UT",
+    "Pendleton, OR",
+    "Perry, UT",
+    "Philomath, OR",
+    "Phoenix, OR",
+    "Pilot Rock, OR",
+    "Pinedale, WY",
+    "Plain City, UT",
+    "Pleasant Grove, UT",
+    "Pleasant View, UT",
+    "Plymouth, UT",
+    "Pomeroy, WA",
+    "Portage, UT",
+    "Portland, OR",
+    "Powell, WY",
+    "Powers, OR",
+    "Prescott, WA",
+    "Preston, ID",
+    "Price, UT",
+    "Prineville, OR",
+    "Providence, UT",
+    "Provo, UT",
+    "Randolph, UT",
+    "Rawlins, WY",
+    "Redmond, OR",
+    "Redmond, UT",
+    "Rexburg, ID",
+    "Richfield, UT",
+    "Richmond, UT",
+    "Riddle, OR",
+    "Rigby, ID",
+    "Ririe, ID",
+    "River Heights, UT",
+    "Riverdale, UT",
+    "Riverton, UT",
+    "Riverton, WY",
+    "Roberts, ID",
+    "Rock Springs, WY",
+    "Rockville, UT",
+    "Rocky Ridge, UT",
+    "Rogue River, OR",
+    "Rolling Hills, WY",
+    "Roseburg, OR",
+    "Roy, UT",
+    "Rufus, OR",
+    "Rush Valley, UT",
+    "Salina, UT",
+    "Salt Lake City, UT",
+    "Sandy, UT",
+    "Santa Clara, UT",
+    "Santaquin, UT",
+    "Saratoga Springs, UT",
+    "Scio, OR",
+    "Scipio, UT",
+    "Scofield, UT",
+    "Seaside, OR",
+    "Selah, WA",
+    "Shady Cove, OR",
+    "Shelley, ID",
+    "Shoshoni, WY",
+    "Sigurd, UT",
+    "Sinclair, WY",
+    "Smithfield, UT",
+    "Snowville, UT",
+    "Soda Springs, ID",
+    "Sodaville, OR",
+    "South Jordan, UT",
+    "South Ogden, UT",
+    "South Salt Lake, UT",
+    "South Weber, UT",
+    "Spencer, ID",
+    "Spring City, UT",
+    "Springdale, UT",
+    "Springville, UT",
+    "St. Anthony, ID",
+    "St. Charles, ID",
+    "St. George, UT",
+    "Stanfield, OR",
+    "Stayton, OR",
+    "Sterling, UT",
+    "Stockton, UT",
+    "Sublimity, OR",
+    "Sugar City, ID",
+    "Sunnyside, WA",
+    "Sunset, UT",
+    "Superior, WY",
+    "Sutherlin, OR",
+    "Swan Valley, ID",
+    "Sweet Home, OR",
+    "Syracuse, UT",
+    "Talent, OR",
+    "Tangent, OR",
+    "Taylorsville, UT",
+    "Teton, ID",
+    "Thermopolis, WY",
+    "Tieton, WA",
+    "Tooele, UT",
+    "Toppenish, WA",
+    "Toquerville, UT",
+    "Tremonton, UT",
+    "Trenton, UT",
+    "Tulelake, CA",
+    "Ucon, ID",
+    "Uintah, UT",
+    "Umatilla, OR",
+    "Union Gap, WA",
+    "Veneta, OR",
+    "Vernal, UT",
+    "Vernon, UT",
+    "Vineyard, UT",
+    "Virgin, UT",
+    "Waitsburg, WA",
+    "Wales, UT",
+    "Walla Walla, WA",
+    "Wallowa, OR",
+    "Wallsburg, UT",
+    "Wamsutter, WY",
+    "Wapato, WA",
+    "Warrenton, OR",
+    "Wasco, OR",
+    "Washington, UT",
+    "Washington Terrace, UT",
+    "Waterloo, OR",
+    "Weed, CA",
+    "Wellington, UT",
+    "Wellsville, UT",
+    "West Bountiful, UT",
+    "West Haven, UT",
+    "West Jordan, UT",
+    "West Point, UT",
+    "West Valley City, UT",
+    "Weston, OR",
+    "Weston, ID",
+    "Willard, UT",
+    "Winston, OR",
+    "Woodruff, UT",
+    "Woods Cross, UT",
+    "Worland, WY",
+    "Yakima, WA",
+    "Yreka, CA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    },
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    },
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Weber County, UT",
+     "population": 262223
+    },
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    },
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Shasta County, CA",
+     "population": 182155
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Tooele County, UT",
+     "population": 72698
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Siskiyou County, CA",
+     "population": 44076
+    },
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    },
+    {
+     "county": "Del Norte County, CA",
+     "population": 27743
+    },
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "Franklin County, ID",
+     "population": 14194
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Morgan County, UT",
+     "population": 12295
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Emery County, UT",
+     "population": 9825
+    },
+    {
+     "county": "Grand County, UT",
+     "population": 9669
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Modoc County, CA",
+     "population": 8700
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    },
+    {
+     "county": "Rich County, UT",
+     "population": 2510
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 989777
+    },
+    {
+     "state": "Oregon",
+     "customers": 612085
+    },
+    {
+     "state": "Wyoming",
+     "customers": 143068
+    },
+    {
+     "state": "Washington",
+     "customers": 135069
+    },
+    {
+     "state": "Idaho",
+     "customers": 86004
+    },
+    {
+     "state": "California",
+     "customers": 45800
+    }
+   ]
+  },
+  {
+   "company": "Portland General Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.portlandgeneral.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1056548115.0,
+   "Residential-Customers": 802610.0,
+   "Commercial-Sales-($)": 681393683.0,
+   "Commercial-Customers": 107226.0,
+   "Industrial-Sales-($)": 277351975.0,
+   "Industrial-Customers": 4266.0,
+   "Total-Customers": 914102.0,
+   "Total-Production-MWh": 14160973.0,
+   "Production-from-Renewable-Energy-MWh": 3352618.0,
+   "Production-from-Non-Renewable-Energy-MWh": 10808355.0,
+   "cities-served": [
+    "Amity, OR",
+    "Aurora, OR",
+    "Banks, OR",
+    "Barlow, OR",
+    "Beaverton, OR",
+    "Canby, OR",
+    "Carlton, OR",
+    "Cornelius, OR",
+    "Damascus, OR",
+    "Dayton, OR",
+    "Donald, OR",
+    "Dundee, OR",
+    "Durham, OR",
+    "Estacada, OR",
+    "Fairview, OR",
+    "Forest Grove, OR",
+    "Gaston, OR",
+    "Gervais, OR",
+    "Gladstone, OR",
+    "Gresham, OR",
+    "Happy Valley, OR",
+    "Hillsboro, OR",
+    "Hubbard, OR",
+    "Johnson City, OR",
+    "Keizer, OR",
+    "King City, OR",
+    "Lafayette, OR",
+    "Lake Oswego, OR",
+    "McMinnville, OR",
+    "Milwaukie, OR",
+    "Molalla, OR",
+    "Mount Angel, OR",
+    "Newberg, OR",
+    "North Plains, OR",
+    "Oregon City, OR",
+    "Portland, OR",
+    "Rivergrove, OR",
+    "Salem, OR",
+    "Sandy, OR",
+    "Scotts Mills, OR",
+    "Sheridan, OR",
+    "Sherwood, OR",
+    "Silverton, OR",
+    "St. Helens, OR",
+    "St. Paul, OR",
+    "Tigard, OR",
+    "Troutdale, OR",
+    "Tualatin, OR",
+    "Turner, OR",
+    "Washougal, WA",
+    "West Linn, OR",
+    "Willamina, OR",
+    "Wilsonville, OR",
+    "Wood Village, OR",
+    "Woodburn, OR",
+    "Yamhill, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Washington County, OR",
+     "population": 600372
+    },
+    {
+     "county": "Clackamas County, OR",
+     "population": 421401
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Yamhill County, OR",
+     "population": 107722
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Columbia County, OR",
+     "population": 52589
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 914104
+    }
+   ]
+  },
+  {
+   "company": "Idaho Power",
+   "company-type": "Investor Owned",
+   "website": "https://www.idahopower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 599287257.0,
+   "Residential-Customers": 502681.0,
+   "Commercial-Sales-($)": 322260200.0,
+   "Commercial-Customers": 75691.0,
+   "Industrial-Sales-($)": 369390575.0,
+   "Industrial-Customers": 21945.0,
+   "Total-Customers": 600317.0,
+   "Total-Production-MWh": 12365498.0,
+   "Production-from-Renewable-Energy-MWh": 5381734.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6983764.0,
+   "cities-served": [
+    "Aberdeen, ID",
+    "Acequia, ID",
+    "Adrian, OR",
+    "Albion, ID",
+    "American Falls, ID",
+    "Atomic City, ID",
+    "Bellevue, ID",
+    "Blackfoot, ID",
+    "Bliss, ID",
+    "Boise City, ID",
+    "Buhl, ID",
+    "Burley, ID",
+    "Caldwell, ID",
+    "Cambridge, ID",
+    "Carey, ID",
+    "Cascade, ID",
+    "Castleford, ID",
+    "Chubbuck, ID",
+    "Council, ID",
+    "Crouch, ID",
+    "Declo, ID",
+    "Dietrich, ID",
+    "Donnelly, ID",
+    "Eagle, ID",
+    "Eden, ID",
+    "Emmett, ID",
+    "Fairfield, ID",
+    "Filer, ID",
+    "Fruitland, ID",
+    "Garden City, ID",
+    "Glenns Ferry, ID",
+    "Gooding, ID",
+    "Grand View, ID",
+    "Greenleaf, ID",
+    "Hagerman, ID",
+    "Hailey, ID",
+    "Halfway, OR",
+    "Hansen, ID",
+    "Hazelton, ID",
+    "Heyburn, ID",
+    "Hollister, ID",
+    "Homedale, ID",
+    "Horseshoe Bend, ID",
+    "Huntington, OR",
+    "Idaho City, ID",
+    "Inkom, ID",
+    "Jerome, ID",
+    "Jordan Valley, OR",
+    "Ketchum, ID",
+    "Kimberly, ID",
+    "Kuna, ID",
+    "Leadore, ID",
+    "Marsing, ID",
+    "McCall, ID",
+    "Melba, ID",
+    "Meridian, ID",
+    "Middleton, ID",
+    "Midvale, ID",
+    "Minidoka, ID",
+    "Mountain Home, ID",
+    "Murtaugh, ID",
+    "Nampa, ID",
+    "New Meadows, ID",
+    "New Plymouth, ID",
+    "Notus, ID",
+    "Nyssa, OR",
+    "Oakley, ID",
+    "Ontario, OR",
+    "Parma, ID",
+    "Paul, ID",
+    "Payette, ID",
+    "Placerville, ID",
+    "Pocatello, ID",
+    "Richfield, ID",
+    "Richland, OR",
+    "Riggins, ID",
+    "Rockland, ID",
+    "Rupert, ID",
+    "Salmon, ID",
+    "Shoshone, ID",
+    "Star, ID",
+    "Sun Valley, ID",
+    "Twin Falls, ID",
+    "Unity, OR",
+    "Vale, OR",
+    "Weiser, ID",
+    "Wendell, ID",
+    "Wilder, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Ada County, ID",
+     "population": 494967
+    },
+    {
+     "county": "Canyon County, ID",
+     "population": 231105
+    },
+    {
+     "county": "Twin Falls County, ID",
+     "population": 90046
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Malheur County, OR",
+     "population": 31571
+    },
+    {
+     "county": "Elmore County, ID",
+     "population": 28666
+    },
+    {
+     "county": "Payette County, ID",
+     "population": 25386
+    },
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    },
+    {
+     "county": "Blaine County, ID",
+     "population": 24272
+    },
+    {
+     "county": "Jerome County, ID",
+     "population": 24237
+    },
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    },
+    {
+     "county": "Gem County, ID",
+     "population": 19123
+    },
+    {
+     "county": "Baker County, OR",
+     "population": 16668
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Gooding County, ID",
+     "population": 15598
+    },
+    {
+     "county": "Owyhee County, ID",
+     "population": 11913
+    },
+    {
+     "county": "Valley County, ID",
+     "population": 11746
+    },
+    {
+     "county": "Washington County, ID",
+     "population": 10500
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Power County, ID",
+     "population": 7878
+    },
+    {
+     "county": "Boise County, ID",
+     "population": 7610
+    },
+    {
+     "county": "Harney County, OR",
+     "population": 7495
+    },
+    {
+     "county": "Lincoln County, ID",
+     "population": 5127
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Adams County, ID",
+     "population": 4379
+    },
+    {
+     "county": "Camas County, ID",
+     "population": 1077
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 580695
+    },
+    {
+     "state": "Oregon",
+     "customers": 19622
+    }
+   ]
+  },
+  {
+   "company": "Eugene Water and Electric Board",
+   "company-type": "Municipal",
+   "website": "http://www.eweb.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 109986911.0,
+   "Residential-Customers": 86107.0,
+   "Commercial-Sales-($)": 70613276.0,
+   "Commercial-Customers": 8943.0,
+   "Industrial-Sales-($)": 30178853.0,
+   "Industrial-Customers": 1223.0,
+   "Total-Customers": 96273.0,
+   "cities-served": [
+    "Eugene, OR",
+    "Springfield, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 96274
+    }
+   ]
+  },
+  {
+   "company": "Central Lincoln PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://clpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 43196000.0,
+   "Residential-Customers": 34701.0,
+   "Commercial-Sales-($)": 15626000.0,
+   "Commercial-Customers": 5367.0,
+   "Industrial-Sales-($)": 32918000.0,
+   "Industrial-Customers": 199.0,
+   "Total-Customers": 40267.0,
+   "cities-served": [
+    "Depoe Bay, OR",
+    "Dunes City, OR",
+    "Florence, OR",
+    "Lakeside, OR",
+    "Newport, OR",
+    "Reedsport, OR",
+    "Siletz, OR",
+    "Toledo, OR",
+    "Waldport, OR",
+    "Yachats, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 40267
+    }
+   ]
+  },
+  {
+   "company": "Central Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.cec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 47550000.0,
+   "Residential-Customers": 31588.0,
+   "Commercial-Sales-($)": 9998000.0,
+   "Commercial-Customers": 2959.0,
+   "Industrial-Sales-($)": 7271000.0,
+   "Industrial-Customers": 1112.0,
+   "Total-Customers": 35659.0,
+   "cities-served": [
+    "Bend, OR",
+    "Madras, OR",
+    "Prineville, OR",
+    "Redmond, OR",
+    "Sisters, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Grant County, OR",
+     "population": 7233
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 35659
+    }
+   ]
+  },
+  {
+   "company": "Springfield Utility Board",
+   "company-type": "Municipal",
+   "website": "http://www.subutil.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 26595900.0,
+   "Residential-Customers": 28550.0,
+   "Commercial-Sales-($)": 17679000.0,
+   "Commercial-Customers": 3922.0,
+   "Industrial-Sales-($)": 8439000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 32483.0,
+   "cities-served": [
+    "Springfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 32483
+    }
+   ]
+  },
+  {
+   "company": "Oregon Trail Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.otec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29845200.0,
+   "Residential-Customers": 25680.0,
+   "Commercial-Sales-($)": 15605900.0,
+   "Commercial-Customers": 4422.0,
+   "Industrial-Sales-($)": 9737400.0,
+   "Industrial-Customers": 1296.0,
+   "Total-Customers": 31398.0,
+   "cities-served": [
+    "Baker City, OR",
+    "Burns, OR",
+    "Canyon City, OR",
+    "Cove, OR",
+    "Dayville, OR",
+    "Elgin, OR",
+    "Granite, OR",
+    "Greenhorn, OR",
+    "Haines, OR",
+    "Hines, OR",
+    "Imbler, OR",
+    "Island City, OR",
+    "John Day, OR",
+    "La Grande, OR",
+    "Long Creek, OR",
+    "Mount Vernon, OR",
+    "North Powder, OR",
+    "Prairie City, OR",
+    "Seneca, OR",
+    "Summerville, OR",
+    "Sumpter, OR",
+    "Union, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, OR",
+     "population": 26196
+    },
+    {
+     "county": "Baker County, OR",
+     "population": 16668
+    },
+    {
+     "county": "Harney County, OR",
+     "population": 7495
+    },
+    {
+     "county": "Grant County, OR",
+     "population": 7233
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 31398
+    }
+   ]
+  },
+  {
+   "company": "Consumers Power Inc",
+   "company-type": "Cooperative",
+   "website": "https://www.cpi.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 27707000.0,
+   "Residential-Customers": 17980.0,
+   "Commercial-Sales-($)": 10128800.0,
+   "Commercial-Customers": 4279.0,
+   "Industrial-Sales-($)": 3022700.0,
+   "Industrial-Customers": 552.0,
+   "Total-Customers": 22811.0,
+   "cities-served": [
+    "Adair Village, OR",
+    "Albany, OR",
+    "Corvallis, OR",
+    "Detroit, OR",
+    "Idanha, OR",
+    "Lebanon, OR",
+    "Monmouth, OR",
+    "Monroe, OR",
+    "Philomath, OR",
+    "Sodaville, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 22811
+    }
+   ]
+  },
+  {
+   "company": "Emerald People's Utility District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.epud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 31518145.0,
+   "Residential-Customers": 19592.0,
+   "Commercial-Sales-($)": 11437921.0,
+   "Commercial-Customers": 2157.0,
+   "Industrial-Sales-($)": 6271515.0,
+   "Industrial-Customers": 737.0,
+   "Total-Customers": 22486.0,
+   "Total-Production-MWh": 17685.0,
+   "Production-from-Renewable-Energy-MWh": 17685.0,
+   "cities-served": [
+    "Coburg, OR",
+    "Cottage Grove, OR",
+    "Creswell, OR",
+    "Junction City, OR",
+    "Lowell, OR",
+    "Springfield, OR",
+    "Veneta, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 22486
+    }
+   ]
+  },
+  {
+   "company": "Tillamook PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.tpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24866000.0,
+   "Residential-Customers": 19299.0,
+   "Commercial-Sales-($)": 10296000.0,
+   "Commercial-Customers": 2259.0,
+   "Industrial-Sales-($)": 5919000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 21564.0,
+   "cities-served": [
+    "Bay City, OR",
+    "Garibaldi, OR",
+    "Manzanita, OR",
+    "Nehalem, OR",
+    "Rockaway Beach, OR",
+    "Tillamook, OR",
+    "Wheeler, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Yamhill County, OR",
+     "population": 107722
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Tillamook County, OR",
+     "population": 27390
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 21564
+    }
+   ]
+  },
+  {
+   "company": "Salem Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.salemelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18708600.0,
+   "Residential-Customers": 18005.0,
+   "Commercial-Sales-($)": 8858300.0,
+   "Commercial-Customers": 2397.0,
+   "Industrial-Sales-($)": 2105900.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 20412.0,
+   "cities-served": [
+    "Keizer, OR",
+    "Salem, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 20412
+    }
+   ]
+  },
+  {
+   "company": "Midstate Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.midstateelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24396000.0,
+   "Residential-Customers": 17344.0,
+   "Commercial-Sales-($)": 9532000.0,
+   "Commercial-Customers": 2625.0,
+   "Industrial-Sales-($)": 1523000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 19972.0,
+   "cities-served": [
+    "Three Rivers CDP",
+    "La Pine",
+    "Sunriver CDP",
+    "Crescent CDP",
+    "Gilchrist CDP",
+    "Silver Lake CDP",
+    "Crescent Lake CDP",
+    "Chemult CDP",
+    "Beaver Marsh CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 19972
+    }
+   ]
+  },
+  {
+   "company": "Coos Curry Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.ccec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22888900.0,
+   "Residential-Customers": 15570.0,
+   "Commercial-Sales-($)": 10131500.0,
+   "Commercial-Customers": 2186.0,
+   "Industrial-Sales-($)": 4960400.0,
+   "Industrial-Customers": 447.0,
+   "Total-Customers": 18203.0,
+   "cities-served": [
+    "Brookings, OR",
+    "Gold Beach, OR",
+    "Port Orford, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Curry County, OR",
+     "population": 23446
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 18203
+    }
+   ]
+  },
+  {
+   "company": "McMinnville Water and Light",
+   "company-type": "Municipal",
+   "website": "http://www.mc-power.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14329000.0,
+   "Residential-Customers": 14318.0,
+   "Commercial-Sales-($)": 12011000.0,
+   "Commercial-Customers": 2548.0,
+   "Industrial-Sales-($)": 17670000.0,
+   "Industrial-Customers": 51.0,
+   "Total-Customers": 16917.0,
+   "cities-served": [
+    "McMinnville"
+   ],
+   "counties-served": [
+    {
+     "county": "Yamhill County, OR",
+     "population": 107722
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 16917
+    }
+   ]
+  },
+  {
+   "company": "Columbia River PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.crpud.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18824500.0,
+   "Residential-Customers": 15713.0,
+   "Commercial-Sales-($)": 7589800.0,
+   "Commercial-Customers": 1029.0,
+   "Industrial-Sales-($)": 8097700.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 16768.0,
+   "cities-served": [
+    "Columbia City, OR",
+    "Prescott, OR",
+    "Rainier, OR",
+    "Scappoose, OR",
+    "St. Helens, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Columbia County, OR",
+     "population": 52589
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 16768
+    }
+   ]
+  },
+  {
+   "company": "Umatilla Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.umatillaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15249400.0,
+   "Residential-Customers": 11942.0,
+   "Commercial-Sales-($)": 12682800.0,
+   "Commercial-Customers": 2338.0,
+   "Industrial-Sales-($)": 145546700.0,
+   "Industrial-Customers": 1517.0,
+   "Total-Customers": 15797.0,
+   "cities-served": [
+    "Boardman, OR",
+    "Echo, OR",
+    "Hermiston, OR",
+    "Irrigon, OR",
+    "Stanfield, OR",
+    "Umatilla, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Union County, OR",
+     "population": 26196
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 15797
+    }
+   ]
+  },
+  {
+   "company": "Lane Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.laneelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 21953900.0,
+   "Residential-Customers": 11790.0,
+   "Commercial-Sales-($)": 4588000.0,
+   "Commercial-Customers": 1183.0,
+   "Industrial-Sales-($)": 382100.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 12974.0,
+   "cities-served": [
+    "Eugene, OR",
+    "Lowell, OR",
+    "Oakridge, OR",
+    "Veneta, OR",
+    "Westfir, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 12974
+    }
+   ]
+  },
+  {
+   "company": "Ashland Electric",
+   "company-type": "Municipal",
+   "website": "http://www.ashland.or.us/SectionIndex.asp?SectionID=423",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8430535.945,
+   "Residential-Customers": 10466.0,
+   "Commercial-Sales-($)": 5331572.106,
+   "Commercial-Customers": 1470.0,
+   "Industrial-Sales-($)": 2402891.948,
+   "Industrial-Customers": 171.0,
+   "Total-Customers": 12107.0,
+   "cities-served": [
+    "Ashland"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 12107
+    }
+   ]
+  },
+  {
+   "company": "Clearwater Power",
+   "company-type": "Cooperative",
+   "website": "http://www.clearwaterpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16659483.136,
+   "Residential-Customers": 10109.0,
+   "Commercial-Sales-($)": 3251171.918,
+   "Commercial-Customers": 886.0,
+   "Industrial-Sales-($)": 1390091.105,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 10998.0,
+   "cities-served": [
+    "Asotin, WA",
+    "Clarkston, WA",
+    "Colton, WA",
+    "Craigmont, ID",
+    "Culdesac, ID",
+    "Deary, ID",
+    "Farmington, WA",
+    "Ferdinand, ID",
+    "Garfield, WA",
+    "Genesee, ID",
+    "Juliaetta, ID",
+    "Kendrick, ID",
+    "Lapwai, ID",
+    "Lewiston, ID",
+    "Moscow, ID",
+    "Nezperce, ID",
+    "Onaway, ID",
+    "Orofino, ID",
+    "Palouse, WA",
+    "Peck, ID",
+    "Plummer, ID",
+    "Potlatch, ID",
+    "Reubens, ID",
+    "Tensed, ID",
+    "Troy, ID",
+    "Uniontown, WA",
+    "Weippe, ID",
+    "Winchester, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Nez Perce County, ID",
+     "population": 42090
+    },
+    {
+     "county": "Latah County, ID",
+     "population": 39517
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Shoshone County, ID",
+     "population": 13169
+    },
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Lewis County, ID",
+     "population": 3533
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 9804
+    },
+    {
+     "state": "Washington",
+     "customers": 1017
+    },
+    {
+     "state": "Oregon",
+     "customers": 177
+    }
+   ]
+  },
+  {
+   "company": "Forest Grove Electric",
+   "company-type": "Municipal",
+   "website": "https://www.forestgrove-or.gov/lp",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10028000.0,
+   "Residential-Customers": 9474.0,
+   "Commercial-Sales-($)": 2038000.0,
+   "Commercial-Customers": 850.0,
+   "Industrial-Sales-($)": 7602000.0,
+   "Industrial-Customers": 141.0,
+   "Total-Customers": 10465.0,
+   "cities-served": [
+    "Forest Grove",
+    "Dilley CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, OR",
+     "population": 600372
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 10465
+    }
+   ]
+  },
+  {
+   "company": "Douglas Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.dec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14064551.032,
+   "Residential-Customers": 9567.0,
+   "Commercial-Sales-($)": 2139372.341,
+   "Commercial-Customers": 756.0,
+   "Industrial-Sales-($)": 777076.627,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 10335.0,
+   "cities-served": [
+    "Drain, OR",
+    "Elkton, OR",
+    "Sutherlin, OR",
+    "Winston, OR",
+    "Yoncalla, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 10335
+    }
+   ]
+  },
+  {
+   "company": "Northern Wasco PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.nwascopud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9757500.0,
+   "Residential-Customers": 9586.0,
+   "Commercial-Sales-($)": 1699100.0,
+   "Commercial-Customers": 471.0,
+   "Industrial-Sales-($)": 42582200.0,
+   "Industrial-Customers": 229.0,
+   "Total-Customers": 10286.0,
+   "Total-Production-MWh": 62256.0,
+   "Production-from-Renewable-Energy-MWh": 62256.0,
+   "cities-served": [
+    "The Dalles",
+    "Chenoweth CDP",
+    "Dallesport CDP",
+    "Rowena CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 10286
+    }
+   ]
+  },
+  {
+   "company": "Canby Utility",
+   "company-type": "Municipal",
+   "website": "https://www.canbyutility.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6384110.619,
+   "Residential-Customers": 6947.0,
+   "Commercial-Sales-($)": 4531308.799,
+   "Commercial-Customers": 810.0,
+   "Industrial-Sales-($)": 2099080.582,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 7770.0,
+   "cities-served": [
+    "Canby"
+   ],
+   "counties-served": [
+    {
+     "county": "Clackamas County, OR",
+     "population": 421401
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 7770
+    }
+   ]
+  },
+  {
+   "company": "Columbia REA",
+   "company-type": "Cooperative",
+   "website": "https://www.columbiarea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7333100.0,
+   "Residential-Customers": 4001.0,
+   "Commercial-Sales-($)": 7410400.0,
+   "Commercial-Customers": 1401.0,
+   "Industrial-Sales-($)": 17467900.0,
+   "Industrial-Customers": 605.0,
+   "Total-Customers": 6007.0,
+   "cities-served": [
+    "College Place, WA",
+    "Dayton, WA",
+    "Pasco, WA",
+    "Prescott, WA",
+    "Starbuck, WA",
+    "Waitsburg, WA",
+    "Walla Walla, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 5872
+    },
+    {
+     "state": "Oregon",
+     "customers": 135
+    }
+   ]
+  },
+  {
+   "company": "Hermiston Energy",
+   "company-type": "Municipal",
+   "website": "https://www.hermiston.or.us/energy",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4343548.329,
+   "Residential-Customers": 4627.0,
+   "Commercial-Sales-($)": 3898351.671,
+   "Commercial-Customers": 828.0,
+   "Total-Customers": 5455.0,
+   "cities-served": [
+    "Hermiston"
+   ],
+   "counties-served": [
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 5455
+    }
+   ]
+  },
+  {
+   "company": "City of Monmouth Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.ci.monmouth.or.us/pView.aspx?id=4747",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3870983.063,
+   "Residential-Customers": 4427.0,
+   "Commercial-Sales-($)": 2103816.937,
+   "Commercial-Customers": 358.0,
+   "Total-Customers": 4785.0,
+   "cities-served": [
+    "Independence, OR",
+    "Monmouth, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 4785
+    }
+   ]
+  },
+  {
+   "company": "Wasco Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.wascoelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6597359.265,
+   "Residential-Customers": 3809.0,
+   "Commercial-Sales-($)": 1950945.435,
+   "Commercial-Customers": 556.0,
+   "Industrial-Sales-($)": 3163695.3,
+   "Industrial-Customers": 343.0,
+   "Total-Customers": 4708.0,
+   "cities-served": [
+    "Antelope, OR",
+    "Dufur, OR",
+    "Grass Valley, OR",
+    "Maupin, OR",
+    "Moro, OR",
+    "Rufus, OR",
+    "Shaniko, OR",
+    "Wasco, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Wheeler County, OR",
+     "population": 1451
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 4708
+    }
+   ]
+  },
+  {
+   "company": "West Oregon Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.westoregon.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9585497.458,
+   "Residential-Customers": 4147.0,
+   "Commercial-Sales-($)": 2417843.062,
+   "Commercial-Customers": 326.0,
+   "Industrial-Sales-($)": 276859.48,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 4478.0,
+   "cities-served": [
+    "Vernonia"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, OR",
+     "population": 600372
+    },
+    {
+     "county": "Yamhill County, OR",
+     "population": 107722
+    },
+    {
+     "county": "Columbia County, OR",
+     "population": 52589
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Tillamook County, OR",
+     "population": 27390
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 4478
+    }
+   ]
+  },
+  {
+   "company": "Milton-Freewater, Oregon Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mfcity.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4242187.953,
+   "Residential-Customers": 3527.0,
+   "Commercial-Sales-($)": 1036311.454,
+   "Commercial-Customers": 480.0,
+   "Industrial-Sales-($)": 2076500.593,
+   "Industrial-Customers": 366.0,
+   "Total-Customers": 4373.0,
+   "cities-served": [
+    "Milton-Freewater"
+   ],
+   "counties-served": [
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 4373
+    }
+   ]
+  },
+  {
+   "company": "Clatskanie PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.clatskaniepud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5377472.0,
+   "Residential-Customers": 3740.0,
+   "Commercial-Sales-($)": 1447357.0,
+   "Commercial-Customers": 554.0,
+   "Industrial-Sales-($)": 46996956.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 4300.0,
+   "cities-served": [
+    "Clatskanie, OR",
+    "Rainier, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Columbia County, OR",
+     "population": 52589
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 4299
+    }
+   ]
+  },
+  {
+   "company": "City of Bandon Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbandon.org/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3428328.896,
+   "Residential-Customers": 3223.0,
+   "Commercial-Sales-($)": 2398677.865,
+   "Commercial-Customers": 763.0,
+   "Industrial-Sales-($)": 171193.24,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 3988.0,
+   "cities-served": [
+    "Bandon",
+    "Langlois CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Curry County, OR",
+     "population": 23446
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 3988
+    }
+   ]
+  },
+  {
+   "company": "Hood River Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.hoodriver.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4646715.72,
+   "Residential-Customers": 3463.0,
+   "Commercial-Sales-($)": 563216.661,
+   "Commercial-Customers": 260.0,
+   "Industrial-Sales-($)": 4043567.619,
+   "Industrial-Customers": 211.0,
+   "Total-Customers": 3934.0,
+   "cities-served": [
+    "Odell CDP",
+    "Mount Hood CDP",
+    "Parkdale CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 3934
+    }
+   ]
+  },
+  {
+   "company": "Columbia Basin Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.cbec.cc/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4519113.33,
+   "Residential-Customers": 3149.0,
+   "Commercial-Sales-($)": 2322362.432,
+   "Commercial-Customers": 529.0,
+   "Industrial-Sales-($)": 2697124.238,
+   "Industrial-Customers": 246.0,
+   "Total-Customers": 3924.0,
+   "cities-served": [
+    "Condon, OR",
+    "Fossil, OR",
+    "Heppner, OR",
+    "Ione, OR",
+    "Lexington, OR",
+    "Lonerock, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Wheeler County, OR",
+     "population": 1451
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 3924
+    }
+   ]
+  },
+  {
+   "company": "Harney Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.hec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2331818.168,
+   "Residential-Customers": 1696.0,
+   "Commercial-Sales-($)": 1552989.032,
+   "Commercial-Customers": 636.0,
+   "Industrial-Sales-($)": 11057692.8,
+   "Industrial-Customers": 1440.0,
+   "Total-Customers": 3772.0,
+   "cities-served": [
+    "Fort McDermitt CDP",
+    "McDermitt CDP",
+    "Orovada CDP",
+    "Crane CDP",
+    "Denio CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Malheur County, OR",
+     "population": 31571
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Humboldt County, NV",
+     "population": 17285
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Harney County, OR",
+     "population": 7495
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 2402
+    },
+    {
+     "state": "Nevada",
+     "customers": 1370
+    }
+   ]
+  },
+  {
+   "company": "Blachly-Lane County Cooperative Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.blachlylane.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7020755.632,
+   "Residential-Customers": 3264.0,
+   "Commercial-Sales-($)": 981930.966,
+   "Commercial-Customers": 365.0,
+   "Industrial-Sales-($)": 6393213.402,
+   "Industrial-Customers": 23.0,
+   "Total-Customers": 3652.0,
+   "cities-served": [
+    "Junction City",
+    "Cheshire CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 3652
+    }
+   ]
+  },
+  {
+   "company": "Columbia Power Coop Association",
+   "company-type": "Cooperative",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1707286.228,
+   "Residential-Customers": 1439.0,
+   "Commercial-Sales-($)": 494376.048,
+   "Commercial-Customers": 249.0,
+   "Industrial-Sales-($)": 362337.725,
+   "Industrial-Customers": 268.0,
+   "Total-Customers": 1956.0,
+   "cities-served": [
+    "Mitchell, OR",
+    "Monument, OR",
+    "Spray, OR",
+    "Ukiah, OR"
+   ],
+   "counties-served": [
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Grant County, OR",
+     "population": 7233
+    },
+    {
+     "county": "Wheeler County, OR",
+     "population": 1451
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 1956
+    }
+   ]
+  },
+  {
+   "company": "Cascade Locks, Oregon Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cascade-locks.or.us/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 927972.905,
+   "Residential-Customers": 731.0,
+   "Commercial-Sales-($)": 1344627.095,
+   "Commercial-Customers": 203.0,
+   "Total-Customers": 934.0,
+   "cities-served": [
+    "Cascade Locks"
+   ],
+   "counties-served": [
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 934
+    }
+   ]
+  },
+  {
+   "company": "Drain, Oregon Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofdrain.org/publicworks",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 761706.663,
+   "Residential-Customers": 599.0,
+   "Commercial-Sales-($)": 384553.05,
+   "Commercial-Customers": 152.0,
+   "Industrial-Sales-($)": 436240.287,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 759.0,
+   "cities-served": [
+    "Drain"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oregon",
+     "customers": 759
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2569 @@
+{
+ "electrical-providers": [
+  {
+   "company": "PacifiCorp",
+   "company-type": "Investor Owned",
+   "website": "https://www.pacificorp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1886521838.0,
+   "Residential-Customers": 1752587.0,
+   "Commercial-Sales-($)": 1572847130.0,
+   "Commercial-Customers": 226225.0,
+   "Industrial-Sales-($)": 1240293512.0,
+   "Industrial-Customers": 32989.0,
+   "Total-Customers": 2011801.0,
+   "Total-Production-MWh": 53156855.0,
+   "Production-from-Renewable-Energy-MWh": 9719336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43437520.0,
+   "cities-served": [
+    "Adams, OR",
+    "Albany, OR",
+    "Alpine, UT",
+    "Alta, UT",
+    "Alturas, CA",
+    "Amalga, UT",
+    "American Fork, UT",
+    "Ammon, ID",
+    "Annabella, UT",
+    "Apple Valley, UT",
+    "Arco, ID",
+    "Arimo, ID",
+    "Arlington, OR",
+    "Ashland, OR",
+    "Ashton, ID",
+    "Astoria, OR",
+    "Athena, OR",
+    "Aumsville, OR",
+    "Aurora, UT",
+    "Bairoil, WY",
+    "Bancroft, ID",
+    "Bandon, OR",
+    "Bar Nunn, WY",
+    "Basalt, ID",
+    "Basin, WY",
+    "Bear River, WY",
+    "Bear River City, UT",
+    "Beaver, UT",
+    "Bend, OR",
+    "Big Piney, WY",
+    "Blanding, UT",
+    "Bloomington, ID",
+    "Bluffdale, UT",
+    "Bonanza, OR",
+    "Brian Head, UT",
+    "Brighton, UT",
+    "Brownsville, OR",
+    "Buffalo, WY",
+    "Butte Falls, OR",
+    "Byron, WY",
+    "Cannon Beach, OR",
+    "Canyonville, OR",
+    "Casper, WY",
+    "Castle Dale, UT",
+    "Castle Valley, UT",
+    "Cave Junction, OR",
+    "Cedar City, UT",
+    "Cedar Fort, UT",
+    "Cedar Highlands, UT",
+    "Cedar Hills, UT",
+    "Centerfield, UT",
+    "Centerville, UT",
+    "Central Point, OR",
+    "Central Valley, UT",
+    "Charleston, UT",
+    "Chiloquin, OR",
+    "Circleville, UT",
+    "Clarkston, UT",
+    "Clawson, UT",
+    "Clearfield, UT",
+    "Cleveland, UT",
+    "Clifton, ID",
+    "Clinton, UT",
+    "Coalville, UT",
+    "Coburg, OR",
+    "Cody, WY",
+    "Cokeville, WY",
+    "College Place, WA",
+    "Coos Bay, OR",
+    "Coquille, OR",
+    "Corinne, UT",
+    "Cornish, UT",
+    "Corvallis, OR",
+    "Cottage Grove, OR",
+    "Cottonwood Heights, UT",
+    "Cowley, WY",
+    "Crescent City, CA",
+    "Creswell, OR",
+    "Culver, OR",
+    "Dallas, OR",
+    "Daniel, UT",
+    "Dayton, WA",
+    "Dayton, ID",
+    "Deaver, WY",
+    "Delta, UT",
+    "Deweyville, UT",
+    "Diamondville, WY",
+    "Dorris, CA",
+    "Douglas, WY",
+    "Downey, ID",
+    "Draper, UT",
+    "Dubois, ID",
+    "Dunsmuir, CA",
+    "Eagle Mountain, UT",
+    "Eagle Point, OR",
+    "East Carbon, UT",
+    "East Thermopolis, WY",
+    "Echo, OR",
+    "Edgerton, WY",
+    "Elmo, UT",
+    "Elsinore, UT",
+    "Elwood, UT",
+    "Emery, UT",
+    "Enoch, UT",
+    "Enterprise, OR",
+    "Enterprise, UT",
+    "Ephraim, UT",
+    "Etna, CA",
+    "Eureka, UT",
+    "Evanston, WY",
+    "Evansville, WY",
+    "Fairfield, UT",
+    "Fairview, UT",
+    "Falls City, OR",
+    "Farmington, UT",
+    "Farr West, UT",
+    "Fayette, UT",
+    "Ferron, UT",
+    "Fielding, UT",
+    "Firth, ID",
+    "Fort Jones, CA",
+    "Fountain Green, UT",
+    "Francis, UT",
+    "Franklin, ID",
+    "Frannie, WY",
+    "Fruit Heights, UT",
+    "Garden City, UT",
+    "Garland, UT",
+    "Gates, OR",
+    "Gearhart, OR",
+    "Genola, UT",
+    "Georgetown, ID",
+    "Glendale, OR",
+    "Glendo, WY",
+    "Glenrock, WY",
+    "Glenwood, UT",
+    "Gold Hill, OR",
+    "Goshen, UT",
+    "Grace, ID",
+    "Grandview, WA",
+    "Granger, WA",
+    "Grants Pass, OR",
+    "Grantsville, UT",
+    "Grass Valley, OR",
+    "Green River, WY",
+    "Green River, UT",
+    "Greybull, WY",
+    "Guernsey, WY",
+    "Gunnison, UT",
+    "Halsey, OR",
+    "Hamer, ID",
+    "Hanna, WY",
+    "Harrah, WA",
+    "Harrisburg, OR",
+    "Harrisville, UT",
+    "Hartville, WY",
+    "Heber, UT",
+    "Helix, OR",
+    "Helper, UT",
+    "Henefer, UT",
+    "Hermiston, OR",
+    "Herriman, UT",
+    "Hideout, UT",
+    "Highland, UT",
+    "Hinckley, UT",
+    "Holden, UT",
+    "Holladay, UT",
+    "Honeyville, UT",
+    "Hood River, OR",
+    "Hooper, UT",
+    "Howell, UT",
+    "Huntington, UT",
+    "Huntsville, UT",
+    "Hurricane, UT",
+    "Hyde Park, UT",
+    "Hyrum, UT",
+    "Idaho Falls, ID",
+    "Ilwaco, WA",
+    "Independence, OR",
+    "Independence, UT",
+    "Iona, ID",
+    "Ivins, UT",
+    "Jacksonville, OR",
+    "Jefferson, OR",
+    "Joseph, OR",
+    "Joseph, UT",
+    "Junction, UT",
+    "Junction City, OR",
+    "Kamas, UT",
+    "Kanarraville, UT",
+    "Kemmerer, WY",
+    "Kingston, UT",
+    "Kirby, WY",
+    "Klamath Falls, OR",
+    "La Barge, WY",
+    "La Verkin, UT",
+    "Laketown, UT",
+    "Lakeview, OR",
+    "Lander, WY",
+    "Laramie, WY",
+    "Lava Hot Springs, ID",
+    "Layton, UT",
+    "Leamington, UT",
+    "Lebanon, OR",
+    "Leeds, UT",
+    "Lehi, UT",
+    "Levan, UT",
+    "Lewiston, UT",
+    "Lewisville, ID",
+    "Lincoln City, OR",
+    "Lindon, UT",
+    "Logan, UT",
+    "Lostine, OR",
+    "Lovell, WY",
+    "Lynndyl, UT",
+    "Lyons, OR",
+    "Mabton, WA",
+    "Madras, OR",
+    "Malad City, ID",
+    "Malin, OR",
+    "Manderson, WY",
+    "Manti, UT",
+    "Mantua, UT",
+    "Mapleton, UT",
+    "Marbleton, WY",
+    "Marriott-Slaterville, UT",
+    "Marysvale, UT",
+    "Mayfield, UT",
+    "Maywood Park, OR",
+    "McCammon, ID",
+    "Medford, OR",
+    "Menan, ID",
+    "Mendon, UT",
+    "Merrill, OR",
+    "Metolius, OR",
+    "Midvale, UT",
+    "Midway, UT",
+    "Midwest, WY",
+    "Milford, UT",
+    "Mill City, OR",
+    "Millcreek, UT",
+    "Millersburg, OR",
+    "Mills, WY",
+    "Millville, UT",
+    "Minersville, UT",
+    "Moab, UT",
+    "Mona, UT",
+    "Monroe, UT",
+    "Monroe, OR",
+    "Montague, CA",
+    "Montpelier, ID",
+    "Moro, OR",
+    "Moroni, UT",
+    "Mosier, OR",
+    "Mount Pleasant, UT",
+    "Mount Shasta, CA",
+    "Moxee, WA",
+    "Mud Lake, ID",
+    "Murray, UT",
+    "Myrtle Creek, OR",
+    "Myrtle Point, OR",
+    "Naches, WA",
+    "Naples, UT",
+    "Nephi, UT",
+    "New Harmony, UT",
+    "Newdale, ID",
+    "Newton, UT",
+    "Nibley, UT",
+    "North Bend, OR",
+    "North Logan, UT",
+    "North Ogden, UT",
+    "North Salt Lake, UT",
+    "Oak City, UT",
+    "Oakland, OR",
+    "Oakley, UT",
+    "Ogden, UT",
+    "Opal, WY",
+    "Ophir, UT",
+    "Orangeville, UT",
+    "Orem, UT",
+    "Oxford, ID",
+    "Panguitch, UT",
+    "Paradise, UT",
+    "Paragonah, UT",
+    "Paris, ID",
+    "Park City, UT",
+    "Parker, ID",
+    "Parowan, UT",
+    "Payson, UT",
+    "Pendleton, OR",
+    "Perry, UT",
+    "Philomath, OR",
+    "Phoenix, OR",
+    "Pilot Rock, OR",
+    "Pinedale, WY",
+    "Plain City, UT",
+    "Pleasant Grove, UT",
+    "Pleasant View, UT",
+    "Plymouth, UT",
+    "Pomeroy, WA",
+    "Portage, UT",
+    "Portland, OR",
+    "Powell, WY",
+    "Powers, OR",
+    "Prescott, WA",
+    "Preston, ID",
+    "Price, UT",
+    "Prineville, OR",
+    "Providence, UT",
+    "Provo, UT",
+    "Randolph, UT",
+    "Rawlins, WY",
+    "Redmond, OR",
+    "Redmond, UT",
+    "Rexburg, ID",
+    "Richfield, UT",
+    "Richmond, UT",
+    "Riddle, OR",
+    "Rigby, ID",
+    "Ririe, ID",
+    "River Heights, UT",
+    "Riverdale, UT",
+    "Riverton, UT",
+    "Riverton, WY",
+    "Roberts, ID",
+    "Rock Springs, WY",
+    "Rockville, UT",
+    "Rocky Ridge, UT",
+    "Rogue River, OR",
+    "Rolling Hills, WY",
+    "Roseburg, OR",
+    "Roy, UT",
+    "Rufus, OR",
+    "Rush Valley, UT",
+    "Salina, UT",
+    "Salt Lake City, UT",
+    "Sandy, UT",
+    "Santa Clara, UT",
+    "Santaquin, UT",
+    "Saratoga Springs, UT",
+    "Scio, OR",
+    "Scipio, UT",
+    "Scofield, UT",
+    "Seaside, OR",
+    "Selah, WA",
+    "Shady Cove, OR",
+    "Shelley, ID",
+    "Shoshoni, WY",
+    "Sigurd, UT",
+    "Sinclair, WY",
+    "Smithfield, UT",
+    "Snowville, UT",
+    "Soda Springs, ID",
+    "Sodaville, OR",
+    "South Jordan, UT",
+    "South Ogden, UT",
+    "South Salt Lake, UT",
+    "South Weber, UT",
+    "Spencer, ID",
+    "Spring City, UT",
+    "Springdale, UT",
+    "Springville, UT",
+    "St. Anthony, ID",
+    "St. Charles, ID",
+    "St. George, UT",
+    "Stanfield, OR",
+    "Stayton, OR",
+    "Sterling, UT",
+    "Stockton, UT",
+    "Sublimity, OR",
+    "Sugar City, ID",
+    "Sunnyside, WA",
+    "Sunset, UT",
+    "Superior, WY",
+    "Sutherlin, OR",
+    "Swan Valley, ID",
+    "Sweet Home, OR",
+    "Syracuse, UT",
+    "Talent, OR",
+    "Tangent, OR",
+    "Taylorsville, UT",
+    "Teton, ID",
+    "Thermopolis, WY",
+    "Tieton, WA",
+    "Tooele, UT",
+    "Toppenish, WA",
+    "Toquerville, UT",
+    "Tremonton, UT",
+    "Trenton, UT",
+    "Tulelake, CA",
+    "Ucon, ID",
+    "Uintah, UT",
+    "Umatilla, OR",
+    "Union Gap, WA",
+    "Veneta, OR",
+    "Vernal, UT",
+    "Vernon, UT",
+    "Vineyard, UT",
+    "Virgin, UT",
+    "Waitsburg, WA",
+    "Wales, UT",
+    "Walla Walla, WA",
+    "Wallowa, OR",
+    "Wallsburg, UT",
+    "Wamsutter, WY",
+    "Wapato, WA",
+    "Warrenton, OR",
+    "Wasco, OR",
+    "Washington, UT",
+    "Washington Terrace, UT",
+    "Waterloo, OR",
+    "Weed, CA",
+    "Wellington, UT",
+    "Wellsville, UT",
+    "West Bountiful, UT",
+    "West Haven, UT",
+    "West Jordan, UT",
+    "West Point, UT",
+    "West Valley City, UT",
+    "Weston, OR",
+    "Weston, ID",
+    "Willard, UT",
+    "Winston, OR",
+    "Woodruff, UT",
+    "Woods Cross, UT",
+    "Worland, WY",
+    "Yakima, WA",
+    "Yreka, CA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    },
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    },
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Weber County, UT",
+     "population": 262223
+    },
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    },
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Shasta County, CA",
+     "population": 182155
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Tooele County, UT",
+     "population": 72698
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Siskiyou County, CA",
+     "population": 44076
+    },
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    },
+    {
+     "county": "Del Norte County, CA",
+     "population": 27743
+    },
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "Franklin County, ID",
+     "population": 14194
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Morgan County, UT",
+     "population": 12295
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Emery County, UT",
+     "population": 9825
+    },
+    {
+     "county": "Grand County, UT",
+     "population": 9669
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Modoc County, CA",
+     "population": 8700
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    },
+    {
+     "county": "Rich County, UT",
+     "population": 2510
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 989777
+    },
+    {
+     "state": "Oregon",
+     "customers": 612085
+    },
+    {
+     "state": "Wyoming",
+     "customers": 143068
+    },
+    {
+     "state": "Washington",
+     "customers": 135069
+    },
+    {
+     "state": "Idaho",
+     "customers": 86004
+    },
+    {
+     "state": "California",
+     "customers": 45800
+    }
+   ]
+  },
+  {
+   "company": "Idaho Power",
+   "company-type": "Investor Owned",
+   "website": "https://www.idahopower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 599287257.0,
+   "Residential-Customers": 502681.0,
+   "Commercial-Sales-($)": 322260200.0,
+   "Commercial-Customers": 75691.0,
+   "Industrial-Sales-($)": 369390575.0,
+   "Industrial-Customers": 21945.0,
+   "Total-Customers": 600317.0,
+   "Total-Production-MWh": 12365498.0,
+   "Production-from-Renewable-Energy-MWh": 5381734.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6983764.0,
+   "cities-served": [
+    "Aberdeen, ID",
+    "Acequia, ID",
+    "Adrian, OR",
+    "Albion, ID",
+    "American Falls, ID",
+    "Atomic City, ID",
+    "Bellevue, ID",
+    "Blackfoot, ID",
+    "Bliss, ID",
+    "Boise City, ID",
+    "Buhl, ID",
+    "Burley, ID",
+    "Caldwell, ID",
+    "Cambridge, ID",
+    "Carey, ID",
+    "Cascade, ID",
+    "Castleford, ID",
+    "Chubbuck, ID",
+    "Council, ID",
+    "Crouch, ID",
+    "Declo, ID",
+    "Dietrich, ID",
+    "Donnelly, ID",
+    "Eagle, ID",
+    "Eden, ID",
+    "Emmett, ID",
+    "Fairfield, ID",
+    "Filer, ID",
+    "Fruitland, ID",
+    "Garden City, ID",
+    "Glenns Ferry, ID",
+    "Gooding, ID",
+    "Grand View, ID",
+    "Greenleaf, ID",
+    "Hagerman, ID",
+    "Hailey, ID",
+    "Halfway, OR",
+    "Hansen, ID",
+    "Hazelton, ID",
+    "Heyburn, ID",
+    "Hollister, ID",
+    "Homedale, ID",
+    "Horseshoe Bend, ID",
+    "Huntington, OR",
+    "Idaho City, ID",
+    "Inkom, ID",
+    "Jerome, ID",
+    "Jordan Valley, OR",
+    "Ketchum, ID",
+    "Kimberly, ID",
+    "Kuna, ID",
+    "Leadore, ID",
+    "Marsing, ID",
+    "McCall, ID",
+    "Melba, ID",
+    "Meridian, ID",
+    "Middleton, ID",
+    "Midvale, ID",
+    "Minidoka, ID",
+    "Mountain Home, ID",
+    "Murtaugh, ID",
+    "Nampa, ID",
+    "New Meadows, ID",
+    "New Plymouth, ID",
+    "Notus, ID",
+    "Nyssa, OR",
+    "Oakley, ID",
+    "Ontario, OR",
+    "Parma, ID",
+    "Paul, ID",
+    "Payette, ID",
+    "Placerville, ID",
+    "Pocatello, ID",
+    "Richfield, ID",
+    "Richland, OR",
+    "Riggins, ID",
+    "Rockland, ID",
+    "Rupert, ID",
+    "Salmon, ID",
+    "Shoshone, ID",
+    "Star, ID",
+    "Sun Valley, ID",
+    "Twin Falls, ID",
+    "Unity, OR",
+    "Vale, OR",
+    "Weiser, ID",
+    "Wendell, ID",
+    "Wilder, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Ada County, ID",
+     "population": 494967
+    },
+    {
+     "county": "Canyon County, ID",
+     "population": 231105
+    },
+    {
+     "county": "Twin Falls County, ID",
+     "population": 90046
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Malheur County, OR",
+     "population": 31571
+    },
+    {
+     "county": "Elmore County, ID",
+     "population": 28666
+    },
+    {
+     "county": "Payette County, ID",
+     "population": 25386
+    },
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    },
+    {
+     "county": "Blaine County, ID",
+     "population": 24272
+    },
+    {
+     "county": "Jerome County, ID",
+     "population": 24237
+    },
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    },
+    {
+     "county": "Gem County, ID",
+     "population": 19123
+    },
+    {
+     "county": "Baker County, OR",
+     "population": 16668
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Gooding County, ID",
+     "population": 15598
+    },
+    {
+     "county": "Owyhee County, ID",
+     "population": 11913
+    },
+    {
+     "county": "Valley County, ID",
+     "population": 11746
+    },
+    {
+     "county": "Washington County, ID",
+     "population": 10500
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Power County, ID",
+     "population": 7878
+    },
+    {
+     "county": "Boise County, ID",
+     "population": 7610
+    },
+    {
+     "county": "Harney County, OR",
+     "population": 7495
+    },
+    {
+     "county": "Lincoln County, ID",
+     "population": 5127
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Adams County, ID",
+     "population": 4379
+    },
+    {
+     "county": "Camas County, ID",
+     "population": 1077
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 580695
+    },
+    {
+     "state": "Oregon",
+     "customers": 19622
+    }
+   ]
+  },
+  {
+   "company": "Avista Utilities",
+   "company-type": "Investor Owned",
+   "website": "https://www.myavista.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 422223677.0,
+   "Residential-Customers": 372943.0,
+   "Commercial-Sales-($)": 354389216.0,
+   "Commercial-Customers": 47440.0,
+   "Industrial-Sales-($)": 131692126.0,
+   "Industrial-Customers": 1325.0,
+   "Total-Customers": 421708.0,
+   "Total-Production-MWh": 7518826.0,
+   "Production-from-Renewable-Energy-MWh": 4006511.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3512315.0,
+   "cities-served": [
+    "Airway Heights, WA",
+    "Albion, WA",
+    "Almira, WA",
+    "Asotin, WA",
+    "Athol, ID",
+    "Bonners Ferry, ID",
+    "Bovill, ID",
+    "Cheney, WA",
+    "Chewelah, WA",
+    "Clark Fork, ID",
+    "Clarkston, WA",
+    "Coeur d'Alene, ID",
+    "Colfax, WA",
+    "Colton, WA",
+    "Colville, WA",
+    "Connell, WA",
+    "Cottonwood, ID",
+    "Craigmont, ID",
+    "Creston, WA",
+    "Culdesac, ID",
+    "Cusick, WA",
+    "Dalton Gardens, ID",
+    "Davenport, WA",
+    "Deary, ID",
+    "Deer Park, WA",
+    "Dover, ID",
+    "East Hope, ID",
+    "Elk River, ID",
+    "Endicott, WA",
+    "Fairfield, WA",
+    "Farmington, WA",
+    "Ferdinand, ID",
+    "Fernan Lake Village, ID",
+    "Garfield, WA",
+    "Genesee, ID",
+    "Grangeville, ID",
+    "Harrington, WA",
+    "Harrison, ID",
+    "Hatton, WA",
+    "Hauser, ID",
+    "Hayden, ID",
+    "Hayden Lake, ID",
+    "Hope, ID",
+    "Huetter, ID",
+    "Ione, WA",
+    "Juliaetta, ID",
+    "Juneau and, AK",
+    "Kahlotus, WA",
+    "Kamiah, ID",
+    "Kellogg, ID",
+    "Kendrick, ID",
+    "Kettle Falls, WA",
+    "Kooskia, ID",
+    "Kootenai, ID",
+    "Krupp, WA",
+    "LaCrosse, WA",
+    "Lamont, WA",
+    "Lapwai, ID",
+    "Latah, WA",
+    "Lewiston, ID",
+    "Liberty Lake, WA",
+    "Lind, WA",
+    "Malden, WA",
+    "Marcus, WA",
+    "Medical Lake, WA",
+    "Metaline, WA",
+    "Metaline Falls, WA",
+    "Millwood, WA",
+    "Moscow, ID",
+    "Moyie Springs, ID",
+    "Mullan, ID",
+    "Newport, WA",
+    "Nezperce, ID",
+    "Northport, WA",
+    "Oakesdale, WA",
+    "Odessa, WA",
+    "Oldtown, ID",
+    "Onaway, ID",
+    "Orofino, ID",
+    "Osburn, ID",
+    "Othello, WA",
+    "Palouse, WA",
+    "Peck, ID",
+    "Pierce, ID",
+    "Pinehurst, ID",
+    "Plummer, ID",
+    "Ponderay, ID",
+    "Post Falls, ID",
+    "Potlatch, ID",
+    "Priest River, ID",
+    "Pullman, WA",
+    "Rathdrum, ID",
+    "Reardan, WA",
+    "Republic, WA",
+    "Reubens, ID",
+    "Ritzville, WA",
+    "Rockford, WA",
+    "Rosalia, WA",
+    "Sandpoint, ID",
+    "Smelterville, ID",
+    "Spangle, WA",
+    "Spirit Lake, ID",
+    "Spokane, WA",
+    "Spokane Valley, WA",
+    "Sprague, WA",
+    "Springdale, WA",
+    "St. John, WA",
+    "St. Maries, ID",
+    "State Line, ID",
+    "Stites, ID",
+    "Tekoa, WA",
+    "Tensed, ID",
+    "Troy, ID",
+    "Uniontown, WA",
+    "Wallace, ID",
+    "Wardner, ID",
+    "Washtucna, WA",
+    "Waverly, WA",
+    "Weippe, ID",
+    "White Bird, ID",
+    "Wilbur, WA",
+    "Winchester, ID",
+    "Worley, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Grant County, WA",
+     "population": 99123
+    },
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    },
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Stevens County, WA",
+     "population": 46445
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Nez Perce County, ID",
+     "population": 42090
+    },
+    {
+     "county": "Latah County, ID",
+     "population": 39517
+    },
+    {
+     "county": "Juneau City and Borough, AK",
+     "population": 32255
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Adams County, WA",
+     "population": 20613
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Pend Oreille County, WA",
+     "population": 13401
+    },
+    {
+     "county": "Shoshone County, ID",
+     "population": 13169
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Boundary County, ID",
+     "population": 12056
+    },
+    {
+     "county": "Lincoln County, WA",
+     "population": 10876
+    },
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Ferry County, WA",
+     "population": 7178
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Lewis County, ID",
+     "population": 3533
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 263560
+    },
+    {
+     "state": "Idaho",
+     "customers": 140539
+    },
+    {
+     "state": "Alaska",
+     "customers": 17578
+    },
+    {
+     "state": "Montana",
+     "customers": 31
+    }
+   ]
+  },
+  {
+   "company": "Inland Power",
+   "company-type": "Cooperative",
+   "website": "https://www.inlandpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 58531800.0,
+   "Residential-Customers": 39632.0,
+   "Commercial-Sales-($)": 15878300.0,
+   "Commercial-Customers": 3520.0,
+   "Industrial-Sales-($)": 5834100.0,
+   "Industrial-Customers": 514.0,
+   "Total-Customers": 43666.0,
+   "cities-served": [
+    "Airway Heights, WA",
+    "Albion, WA",
+    "Cheney, WA",
+    "Clarkston, WA",
+    "Colfax, WA",
+    "Colton, WA",
+    "Creston, WA",
+    "Davenport, WA",
+    "Deer Park, WA",
+    "Endicott, WA",
+    "Fairfield, WA",
+    "Farmington, WA",
+    "Garfield, WA",
+    "Harrington, WA",
+    "LaCrosse, WA",
+    "Lamont, WA",
+    "Latah, WA",
+    "Liberty Lake, WA",
+    "Malden, WA",
+    "Medical Lake, WA",
+    "Millwood, WA",
+    "Oakesdale, WA",
+    "Odessa, WA",
+    "Oldtown, ID",
+    "Palouse, WA",
+    "Pomeroy, WA",
+    "Priest River, ID",
+    "Pullman, WA",
+    "Reardan, WA",
+    "Rockford, WA",
+    "Rosalia, WA",
+    "Spangle, WA",
+    "Spirit Lake, ID",
+    "Spokane, WA",
+    "Spokane Valley, WA",
+    "Sprague, WA",
+    "St. John, WA",
+    "Starbuck, WA",
+    "Tekoa, WA",
+    "Uniontown, WA",
+    "Waverly, WA",
+    "Wilbur, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Stevens County, WA",
+     "population": 46445
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Adams County, WA",
+     "population": 20613
+    },
+    {
+     "county": "Lincoln County, WA",
+     "population": 10876
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 41665
+    },
+    {
+     "state": "Idaho",
+     "customers": 2001
+    }
+   ]
+  },
+  {
+   "company": "Kootenai Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.kec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 40186263.0,
+   "Residential-Customers": 27632.0,
+   "Commercial-Sales-($)": 12511882.0,
+   "Commercial-Customers": 2362.0,
+   "Industrial-Sales-($)": 1931663.0,
+   "Industrial-Customers": 42.0,
+   "Total-Customers": 30036.0,
+   "cities-served": [
+    "Athol, ID",
+    "Coeur d'Alene, ID",
+    "Dalton Gardens, ID",
+    "Fernan Lake Village, ID",
+    "Hauser, ID",
+    "Hayden, ID",
+    "Hayden Lake, ID",
+    "Huetter, ID",
+    "Liberty Lake, WA",
+    "Post Falls, ID",
+    "Rathdrum, ID",
+    "Spirit Lake, ID",
+    "State Line, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 29940
+    },
+    {
+     "state": "Washington",
+     "customers": 97
+    }
+   ]
+  },
+  {
+   "company": "Idaho Falls Power",
+   "company-type": "Municipal",
+   "website": "https://www.idahofallsidaho.gov/223/Idaho-Falls-Power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24574610.0,
+   "Residential-Customers": 25296.0,
+   "Commercial-Sales-($)": 23861741.0,
+   "Commercial-Customers": 4327.0,
+   "Industrial-Sales-($)": 4158822.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 29628.0,
+   "Total-Production-MWh": 233443.0,
+   "Production-from-Renewable-Energy-MWh": 233443.0,
+   "cities-served": [
+    "Idaho Falls"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 29628
+    }
+   ]
+  },
+  {
+   "company": "Lower Valley Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.lvenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33489000.0,
+   "Residential-Customers": 22790.0,
+   "Commercial-Sales-($)": 16554000.0,
+   "Commercial-Customers": 6456.0,
+   "Industrial-Sales-($)": 4107000.0,
+   "Industrial-Customers": 290.0,
+   "Total-Customers": 29536.0,
+   "Total-Production-MWh": 14958.0,
+   "Production-from-Renewable-Energy-MWh": 14958.0,
+   "cities-served": [
+    "Afton, WY",
+    "Alpine, WY",
+    "Irwin, ID",
+    "Jackson, WY",
+    "Star Valley Ranch, WY",
+    "Swan Valley, ID",
+    "Thayne, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 27656
+    },
+    {
+     "state": "Idaho",
+     "customers": 1880
+    }
+   ]
+  },
+  {
+   "company": "Northern Lights",
+   "company-type": "Cooperative",
+   "website": "https://www.nli.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28601000.0,
+   "Residential-Customers": 20730.0,
+   "Commercial-Sales-($)": 5618000.0,
+   "Commercial-Customers": 1290.0,
+   "Industrial-Sales-($)": 1794000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 22031.0,
+   "cities-served": [
+    "Athol, ID",
+    "Bonners Ferry, ID",
+    "Clark Fork, ID",
+    "Dover, ID",
+    "East Hope, ID",
+    "Hope, ID",
+    "Kootenai, ID",
+    "Libby, MT",
+    "Moyie Springs, ID",
+    "Oldtown, ID",
+    "Ponderay, ID",
+    "Priest River, ID",
+    "Sandpoint, ID",
+    "Spirit Lake, ID",
+    "Thompson Falls, MT",
+    "Troy, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    },
+    {
+     "county": "Pend Oreille County, WA",
+     "population": 13401
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Boundary County, ID",
+     "population": 12056
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 17323
+    },
+    {
+     "state": "Montana",
+     "customers": 4694
+    },
+    {
+     "state": "Washington",
+     "customers": 14
+    }
+   ]
+  },
+  {
+   "company": "Fall River Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.fallriverelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20918000.0,
+   "Residential-Customers": 14816.0,
+   "Commercial-Sales-($)": 10618000.0,
+   "Commercial-Customers": 3131.0,
+   "Total-Customers": 17947.0,
+   "Total-Production-MWh": 40813.0,
+   "Production-from-Renewable-Energy-MWh": 40813.0,
+   "cities-served": [
+    "Ashton, ID",
+    "Driggs, ID",
+    "Drummond, ID",
+    "Island Park, ID",
+    "Menan, ID",
+    "Newdale, ID",
+    "Parker, ID",
+    "Rexburg, ID",
+    "Rigby, ID",
+    "Ririe, ID",
+    "St. Anthony, ID",
+    "Sugar City, ID",
+    "Teton, ID",
+    "Tetonia, ID",
+    "Victor, ID",
+    "Warm River, ID",
+    "West Yellowstone, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 15581
+    },
+    {
+     "state": "Montana",
+     "customers": 1999
+    },
+    {
+     "state": "Wyoming",
+     "customers": 367
+    }
+   ]
+  },
+  {
+   "company": "Missoula Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.missoulaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18335318.0,
+   "Residential-Customers": 14102.0,
+   "Commercial-Sales-($)": 4747242.0,
+   "Commercial-Customers": 1494.0,
+   "Industrial-Sales-($)": 1584963.0,
+   "Industrial-Customers": 269.0,
+   "Total-Customers": 15865.0,
+   "cities-served": [
+    "Alberton, MT",
+    "Missoula, MT",
+    "Superior, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Missoula County, MT",
+     "population": 117922
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Powell County, MT",
+     "population": 6946
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Granite County, MT",
+     "population": 3309
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 15800
+    },
+    {
+     "state": "Idaho",
+     "customers": 64
+    }
+   ]
+  },
+  {
+   "company": "Clearwater Power",
+   "company-type": "Cooperative",
+   "website": "http://www.clearwaterpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16659483.136,
+   "Residential-Customers": 10109.0,
+   "Commercial-Sales-($)": 3251171.918,
+   "Commercial-Customers": 886.0,
+   "Industrial-Sales-($)": 1390091.105,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 10998.0,
+   "cities-served": [
+    "Asotin, WA",
+    "Clarkston, WA",
+    "Colton, WA",
+    "Craigmont, ID",
+    "Culdesac, ID",
+    "Deary, ID",
+    "Farmington, WA",
+    "Ferdinand, ID",
+    "Garfield, WA",
+    "Genesee, ID",
+    "Juliaetta, ID",
+    "Kendrick, ID",
+    "Lapwai, ID",
+    "Lewiston, ID",
+    "Moscow, ID",
+    "Nezperce, ID",
+    "Onaway, ID",
+    "Orofino, ID",
+    "Palouse, WA",
+    "Peck, ID",
+    "Plummer, ID",
+    "Potlatch, ID",
+    "Reubens, ID",
+    "Tensed, ID",
+    "Troy, ID",
+    "Uniontown, WA",
+    "Weippe, ID",
+    "Winchester, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Nez Perce County, ID",
+     "population": 42090
+    },
+    {
+     "county": "Latah County, ID",
+     "population": 39517
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Shoshone County, ID",
+     "population": 13169
+    },
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Lewis County, ID",
+     "population": 3533
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 9804
+    },
+    {
+     "state": "Washington",
+     "customers": 1017
+    },
+    {
+     "state": "Oregon",
+     "customers": 177
+    }
+   ]
+  },
+  {
+   "company": "United Electric Cooperative (Idaho)",
+   "company-type": "Cooperative",
+   "website": "https://www.uec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6597000.0,
+   "Residential-Customers": 4748.0,
+   "Commercial-Sales-($)": 3761000.0,
+   "Commercial-Customers": 1103.0,
+   "Industrial-Sales-($)": 7339000.0,
+   "Industrial-Customers": 1208.0,
+   "Total-Customers": 7059.0,
+   "cities-served": [
+    "Burley"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 7059
+    }
+   ]
+  },
+  {
+   "company": "Raft River Rural Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.rrelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4372049.0,
+   "Residential-Customers": 3205.0,
+   "Commercial-Sales-($)": 5737819.0,
+   "Commercial-Customers": 713.0,
+   "Industrial-Sales-($)": 10160588.0,
+   "Industrial-Customers": 1289.0,
+   "Total-Customers": 5207.0,
+   "cities-served": [
+    "Albion, ID",
+    "Malta, ID",
+    "Oakley, ID",
+    "Snowville, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    },
+    {
+     "county": "Power County, ID",
+     "population": 7878
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2670
+    },
+    {
+     "state": "Nevada",
+     "customers": 1810
+    },
+    {
+     "state": "Utah",
+     "customers": 726
+    }
+   ]
+  },
+  {
+   "company": "City of Burley Electric",
+   "company-type": "Municipal",
+   "website": "https://www.burleyidaho.org/159/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3764757.057,
+   "Residential-Customers": 3982.0,
+   "Commercial-Sales-($)": 4983242.943,
+   "Commercial-Customers": 783.0,
+   "Total-Customers": 4765.0,
+   "cities-served": [
+    "Burley"
+   ],
+   "counties-served": [
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 4765
+    }
+   ]
+  },
+  {
+   "company": "Idaho County Light & Power",
+   "company-type": "Cooperative",
+   "website": "https://www.iclp.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5144249.379,
+   "Residential-Customers": 3785.0,
+   "Commercial-Sales-($)": 628771.956,
+   "Commercial-Customers": 316.0,
+   "Industrial-Sales-($)": 313778.665,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 4120.0,
+   "cities-served": [
+    "Cottonwood, ID",
+    "Ferdinand, ID",
+    "Grangeville, ID",
+    "Kamiah, ID",
+    "Kooskia, ID",
+    "Riggins, ID",
+    "Stites, ID",
+    "White Bird, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 4120
+    }
+   ]
+  },
+  {
+   "company": "Weiser, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityofweiser.net/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1785200.848,
+   "Residential-Customers": 2881.0,
+   "Commercial-Sales-($)": 906997.205,
+   "Commercial-Customers": 382.0,
+   "Industrial-Sales-($)": 474801.947,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 3264.0,
+   "cities-served": [
+    "Weiser"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, ID",
+     "population": 10500
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 3264
+    }
+   ]
+  },
+  {
+   "company": "Rupert, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.rupert-idaho.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3056929.35,
+   "Residential-Customers": 2598.0,
+   "Commercial-Sales-($)": 1937066.273,
+   "Commercial-Customers": 439.0,
+   "Industrial-Sales-($)": 756004.377,
+   "Industrial-Customers": 33.0,
+   "Total-Customers": 3070.0,
+   "cities-served": [
+    "Rupert"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 3070
+    }
+   ]
+  },
+  {
+   "company": "Salmon River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.srec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3220000.0,
+   "Residential-Customers": 2304.0,
+   "Commercial-Sales-($)": 1506000.0,
+   "Commercial-Customers": 463.0,
+   "Industrial-Sales-($)": 2315000.0,
+   "Industrial-Customers": 123.0,
+   "Total-Customers": 2890.0,
+   "cities-served": [
+    "Challis, ID",
+    "Clayton, ID",
+    "Stanley, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Blaine County, ID",
+     "population": 24272
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Custer County, ID",
+     "population": 4275
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2890
+    }
+   ]
+  },
+  {
+   "company": "Lost River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lostriverelectriccoopinc.com/index.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3168802.79,
+   "Residential-Customers": 1937.0,
+   "Commercial-Sales-($)": 325534.432,
+   "Commercial-Customers": 217.0,
+   "Industrial-Sales-($)": 3395862.778,
+   "Industrial-Customers": 656.0,
+   "Total-Customers": 2810.0,
+   "cities-served": [
+    "Arco, ID",
+    "Butte City, ID",
+    "Lost River, ID",
+    "Mackay, ID",
+    "Moore, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Blaine County, ID",
+     "population": 24272
+    },
+    {
+     "county": "Custer County, ID",
+     "population": 4275
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2810
+    }
+   ]
+  },
+  {
+   "company": "City of Bonners Ferry Utilities",
+   "company-type": "Municipal",
+   "website": "https://bonnersferry.id.gov/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2025454.202,
+   "Residential-Customers": 2101.0,
+   "Commercial-Sales-($)": 1797617.857,
+   "Commercial-Customers": 691.0,
+   "Industrial-Sales-($)": 1365927.941,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 2804.0,
+   "Total-Production-MWh": 24612.0,
+   "Production-from-Renewable-Energy-MWh": 24612.0,
+   "cities-served": [
+    "Bonners Ferry"
+   ],
+   "counties-served": [
+    {
+     "county": "Boundary County, ID",
+     "population": 12056
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2804
+    }
+   ]
+  },
+  {
+   "company": "Soda Springs, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.sodaspringsid.com/how_do_i_(faq)/apply_for/new_utility_service.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1136640.0,
+   "Residential-Customers": 1832.0,
+   "Commercial-Sales-($)": 544640.0,
+   "Commercial-Customers": 391.0,
+   "Industrial-Sales-($)": 686720.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 2225.0,
+   "cities-served": [
+    "Soda Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2225
+    }
+   ]
+  },
+  {
+   "company": "Heyburn, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://heyburn.id.gov/index.asp?SEC=816EA971-1B38-4B39-A9AB-4C34E71336B5",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1642130.818,
+   "Residential-Customers": 1686.0,
+   "Commercial-Sales-($)": 766919.256,
+   "Commercial-Customers": 135.0,
+   "Industrial-Sales-($)": 1644449.927,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 1833.0,
+   "cities-served": [
+    "Heyburn"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 1833
+    }
+   ]
+  },
+  {
+   "company": "SouthSide Electric",
+   "company-type": "Cooperative",
+   "website": "https://southsidepower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2080586.693,
+   "Residential-Customers": 950.0,
+   "Commercial-Sales-($)": 501713.583,
+   "Commercial-Customers": 10.0,
+   "Industrial-Sales-($)": 1349099.724,
+   "Industrial-Customers": 100.0,
+   "Total-Customers": 1060.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Awards",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 1060
+    }
+   ]
+  },
+  {
+   "company": "Plummer, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofplummer.org/index.asp?SEC=4AF03F60-FA18-46A8-832C-76750CAADE98&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 888950.948,
+   "Residential-Customers": 828.0,
+   "Commercial-Sales-($)": 683884.996,
+   "Commercial-Customers": 155.0,
+   "Industrial-Sales-($)": 842164.056,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 988.0,
+   "cities-served": [
+    "Plummer"
+   ],
+   "counties-served": [
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 988
+    }
+   ]
+  },
+  {
+   "company": "East End Mutual Electric",
+   "company-type": "Cooperative",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1327403.797,
+   "Residential-Customers": 724.0,
+   "Commercial-Sales-($)": 750596.203,
+   "Commercial-Customers": 40.0,
+   "Total-Customers": 764.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 764
+    }
+   ]
+  },
+  {
+   "company": "Riverside Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.icua.coop/member/riverside-electric-co/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 1506100.0,
+   "Residential-Customers": 603.0,
+   "Total-Customers": 603.0,
+   "cities-served": [
+    "Declo"
+   ],
+   "counties-served": [
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 603
+    }
+   ]
+  },
+  {
+   "company": "Albion, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.albionidaho.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 196283.636,
+   "Residential-Customers": 187.0,
+   "Commercial-Sales-($)": 77716.364,
+   "Commercial-Customers": 36.0,
+   "Total-Customers": 223.0,
+   "cities-served": [
+    "Albion"
+   ],
+   "counties-served": [
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 223
+    }
+   ]
+  },
+  {
+   "company": "Declo, Idaho Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14758.475,
+   "Residential-Customers": 113.0,
+   "Commercial-Sales-($)": 7550.847,
+   "Commercial-Customers": 14.0,
+   "Industrial-Sales-($)": 4690.678,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 130.0,
+   "cities-served": [
+    "Declo"
+   ],
+   "counties-served": [
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 130
+    }
+   ]
+  },
+  {
+   "company": "Farmers Electric Company",
+   "company-type": "Cooperative",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 109245.902,
+   "Residential-Customers": 108.0,
+   "Commercial-Sales-($)": 104655.738,
+   "Commercial-Customers": 12.0,
+   "Industrial-Sales-($)": 10098.361,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 128.0,
+   "cities-served": [
+    "Heyburn"
+   ],
+   "counties-served": [
+    {
+     "county": "Minidoka County, ID",
+     "population": 21613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 128
+    }
+   ]
+  }
+ ]
+}

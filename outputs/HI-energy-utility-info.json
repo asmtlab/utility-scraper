@@ -1,0 +1,104 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Hawaiian Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.hawaiianelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 881045219.0,
+   "Residential-Customers": 414232.0,
+   "Commercial-Sales-($)": 854835610.0,
+   "Commercial-Customers": 55104.0,
+   "Industrial-Sales-($)": 912299221.0,
+   "Industrial-Customers": 690.0,
+   "Total-Customers": 470026.0,
+   "Total-Production-MWh": 4551343.0,
+   "Production-from-Renewable-Energy-MWh": 65239.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4486104.0,
+   "cities-served": [
+    "Urban Honolulu CDP",
+    "East Honolulu CDP",
+    "Pearl City CDP",
+    "Hilo CDP",
+    "Waipahu CDP",
+    "Kailua CDP (Honolulu County)",
+    "Kaneohe CDP",
+    "Kahului CDP",
+    "Mililani Town CDP",
+    "Ewa Gentry CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Honolulu County, HI",
+     "population": 1016508
+    },
+    {
+     "county": "Hawaii County, HI",
+     "population": 200629
+    },
+    {
+     "county": "Maui County, HI",
+     "population": 164754
+    },
+    {
+     "county": "Kalawao County, HI",
+     "population": 82
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Hawaii",
+     "customers": 470027
+    }
+   ]
+  },
+  {
+   "company": "Kauai Island Utility Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kiuc.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 69738247.0,
+   "Residential-Customers": 29844.0,
+   "Commercial-Sales-($)": 41774080.0,
+   "Commercial-Customers": 4918.0,
+   "Industrial-Sales-($)": 48610598.0,
+   "Industrial-Customers": 120.0,
+   "Total-Customers": 34882.0,
+   "Total-Production-MWh": 231661.0,
+   "Production-from-Renewable-Energy-MWh": 43386.0,
+   "Production-from-Non-Renewable-Energy-MWh": 188599.0,
+   "cities-served": [
+    "Kapaa CDP",
+    "Lihue CDP",
+    "Wailua Homesteads CDP",
+    "Kalaheo CDP",
+    "Hanamaulu CDP",
+    "Kekaha CDP",
+    "Puhi CDP",
+    "Kilauea CDP",
+    "Hanapepe CDP",
+    "Lawai CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Kauai County, HI",
+     "population": 73298
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Hawaii",
+     "customers": 34882
+    }
+   ]
+  }
+ ]
+}

@@ -14,6 +14,9 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from selenium.webdriver.support.ui import WebDriverWait as WDW
 from selenium.webdriver.support import expected_conditions as EC
 
+# local module
+from Collect_State_Info import REGIONS
+
 # Used by webdriver_manager if not supplying path to driver
 # from webdriver_manager.firefox import GeckoDriverManager
 # webdriver_manager info:
@@ -28,24 +31,6 @@ FIREFOX_PATH = "./geckodriver" # replace with path to driver for your OS
 
 BASE_URL = "https://findenergy.com/"
 OUTPUT_DIR = 'outputs'
-
-
-# STATES = [ 'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA',
-#            'HI', 'IA', 'ID', 'IL', 'IN', 'KS', 'KY', 'LA', 'MA', 'MD', 'ME',
-#            'MI', 'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM',
-#            'NV', 'NY', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX',
-#            'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY']
-REGION_1 = [ 'CT', 'ME', 'MA', 'NH', 'RI', 'VT' ]
-REGION_2 = [ 'NJ', 'NY', ]
-REGION_3 = [ 'DE', 'MD', 'PA', 'VA', 'WV' ]
-REGION_4 = [ 'AL', 'FL', 'GA', 'KY', 'MS', 'NC', 'SC', 'TN' ]
-REGION_5 = [ 'IL', 'IN', 'MI', 'MN', 'OH', 'WI' ]
-REGION_6 = [ 'TX', 'AR', 'LA', 'NM', 'OK' ]
-REGION_7 = [ 'IA', 'KS', 'MO', 'NE' ]
-REGION_8 = [ 'CO', 'MT', 'ND', 'SD', 'UT', 'WY' ]
-REGION_9 = [ 'AZ', 'CA', 'HI', 'NV' ]
-REGION_10 = [ 'AK', 'ID', 'OR', 'WA' ]
-
 
 CLICK_DELAY = 5
 
@@ -363,7 +348,7 @@ def main():
         return 1
 
     info = {}
-    for state in REGION_2:
+    for state in REGIONS[8]:
         url_query = "{}{}".format(BASE_URL, state)
         info[state] = scrape_state(driver, url_query, state)
 

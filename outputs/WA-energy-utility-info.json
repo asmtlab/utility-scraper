@@ -1,0 +1,3374 @@
+{
+ "electrical-providers": [
+  {
+   "company": "PacifiCorp",
+   "company-type": "Investor Owned",
+   "website": "https://www.pacificorp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1886521838.0,
+   "Residential-Customers": 1752587.0,
+   "Commercial-Sales-($)": 1572847130.0,
+   "Commercial-Customers": 226225.0,
+   "Industrial-Sales-($)": 1240293512.0,
+   "Industrial-Customers": 32989.0,
+   "Total-Customers": 2011801.0,
+   "Total-Production-MWh": 53156855.0,
+   "Production-from-Renewable-Energy-MWh": 9719336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43437520.0,
+   "cities-served": [
+    "Adams, OR",
+    "Albany, OR",
+    "Alpine, UT",
+    "Alta, UT",
+    "Alturas, CA",
+    "Amalga, UT",
+    "American Fork, UT",
+    "Ammon, ID",
+    "Annabella, UT",
+    "Apple Valley, UT",
+    "Arco, ID",
+    "Arimo, ID",
+    "Arlington, OR",
+    "Ashland, OR",
+    "Ashton, ID",
+    "Astoria, OR",
+    "Athena, OR",
+    "Aumsville, OR",
+    "Aurora, UT",
+    "Bairoil, WY",
+    "Bancroft, ID",
+    "Bandon, OR",
+    "Bar Nunn, WY",
+    "Basalt, ID",
+    "Basin, WY",
+    "Bear River, WY",
+    "Bear River City, UT",
+    "Beaver, UT",
+    "Bend, OR",
+    "Big Piney, WY",
+    "Blanding, UT",
+    "Bloomington, ID",
+    "Bluffdale, UT",
+    "Bonanza, OR",
+    "Brian Head, UT",
+    "Brighton, UT",
+    "Brownsville, OR",
+    "Buffalo, WY",
+    "Butte Falls, OR",
+    "Byron, WY",
+    "Cannon Beach, OR",
+    "Canyonville, OR",
+    "Casper, WY",
+    "Castle Dale, UT",
+    "Castle Valley, UT",
+    "Cave Junction, OR",
+    "Cedar City, UT",
+    "Cedar Fort, UT",
+    "Cedar Highlands, UT",
+    "Cedar Hills, UT",
+    "Centerfield, UT",
+    "Centerville, UT",
+    "Central Point, OR",
+    "Central Valley, UT",
+    "Charleston, UT",
+    "Chiloquin, OR",
+    "Circleville, UT",
+    "Clarkston, UT",
+    "Clawson, UT",
+    "Clearfield, UT",
+    "Cleveland, UT",
+    "Clifton, ID",
+    "Clinton, UT",
+    "Coalville, UT",
+    "Coburg, OR",
+    "Cody, WY",
+    "Cokeville, WY",
+    "College Place, WA",
+    "Coos Bay, OR",
+    "Coquille, OR",
+    "Corinne, UT",
+    "Cornish, UT",
+    "Corvallis, OR",
+    "Cottage Grove, OR",
+    "Cottonwood Heights, UT",
+    "Cowley, WY",
+    "Crescent City, CA",
+    "Creswell, OR",
+    "Culver, OR",
+    "Dallas, OR",
+    "Daniel, UT",
+    "Dayton, WA",
+    "Dayton, ID",
+    "Deaver, WY",
+    "Delta, UT",
+    "Deweyville, UT",
+    "Diamondville, WY",
+    "Dorris, CA",
+    "Douglas, WY",
+    "Downey, ID",
+    "Draper, UT",
+    "Dubois, ID",
+    "Dunsmuir, CA",
+    "Eagle Mountain, UT",
+    "Eagle Point, OR",
+    "East Carbon, UT",
+    "East Thermopolis, WY",
+    "Echo, OR",
+    "Edgerton, WY",
+    "Elmo, UT",
+    "Elsinore, UT",
+    "Elwood, UT",
+    "Emery, UT",
+    "Enoch, UT",
+    "Enterprise, OR",
+    "Enterprise, UT",
+    "Ephraim, UT",
+    "Etna, CA",
+    "Eureka, UT",
+    "Evanston, WY",
+    "Evansville, WY",
+    "Fairfield, UT",
+    "Fairview, UT",
+    "Falls City, OR",
+    "Farmington, UT",
+    "Farr West, UT",
+    "Fayette, UT",
+    "Ferron, UT",
+    "Fielding, UT",
+    "Firth, ID",
+    "Fort Jones, CA",
+    "Fountain Green, UT",
+    "Francis, UT",
+    "Franklin, ID",
+    "Frannie, WY",
+    "Fruit Heights, UT",
+    "Garden City, UT",
+    "Garland, UT",
+    "Gates, OR",
+    "Gearhart, OR",
+    "Genola, UT",
+    "Georgetown, ID",
+    "Glendale, OR",
+    "Glendo, WY",
+    "Glenrock, WY",
+    "Glenwood, UT",
+    "Gold Hill, OR",
+    "Goshen, UT",
+    "Grace, ID",
+    "Grandview, WA",
+    "Granger, WA",
+    "Grants Pass, OR",
+    "Grantsville, UT",
+    "Grass Valley, OR",
+    "Green River, WY",
+    "Green River, UT",
+    "Greybull, WY",
+    "Guernsey, WY",
+    "Gunnison, UT",
+    "Halsey, OR",
+    "Hamer, ID",
+    "Hanna, WY",
+    "Harrah, WA",
+    "Harrisburg, OR",
+    "Harrisville, UT",
+    "Hartville, WY",
+    "Heber, UT",
+    "Helix, OR",
+    "Helper, UT",
+    "Henefer, UT",
+    "Hermiston, OR",
+    "Herriman, UT",
+    "Hideout, UT",
+    "Highland, UT",
+    "Hinckley, UT",
+    "Holden, UT",
+    "Holladay, UT",
+    "Honeyville, UT",
+    "Hood River, OR",
+    "Hooper, UT",
+    "Howell, UT",
+    "Huntington, UT",
+    "Huntsville, UT",
+    "Hurricane, UT",
+    "Hyde Park, UT",
+    "Hyrum, UT",
+    "Idaho Falls, ID",
+    "Ilwaco, WA",
+    "Independence, OR",
+    "Independence, UT",
+    "Iona, ID",
+    "Ivins, UT",
+    "Jacksonville, OR",
+    "Jefferson, OR",
+    "Joseph, OR",
+    "Joseph, UT",
+    "Junction, UT",
+    "Junction City, OR",
+    "Kamas, UT",
+    "Kanarraville, UT",
+    "Kemmerer, WY",
+    "Kingston, UT",
+    "Kirby, WY",
+    "Klamath Falls, OR",
+    "La Barge, WY",
+    "La Verkin, UT",
+    "Laketown, UT",
+    "Lakeview, OR",
+    "Lander, WY",
+    "Laramie, WY",
+    "Lava Hot Springs, ID",
+    "Layton, UT",
+    "Leamington, UT",
+    "Lebanon, OR",
+    "Leeds, UT",
+    "Lehi, UT",
+    "Levan, UT",
+    "Lewiston, UT",
+    "Lewisville, ID",
+    "Lincoln City, OR",
+    "Lindon, UT",
+    "Logan, UT",
+    "Lostine, OR",
+    "Lovell, WY",
+    "Lynndyl, UT",
+    "Lyons, OR",
+    "Mabton, WA",
+    "Madras, OR",
+    "Malad City, ID",
+    "Malin, OR",
+    "Manderson, WY",
+    "Manti, UT",
+    "Mantua, UT",
+    "Mapleton, UT",
+    "Marbleton, WY",
+    "Marriott-Slaterville, UT",
+    "Marysvale, UT",
+    "Mayfield, UT",
+    "Maywood Park, OR",
+    "McCammon, ID",
+    "Medford, OR",
+    "Menan, ID",
+    "Mendon, UT",
+    "Merrill, OR",
+    "Metolius, OR",
+    "Midvale, UT",
+    "Midway, UT",
+    "Midwest, WY",
+    "Milford, UT",
+    "Mill City, OR",
+    "Millcreek, UT",
+    "Millersburg, OR",
+    "Mills, WY",
+    "Millville, UT",
+    "Minersville, UT",
+    "Moab, UT",
+    "Mona, UT",
+    "Monroe, UT",
+    "Monroe, OR",
+    "Montague, CA",
+    "Montpelier, ID",
+    "Moro, OR",
+    "Moroni, UT",
+    "Mosier, OR",
+    "Mount Pleasant, UT",
+    "Mount Shasta, CA",
+    "Moxee, WA",
+    "Mud Lake, ID",
+    "Murray, UT",
+    "Myrtle Creek, OR",
+    "Myrtle Point, OR",
+    "Naches, WA",
+    "Naples, UT",
+    "Nephi, UT",
+    "New Harmony, UT",
+    "Newdale, ID",
+    "Newton, UT",
+    "Nibley, UT",
+    "North Bend, OR",
+    "North Logan, UT",
+    "North Ogden, UT",
+    "North Salt Lake, UT",
+    "Oak City, UT",
+    "Oakland, OR",
+    "Oakley, UT",
+    "Ogden, UT",
+    "Opal, WY",
+    "Ophir, UT",
+    "Orangeville, UT",
+    "Orem, UT",
+    "Oxford, ID",
+    "Panguitch, UT",
+    "Paradise, UT",
+    "Paragonah, UT",
+    "Paris, ID",
+    "Park City, UT",
+    "Parker, ID",
+    "Parowan, UT",
+    "Payson, UT",
+    "Pendleton, OR",
+    "Perry, UT",
+    "Philomath, OR",
+    "Phoenix, OR",
+    "Pilot Rock, OR",
+    "Pinedale, WY",
+    "Plain City, UT",
+    "Pleasant Grove, UT",
+    "Pleasant View, UT",
+    "Plymouth, UT",
+    "Pomeroy, WA",
+    "Portage, UT",
+    "Portland, OR",
+    "Powell, WY",
+    "Powers, OR",
+    "Prescott, WA",
+    "Preston, ID",
+    "Price, UT",
+    "Prineville, OR",
+    "Providence, UT",
+    "Provo, UT",
+    "Randolph, UT",
+    "Rawlins, WY",
+    "Redmond, OR",
+    "Redmond, UT",
+    "Rexburg, ID",
+    "Richfield, UT",
+    "Richmond, UT",
+    "Riddle, OR",
+    "Rigby, ID",
+    "Ririe, ID",
+    "River Heights, UT",
+    "Riverdale, UT",
+    "Riverton, UT",
+    "Riverton, WY",
+    "Roberts, ID",
+    "Rock Springs, WY",
+    "Rockville, UT",
+    "Rocky Ridge, UT",
+    "Rogue River, OR",
+    "Rolling Hills, WY",
+    "Roseburg, OR",
+    "Roy, UT",
+    "Rufus, OR",
+    "Rush Valley, UT",
+    "Salina, UT",
+    "Salt Lake City, UT",
+    "Sandy, UT",
+    "Santa Clara, UT",
+    "Santaquin, UT",
+    "Saratoga Springs, UT",
+    "Scio, OR",
+    "Scipio, UT",
+    "Scofield, UT",
+    "Seaside, OR",
+    "Selah, WA",
+    "Shady Cove, OR",
+    "Shelley, ID",
+    "Shoshoni, WY",
+    "Sigurd, UT",
+    "Sinclair, WY",
+    "Smithfield, UT",
+    "Snowville, UT",
+    "Soda Springs, ID",
+    "Sodaville, OR",
+    "South Jordan, UT",
+    "South Ogden, UT",
+    "South Salt Lake, UT",
+    "South Weber, UT",
+    "Spencer, ID",
+    "Spring City, UT",
+    "Springdale, UT",
+    "Springville, UT",
+    "St. Anthony, ID",
+    "St. Charles, ID",
+    "St. George, UT",
+    "Stanfield, OR",
+    "Stayton, OR",
+    "Sterling, UT",
+    "Stockton, UT",
+    "Sublimity, OR",
+    "Sugar City, ID",
+    "Sunnyside, WA",
+    "Sunset, UT",
+    "Superior, WY",
+    "Sutherlin, OR",
+    "Swan Valley, ID",
+    "Sweet Home, OR",
+    "Syracuse, UT",
+    "Talent, OR",
+    "Tangent, OR",
+    "Taylorsville, UT",
+    "Teton, ID",
+    "Thermopolis, WY",
+    "Tieton, WA",
+    "Tooele, UT",
+    "Toppenish, WA",
+    "Toquerville, UT",
+    "Tremonton, UT",
+    "Trenton, UT",
+    "Tulelake, CA",
+    "Ucon, ID",
+    "Uintah, UT",
+    "Umatilla, OR",
+    "Union Gap, WA",
+    "Veneta, OR",
+    "Vernal, UT",
+    "Vernon, UT",
+    "Vineyard, UT",
+    "Virgin, UT",
+    "Waitsburg, WA",
+    "Wales, UT",
+    "Walla Walla, WA",
+    "Wallowa, OR",
+    "Wallsburg, UT",
+    "Wamsutter, WY",
+    "Wapato, WA",
+    "Warrenton, OR",
+    "Wasco, OR",
+    "Washington, UT",
+    "Washington Terrace, UT",
+    "Waterloo, OR",
+    "Weed, CA",
+    "Wellington, UT",
+    "Wellsville, UT",
+    "West Bountiful, UT",
+    "West Haven, UT",
+    "West Jordan, UT",
+    "West Point, UT",
+    "West Valley City, UT",
+    "Weston, OR",
+    "Weston, ID",
+    "Willard, UT",
+    "Winston, OR",
+    "Woodruff, UT",
+    "Woods Cross, UT",
+    "Worland, WY",
+    "Yakima, WA",
+    "Yreka, CA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    },
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    },
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Weber County, UT",
+     "population": 262223
+    },
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    },
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Shasta County, CA",
+     "population": 182155
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Tooele County, UT",
+     "population": 72698
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Siskiyou County, CA",
+     "population": 44076
+    },
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    },
+    {
+     "county": "Del Norte County, CA",
+     "population": 27743
+    },
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "Franklin County, ID",
+     "population": 14194
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Morgan County, UT",
+     "population": 12295
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Emery County, UT",
+     "population": 9825
+    },
+    {
+     "county": "Grand County, UT",
+     "population": 9669
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Modoc County, CA",
+     "population": 8700
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    },
+    {
+     "county": "Rich County, UT",
+     "population": 2510
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 989777
+    },
+    {
+     "state": "Oregon",
+     "customers": 612085
+    },
+    {
+     "state": "Wyoming",
+     "customers": 143068
+    },
+    {
+     "state": "Washington",
+     "customers": 135069
+    },
+    {
+     "state": "Idaho",
+     "customers": 86004
+    },
+    {
+     "state": "California",
+     "customers": 45800
+    }
+   ]
+  },
+  {
+   "company": "Puget Sound Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.pse.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1333065774.0,
+   "Residential-Customers": 1056182.0,
+   "Commercial-Sales-($)": 947090299.0,
+   "Commercial-Customers": 140835.0,
+   "Industrial-Sales-($)": 110807489.0,
+   "Industrial-Customers": 3256.0,
+   "Total-Customers": 1200273.0,
+   "Total-Production-MWh": 12537033.0,
+   "Production-from-Renewable-Energy-MWh": 2970516.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9566517.0,
+   "cities-served": [
+    "Algona, WA",
+    "Anacortes, WA",
+    "Auburn, WA",
+    "Beaux Arts Village, WA",
+    "Bellevue, WA",
+    "Bellingham, WA",
+    "Black Diamond, WA",
+    "Blaine, WA",
+    "Bonney Lake, WA",
+    "Bothell, WA",
+    "Bremerton, WA",
+    "Buckley, WA",
+    "Burien, WA",
+    "Burlington, WA",
+    "Carnation, WA",
+    "Cle Elum, WA",
+    "Clyde Hill, WA",
+    "Concrete, WA",
+    "Coupeville, WA",
+    "Covington, WA",
+    "Des Moines, WA",
+    "Duvall, WA",
+    "Edgewood, WA",
+    "Ellensburg, WA",
+    "Enumclaw, WA",
+    "Everson, WA",
+    "Federal Way, WA",
+    "Ferndale, WA",
+    "Fife, WA",
+    "Hamilton, WA",
+    "Hunts Point, WA",
+    "Issaquah, WA",
+    "Kenmore, WA",
+    "Kent, WA",
+    "Kirkland, WA",
+    "Kittitas, WA",
+    "La Conner, WA",
+    "Lacey, WA",
+    "Lakewood, WA",
+    "Langley, WA",
+    "Lyman, WA",
+    "Lynden, WA",
+    "Maple Valley, WA",
+    "Medina, WA",
+    "Milton, WA",
+    "Mount Vernon, WA",
+    "Newcastle, WA",
+    "Nooksack, WA",
+    "Normandy Park, WA",
+    "North Bend, WA",
+    "Oak Harbor, WA",
+    "Olympia, WA",
+    "Pacific, WA",
+    "Port Orchard, WA",
+    "Poulsbo, WA",
+    "Puyallup, WA",
+    "Rainier, WA",
+    "Redmond, WA",
+    "Renton, WA",
+    "Roslyn, WA",
+    "Sammamish, WA",
+    "SeaTac, WA",
+    "Sedro-Woolley, WA",
+    "Skykomish, WA",
+    "Snoqualmie, WA",
+    "South Cle Elum, WA",
+    "Sumas, WA",
+    "Sumner, WA",
+    "Tukwila, WA",
+    "Tumwater, WA",
+    "Woodinville, WA",
+    "Yarrow Point, WA",
+    "Yelm, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "King County, WA",
+     "population": 2269675
+    },
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    },
+    {
+     "county": "Snohomish County, WA",
+     "population": 827957
+    },
+    {
+     "county": "Thurston County, WA",
+     "population": 294793
+    },
+    {
+     "county": "Kitsap County, WA",
+     "population": 275611
+    },
+    {
+     "county": "Whatcom County, WA",
+     "population": 226847
+    },
+    {
+     "county": "Skagit County, WA",
+     "population": 129523
+    },
+    {
+     "county": "Island County, WA",
+     "population": 86857
+    },
+    {
+     "county": "Chelan County, WA",
+     "population": 79074
+    },
+    {
+     "county": "Kittitas County, WA",
+     "population": 44337
+    },
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1200274
+    }
+   ]
+  },
+  {
+   "company": "Seattle City Light",
+   "company-type": "Municipal",
+   "website": "https://www.seattle.gov/city-light/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 394699666.0,
+   "Residential-Customers": 435838.0,
+   "Commercial-Sales-($)": 480182960.0,
+   "Commercial-Customers": 51421.0,
+   "Industrial-Sales-($)": 87171342.0,
+   "Industrial-Customers": 64.0,
+   "Total-Customers": 487323.0,
+   "Total-Production-MWh": 6074891.0,
+   "Production-from-Renewable-Energy-MWh": 6074891.0,
+   "cities-served": [
+    "Burien, WA",
+    "Lake Forest Park, WA",
+    "Normandy Park, WA",
+    "Renton, WA",
+    "SeaTac, WA",
+    "Seattle, WA",
+    "Shoreline, WA",
+    "Tukwila, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "King County, WA",
+     "population": 2269675
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 487326
+    }
+   ]
+  },
+  {
+   "company": "Avista Utilities",
+   "company-type": "Investor Owned",
+   "website": "https://www.myavista.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 422223677.0,
+   "Residential-Customers": 372943.0,
+   "Commercial-Sales-($)": 354389216.0,
+   "Commercial-Customers": 47440.0,
+   "Industrial-Sales-($)": 131692126.0,
+   "Industrial-Customers": 1325.0,
+   "Total-Customers": 421708.0,
+   "Total-Production-MWh": 7518826.0,
+   "Production-from-Renewable-Energy-MWh": 4006511.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3512315.0,
+   "cities-served": [
+    "Airway Heights, WA",
+    "Albion, WA",
+    "Almira, WA",
+    "Asotin, WA",
+    "Athol, ID",
+    "Bonners Ferry, ID",
+    "Bovill, ID",
+    "Cheney, WA",
+    "Chewelah, WA",
+    "Clark Fork, ID",
+    "Clarkston, WA",
+    "Coeur d'Alene, ID",
+    "Colfax, WA",
+    "Colton, WA",
+    "Colville, WA",
+    "Connell, WA",
+    "Cottonwood, ID",
+    "Craigmont, ID",
+    "Creston, WA",
+    "Culdesac, ID",
+    "Cusick, WA",
+    "Dalton Gardens, ID",
+    "Davenport, WA",
+    "Deary, ID",
+    "Deer Park, WA",
+    "Dover, ID",
+    "East Hope, ID",
+    "Elk River, ID",
+    "Endicott, WA",
+    "Fairfield, WA",
+    "Farmington, WA",
+    "Ferdinand, ID",
+    "Fernan Lake Village, ID",
+    "Garfield, WA",
+    "Genesee, ID",
+    "Grangeville, ID",
+    "Harrington, WA",
+    "Harrison, ID",
+    "Hatton, WA",
+    "Hauser, ID",
+    "Hayden, ID",
+    "Hayden Lake, ID",
+    "Hope, ID",
+    "Huetter, ID",
+    "Ione, WA",
+    "Juliaetta, ID",
+    "Juneau and, AK",
+    "Kahlotus, WA",
+    "Kamiah, ID",
+    "Kellogg, ID",
+    "Kendrick, ID",
+    "Kettle Falls, WA",
+    "Kooskia, ID",
+    "Kootenai, ID",
+    "Krupp, WA",
+    "LaCrosse, WA",
+    "Lamont, WA",
+    "Lapwai, ID",
+    "Latah, WA",
+    "Lewiston, ID",
+    "Liberty Lake, WA",
+    "Lind, WA",
+    "Malden, WA",
+    "Marcus, WA",
+    "Medical Lake, WA",
+    "Metaline, WA",
+    "Metaline Falls, WA",
+    "Millwood, WA",
+    "Moscow, ID",
+    "Moyie Springs, ID",
+    "Mullan, ID",
+    "Newport, WA",
+    "Nezperce, ID",
+    "Northport, WA",
+    "Oakesdale, WA",
+    "Odessa, WA",
+    "Oldtown, ID",
+    "Onaway, ID",
+    "Orofino, ID",
+    "Osburn, ID",
+    "Othello, WA",
+    "Palouse, WA",
+    "Peck, ID",
+    "Pierce, ID",
+    "Pinehurst, ID",
+    "Plummer, ID",
+    "Ponderay, ID",
+    "Post Falls, ID",
+    "Potlatch, ID",
+    "Priest River, ID",
+    "Pullman, WA",
+    "Rathdrum, ID",
+    "Reardan, WA",
+    "Republic, WA",
+    "Reubens, ID",
+    "Ritzville, WA",
+    "Rockford, WA",
+    "Rosalia, WA",
+    "Sandpoint, ID",
+    "Smelterville, ID",
+    "Spangle, WA",
+    "Spirit Lake, ID",
+    "Spokane, WA",
+    "Spokane Valley, WA",
+    "Sprague, WA",
+    "Springdale, WA",
+    "St. John, WA",
+    "St. Maries, ID",
+    "State Line, ID",
+    "Stites, ID",
+    "Tekoa, WA",
+    "Tensed, ID",
+    "Troy, ID",
+    "Uniontown, WA",
+    "Wallace, ID",
+    "Wardner, ID",
+    "Washtucna, WA",
+    "Waverly, WA",
+    "Weippe, ID",
+    "White Bird, ID",
+    "Wilbur, WA",
+    "Winchester, ID",
+    "Worley, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Grant County, WA",
+     "population": 99123
+    },
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    },
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Stevens County, WA",
+     "population": 46445
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Nez Perce County, ID",
+     "population": 42090
+    },
+    {
+     "county": "Latah County, ID",
+     "population": 39517
+    },
+    {
+     "county": "Juneau City and Borough, AK",
+     "population": 32255
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Adams County, WA",
+     "population": 20613
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Pend Oreille County, WA",
+     "population": 13401
+    },
+    {
+     "county": "Shoshone County, ID",
+     "population": 13169
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Boundary County, ID",
+     "population": 12056
+    },
+    {
+     "county": "Lincoln County, WA",
+     "population": 10876
+    },
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Ferry County, WA",
+     "population": 7178
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Lewis County, ID",
+     "population": 3533
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 263560
+    },
+    {
+     "state": "Idaho",
+     "customers": 140539
+    },
+    {
+     "state": "Alaska",
+     "customers": 17578
+    },
+    {
+     "state": "Montana",
+     "customers": 31
+    }
+   ]
+  },
+  {
+   "company": "Snohomish County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.snopud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 390537000.0,
+   "Residential-Customers": 334200.0,
+   "Commercial-Sales-($)": 209819000.0,
+   "Commercial-Customers": 34502.0,
+   "Industrial-Sales-($)": 32728000.0,
+   "Industrial-Customers": 76.0,
+   "Total-Customers": 368778.0,
+   "Total-Production-MWh": 500807.0,
+   "Production-from-Renewable-Energy-MWh": 500821.0,
+   "cities-served": [
+    "Arlington, WA",
+    "Bothell, WA",
+    "Brier, WA",
+    "Darrington, WA",
+    "Edmonds, WA",
+    "Everett, WA",
+    "Gold Bar, WA",
+    "Granite Falls, WA",
+    "Index, WA",
+    "Lake Stevens, WA",
+    "Lynnwood, WA",
+    "Marysville, WA",
+    "Mill Creek, WA",
+    "Monroe, WA",
+    "Mountlake Terrace, WA",
+    "Mukilteo, WA",
+    "Snohomish, WA",
+    "Stanwood, WA",
+    "Sultan, WA",
+    "Woodway, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Snohomish County, WA",
+     "population": 827957
+    },
+    {
+     "county": "Island County, WA",
+     "population": 86857
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 368778
+    }
+   ]
+  },
+  {
+   "company": "Clark Public Utilities",
+   "company-type": "Political Subdivision",
+   "website": "https://www.clarkpublicutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 238380000.0,
+   "Residential-Customers": 204313.0,
+   "Commercial-Sales-($)": 101243000.0,
+   "Commercial-Customers": 19098.0,
+   "Industrial-Sales-($)": 42499000.0,
+   "Industrial-Customers": 28.0,
+   "Total-Customers": 223439.0,
+   "Total-Production-MWh": 1924193.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1924193.0,
+   "cities-served": [
+    "Battle Ground, WA",
+    "Camas, WA",
+    "La Center, WA",
+    "Ridgefield, WA",
+    "Vancouver, WA",
+    "Washougal, WA",
+    "Woodland, WA",
+    "Yacolt, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, WA",
+     "population": 503311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 223440
+    }
+   ]
+  },
+  {
+   "company": "Tacoma Power",
+   "company-type": "Municipal",
+   "website": "https://www.mytpu.org/about-tpu/services/power/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 196221074.0,
+   "Residential-Customers": 165850.0,
+   "Commercial-Sales-($)": 31209476.0,
+   "Commercial-Customers": 18372.0,
+   "Industrial-Sales-($)": 162501423.0,
+   "Industrial-Customers": 2562.0,
+   "Total-Customers": 186784.0,
+   "Total-Production-MWh": 2707652.0,
+   "Production-from-Renewable-Energy-MWh": 2707652.0,
+   "cities-served": [
+    "Federal Way, WA",
+    "Fife, WA",
+    "Fircrest, WA",
+    "Lakewood, WA",
+    "Milton, WA",
+    "Roy, WA",
+    "Steilacoom, WA",
+    "Tacoma, WA",
+    "University Place, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 186785
+    }
+   ]
+  },
+  {
+   "company": "Benton PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.bentonpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 62192000.0,
+   "Residential-Customers": 47856.0,
+   "Commercial-Sales-($)": 35901000.0,
+   "Commercial-Customers": 6497.0,
+   "Industrial-Sales-($)": 29772000.0,
+   "Industrial-Customers": 989.0,
+   "Total-Customers": 55342.0,
+   "cities-served": [
+    "Benton City, WA",
+    "Boardman, OR",
+    "Kennewick, WA",
+    "Prosser, WA",
+    "Richland, WA",
+    "West Richland, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, WA",
+     "population": 206873
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 55342
+    }
+   ]
+  },
+  {
+   "company": "Cowlitz County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.cowlitzpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 65338000.0,
+   "Residential-Customers": 45853.0,
+   "Commercial-Sales-($)": 33513000.0,
+   "Commercial-Customers": 6431.0,
+   "Industrial-Sales-($)": 161932000.0,
+   "Industrial-Customers": 102.0,
+   "Total-Customers": 52386.0,
+   "cities-served": [
+    "Castle Rock, WA",
+    "Kalama, WA",
+    "Kelso, WA",
+    "Longview, WA",
+    "Woodland, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Cowlitz County, WA",
+     "population": 110730
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 52386
+    }
+   ]
+  },
+  {
+   "company": "Grant County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.grantpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 45094000.0,
+   "Residential-Customers": 39638.0,
+   "Commercial-Sales-($)": 38548000.0,
+   "Commercial-Customers": 7396.0,
+   "Industrial-Sales-($)": 126135000.0,
+   "Industrial-Customers": 5194.0,
+   "Total-Customers": 52228.0,
+   "Total-Production-MWh": 10018746.0,
+   "Production-from-Renewable-Energy-MWh": 10018746.0,
+   "cities-served": [
+    "Coulee City, WA",
+    "Coulee Dam, WA",
+    "Electric City, WA",
+    "Ephrata, WA",
+    "George, WA",
+    "Grand Coulee, WA",
+    "Hartline, WA",
+    "Krupp, WA",
+    "Mattawa, WA",
+    "Moses Lake, WA",
+    "Quincy, WA",
+    "Royal City, WA",
+    "Soap Lake, WA",
+    "Warden, WA",
+    "Wilson Creek, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Grant County, WA",
+     "population": 99123
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 52228
+    }
+   ]
+  },
+  {
+   "company": "Chelan County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.chelanpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 27122700.0,
+   "Residential-Customers": 39781.0,
+   "Commercial-Sales-($)": 15936900.0,
+   "Commercial-Customers": 6474.0,
+   "Industrial-Sales-($)": 23302800.0,
+   "Industrial-Customers": 1482.0,
+   "Total-Customers": 47737.0,
+   "Total-Production-MWh": 8986811.0,
+   "Production-from-Renewable-Energy-MWh": 8986811.0,
+   "cities-served": [
+    "Cashmere, WA",
+    "Chelan, WA",
+    "Entiat, WA",
+    "Leavenworth, WA",
+    "Wenatchee, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Chelan County, WA",
+     "population": 79074
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 47737
+    }
+   ]
+  },
+  {
+   "company": "Inland Power",
+   "company-type": "Cooperative",
+   "website": "https://www.inlandpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 58531800.0,
+   "Residential-Customers": 39632.0,
+   "Commercial-Sales-($)": 15878300.0,
+   "Commercial-Customers": 3520.0,
+   "Industrial-Sales-($)": 5834100.0,
+   "Industrial-Customers": 514.0,
+   "Total-Customers": 43666.0,
+   "cities-served": [
+    "Airway Heights, WA",
+    "Albion, WA",
+    "Cheney, WA",
+    "Clarkston, WA",
+    "Colfax, WA",
+    "Colton, WA",
+    "Creston, WA",
+    "Davenport, WA",
+    "Deer Park, WA",
+    "Endicott, WA",
+    "Fairfield, WA",
+    "Farmington, WA",
+    "Garfield, WA",
+    "Harrington, WA",
+    "LaCrosse, WA",
+    "Lamont, WA",
+    "Latah, WA",
+    "Liberty Lake, WA",
+    "Malden, WA",
+    "Medical Lake, WA",
+    "Millwood, WA",
+    "Oakesdale, WA",
+    "Odessa, WA",
+    "Oldtown, ID",
+    "Palouse, WA",
+    "Pomeroy, WA",
+    "Priest River, ID",
+    "Pullman, WA",
+    "Reardan, WA",
+    "Rockford, WA",
+    "Rosalia, WA",
+    "Spangle, WA",
+    "Spirit Lake, ID",
+    "Spokane, WA",
+    "Spokane Valley, WA",
+    "Sprague, WA",
+    "St. John, WA",
+    "Starbuck, WA",
+    "Tekoa, WA",
+    "Uniontown, WA",
+    "Waverly, WA",
+    "Wilbur, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Stevens County, WA",
+     "population": 46445
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Adams County, WA",
+     "population": 20613
+    },
+    {
+     "county": "Lincoln County, WA",
+     "population": 10876
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 41665
+    },
+    {
+     "state": "Idaho",
+     "customers": 2001
+    }
+   ]
+  },
+  {
+   "company": "Grays Harbor PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.ghpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 60653400.0,
+   "Residential-Customers": 37941.0,
+   "Commercial-Sales-($)": 32650200.0,
+   "Commercial-Customers": 5603.0,
+   "Industrial-Sales-($)": 7070300.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 43562.0,
+   "cities-served": [
+    "Aberdeen, WA",
+    "Cosmopolis, WA",
+    "Elma, WA",
+    "Hoquiam, WA",
+    "McCleary, WA",
+    "Montesano, WA",
+    "Oakville, WA",
+    "Ocean Shores, WA",
+    "Westport, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Thurston County, WA",
+     "population": 294793
+    },
+    {
+     "county": "Grays Harbor County, WA",
+     "population": 75636
+    },
+    {
+     "county": "Jefferson County, WA",
+     "population": 32977
+    },
+    {
+     "county": "Pacific County, WA",
+     "population": 23365
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 43562
+    }
+   ]
+  },
+  {
+   "company": "Mason County PUD 3",
+   "company-type": "Political Subdivision",
+   "website": "https://www.pud3.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48521000.0,
+   "Residential-Customers": 32259.0,
+   "Commercial-Sales-($)": 16260000.0,
+   "Commercial-Customers": 2380.0,
+   "Industrial-Sales-($)": 3009000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 34640.0,
+   "cities-served": [
+    "Bremerton, WA",
+    "Shelton, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Kitsap County, WA",
+     "population": 275611
+    },
+    {
+     "county": "Mason County, WA",
+     "population": 65726
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 34640
+    }
+   ]
+  },
+  {
+   "company": "Peninsula Light Company",
+   "company-type": "Cooperative",
+   "website": "https://www.penlight.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 51357300.0,
+   "Residential-Customers": 34013.0,
+   "Commercial-Sales-($)": 7439200.0,
+   "Commercial-Customers": 201.0,
+   "Total-Customers": 34214.0,
+   "cities-served": [
+    "Artondale CDP",
+    "Gig Harbor",
+    "Wollochet CDP",
+    "Maplewood CDP",
+    "Wauna CDP",
+    "Rosedale CDP",
+    "Longbranch CDP",
+    "Fox Island CDP",
+    "Key Center CDP",
+    "Canterwood CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    },
+    {
+     "county": "Kitsap County, WA",
+     "population": 275611
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 34214
+    }
+   ]
+  },
+  {
+   "company": "Lewis County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.lcpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 40594200.0,
+   "Residential-Customers": 27512.0,
+   "Commercial-Sales-($)": 17041300.0,
+   "Commercial-Customers": 5512.0,
+   "Industrial-Sales-($)": 15787900.0,
+   "Industrial-Customers": 184.0,
+   "Total-Customers": 33208.0,
+   "Total-Production-MWh": 236996.0,
+   "Production-from-Renewable-Energy-MWh": 236996.0,
+   "cities-served": [
+    "Centralia, WA",
+    "Chehalis, WA",
+    "Morton, WA",
+    "Mossyrock, WA",
+    "Napavine, WA",
+    "Pe Ell, WA",
+    "Toledo, WA",
+    "Vader, WA",
+    "Winlock, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Lewis County, WA",
+     "population": 82149
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 33208
+    }
+   ]
+  },
+  {
+   "company": "Clallam County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.clallampud.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48960700.0,
+   "Residential-Customers": 29572.0,
+   "Commercial-Sales-($)": 15011900.0,
+   "Commercial-Customers": 3474.0,
+   "Industrial-Sales-($)": 1350100.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 33047.0,
+   "cities-served": [
+    "Forks, WA",
+    "Sequim, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Clallam County, WA",
+     "population": 77155
+    },
+    {
+     "county": "Jefferson County, WA",
+     "population": 32977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 33047
+    }
+   ]
+  },
+  {
+   "company": "Kootenai Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.kec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 40186263.0,
+   "Residential-Customers": 27632.0,
+   "Commercial-Sales-($)": 12511882.0,
+   "Commercial-Customers": 2362.0,
+   "Industrial-Sales-($)": 1931663.0,
+   "Industrial-Customers": 42.0,
+   "Total-Customers": 30036.0,
+   "cities-served": [
+    "Athol, ID",
+    "Coeur d'Alene, ID",
+    "Dalton Gardens, ID",
+    "Fernan Lake Village, ID",
+    "Hauser, ID",
+    "Hayden, ID",
+    "Hayden Lake, ID",
+    "Huetter, ID",
+    "Liberty Lake, WA",
+    "Post Falls, ID",
+    "Rathdrum, ID",
+    "Spirit Lake, ID",
+    "State Line, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    },
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 29940
+    },
+    {
+     "state": "Washington",
+     "customers": 97
+    }
+   ]
+  },
+  {
+   "company": "Franklin County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.franklinpud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35528000.0,
+   "Residential-Customers": 25881.0,
+   "Commercial-Sales-($)": 28643000.0,
+   "Commercial-Customers": 1923.0,
+   "Industrial-Sales-($)": 18492000.0,
+   "Industrial-Customers": 358.0,
+   "Total-Customers": 28162.0,
+   "cities-served": [
+    "Connell, WA",
+    "Kahlotus, WA",
+    "Mesa, WA",
+    "Pasco, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 28162
+    }
+   ]
+  },
+  {
+   "company": "Richland Electric",
+   "company-type": "Municipal",
+   "website": "https://www.ci.richland.wa.us/departments/energy-services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 34762000.0,
+   "Residential-Customers": 23966.0,
+   "Commercial-Sales-($)": 25984000.0,
+   "Commercial-Customers": 1597.0,
+   "Industrial-Sales-($)": 10790000.0,
+   "Industrial-Customers": 50.0,
+   "Total-Customers": 25613.0,
+   "cities-served": [
+    "Richland"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, WA",
+     "population": 206873
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 25613
+    }
+   ]
+  },
+  {
+   "company": "Okanogan PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.okanoganpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24444800.0,
+   "Residential-Customers": 17485.0,
+   "Commercial-Sales-($)": 20909000.0,
+   "Commercial-Customers": 3923.0,
+   "Industrial-Sales-($)": 917300.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 21410.0,
+   "cities-served": [
+    "Brewster, WA",
+    "Conconully, WA",
+    "Coulee Dam, WA",
+    "Elmer City, WA",
+    "Nespelem, WA",
+    "Okanogan, WA",
+    "Omak, WA",
+    "Oroville, WA",
+    "Pateros, WA",
+    "Riverside, WA",
+    "Tonasket, WA",
+    "Twisp, WA",
+    "Winthrop, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 21410
+    }
+   ]
+  },
+  {
+   "company": "Jefferson County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.jeffpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24541500.0,
+   "Residential-Customers": 17668.0,
+   "Commercial-Sales-($)": 7210300.0,
+   "Commercial-Customers": 2551.0,
+   "Industrial-Sales-($)": 5837900.0,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 20240.0,
+   "cities-served": [
+    "Port Townsend",
+    "Port Hadlock-Irondale CDP",
+    "Port Ludlow CDP",
+    "Marrowstone CDP",
+    "Brinnon CDP",
+    "Quilcene CDP",
+    "Queets CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, WA",
+     "population": 32977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 20240
+    }
+   ]
+  },
+  {
+   "company": "Pacific County PUD",
+   "company-type": "Political Subdivision",
+   "website": "http://www.pacificpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15725300.0,
+   "Residential-Customers": 15825.0,
+   "Commercial-Sales-($)": 7007600.0,
+   "Commercial-Customers": 2042.0,
+   "Industrial-Sales-($)": 1234000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 17868.0,
+   "cities-served": [
+    "Ilwaco, WA",
+    "Long Beach, WA",
+    "Raymond, WA",
+    "South Bend, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Pacific County, WA",
+     "population": 23365
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 17868
+    }
+   ]
+  },
+  {
+   "company": "Douglas County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.douglaspud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13019000.0,
+   "Residential-Customers": 15557.0,
+   "Commercial-Sales-($)": 8967000.0,
+   "Commercial-Customers": 921.0,
+   "Industrial-Sales-($)": 10791000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 16485.0,
+   "Total-Production-MWh": 4269509.0,
+   "Production-from-Renewable-Energy-MWh": 4269509.0,
+   "cities-served": [
+    "Bridgeport, WA",
+    "Coulee Dam, WA",
+    "East Wenatchee, WA",
+    "Mansfield, WA",
+    "Rock Island, WA",
+    "Waterville, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, WA",
+     "population": 42938
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 16485
+    }
+   ]
+  },
+  {
+   "company": "Elmhurst Mutual Power & Light",
+   "company-type": "Cooperative",
+   "website": "https://www.elmhurstmutual.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 17524900.0,
+   "Residential-Customers": 14885.0,
+   "Commercial-Sales-($)": 2445800.0,
+   "Commercial-Customers": 696.0,
+   "Total-Customers": 15581.0,
+   "cities-served": [
+    "South Hill CDP",
+    "Parkland CDP",
+    "Spanaway CDP",
+    "Frederickson CDP",
+    "Summit View CDP",
+    "Clover Creek CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 15581
+    }
+   ]
+  },
+  {
+   "company": "Orcas Power & Light Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.opalco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 24063000.0,
+   "Residential-Customers": 13379.0,
+   "Commercial-Sales-($)": 7714000.0,
+   "Commercial-Customers": 1914.0,
+   "Total-Customers": 15293.0,
+   "cities-served": [
+    "Friday Harbor",
+    "Roche Harbor CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "San Juan County, WA",
+     "population": 17788
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 15293
+    }
+   ]
+  },
+  {
+   "company": "Benton Rural Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.bentonrea.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18254000.0,
+   "Residential-Customers": 11948.0,
+   "Commercial-Sales-($)": 9474000.0,
+   "Commercial-Customers": 1477.0,
+   "Industrial-Sales-($)": 12848000.0,
+   "Industrial-Customers": 1392.0,
+   "Total-Customers": 14817.0,
+   "cities-served": [
+    "Benton City, WA",
+    "Grandview, WA",
+    "Granger, WA",
+    "Mabton, WA",
+    "Prosser, WA",
+    "Richland, WA",
+    "Sunnyside, WA",
+    "Tieton, WA",
+    "West Richland, WA",
+    "Yakima, WA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Benton County, WA",
+     "population": 206873
+    },
+    {
+     "county": "Lewis County, WA",
+     "population": 82149
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 14817
+    }
+   ]
+  },
+  {
+   "company": "Klickitat County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.klickitatpud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16732000.0,
+   "Residential-Customers": 11157.0,
+   "Commercial-Sales-($)": 10024500.0,
+   "Commercial-Customers": 2025.0,
+   "Industrial-Sales-($)": 7970700.0,
+   "Industrial-Customers": 250.0,
+   "Total-Customers": 13432.0,
+   "Total-Production-MWh": 19859.0,
+   "Production-from-Renewable-Energy-MWh": 19859.0,
+   "cities-served": [
+    "Bingen, WA",
+    "Goldendale, WA",
+    "Rufus, OR",
+    "White Salmon, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Klickitat County, WA",
+     "population": 22735
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 13432
+    }
+   ]
+  },
+  {
+   "company": "Vera Water and Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.verawaterandpower.com/services/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 12131000.0,
+   "Residential-Customers": 11310.0,
+   "Commercial-Sales-($)": 6050000.0,
+   "Commercial-Customers": 1314.0,
+   "Total-Customers": 12624.0,
+   "cities-served": [
+    "Spokane Valley"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 12624
+    }
+   ]
+  },
+  {
+   "company": "Port Angeles, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://wa-portangeles.civicplus.com/235/Divisions",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11447000.0,
+   "Residential-Customers": 9895.0,
+   "Commercial-Sales-($)": 7532000.0,
+   "Commercial-Customers": 1934.0,
+   "Industrial-Sales-($)": 4104000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 11835.0,
+   "cities-served": [
+    "Port Angeles"
+   ],
+   "counties-served": [
+    {
+     "county": "Clallam County, WA",
+     "population": 77155
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 11835
+    }
+   ]
+  },
+  {
+   "company": "Clearwater Power",
+   "company-type": "Cooperative",
+   "website": "http://www.clearwaterpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16659483.136,
+   "Residential-Customers": 10109.0,
+   "Commercial-Sales-($)": 3251171.918,
+   "Commercial-Customers": 886.0,
+   "Industrial-Sales-($)": 1390091.105,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 10998.0,
+   "cities-served": [
+    "Asotin, WA",
+    "Clarkston, WA",
+    "Colton, WA",
+    "Craigmont, ID",
+    "Culdesac, ID",
+    "Deary, ID",
+    "Farmington, WA",
+    "Ferdinand, ID",
+    "Garfield, WA",
+    "Genesee, ID",
+    "Juliaetta, ID",
+    "Kendrick, ID",
+    "Lapwai, ID",
+    "Lewiston, ID",
+    "Moscow, ID",
+    "Nezperce, ID",
+    "Onaway, ID",
+    "Orofino, ID",
+    "Palouse, WA",
+    "Peck, ID",
+    "Plummer, ID",
+    "Potlatch, ID",
+    "Reubens, ID",
+    "Tensed, ID",
+    "Troy, ID",
+    "Uniontown, WA",
+    "Weippe, ID",
+    "Winchester, ID"
+   ],
+   "counties-served": [
+    {
+     "county": "Whitman County, WA",
+     "population": 47973
+    },
+    {
+     "county": "Nez Perce County, ID",
+     "population": 42090
+    },
+    {
+     "county": "Latah County, ID",
+     "population": 39517
+    },
+    {
+     "county": "Asotin County, WA",
+     "population": 22285
+    },
+    {
+     "county": "Idaho County, ID",
+     "population": 16541
+    },
+    {
+     "county": "Shoshone County, ID",
+     "population": 13169
+    },
+    {
+     "county": "Benewah County, ID",
+     "population": 9530
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Lewis County, ID",
+     "population": 3533
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 9804
+    },
+    {
+     "state": "Washington",
+     "customers": 1017
+    },
+    {
+     "state": "Oregon",
+     "customers": 177
+    }
+   ]
+  },
+  {
+   "company": "Centralia City Light",
+   "company-type": "Municipal",
+   "website": "http://www.cityofcentralia.com/SectionIndex.asp?SectionID=20",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11542400.0,
+   "Residential-Customers": 8842.0,
+   "Commercial-Sales-($)": 3627500.0,
+   "Commercial-Customers": 1492.0,
+   "Industrial-Sales-($)": 10195800.0,
+   "Industrial-Customers": 139.0,
+   "Total-Customers": 10473.0,
+   "Total-Production-MWh": 30763.0,
+   "Production-from-Renewable-Energy-MWh": 30763.0,
+   "cities-served": [
+    "Centralia"
+   ],
+   "counties-served": [
+    {
+     "county": "Lewis County, WA",
+     "population": 82149
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 10473
+    }
+   ]
+  },
+  {
+   "company": "Modern Electric Water Company",
+   "company-type": "Cooperative",
+   "website": "https://www.modernelectricwater.com/electric-department-2/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 6053900.0,
+   "Residential-Customers": 8651.0,
+   "Commercial-Sales-($)": 7808200.0,
+   "Commercial-Customers": 1677.0,
+   "Total-Customers": 10328.0,
+   "cities-served": [
+    "Spokane Valley"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 10328
+    }
+   ]
+  },
+  {
+   "company": "Lakeview Light & Power",
+   "company-type": "Cooperative",
+   "website": "https://www.lakeviewlight.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10720000.0,
+   "Residential-Customers": 8139.0,
+   "Commercial-Sales-($)": 7755000.0,
+   "Commercial-Customers": 2115.0,
+   "Industrial-Sales-($)": 4807000.0,
+   "Industrial-Customers": 45.0,
+   "Total-Customers": 10299.0,
+   "cities-served": [
+    "Lakewood"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 10299
+    }
+   ]
+  },
+  {
+   "company": "Ellensburg Electricity",
+   "company-type": "Municipal",
+   "website": "https://www.ci.ellensburg.wa.us/1030/Electric-Utility",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8993400.0,
+   "Residential-Customers": 8705.0,
+   "Commercial-Sales-($)": 7304900.0,
+   "Commercial-Customers": 1537.0,
+   "Industrial-Sales-($)": 502000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 10243.0,
+   "cities-served": [
+    "Ellensburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Kittitas County, WA",
+     "population": 44337
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 10243
+    }
+   ]
+  },
+  {
+   "company": "Big Bend Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.bbec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8918200.0,
+   "Residential-Customers": 5186.0,
+   "Commercial-Sales-($)": 8646200.0,
+   "Commercial-Customers": 1916.0,
+   "Industrial-Sales-($)": 21480900.0,
+   "Industrial-Customers": 2482.0,
+   "Total-Customers": 9584.0,
+   "cities-served": [
+    "Connell, WA",
+    "Hatton, WA",
+    "Kahlotus, WA",
+    "Lind, WA",
+    "Mesa, WA",
+    "Othello, WA",
+    "Ritzville, WA",
+    "Washtucna, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    },
+    {
+     "county": "Adams County, WA",
+     "population": 20613
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 9584
+    }
+   ]
+  },
+  {
+   "company": "Pend Oreille County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.popud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11119000.0,
+   "Residential-Customers": 8585.0,
+   "Commercial-Sales-($)": 2898000.0,
+   "Commercial-Customers": 849.0,
+   "Industrial-Sales-($)": 16685000.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 9448.0,
+   "Total-Production-MWh": 475133.0,
+   "Production-from-Renewable-Energy-MWh": 475133.0,
+   "cities-served": [
+    "Cusick, WA",
+    "Ione, WA",
+    "Metaline, WA",
+    "Metaline Falls, WA",
+    "Newport, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Pend Oreille County, WA",
+     "population": 13401
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 9448
+    }
+   ]
+  },
+  {
+   "company": "Skamania County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.skamaniapud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8657850.691,
+   "Residential-Customers": 5760.0,
+   "Commercial-Sales-($)": 2757212.501,
+   "Commercial-Customers": 651.0,
+   "Industrial-Sales-($)": 1396936.808,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 6415.0,
+   "cities-served": [
+    "North Bonneville, WA",
+    "Stevenson, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Skamania County, WA",
+     "population": 12036
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 6415
+    }
+   ]
+  },
+  {
+   "company": "Columbia REA",
+   "company-type": "Cooperative",
+   "website": "https://www.columbiarea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7333100.0,
+   "Residential-Customers": 4001.0,
+   "Commercial-Sales-($)": 7410400.0,
+   "Commercial-Customers": 1401.0,
+   "Industrial-Sales-($)": 17467900.0,
+   "Industrial-Customers": 605.0,
+   "Total-Customers": 6007.0,
+   "cities-served": [
+    "College Place, WA",
+    "Dayton, WA",
+    "Pasco, WA",
+    "Prescott, WA",
+    "Starbuck, WA",
+    "Waitsburg, WA",
+    "Walla Walla, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, WA",
+     "population": 96749
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 5872
+    },
+    {
+     "state": "Oregon",
+     "customers": 135
+    }
+   ]
+  },
+  {
+   "company": "Cheney Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcheney.org/173/Light-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4225382.082,
+   "Residential-Customers": 5364.0,
+   "Commercial-Sales-($)": 3504047.588,
+   "Commercial-Customers": 451.0,
+   "Industrial-Sales-($)": 985970.33,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 5823.0,
+   "cities-served": [
+    "Cheney"
+   ],
+   "counties-served": [
+    {
+     "county": "Spokane County, WA",
+     "population": 539339
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 5823
+    }
+   ]
+  },
+  {
+   "company": "Mason County PUD 1",
+   "company-type": "Political Subdivision",
+   "website": "https://www.mason-pud1.org/services-available/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 7064196.136,
+   "Residential-Customers": 4928.0,
+   "Commercial-Sales-($)": 1960803.864,
+   "Commercial-Customers": 484.0,
+   "Total-Customers": 5412.0,
+   "cities-served": [
+    "Brinnon CDP",
+    "Union CDP",
+    "Skokomish CDP",
+    "Hoodsport CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, WA",
+     "population": 32977
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 5412
+    }
+   ]
+  },
+  {
+   "company": "Tanner Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.tannerelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 8712876.455,
+   "Residential-Customers": 4733.0,
+   "Commercial-Sales-($)": 3277123.545,
+   "Commercial-Customers": 344.0,
+   "Total-Customers": 5077.0,
+   "cities-served": [
+    "North Bend, WA",
+    "Snoqualmie, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "King County, WA",
+     "population": 2269675
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 5077
+    }
+   ]
+  },
+  {
+   "company": "Kittitas County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.kittitaspud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6977370.459,
+   "Residential-Customers": 4124.0,
+   "Commercial-Sales-($)": 3902686.424,
+   "Commercial-Customers": 588.0,
+   "Industrial-Sales-($)": 152943.117,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4713.0,
+   "cities-served": [
+    "Cle Elum, WA",
+    "Ellensburg, WA",
+    "Kittitas, WA",
+    "Roslyn, WA",
+    "South Cle Elum, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Kittitas County, WA",
+     "population": 44337
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 4713
+    }
+   ]
+  },
+  {
+   "company": "Parkland Light and Water",
+   "company-type": "Cooperative",
+   "website": "https://www.plw.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4467335.025,
+   "Residential-Customers": 3819.0,
+   "Commercial-Sales-($)": 4118664.975,
+   "Commercial-Customers": 766.0,
+   "Total-Customers": 4585.0,
+   "cities-served": [
+    "Parkland CDP",
+    "Midland CDP",
+    "Clover Creek CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 4585
+    }
+   ]
+  },
+  {
+   "company": "Ohop Mutual Light Company",
+   "company-type": "Cooperative",
+   "website": "https://www.ohop.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6918983.117,
+   "Residential-Customers": 4394.0,
+   "Commercial-Sales-($)": 342982.009,
+   "Commercial-Customers": 128.0,
+   "Industrial-Sales-($)": 6034.874,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 4534.0,
+   "cities-served": [
+    "Graham CDP",
+    "Eatonville",
+    "South Creek CDP",
+    "Clear Lake CDP (Pierce County)",
+    "La Grande CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 4534
+    }
+   ]
+  },
+  {
+   "company": "Okanogan County Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.ocec.coop/residential-service/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4448997.357,
+   "Residential-Customers": 3210.0,
+   "Commercial-Sales-($)": 1616602.643,
+   "Commercial-Customers": 569.0,
+   "Total-Customers": 3779.0,
+   "cities-served": [
+    "Twisp, WA",
+    "Winthrop, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 3779
+    }
+   ]
+  },
+  {
+   "company": "Ferry County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.fcpud.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3866524.3,
+   "Residential-Customers": 3075.0,
+   "Commercial-Sales-($)": 1094602.886,
+   "Commercial-Customers": 523.0,
+   "Industrial-Sales-($)": 1566072.815,
+   "Industrial-Customers": 20.0,
+   "Total-Customers": 3618.0,
+   "cities-served": [
+    "Republic",
+    "Curlew Lake CDP",
+    "Keller CDP",
+    "Pine Grove CDP",
+    "Curlew CDP",
+    "Danville CDP",
+    "Torboy CDP",
+    "Malo CDP",
+    "Laurier CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    },
+    {
+     "county": "Ferry County, WA",
+     "population": 7178
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 3618
+    }
+   ]
+  },
+  {
+   "company": "City of Blaine Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cityofblaine.com/91/Electrical",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2105330.819,
+   "Residential-Customers": 2980.0,
+   "Commercial-Sales-($)": 3415536.697,
+   "Commercial-Customers": 560.0,
+   "Industrial-Sales-($)": 843132.485,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 3553.0,
+   "cities-served": [
+    "Blaine"
+   ],
+   "counties-served": [
+    {
+     "county": "Whatcom County, WA",
+     "population": 226847
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 3553
+    }
+   ]
+  },
+  {
+   "company": "Steilacoom, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townofsteilacoom.org/163/Public-Works",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3072595.506,
+   "Residential-Customers": 2818.0,
+   "Commercial-Sales-($)": 549404.494,
+   "Commercial-Customers": 112.0,
+   "Total-Customers": 2930.0,
+   "cities-served": [
+    "Steilacoom"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 2930
+    }
+   ]
+  },
+  {
+   "company": "Wahkiakum County PUD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.wahkiakumpud.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3055203.62,
+   "Residential-Customers": 2063.0,
+   "Commercial-Sales-($)": 1164796.38,
+   "Commercial-Customers": 555.0,
+   "Total-Customers": 2618.0,
+   "cities-served": [
+    "Puget Island CDP",
+    "East Cathlamet CDP",
+    "Cathlamet",
+    "Skamokawa Valley CDP",
+    "Rosburg CDP",
+    "Lower Elochoman CDP",
+    "Grays River CDP",
+    "Deep River CDP",
+    "Upper Elochoman CDP",
+    "Altoona CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Wahkiakum County, WA",
+     "population": 4422
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 2618
+    }
+   ]
+  },
+  {
+   "company": "Nespelem Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.nvec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1653388.079,
+   "Residential-Customers": 1120.0,
+   "Commercial-Sales-($)": 1901096.192,
+   "Commercial-Customers": 291.0,
+   "Industrial-Sales-($)": 1307715.729,
+   "Industrial-Customers": 105.0,
+   "Total-Customers": 1516.0,
+   "cities-served": [
+    "Coulee Dam, WA",
+    "Elmer City, WA",
+    "Nespelem, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1516
+    }
+   ]
+  },
+  {
+   "company": "Chewelah, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofchewelah.org/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1026000.0,
+   "Residential-Customers": 1127.0,
+   "Commercial-Sales-($)": 912000.0,
+   "Commercial-Customers": 207.0,
+   "Total-Customers": 1334.0,
+   "cities-served": [
+    "Chewelah"
+   ],
+   "counties-served": [
+    {
+     "county": "Stevens County, WA",
+     "population": 46445
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1334
+    }
+   ]
+  },
+  {
+   "company": "Eatonville Power",
+   "company-type": "Municipal",
+   "website": "https://www.eatonville-wa.gov/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1258544.408,
+   "Residential-Customers": 1071.0,
+   "Commercial-Sales-($)": 826455.592,
+   "Commercial-Customers": 203.0,
+   "Total-Customers": 1274.0,
+   "cities-served": [
+    "Eatonville"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, WA",
+     "population": 921130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1274
+    }
+   ]
+  },
+  {
+   "company": "McCleary, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofmccleary.com/index.asp?Type=B_BASIC&SEC=%7B73D18EDE-4C70-4099-8FEB-6AEC756B4211%7D",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1223777.71,
+   "Residential-Customers": 1093.0,
+   "Commercial-Sales-($)": 619584.942,
+   "Commercial-Customers": 116.0,
+   "Industrial-Sales-($)": 909837.348,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1210.0,
+   "cities-served": [
+    "McCleary"
+   ],
+   "counties-served": [
+    {
+     "county": "Grays Harbor County, WA",
+     "population": 75636
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1210
+    }
+   ]
+  },
+  {
+   "company": "Sumas, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofsumas.com/utility-rates-and-fees/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 478012.968,
+   "Residential-Customers": 861.0,
+   "Commercial-Sales-($)": 463468.963,
+   "Commercial-Customers": 120.0,
+   "Industrial-Sales-($)": 1339018.07,
+   "Industrial-Customers": 22.0,
+   "Total-Customers": 1003.0,
+   "cities-served": [
+    "Sumas"
+   ],
+   "counties-served": [
+    {
+     "county": "Whatcom County, WA",
+     "population": 226847
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 1003
+    }
+   ]
+  },
+  {
+   "company": "Coulee Dam, Washington Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://townofcouleedam.org/publicworks",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 654970.885,
+   "Residential-Customers": 530.0,
+   "Commercial-Sales-($)": 489529.115,
+   "Commercial-Customers": 75.0,
+   "Total-Customers": 605.0,
+   "cities-served": [
+    "Coulee Dam"
+   ],
+   "counties-served": [
+    {
+     "county": "Okanogan County, WA",
+     "population": 42104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Washington",
+     "customers": 605
+    }
+   ]
+  }
+ ]
+}
