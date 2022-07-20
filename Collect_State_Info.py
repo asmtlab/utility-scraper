@@ -85,6 +85,7 @@ STATES = {
 DATASETS_DIRECTORY_PATH = "datasets" # path to dataset directory 
 ENERGY_PRODUCTION_BY_STATE_FILE = "annual_generation_state.xls"
 US_POPULATION_BY_CITY_FILE = "sub-est2021_all.csv"
+OUTPUT_FILE = "all-states-info.json"
 
 #### CSV/XLS HEADER NAMES ####
 # These strings are from the files shown above and are consistent
@@ -211,51 +212,51 @@ def get_city_populations(df, state) -> List[Dict]:
     # sort the list by population of the most recent year
     return sorted(cities, reverse=True, key=lambda city: city[POP_KEY_2])
 
-def get_states_info(energy_production_file: str, population_file: str) -> Dict:
+def get_state_info(state_name: str, state_abrev: str, energy_production_df: DataFrame, statewide_pop_df: DataFrame) -> Dict:
     '''Collects population and energy production data for all states.'''
-    states_dict = {}
+    state_dict = {}
     # read energy production xlsx
-    energy_production_df = get_excel_df(energy_production_file)
-    if energy_production_df is None: return None
 
-    statewide_pop_df = get_csv_df(population_file)
-    if statewide_pop_df is None: return None
+    state_dict['population'] = {}
+    state_dict['energy-production'] = {}
 
-    for state_name, state_abrev in STATES.items():
-        states_dict[state_abrev] = {}
-        states_dict[state_abrev]['population'] = {}
-        states_dict[state_abrev]['energy-production'] = {}
-
-        # get state population
-        states_dict[state_abrev]['population']['total'] = get_state_population(statewide_pop_df, state_name)
-        # get population of counties
-        states_dict[state_abrev]['population']['counties'] = get_county_populations(statewide_pop_df, state_name)
-        # get population of cities
-        states_dict[state_abrev]['population']['cities'] = get_city_populations(statewide_pop_df, state_name)
-        # get energy production
-        states_dict[state_abrev]['energy-production']['annual'] = get_state_energy_production(energy_production_df, state_abrev)
+    # get state population
+    state_dict['population']['total'] = get_state_population(statewide_pop_df, state_name)
+    # get population of counties
+    state_dict['population']['counties'] = get_county_populations(statewide_pop_df, state_name)
+    # get population of cities
+    state_dict['population']['cities'] = get_city_populations(statewide_pop_df, state_name)
+    # get energy production
+    state_dict['energy-production']['annual'] = get_state_energy_production(energy_production_df, state_abrev)
     
-    return states_dict
+    return state_dict
 
 def main():
     energy_production_file = "{}/{}".format(
         DATASETS_DIRECTORY_PATH, ENERGY_PRODUCTION_BY_STATE_FILE
     )
+    # read xls file into pandas dataframe
+    energy_production_df = get_excel_df(energy_production_file)
+    if energy_production_df is None: return None
+
 
     population_file = "{}/{}".format(
         DATASETS_DIRECTORY_PATH, US_POPULATION_BY_CITY_FILE
     )
+    # read csv file into pandas dataframe
+    statewide_pop_df = get_csv_df(population_file)
+    if statewide_pop_df is None: return None
 
-    states_dict = get_states_info(
-        energy_production_file, 
-        population_file
-    )
 
-    if states_dict is None:
-        return 1
+    states_dict = {}
+    for state_name, state_abrev in STATES.items():
+        states_dict[state_abrev] = get_state_info(
+            state_name, state_abrev,
+            energy_production_df, statewide_pop_df
+        )
 
     # write info to json file
-    write_json('energy-production-all-states.json', states_dict)
+    write_json(OUTPUT_FILE, states_dict)
 
     return 0
 
