@@ -3,6 +3,7 @@
 import json
 import sys, time
 from time import sleep
+from typing import Any, Dict, List, Set
 
 # 3rd party libs
 from selenium import webdriver
@@ -39,20 +40,23 @@ REGION_2 = [ 'NJ', 'NY', ]
 REGION_3 = [ 'DE', 'MD', 'PA', 'VA', 'WV' ]
 REGION_4 = [ 'AL', 'FL', 'GA', 'KY', 'MS', 'NC', 'SC', 'TN' ]
 REGION_5 = [ 'IL', 'IN', 'MI', 'MN', 'OH', 'WI' ]
-REGION_6 = [ 'IL' ]
+REGION_6 = [ 'TX', 'AR', 'LA', 'NM', 'OK' ]
+REGION_7 = [ 'IA', 'KS', 'MO', 'NE' ]
+REGION_8 = [ 'CO', 'MT', 'ND', 'SD', 'UT', 'WY' ]
+REGION_9 = [ 'AZ', 'CA', 'HI', 'NV' ]
+REGION_10 = [ 'AK', 'ID', 'OR', 'WA' ]
 
 
-CLICK_DELAY = 6
+CLICK_DELAY = 5
 
 
-def buttonClick(driver, section):
+def button_click(driver: webdriver, section: Any) -> bool:
     '''Click a button on the page found by the XPATH in the formatString argument.'''
-
-
-    # This try except block is need because the buttons used to traverse
-    #   the paginated table appear/disappear from the DOM as you move 
-    #   through the list. If an exception is raised, then we have reached the end
+    
     try:
+        # This try except block is need because the buttons used to traverse
+        #   the paginated table appear/disappear from the DOM as you move 
+        #   through the list. If an exception is raised, then we have reached the end
         buttonList = section.find_element(By.CSS_SELECTOR, "ul.pagination.svelte-x63klk")
         button = WDW(buttonList, 3).until(
             EC.element_to_be_clickable((
@@ -60,7 +64,7 @@ def buttonClick(driver, section):
             ))
         )
     except (NoSuchElementException, TimeoutException):
-        # no more pages
+        # no more buttons
         return True
     
     driver.execute_script("arguments[0].scrollIntoView();", button)
@@ -73,23 +77,23 @@ def buttonClick(driver, section):
 
     return False
 
-def getTableRows(section):
+def get_table_rows(section: Any) -> Any:
     '''Returns object containing list of tr elements from a table in the section.'''
     table = section.find_element(By.CSS_SELECTOR, ".table.sortable-table.svelte-x63klk")
-    tBody = table.find_element(By.CSS_SELECTOR, "tbody")
-    tableRows = tBody.find_elements(By.CSS_SELECTOR, "tr.svelte-x63klk")
+    t_body = table.find_element(By.CSS_SELECTOR, "tbody")
+    table_rows = t_body.find_elements(By.CSS_SELECTOR, "tr.svelte-x63klk")
 
-    return tableRows
+    return table_rows
 
-def scrapeTable(driver, section, numItems, firstItemLink, key1="", key2=""):
-    currentPage = 1
-    itemList = []
+def scrape_table(driver: webdriver, section: Any, numItems: int, is_link: bool, key1: str, key2: str) -> List[Dict]:
+    current_page = 1
+    item_list = []
     
-    while len(itemList) != numItems:
+    while len(item_list) != numItems:
 
-        print("start page {}".format(currentPage))
+        print("start page {}".format(current_page))
 
-        tableRows = getTableRows(section)
+        tableRows = get_table_rows(section)
 
         # iterate over items in the table to get href tag for a elements
         for row in tableRows:
@@ -97,7 +101,7 @@ def scrapeTable(driver, section, numItems, firstItemLink, key1="", key2=""):
             item = {}
             
             # print(providerElement.text)
-            if firstItemLink:
+            if is_link:
                 link = columns[0].find_element(By.CSS_SELECTOR, "a")
                 county = link.text
                 # split url by '/' and get 3rd from last item which is the state abbreviation
@@ -109,79 +113,79 @@ def scrapeTable(driver, section, numItems, firstItemLink, key1="", key2=""):
             item[key2] = int("".join(columns[1].text.split(',')))
 
             print(item)
-            itemList.append(item)
+            item_list.append(item)
         
-        print("done page {}".format(currentPage))
+        print("done page {}".format(current_page))
         
-        currentPage += 1
+        current_page += 1
 
-        if buttonClick(driver, section):
+        if button_click(driver, section):
             break
 
-    return itemList
+    return item_list
 
-def getProviderInfo(driver, url):
-    providerInfo = {}
+def get_provider_info(driver: webdriver, url: str) -> Dict:
+    provider_info = {}
 
     # fetch page
     driver.get(url)
 
     # Scrape Company Name
-    companyName = driver.find_element(By.CSS_SELECTOR, 
+    company_name = driver.find_element(By.CSS_SELECTOR, 
         ".overview__title.svelte-1f6rrn3").text
 
-    print("Scraping {}".format(companyName))
-    providerInfo['company'] = companyName
+    print("Scraping {}".format(company_name))
+    provider_info['company'] = company_name
 
-    companyOverviewSections = driver.find_elements(By.CSS_SELECTOR,
+    company_overview_sections = driver.find_elements(By.CSS_SELECTOR,
         "section#overview .col-lg-5"
     )
 
-    companyType = companyOverviewSections[0].find_elements(By.CSS_SELECTOR,
+    company_type = company_overview_sections[0].find_elements(By.CSS_SELECTOR,
         "li.svelte-1f6rrn3 span.svelte-1f6rrn3")[1].text
 
-    # print("\ttype: {}".format(companyType))
-    providerInfo['company-type'] = companyType
+    # print("\ttype: {}".format(company_type))
+    provider_info['company-type'] = company_type
     
     try:
-        companyWebsite = companyOverviewSections[0].find_elements(By.CSS_SELECTOR,
+        company_website = company_overview_sections[0].find_elements(By.CSS_SELECTOR,
             "ul.list-unstyled.company-info__list.svelte-1f6rrn3")[1].find_element(By.CSS_SELECTOR,
                 "li.svelte-1f6rrn3 a"
             ).get_attribute("href")
     except:
         pass
     else:
-        # print("\twebsite: {}".format(companyWebsite))
-        providerInfo['website'] = companyWebsite
+        # print("\twebsite: {}".format(company_website))
+        provider_info['website'] = company_website
 
     # get provider types (residential, commercial, industrial)
-    serviceTypesElements = driver.find_element(By.CSS_SELECTOR, 
+    service_type_elements = driver.find_element(By.CSS_SELECTOR, 
         ".tab-nav.tab-nav--underlined.svelte-9ar7ba").find_elements(
             By.CSS_SELECTOR, 
             ".tab-nav__link"
         )
     
-    serviceTypes = []
-    for item in serviceTypesElements:
-        serviceTypes.append(item.text)
+    service_types = []
+    for item in service_type_elements:
+        service_types.append(item.text)
     
-    providerInfo['service-types'] = serviceTypes
-    # print("\tservice types:", serviceTypes)
+    provider_info['service-types'] = service_types
+    # print("\tservice types:", service_types)
 
     # collect customers by type
-    statsSections = driver.find_element(By.CSS_SELECTOR,
+    stats_sections = driver.find_element(By.CSS_SELECTOR,
         ".sidebar-widget").find_elements(By.CSS_SELECTOR,
             ".facts-item.svelte-3uw1eb")
 
-    sectionTitle = statsSections[0].find_element(By.CSS_SELECTOR, 
+    section_title = stats_sections[0].find_element(By.CSS_SELECTOR, 
         "h3.facts-item__title.svelte-3uw1eb").text
 
-    if sectionTitle == "SALES & CUSTOMERS":
-        customerSections = statsSections[0].find_elements(By.CSS_SELECTOR,
+    if section_title == "SALES & CUSTOMERS":
+        customers_section = stats_sections[0].find_elements(By.CSS_SELECTOR,
             ".facts-item__li.svelte-3uw1eb")
 
-        totalCustomers = 0
-        for section in customerSections:
+        total_customers = 0
+        for section in customers_section:
             # Replace spaces with '-' for key
             text = section.find_element(By.CSS_SELECTOR,
                 "h4.facts-item__label.svelte-3uw1eb").text.replace(' ', '-')
@@ -192,25 +196,25 @@ def getProviderInfo(driver, url):
             amount = float("".join(stat.split(',')))
 
             if "Customers" in text:
-                totalCustomers += amount
+                total_customers += amount
             else:
                 text = "{}-($)".format(text)
 
-            providerInfo[text] = amount
+            provider_info[text] = amount
             # print(text, amount)
         
-        providerInfo['Total-Customers'] = totalCustomers
-        print(totalCustomers)
+        provider_info['Total-Customers'] = total_customers
+        print(total_customers)
 
     # collect energy production
-    sectionTitle = statsSections[1].find_element(By.CSS_SELECTOR, 
+    section_title = stats_sections[1].find_element(By.CSS_SELECTOR, 
         "h3.facts-item__title.svelte-3uw1eb").text
 
-    if sectionTitle == "ENERGY PRODUCTION":
-        productionStats = statsSections[1].find_elements(By.CSS_SELECTOR,
+    if section_title == "ENERGY PRODUCTION":
+        production_stats = stats_sections[1].find_elements(By.CSS_SELECTOR,
             ".facts-item__li.svelte-3uw1eb")
         
-        for section in productionStats:
+        for section in production_stats:
             text = section.find_element(By.CSS_SELECTOR, 
                 ".facts-item__label.svelte-3uw1eb").text.replace(' ', '-')
             stat = section.find_element(By.CSS_SELECTOR,
@@ -219,139 +223,153 @@ def getProviderInfo(driver, url):
                 ".text-muted").text.strip()
             text = "{}-{}".format(text, units)
             
-            providerInfo[text] = float("".join(stat.split(',')))
-            # print(text, providerInfo[text])
+            provider_info[text] = float("".join(stat.split(',')))
+            # print(text, provider_info[text])
 
     #### COLLECT CITIES SERVED ####
     print("Scraping cities")
 
-    providerInfo["cities-served"] = []
-    cityElements = None
+    provider_info["cities-served"] = []
+    city_elements = None
     try:
         citySection = driver.find_element(By.CSS_SELECTOR,
             "#city-coverage")
-        cityElements = citySection.find_elements(By.CSS_SELECTOR,
+        city_elements = citySection.find_elements(By.CSS_SELECTOR,
             "li.svelte-1f6rrn3")
     except:
-        citySection = companyOverviewSections[1].find_element(By.CSS_SELECTOR,
+        citySection = company_overview_sections[1].find_element(By.CSS_SELECTOR,
             "ul.list-unstyled.company-info__list.svelte-1f6rrn3:nth-child(3) > li:nth-child(3)")
-        cityElements = citySection.find_elements(By.CSS_SELECTOR, "ul.list-unstyled li")
+        city_elements = citySection.find_elements(By.CSS_SELECTOR, "ul.list-unstyled li")
         
-    for city in cityElements:
+    for city in city_elements:
         try:
-            providerInfo["cities-served"].append(city.get_element(
+            provider_info["cities-served"].append(city.get_element(
                 By.CSS_SELECTOR, "a").text)
         except:
-            providerInfo["cities-served"].append(city.text)
+            provider_info["cities-served"].append(city.text)
     #### END CITIES SERVED ####
 
     #### Collect counties served ####
     
     # grab section for County table and use as starting node
     try:
-        countySection = driver.find_element(By.CSS_SELECTOR,
+        county_section = driver.find_element(By.CSS_SELECTOR,
             "#county-coverage")
 
-        numCounties = int(countySection.find_element(By.CSS_SELECTOR,
+        num_counties = int(county_section.find_element(By.CSS_SELECTOR,
             ".table-footer__data.svelte-x63klk").text.split(' ')[0])
-        print("Scraping {} counties".format(numCounties))
-        counties = scrapeTable(driver, countySection, numCounties, 
-                        firstItemLink=True, key1="county", key2="population")
+        print("Scraping {} counties".format(num_counties))
+        counties = scrape_table(driver, county_section, num_counties, 
+                        is_link=True, key1="county", key2="population")
 
-        providerInfo['counties-served'] = sorted(counties, key= lambda county: county['population'])
+        provider_info['counties-served'] = sorted(counties, reverse=True, key= lambda county: county['population'])
     except:
         pass
     #### End counties ####
 
     #### Collect states served ####
-    statesSection = driver.find_element(By.CSS_SELECTOR,
+    states_section = driver.find_element(By.CSS_SELECTOR,
         "#state-coverage")
     
-    numStates = int(statesSection.find_element(By.CSS_SELECTOR,
+    numStates = int(states_section.find_element(By.CSS_SELECTOR,
         ".table-footer__data.svelte-x63klk").text.split(' ')[0])
     print("Scraping {} states".format(numStates))
 
-    states = scrapeTable(driver, statesSection, numStates,
-                    firstItemLink=False, key1="state", key2="customers")
+    states = scrape_table(driver, states_section, numStates,
+                    is_link=False, key1="state", key2="customers")
     
-    providerInfo["states-served"] = sorted(states, key= lambda state: state['customers'])
+    provider_info["states-served"] = sorted(states, reverse=True, key= lambda state: state['customers'])
     #### End states ####
 
-    return providerInfo
+    return provider_info
 
-
-def getElectricalProviders(driver):
+def get_electrical_providers(driver: webdriver) -> Set[Dict]:
     '''Traverses table of providers on a state's homepage 
         (e.g. https://findenergy.com/ak).'''
-    providers = []      # list of links to provider pages
-    currentPage = 1     # current page from Electricity providers table
+    providers = set()   # set of links to provider pages
+    current_page = 1    # current page from Electricity providers table
 
-    numProviders = driver.find_element(By.CSS_SELECTOR, 
+    num_providers = driver.find_element(By.CSS_SELECTOR, 
         ".table-footer__data.svelte-x63klk.svelte-x63klk").text.split(' ')[0]
-    print("Number of providers: {}".format(str(numProviders)))
 
-    while len(providers) != int(numProviders):
-        print("start providers page {}".format(currentPage))
+    print("Number of providers: {}".format(str(num_providers)))
+
+    while len(providers) != int(num_providers):
+        print("start providers page {}".format(current_page))
         # grab table of Electrical Providers and use as starting node
-        providerSection = driver.find_element(By.CSS_SELECTOR, "#electricity-providers")
-        table = providerSection.find_element(By.CSS_SELECTOR, ".table.sortable-table.svelte-x63klk tbody")
-        tableRows = table.find_elements(By.CSS_SELECTOR, "tr.svelte-x63klk")
+        provider_section = driver.find_element(By.CSS_SELECTOR, "#electricity-providers")
+
+        table = provider_section.find_element(By.CSS_SELECTOR, ".table.sortable-table.svelte-x63klk tbody")
+        table_rows = table.find_elements(By.CSS_SELECTOR, "tr.svelte-x63klk")
 
         # iterate over items in the table to get href tag for a elements
-        for row in tableRows:
-            providerElement = row.find_element(By.CSS_SELECTOR, "td.svelte-x63klk a")
-            link = providerElement.get_attribute("href")
-            print(providerElement.text)
-            providers.append(link)
+        for row in table_rows:
+            provider_element = row.find_element(By.CSS_SELECTOR, "td.svelte-x63klk a")
+            link = provider_element.get_attribute("href")
+            print(provider_element.text)
+            providers.add(link)
 
-        print("done providers page {}".format(currentPage))
+        print("done providers page {}".format(current_page))
 
-        currentPage += 1
-        
-        if buttonClick(driver, providerSection):
+        current_page += 1
+
+        if button_click(driver, provider_section):
             break
 
     return providers
 
 
-def scrapeState(driver, url, state):
+def scrape_state(driver: webdriver, url: str, state: str) -> Dict:
     driver.get(url)
     driver.maximize_window()
     print("Scraping {}".format(state))
-    stateInfo = {}
+    state_info = {}
 
-    electricalProviderURLS = getElectricalProviders(driver)
-    
-    electricalProvidersInfo = []
-    for providerURL in electricalProviderURLS:
-        electricalProvidersInfo.append(getProviderInfo(driver, providerURL))
+    provider_urls = get_electrical_providers(driver)
+
+    providers_info = []
+    for providerURL in provider_urls:
+        providers_info.append(get_provider_info(driver, providerURL))
 
     # sort providers by total customers served
-    stateInfo["electrical-providers"] = sorted(electricalProvidersInfo, 
+    state_info["electrical-providers"] = sorted(providers_info, 
         key=lambda provider: provider["Total-Customers"], reverse=True)
     
-    return stateInfo
+    return state_info
 
-def get_driver(browser, options, driver_path):
-    pass
+def get_driver(browser: str, options_list: List[str], driver_path: str) -> webdriver:
+    '''Create webdriver object using path to driver and list of options.'''
+    driver = None
+
+    if browser.lower() == 'firefox':
+        options = webdriver.FirefoxOptions()
+
+        for option in options_list:
+            options.add_argument(option)
+
+        try:
+            driver = webdriver.Firefox(service=FirefoxService(executable_path=driver_path), options=options)
+        except Exception as er:
+            print(er, file=sys.stderr)
+
+    return driver
 
 def main():
-    options = webdriver.FirefoxOptions()
-    options.add_argument('--headless')
-    options.add_argument('--no-sandbox')
-    # options.add_argument('--disable-dev-sh-usage')
-    driver = webdriver.Firefox(service=FirefoxService(executable_path=FIREFOX_PATH), options=options)
+    # info = get_provider_info(driver, 'https://findenergy.com/providers/reliant-energy/')
 
-    # info = getProviderInfo(driver, 'https://findenergy.com/providers/reliant-energy/')
+    driver = get_driver('Firefox', ['--headless', '--no-sandbox' ], FIREFOX_PATH)
+    if driver is None:
+        print("Not able to create webdriver object")
+        return 1
 
     info = {}
-    for state in REGION_4:
-        urlQueryString = "{}{}".format(BASE_URL, state)
-        info[state] = scrapeState(driver, urlQueryString, state)
+    for state in REGION_2:
+        url_query = "{}{}".format(BASE_URL, state)
+        info[state] = scrape_state(driver, url_query, state)
 
         with open('{}/{}-energy-utility-info.json'.format(OUTPUT_DIR, state), 'w') as wf:
-            json.dump(info[state], wf)
-    
+            json.dump(info[state], wf, indent=1)
+
     driver.close()
     
     return 0
