@@ -348,7 +348,7 @@ def main():
         return 1
 
     info = {}
-    for state in REGIONS[8]:
+    for state in REGIONS[0]:
         url_query = "{}{}".format(BASE_URL, state)
         info[state] = scrape_state(driver, url_query, state)
 

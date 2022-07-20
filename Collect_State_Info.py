@@ -16,6 +16,10 @@
 #  specific dataset used found here: 
 #       https://www.eia.gov/electricity/data/state/annual_generation_state.xls
 
+# Water Provider Data
+# -------------------------------------------------
+# https://ordspub.epa.gov/ords/sfdw/sfdw/r/sdwis_fed_reports_public/103?clear=RP
+
 # DATASET HEADER KEY
 # -------------------------------
 # https://www.census.gov/data/developers/data-sets/popest-popproj/popest/popest-vars.html
