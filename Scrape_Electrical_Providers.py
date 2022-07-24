@@ -16,7 +16,7 @@ from selenium.webdriver.support.ui import WebDriverWait as WDW
 from selenium.webdriver.support import expected_conditions as EC
 
 # local module
-from Collect_State_Info import REGION_9, REGIONS
+from Collect_State_Info import STATES
 
 # Used by webdriver_manager if not supplying path to driver
 # from webdriver_manager.firefox import GeckoDriverManager
@@ -376,12 +376,12 @@ def main():
         return 1
 
     info = {}
-    for state in REGION_9:
-        url_query = "{}{}".format(BASE_URL, state)
-        info[state] = scrape_state(driver, url_query, state)
+    for state, state_abrv in STATES.items():
+        url_query = "{}{}".format(BASE_URL, state_abrv)
+        info[state_abrv] = scrape_state(driver, url_query, state_abrv)
 
-        with open('{}/{}-energy-utility-info.json'.format(OUTPUT_DIR, state), 'w') as wf:
-            json.dump(info[state], wf, indent=1)
+        with open('{}/{}-energy-utility-info.json'.format(OUTPUT_DIR, state_abrv), 'w') as wf:
+            json.dump(info[state_abrv], wf, indent=1)
 
     driver.close()
     
