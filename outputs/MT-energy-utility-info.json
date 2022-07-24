@@ -1,0 +1,2507 @@
+{
+ "electrical-providers": [
+  {
+   "company": "NorthWestern Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.northwesternenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 399756709.0,
+   "Residential-Customers": 364076.0,
+   "Commercial-Sales-($)": 439275571.0,
+   "Commercial-Customers": 88742.0,
+   "Industrial-Sales-($)": 70438395.0,
+   "Industrial-Customers": 2051.0,
+   "Total-Customers": 454869.0,
+   "Total-Production-MWh": 4835625.0,
+   "Production-from-Renewable-Energy-MWh": 2369936.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2465689.0,
+   "cities-served": [
+    "Aberdeen, SD",
+    "Alberton, MT",
+    "Alpena, SD",
+    "Andover, SD",
+    "Armour, SD",
+    "Ashton, SD",
+    "Avon, SD",
+    "Bancroft, SD",
+    "Bearcreek, MT",
+    "Belgrade, MT",
+    "Belt, MT",
+    "Big Sandy, MT",
+    "Big Timber, MT",
+    "Billings, MT",
+    "Blunt, SD",
+    "Boulder, MT",
+    "Bozeman, MT",
+    "Bradley, SD",
+    "Brentford, SD",
+    "Bridger, MT",
+    "Bristol, SD",
+    "Broadland, SD",
+    "Broadview, MT",
+    "Browning, MT",
+    "Butler, SD",
+    "Butte-Silver Bow, MT",
+    "Cascade, MT",
+    "Cavour, SD",
+    "Chamberlain, SD",
+    "Chelsea, SD",
+    "Chester, MT",
+    "Chinook, MT",
+    "Choteau, MT",
+    "Claremont, SD",
+    "Clark, SD",
+    "Clinton, MN",
+    "Clyde Park, MT",
+    "Colstrip, MT",
+    "Columbia, SD",
+    "Columbia Falls, MT",
+    "Columbus, MT",
+    "Conde, SD",
+    "Conrad, MT",
+    "Corsica, SD",
+    "Cresbard, SD",
+    "Cut Bank, MT",
+    "Dante, SD",
+    "Darby, MT",
+    "Deer Lodge, MT",
+    "Delmont, SD",
+    "Denton, MT",
+    "Dillon, MT",
+    "Dimock, SD",
+    "Dodson, MT",
+    "Doland, SD",
+    "Drummond, MT",
+    "Dutton, MT",
+    "East Helena, MT",
+    "Ennis, MT",
+    "Ethan, SD",
+    "Fairfield, MT",
+    "Faulkton, SD",
+    "Florence, SD",
+    "Forsyth, MT",
+    "Fort Benton, MT",
+    "Fort Peck, MT",
+    "Frankfort, SD",
+    "Freeman, SD",
+    "Fromberg, MT",
+    "Garden City, SD",
+    "Geddes, SD",
+    "Geraldine, MT",
+    "Glasgow, MT",
+    "Goodwin, SD",
+    "Grass Range, MT",
+    "Great Falls, MT",
+    "Hamilton, MT",
+    "Hardin, MT",
+    "Harlem, MT",
+    "Harlowton, MT",
+    "Harrold, SD",
+    "Havre, MT",
+    "Hazel, SD",
+    "Helena, MT",
+    "Henry, SD",
+    "Highmore, SD",
+    "Hingham, MT",
+    "Hitchcock, SD",
+    "Hobson, MT",
+    "Hot Springs, MT",
+    "Huron, SD",
+    "Hysham, MT",
+    "Iroquois, SD",
+    "Joliet, MT",
+    "Jordan, MT",
+    "Judith Gap, MT",
+    "Kalispell, MT",
+    "Kevin, MT",
+    "Kimball, SD",
+    "Kranzburg, SD",
+    "Lake Andes, SD",
+    "Lane, SD",
+    "Laurel, MT",
+    "Lavina, MT",
+    "Lesterville, SD",
+    "Letcher, SD",
+    "Lewistown, MT",
+    "Libby, MT",
+    "Lily, SD",
+    "Lima, MT",
+    "Livingston, MT",
+    "Lodge Grass, MT",
+    "Malta, MT",
+    "Manhattan, MT",
+    "Mellette, SD",
+    "Melstone, MT",
+    "Menno, SD",
+    "Miles City, MT",
+    "Mission Hill, SD",
+    "Missoula, MT",
+    "Mitchell, SD",
+    "Moore, MT",
+    "Mount Vernon, SD",
+    "Naples, SD",
+    "Nashua, MT",
+    "Neihart, MT",
+    "Northville, SD",
+    "Olivet, SD",
+    "Opheim, MT",
+    "Orient, SD",
+    "Ortonville, MN",
+    "Parkston, SD",
+    "Philipsburg, MT",
+    "Pierpont, SD",
+    "Pinesdale, MT",
+    "Plains, MT",
+    "Platte, SD",
+    "Polson, MT",
+    "Ravinia, SD",
+    "Raymond, SD",
+    "Red Lodge, MT",
+    "Redfield, SD",
+    "Ree Heights, SD",
+    "Rockham, SD",
+    "Ronan, MT",
+    "Roundup, MT",
+    "Ryegate, MT",
+    "Saco, MT",
+    "Scotland, SD",
+    "Shelby, MT",
+    "Sheridan, MT",
+    "Springfield, SD",
+    "St. Lawrence, SD",
+    "Stanford, MT",
+    "Stevensville, MT",
+    "Stickney, SD",
+    "Stratford, SD",
+    "Sunburst, MT",
+    "Superior, MT",
+    "Thompson Falls, MT",
+    "Three Forks, MT",
+    "Townsend, MT",
+    "Tripp, SD",
+    "Tulare, SD",
+    "Turton, SD",
+    "Twin Bridges, MT",
+    "Tyndall, SD",
+    "Utica, SD",
+    "Valier, MT",
+    "Vienna, SD",
+    "Virgil, SD",
+    "Virginia City, MT",
+    "Wagner, SD",
+    "Walkerville, MT",
+    "Wallace, SD",
+    "Warner, SD",
+    "Webster, SD",
+    "Wessington, SD",
+    "West Yellowstone, MT",
+    "Westport, SD",
+    "White Lake, SD",
+    "White Sulphur Springs, MT",
+    "Whitefish, MT",
+    "Whitehall, MT",
+    "Willow Lake, SD",
+    "Winifred, MT",
+    "Wolf Point, MT",
+    "Wolsey, SD",
+    "Woonsocket, SD",
+    "Yale, SD",
+    "Yankton, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Yellowstone County, MT",
+     "population": 164731
+    },
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Missoula County, MT",
+     "population": 117922
+    },
+    {
+     "county": "Flathead County, MT",
+     "population": 104357
+    },
+    {
+     "county": "Cascade County, MT",
+     "population": 84414
+    },
+    {
+     "county": "Lewis and Clark County, MT",
+     "population": 70973
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    },
+    {
+     "county": "Silver Bow County, MT",
+     "population": 35133
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Codington County, SD",
+     "population": 28325
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Davison County, SD",
+     "population": 19956
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    },
+    {
+     "county": "Beadle County, SD",
+     "population": 19149
+    },
+    {
+     "county": "Hughes County, SD",
+     "population": 17765
+    },
+    {
+     "county": "Park County, MT",
+     "population": 17191
+    },
+    {
+     "county": "Hill County, MT",
+     "population": 16309
+    },
+    {
+     "county": "Glacier County, MT",
+     "population": 13778
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Jefferson County, MT",
+     "population": 12085
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Fergus County, MT",
+     "population": 11446
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Carbon County, MT",
+     "population": 10473
+    },
+    {
+     "county": "Deer Lodge County, MT",
+     "population": 9421
+    },
+    {
+     "county": "Charles Mix County, SD",
+     "population": 9373
+    },
+    {
+     "county": "Beaverhead County, MT",
+     "population": 9371
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Madison County, MT",
+     "population": 8623
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Hutchinson County, SD",
+     "population": 7427
+    },
+    {
+     "county": "Blaine County, MT",
+     "population": 7044
+    },
+    {
+     "county": "Bon Homme County, SD",
+     "population": 7003
+    },
+    {
+     "county": "Powell County, MT",
+     "population": 6946
+    },
+    {
+     "county": "Broadwater County, MT",
+     "population": 6774
+    },
+    {
+     "county": "Spink County, SD",
+     "population": 6361
+    },
+    {
+     "county": "Teton County, MT",
+     "population": 6226
+    },
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    },
+    {
+     "county": "Pondera County, MT",
+     "population": 5898
+    },
+    {
+     "county": "Chouteau County, MT",
+     "population": 5895
+    },
+    {
+     "county": "Day County, SD",
+     "population": 5449
+    },
+    {
+     "county": "Brule County, SD",
+     "population": 5247
+    },
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    },
+    {
+     "county": "Big Stone County, MN",
+     "population": 5166
+    },
+    {
+     "county": "Toole County, MT",
+     "population": 4971
+    },
+    {
+     "county": "Musselshell County, MT",
+     "population": 4730
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    },
+    {
+     "county": "Phillips County, MT",
+     "population": 4217
+    },
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "Clark County, SD",
+     "population": 3837
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    },
+    {
+     "county": "Granite County, MT",
+     "population": 3309
+    },
+    {
+     "county": "Hand County, SD",
+     "population": 3145
+    },
+    {
+     "county": "Douglas County, SD",
+     "population": 2835
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    },
+    {
+     "county": "Wheatland County, MT",
+     "population": 2069
+    },
+    {
+     "county": "Judith Basin County, MT",
+     "population": 2023
+    },
+    {
+     "county": "Liberty County, MT",
+     "population": 1959
+    },
+    {
+     "county": "Meagher County, MT",
+     "population": 1927
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    },
+    {
+     "county": "Jerauld County, SD",
+     "population": 1663
+    },
+    {
+     "county": "Daniels County, MT",
+     "population": 1661
+    },
+    {
+     "county": "Hyde County, SD",
+     "population": 1262
+    },
+    {
+     "county": "Garfield County, MT",
+     "population": 1173
+    },
+    {
+     "county": "Golden Valley County, MT",
+     "population": 823
+    },
+    {
+     "county": "Treasure County, MT",
+     "population": 762
+    },
+    {
+     "county": "Petroleum County, MT",
+     "population": 496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 390225
+    },
+    {
+     "state": "South Dakota",
+     "customers": 64091
+    },
+    {
+     "state": "Wyoming",
+     "customers": 554
+    }
+   ]
+  },
+  {
+   "company": "Montana Dakota Utilities",
+   "company-type": "Investor Owned",
+   "website": "https://www.montana-dakota.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 126314000.0,
+   "Residential-Customers": 119008.0,
+   "Commercial-Sales-($)": 142458000.0,
+   "Commercial-Customers": 24894.0,
+   "Industrial-Sales-($)": 40658000.0,
+   "Industrial-Customers": 231.0,
+   "Total-Customers": 144133.0,
+   "Total-Production-MWh": 2023237.0,
+   "Production-from-Renewable-Energy-MWh": 715633.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1307604.0,
+   "cities-served": [
+    "Akaska, SD",
+    "Alamo, ND",
+    "Alexander, ND",
+    "Almont, ND",
+    "Ambrose, ND",
+    "Amidon, ND",
+    "Antler, ND",
+    "Arnegard, ND",
+    "Artas, SD",
+    "Ashley, ND",
+    "Bainville, MT",
+    "Baker, MT",
+    "Beach, ND",
+    "Belfield, ND",
+    "Berlin, ND",
+    "Berthold, ND",
+    "Beulah, ND",
+    "Bismarck, ND",
+    "Bottineau, ND",
+    "Bowbells, ND",
+    "Bowdle, SD",
+    "Bowman, ND",
+    "Braddock, ND",
+    "Brockton, MT",
+    "Bucyrus, ND",
+    "Burlington, ND",
+    "Camp Crook, SD",
+    "Carpio, ND",
+    "Carson, ND",
+    "Center, ND",
+    "Columbus, ND",
+    "Crosby, ND",
+    "Culbertson, MT",
+    "Dawson, ND",
+    "Dayton, WY",
+    "Des Lacs, ND",
+    "Dickey, ND",
+    "Dickinson, ND",
+    "Dodge, ND",
+    "Donnybrook, ND",
+    "Douglas, ND",
+    "Dunn Center, ND",
+    "Edgeley, ND",
+    "Ekalaka, MT",
+    "Elgin, ND",
+    "Ellendale, ND",
+    "Epping, ND",
+    "Eureka, SD",
+    "Fairview, MT",
+    "Flasher, ND",
+    "Flaxton, ND",
+    "Forbes, SD",
+    "Fort Yates, ND",
+    "Fortuna, ND",
+    "Frederick, SD",
+    "Fredonia, ND",
+    "Froid, MT",
+    "Fullerton, ND",
+    "Gackle, ND",
+    "Gardena, ND",
+    "Gascoyne, ND",
+    "Gettysburg, SD",
+    "Gladstone, ND",
+    "Glen Ullin, ND",
+    "Glenburn, ND",
+    "Glendive, MT",
+    "Glenham, SD",
+    "Golden Valley, ND",
+    "Golva, ND",
+    "Grano, ND",
+    "Grenora, ND",
+    "Hague, ND",
+    "Halliday, ND",
+    "Haynes, ND",
+    "Hazelton, ND",
+    "Hazen, ND",
+    "Hebron, ND",
+    "Herreid, SD",
+    "Hettinger, ND",
+    "Hillsview, SD",
+    "Hosmer, SD",
+    "Hoven, SD",
+    "Ipswich, SD",
+    "Java, SD",
+    "Jud, ND",
+    "Kenmare, ND",
+    "Killdeer, ND",
+    "Kramer, ND",
+    "Kulm, ND",
+    "LaMoure, ND",
+    "Landa, ND",
+    "Lansford, ND",
+    "Lebanon, SD",
+    "Lehr, ND",
+    "Leith, ND",
+    "Lemmon, SD",
+    "Leola, SD",
+    "Lignite, ND",
+    "Lincoln, ND",
+    "Linton, ND",
+    "Loraine, ND",
+    "Ludden, ND",
+    "Makoti, ND",
+    "Mandan, ND",
+    "Marion, ND",
+    "Marmarth, ND",
+    "Maxbass, ND",
+    "McIntosh, SD",
+    "Medicine Lake, MT",
+    "Miles City, MT",
+    "Minot, ND",
+    "Mobridge, SD",
+    "Mohall, ND",
+    "Monango, ND",
+    "Morristown, SD",
+    "Mott, ND",
+    "Mound City, SD",
+    "Napoleon, ND",
+    "New England, ND",
+    "New Leipzig, ND",
+    "New Salem, ND",
+    "New Town, ND",
+    "Newburg, ND",
+    "Noonan, ND",
+    "Oakes, ND",
+    "Onaka, SD",
+    "Overly, ND",
+    "Palermo, ND",
+    "Parshall, ND",
+    "Pettibone, ND",
+    "Pick City, ND",
+    "Plaza, ND",
+    "Plevna, MT",
+    "Pollock, SD",
+    "Poplar, MT",
+    "Portal, ND",
+    "Powers Lake, ND",
+    "Ranchester, WY",
+    "Ray, ND",
+    "Reeder, ND",
+    "Regan, ND",
+    "Regent, ND",
+    "Rhame, ND",
+    "Richardton, ND",
+    "Richey, MT",
+    "Robinson, ND",
+    "Roscoe, SD",
+    "Ross, ND",
+    "Ryder, ND",
+    "Sawyer, ND",
+    "Scranton, ND",
+    "Selby, SD",
+    "Selfridge, ND",
+    "Seneca, SD",
+    "Sentinel Butte, ND",
+    "Sheridan, WY",
+    "Sherwood, ND",
+    "Sidney, MT",
+    "Solen, ND",
+    "Souris, ND",
+    "South Heart, ND",
+    "Springbrook, ND",
+    "Stanley, ND",
+    "Stanton, ND",
+    "Steele, ND",
+    "Strasburg, ND",
+    "Surrey, ND",
+    "Tappen, ND",
+    "Taylor, ND",
+    "Terry, MT",
+    "Tioga, ND",
+    "Tolley, ND",
+    "Tolstoy, SD",
+    "Tuttle, ND",
+    "Venturia, ND",
+    "Verona, ND",
+    "Watford City, ND",
+    "Westhope, ND",
+    "Wetonka, SD",
+    "White Earth, ND",
+    "Wibaux, MT",
+    "Wildrose, ND",
+    "Williston, ND",
+    "Willow City, ND",
+    "Wilton, ND",
+    "Wing, ND",
+    "Wishek, ND",
+    "Wolf Point, MT",
+    "Zap, ND",
+    "Zeeland, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Burleigh County, ND",
+     "population": 98458
+    },
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "Stark County, ND",
+     "population": 33646
+    },
+    {
+     "county": "Morton County, ND",
+     "population": 33291
+    },
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "McKenzie County, ND",
+     "population": 14704
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Mercer County, ND",
+     "population": 8350
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Bottineau County, ND",
+     "population": 6379
+    },
+    {
+     "county": "Walworth County, SD",
+     "population": 5315
+    },
+    {
+     "county": "Dickey County, ND",
+     "population": 4999
+    },
+    {
+     "county": "Dunn County, ND",
+     "population": 4095
+    },
+    {
+     "county": "LaMoure County, ND",
+     "population": 4093
+    },
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "Sioux County, ND",
+     "population": 3898
+    },
+    {
+     "county": "Sheridan County, MT",
+     "population": 3539
+    },
+    {
+     "county": "Emmons County, ND",
+     "population": 3301
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Bowman County, ND",
+     "population": 2993
+    },
+    {
+     "county": "McIntosh County, ND",
+     "population": 2530
+    },
+    {
+     "county": "Hettinger County, ND",
+     "population": 2489
+    },
+    {
+     "county": "Potter County, SD",
+     "population": 2472
+    },
+    {
+     "county": "McPherson County, SD",
+     "population": 2411
+    },
+    {
+     "county": "Kidder County, ND",
+     "population": 2394
+    },
+    {
+     "county": "Grant County, ND",
+     "population": 2301
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Burke County, ND",
+     "population": 2201
+    },
+    {
+     "county": "Adams County, ND",
+     "population": 2200
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    },
+    {
+     "county": "Oliver County, ND",
+     "population": 1877
+    },
+    {
+     "county": "Logan County, ND",
+     "population": 1876
+    },
+    {
+     "county": "Golden Valley County, ND",
+     "population": 1736
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Carter County, MT",
+     "population": 1415
+    },
+    {
+     "county": "Campbell County, SD",
+     "population": 1377
+    },
+    {
+     "county": "Prairie County, MT",
+     "population": 1088
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    },
+    {
+     "county": "Slope County, ND",
+     "population": 706
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 93445
+    },
+    {
+     "state": "Montana",
+     "customers": 25593
+    },
+    {
+     "state": "Wyoming",
+     "customers": 16608
+    },
+    {
+     "state": "South Dakota",
+     "customers": 8487
+    }
+   ]
+  },
+  {
+   "company": "Flathead Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.flatheadelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 80892000.0,
+   "Residential-Customers": 59158.0,
+   "Commercial-Sales-($)": 34243000.0,
+   "Commercial-Customers": 11923.0,
+   "Industrial-Sales-($)": 12420000.0,
+   "Industrial-Customers": 96.0,
+   "Total-Customers": 71177.0,
+   "Total-Production-MWh": 11557.0,
+   "Production-from-Renewable-Energy-MWh": 11557.0,
+   "cities-served": [
+    "Columbia Falls, MT",
+    "Kalispell, MT",
+    "Libby, MT",
+    "Whitefish, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Flathead County, MT",
+     "population": 104357
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    },
+    {
+     "county": "Glacier County, MT",
+     "population": 13778
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 71177
+    }
+   ]
+  },
+  {
+   "company": "Powder River Energy Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.precorp.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25414810.0,
+   "Residential-Customers": 15603.0,
+   "Commercial-Sales-($)": 56687530.0,
+   "Commercial-Customers": 7396.0,
+   "Industrial-Sales-($)": 82195240.0,
+   "Industrial-Customers": 3965.0,
+   "Total-Customers": 26964.0,
+   "cities-served": [
+    "Buffalo, WY",
+    "Clearmont, WY",
+    "Gillette, WY",
+    "Hulett, WY",
+    "Kaycee, WY",
+    "Moorcroft, WY",
+    "Newcastle, WY",
+    "Pine Haven, WY",
+    "Sundance, WY",
+    "Upton, WY",
+    "Wright, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, WY",
+     "population": 47026
+    },
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Crook County, WY",
+     "population": 7181
+    },
+    {
+     "county": "Weston County, WY",
+     "population": 6838
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 26787
+    },
+    {
+     "state": "Montana",
+     "customers": 177
+    }
+   ]
+  },
+  {
+   "company": "Mission Valley Power",
+   "company-type": "Federal",
+   "website": "https://www.missionvalleypower.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17327570.0,
+   "Residential-Customers": 15398.0,
+   "Commercial-Sales-($)": 8113610.0,
+   "Commercial-Customers": 5569.0,
+   "Industrial-Sales-($)": 919450.0,
+   "Industrial-Customers": 1085.0,
+   "Total-Customers": 22052.0,
+   "cities-served": [
+    "Hot Springs, MT",
+    "Polson, MT",
+    "Ronan, MT",
+    "St. Ignatius, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Missoula County, MT",
+     "population": 117922
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 22053
+    }
+   ]
+  },
+  {
+   "company": "Northern Lights",
+   "company-type": "Cooperative",
+   "website": "https://www.nli.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28601000.0,
+   "Residential-Customers": 20730.0,
+   "Commercial-Sales-($)": 5618000.0,
+   "Commercial-Customers": 1290.0,
+   "Industrial-Sales-($)": 1794000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 22031.0,
+   "cities-served": [
+    "Athol, ID",
+    "Bonners Ferry, ID",
+    "Clark Fork, ID",
+    "Dover, ID",
+    "East Hope, ID",
+    "Hope, ID",
+    "Kootenai, ID",
+    "Libby, MT",
+    "Moyie Springs, ID",
+    "Oldtown, ID",
+    "Ponderay, ID",
+    "Priest River, ID",
+    "Sandpoint, ID",
+    "Spirit Lake, ID",
+    "Thompson Falls, MT",
+    "Troy, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Kootenai County, ID",
+     "population": 171362
+    },
+    {
+     "county": "Bonner County, ID",
+     "population": 47110
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    },
+    {
+     "county": "Pend Oreille County, WA",
+     "population": 13401
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Boundary County, ID",
+     "population": 12056
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 17323
+    },
+    {
+     "state": "Montana",
+     "customers": 4694
+    },
+    {
+     "state": "Washington",
+     "customers": 14
+    }
+   ]
+  },
+  {
+   "company": "Yellowstone Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.yvec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28587861.0,
+   "Residential-Customers": 19773.0,
+   "Commercial-Sales-($)": 8144517.0,
+   "Commercial-Customers": 1621.0,
+   "Industrial-Sales-($)": 1122422.0,
+   "Industrial-Customers": 232.0,
+   "Total-Customers": 21626.0,
+   "cities-served": [
+    "Billings, MT",
+    "Laurel, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Yellowstone County, MT",
+     "population": 164731
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Carbon County, MT",
+     "population": 10473
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 21626
+    }
+   ]
+  },
+  {
+   "company": "Fall River Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.fallriverelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20918000.0,
+   "Residential-Customers": 14816.0,
+   "Commercial-Sales-($)": 10618000.0,
+   "Commercial-Customers": 3131.0,
+   "Total-Customers": 17947.0,
+   "Total-Production-MWh": 40813.0,
+   "Production-from-Renewable-Energy-MWh": 40813.0,
+   "cities-served": [
+    "Ashton, ID",
+    "Driggs, ID",
+    "Drummond, ID",
+    "Island Park, ID",
+    "Menan, ID",
+    "Newdale, ID",
+    "Parker, ID",
+    "Rexburg, ID",
+    "Rigby, ID",
+    "Ririe, ID",
+    "St. Anthony, ID",
+    "Sugar City, ID",
+    "Teton, ID",
+    "Tetonia, ID",
+    "Victor, ID",
+    "Warm River, ID",
+    "West Yellowstone, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 15581
+    },
+    {
+     "state": "Montana",
+     "customers": 1999
+    },
+    {
+     "state": "Wyoming",
+     "customers": 367
+    }
+   ]
+  },
+  {
+   "company": "Missoula Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.missoulaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18335318.0,
+   "Residential-Customers": 14102.0,
+   "Commercial-Sales-($)": 4747242.0,
+   "Commercial-Customers": 1494.0,
+   "Industrial-Sales-($)": 1584963.0,
+   "Industrial-Customers": 269.0,
+   "Total-Customers": 15865.0,
+   "cities-served": [
+    "Alberton, MT",
+    "Missoula, MT",
+    "Superior, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Missoula County, MT",
+     "population": 117922
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Clearwater County, ID",
+     "population": 8734
+    },
+    {
+     "county": "Powell County, MT",
+     "population": 6946
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Granite County, MT",
+     "population": 3309
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 15800
+    },
+    {
+     "state": "Idaho",
+     "customers": 64
+    }
+   ]
+  },
+  {
+   "company": "Ravalli Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.ravallielectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14378230.772,
+   "Residential-Customers": 9860.0,
+   "Commercial-Sales-($)": 1224387.307,
+   "Commercial-Customers": 516.0,
+   "Industrial-Sales-($)": 876381.921,
+   "Industrial-Customers": 596.0,
+   "Total-Customers": 10972.0,
+   "cities-served": [
+    "Darby, MT",
+    "Hamilton, MT",
+    "Pinesdale, MT",
+    "Stevensville, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Granite County, MT",
+     "population": 3309
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 10972
+    }
+   ]
+  },
+  {
+   "company": "Vigilante Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.vec.coop/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 14664200.0,
+   "Residential-Customers": 10409.0,
+   "Total-Customers": 10409.0,
+   "cities-served": [
+    "Boulder, MT",
+    "Butte-Silver Bow, MT",
+    "Dillon, MT",
+    "East Helena, MT",
+    "Helena, MT",
+    "Lima, MT",
+    "Manhattan, MT",
+    "Spencer, ID",
+    "Three Forks, MT",
+    "Townsend, MT",
+    "Twin Bridges, MT",
+    "Walkerville, MT",
+    "White Sulphur Springs, MT",
+    "Whitehall, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Lewis and Clark County, MT",
+     "population": 70973
+    },
+    {
+     "county": "Silver Bow County, MT",
+     "population": 35133
+    },
+    {
+     "county": "Jefferson County, MT",
+     "population": 12085
+    },
+    {
+     "county": "Deer Lodge County, MT",
+     "population": 9421
+    },
+    {
+     "county": "Beaverhead County, MT",
+     "population": 9371
+    },
+    {
+     "county": "Madison County, MT",
+     "population": 8623
+    },
+    {
+     "county": "Broadwater County, MT",
+     "population": 6774
+    },
+    {
+     "county": "Meagher County, MT",
+     "population": 1927
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 10374
+    },
+    {
+     "state": "Idaho",
+     "customers": 35
+    }
+   ]
+  },
+  {
+   "company": "Glacier Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.glacierelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6879192.604,
+   "Residential-Customers": 6000.0,
+   "Commercial-Sales-($)": 6307207.257,
+   "Commercial-Customers": 1803.0,
+   "Industrial-Sales-($)": 1506200.138,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 7808.0,
+   "cities-served": [
+    "Browning, MT",
+    "Cut Bank, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Flathead County, MT",
+     "population": 104357
+    },
+    {
+     "county": "Glacier County, MT",
+     "population": 13778
+    },
+    {
+     "county": "Pondera County, MT",
+     "population": 5898
+    },
+    {
+     "county": "Toole County, MT",
+     "population": 4971
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 7808
+    }
+   ]
+  },
+  {
+   "company": "Fergus Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ferguselectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9661800.0,
+   "Residential-Customers": 6149.0,
+   "Commercial-Sales-($)": 16344800.0,
+   "Commercial-Customers": 248.0,
+   "Industrial-Sales-($)": 483300.0,
+   "Industrial-Customers": 134.0,
+   "Total-Customers": 6531.0,
+   "cities-served": [
+    "Belt, MT",
+    "Broadview, MT",
+    "Denton, MT",
+    "Geraldine, MT",
+    "Grass Range, MT",
+    "Harlowton, MT",
+    "Hobson, MT",
+    "Judith Gap, MT",
+    "Lavina, MT",
+    "Lewistown, MT",
+    "Melstone, MT",
+    "Moore, MT",
+    "Neihart, MT",
+    "Roundup, MT",
+    "Ryegate, MT",
+    "Stanford, MT",
+    "White Sulphur Springs, MT",
+    "Winifred, MT",
+    "Winnett, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Yellowstone County, MT",
+     "population": 164731
+    },
+    {
+     "county": "Cascade County, MT",
+     "population": 84414
+    },
+    {
+     "county": "Park County, MT",
+     "population": 17191
+    },
+    {
+     "county": "Fergus County, MT",
+     "population": 11446
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Chouteau County, MT",
+     "population": 5895
+    },
+    {
+     "county": "Musselshell County, MT",
+     "population": 4730
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    },
+    {
+     "county": "Wheatland County, MT",
+     "population": 2069
+    },
+    {
+     "county": "Judith Basin County, MT",
+     "population": 2023
+    },
+    {
+     "county": "Meagher County, MT",
+     "population": 1927
+    },
+    {
+     "county": "Golden Valley County, MT",
+     "population": 823
+    },
+    {
+     "county": "Treasure County, MT",
+     "population": 762
+    },
+    {
+     "county": "Petroleum County, MT",
+     "population": 496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 6531
+    }
+   ]
+  },
+  {
+   "company": "Beartooth Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.beartoothelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7601866.226,
+   "Residential-Customers": 5824.0,
+   "Commercial-Sales-($)": 1347499.084,
+   "Commercial-Customers": 572.0,
+   "Industrial-Sales-($)": 147978.695,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 6397.0,
+   "cities-served": [
+    "Bearcreek, MT",
+    "Bridger, MT",
+    "Columbus, MT",
+    "Fromberg, MT",
+    "Joliet, MT",
+    "Red Lodge, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Carbon County, MT",
+     "population": 10473
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5891
+    },
+    {
+     "state": "Wyoming",
+     "customers": 506
+    }
+   ]
+  },
+  {
+   "company": "Park Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.parkelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7916863.676,
+   "Residential-Customers": 5854.0,
+   "Commercial-Sales-($)": 719798.38,
+   "Commercial-Customers": 98.0,
+   "Industrial-Sales-($)": 6952437.944,
+   "Industrial-Customers": 355.0,
+   "Total-Customers": 6307.0,
+   "cities-served": [
+    "Big Timber, MT",
+    "Clyde Park, MT",
+    "Livingston, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Park County, MT",
+     "population": 17191
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    },
+    {
+     "county": "Wheatland County, MT",
+     "population": 2069
+    },
+    {
+     "county": "Meagher County, MT",
+     "population": 1927
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 6307
+    }
+   ]
+  },
+  {
+   "company": "Lower Yellowstone Electric REA",
+   "company-type": "Cooperative",
+   "website": "https://www.lyrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5694000.0,
+   "Residential-Customers": 4252.0,
+   "Commercial-Sales-($)": 2457000.0,
+   "Commercial-Customers": 851.0,
+   "Industrial-Sales-($)": 18698000.0,
+   "Industrial-Customers": 1114.0,
+   "Total-Customers": 6217.0,
+   "cities-served": [
+    "Fairview, MT",
+    "Sidney, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "McKenzie County, ND",
+     "population": 14704
+    },
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5093
+    },
+    {
+     "state": "North Dakota",
+     "customers": 1124
+    }
+   ]
+  },
+  {
+   "company": "Lincoln Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lincolnelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8580229.154,
+   "Residential-Customers": 5412.0,
+   "Commercial-Sales-($)": 2501127.422,
+   "Commercial-Customers": 719.0,
+   "Industrial-Sales-($)": 483643.424,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 6133.0,
+   "cities-served": [
+    "Eureka, MT",
+    "Rexford, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Flathead County, MT",
+     "population": 104357
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 6133
+    }
+   ]
+  },
+  {
+   "company": "Sun River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sunriverelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6488646.932,
+   "Residential-Customers": 4522.0,
+   "Commercial-Sales-($)": 1959967.54,
+   "Commercial-Customers": 375.0,
+   "Industrial-Sales-($)": 3115985.527,
+   "Industrial-Customers": 1066.0,
+   "Total-Customers": 5963.0,
+   "cities-served": [
+    "Belt, MT",
+    "Choteau, MT",
+    "Conrad, MT",
+    "Dutton, MT",
+    "Fairfield, MT",
+    "Great Falls, MT",
+    "Valier, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Cascade County, MT",
+     "population": 84414
+    },
+    {
+     "county": "Teton County, MT",
+     "population": 6226
+    },
+    {
+     "county": "Pondera County, MT",
+     "population": 5898
+    },
+    {
+     "county": "Chouteau County, MT",
+     "population": 5895
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5963
+    }
+   ]
+  },
+  {
+   "company": "McCone Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mcconeelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7115372.361,
+   "Residential-Customers": 4636.0,
+   "Commercial-Sales-($)": 2654399.795,
+   "Commercial-Customers": 619.0,
+   "Industrial-Sales-($)": 170627.845,
+   "Industrial-Customers": 79.0,
+   "Total-Customers": 5334.0,
+   "cities-served": [
+    "Circle, MT",
+    "Jordan, MT",
+    "Richey, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Garfield County, MT",
+     "population": 1173
+    },
+    {
+     "county": "Prairie County, MT",
+     "population": 1088
+    },
+    {
+     "county": "Petroleum County, MT",
+     "population": 496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5334
+    }
+   ]
+  },
+  {
+   "company": "Tongue River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.tongueriverelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8043931.843,
+   "Residential-Customers": 4196.0,
+   "Commercial-Sales-($)": 1688527.747,
+   "Commercial-Customers": 589.0,
+   "Industrial-Sales-($)": 3227540.41,
+   "Industrial-Customers": 149.0,
+   "Total-Customers": 4934.0,
+   "cities-served": [
+    "Broadus, MT",
+    "Colstrip, MT",
+    "Ismay, MT",
+    "Miles City, MT",
+    "Terry, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    },
+    {
+     "county": "Carter County, MT",
+     "population": 1415
+    },
+    {
+     "county": "Prairie County, MT",
+     "population": 1088
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 4934
+    }
+   ]
+  },
+  {
+   "company": "Sheridan Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sheridanelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3970473.317,
+   "Residential-Customers": 2391.0,
+   "Commercial-Sales-($)": 11557195.016,
+   "Commercial-Customers": 849.0,
+   "Industrial-Sales-($)": 975331.667,
+   "Industrial-Customers": 899.0,
+   "Total-Customers": 4139.0,
+   "cities-served": [
+    "Bainville, MT",
+    "Brockton, MT",
+    "Culbertson, MT",
+    "Flaxville, MT",
+    "Fortuna, ND",
+    "Froid, MT",
+    "Medicine Lake, MT",
+    "Outlook, MT",
+    "Plentywood, MT",
+    "Poplar, MT",
+    "Scobey, MT",
+    "Westby, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Sheridan County, MT",
+     "population": 3539
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Daniels County, MT",
+     "population": 1661
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3715
+    },
+    {
+     "state": "North Dakota",
+     "customers": 424
+    }
+   ]
+  },
+  {
+   "company": "Big Horn County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.bhcec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4871104.655,
+   "Residential-Customers": 3334.0,
+   "Commercial-Sales-($)": 2236721.925,
+   "Commercial-Customers": 613.0,
+   "Industrial-Sales-($)": 224952.374,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 3950.0,
+   "cities-served": [
+    "Hardin, MT",
+    "Lodge Grass, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3650
+    },
+    {
+     "state": "Wyoming",
+     "customers": 300
+    }
+   ]
+  },
+  {
+   "company": "Hill County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.hcelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5073388.824,
+   "Residential-Customers": 3594.0,
+   "Commercial-Sales-($)": 3239599.349,
+   "Commercial-Customers": 252.0,
+   "Industrial-Sales-($)": 7824911.827,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 3849.0,
+   "cities-served": [
+    "Big Sandy, MT",
+    "Chester, MT",
+    "Chinook, MT",
+    "Fort Benton, MT",
+    "Havre, MT",
+    "Hingham, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Hill County, MT",
+     "population": 16309
+    },
+    {
+     "county": "Fergus County, MT",
+     "population": 11446
+    },
+    {
+     "county": "Blaine County, MT",
+     "population": 7044
+    },
+    {
+     "county": "Chouteau County, MT",
+     "population": 5895
+    },
+    {
+     "county": "Liberty County, MT",
+     "population": 1959
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3849
+    }
+   ]
+  },
+  {
+   "company": "Marias River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mariasriverec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2705042.144,
+   "Residential-Customers": 2506.0,
+   "Commercial-Sales-($)": 4060957.856,
+   "Commercial-Customers": 1311.0,
+   "Total-Customers": 3817.0,
+   "cities-served": [
+    "Kevin, MT",
+    "Shelby, MT",
+    "Sunburst, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Pondera County, MT",
+     "population": 5898
+    },
+    {
+     "county": "Toole County, MT",
+     "population": 4971
+    },
+    {
+     "county": "Liberty County, MT",
+     "population": 1959
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3817
+    }
+   ]
+  },
+  {
+   "company": "NorVal Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.norval.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3579644.288,
+   "Residential-Customers": 1937.0,
+   "Commercial-Sales-($)": 1510807.408,
+   "Commercial-Customers": 140.0,
+   "Industrial-Sales-($)": 2030548.304,
+   "Industrial-Customers": 1315.0,
+   "Total-Customers": 3392.0,
+   "cities-served": [
+    "Fort Peck, MT",
+    "Glasgow, MT",
+    "Nashua, MT",
+    "Opheim, MT",
+    "Saco, MT",
+    "Scobey, MT",
+    "Wolf Point, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Phillips County, MT",
+     "population": 4217
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Daniels County, MT",
+     "population": 1661
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3392
+    }
+   ]
+  },
+  {
+   "company": "Southeast Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.seecoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2451487.582,
+   "Residential-Customers": 2118.0,
+   "Commercial-Sales-($)": 177896.732,
+   "Commercial-Customers": 45.0,
+   "Industrial-Sales-($)": 4082875.817,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2166.0,
+   "cities-served": [
+    "Baker, MT",
+    "Ekalaka, MT",
+    "Plevna, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Crook County, WY",
+     "population": 7181
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    },
+    {
+     "county": "Carter County, MT",
+     "population": 1415
+    },
+    {
+     "county": "Harding County, SD",
+     "population": 1311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 2132
+    },
+    {
+     "state": "South Dakota",
+     "customers": 22
+    },
+    {
+     "state": "Wyoming",
+     "customers": 12
+    }
+   ]
+  },
+  {
+   "company": "Big Flat Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.bigflatelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2414516.68,
+   "Residential-Customers": 1818.0,
+   "Commercial-Sales-($)": 871456.209,
+   "Commercial-Customers": 246.0,
+   "Industrial-Sales-($)": 250427.111,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 2070.0,
+   "cities-served": [
+    "Dodson, MT",
+    "Harlem, MT",
+    "Malta, MT",
+    "Saco, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Blaine County, MT",
+     "population": 7044
+    },
+    {
+     "county": "Phillips County, MT",
+     "population": 4217
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 2070
+    }
+   ]
+  },
+  {
+   "company": "Mid-Yellowstone Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.myec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2110372.305,
+   "Residential-Customers": 1057.0,
+   "Commercial-Sales-($)": 496272.051,
+   "Commercial-Customers": 224.0,
+   "Industrial-Sales-($)": 1139555.644,
+   "Industrial-Customers": 743.0,
+   "Total-Customers": 2024.0,
+   "cities-served": [
+    "Forsyth, MT",
+    "Hysham, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Musselshell County, MT",
+     "population": 4730
+    },
+    {
+     "county": "Treasure County, MT",
+     "population": 762
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 2024
+    }
+   ]
+  },
+  {
+   "company": "Goldenwest Electric Coop",
+   "company-type": "Cooperative",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1439253.057,
+   "Residential-Customers": 1572.0,
+   "Commercial-Sales-($)": 3376046.943,
+   "Commercial-Customers": 31.0,
+   "Total-Customers": 1603.0,
+   "cities-served": [
+    "Beach, ND",
+    "Glendive, MT",
+    "Golva, ND",
+    "Sentinel Butte, ND",
+    "Wibaux, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Golden Valley County, ND",
+     "population": 1736
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    },
+    {
+     "county": "Slope County, ND",
+     "population": 706
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 822
+    },
+    {
+     "state": "North Dakota",
+     "customers": 781
+    }
+   ]
+  },
+  {
+   "company": "City of Troy Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cityoftroymontana.com/dept_power.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 788202.247,
+   "Residential-Customers": 821.0,
+   "Commercial-Sales-($)": 347882.455,
+   "Commercial-Customers": 214.0,
+   "Industrial-Sales-($)": 13915.298,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 1045.0,
+   "cities-served": [
+    "Troy"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 1045
+    }
+   ]
+  }
+ ]
+}

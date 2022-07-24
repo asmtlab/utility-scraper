@@ -1,0 +1,711 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Green Mountain Power",
+   "company-type": "Investor Owned",
+   "website": "https://www.greenmountainpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 313626000.0,
+   "Residential-Customers": 224884.0,
+   "Commercial-Sales-($)": 248491000.0,
+   "Commercial-Customers": 45441.0,
+   "Industrial-Sales-($)": 124945000.0,
+   "Industrial-Customers": 72.0,
+   "Total-Customers": 270397.0,
+   "Total-Production-MWh": 733364.0,
+   "Production-from-Renewable-Energy-MWh": 572907.0,
+   "Production-from-Non-Renewable-Energy-MWh": 160489.0,
+   "cities-served": [
+    "Barre, VT",
+    "Bellows Falls, VT",
+    "Burlington, VT",
+    "Cambridge, VT",
+    "Essex Junction, VT",
+    "Jacksonville, VT",
+    "Jeffersonville, VT",
+    "Jericho, VT",
+    "Ludlow, VT",
+    "Manchester, VT",
+    "Marshfield, VT",
+    "Montpelier, VT",
+    "Newbury, VT",
+    "Newfane, VT",
+    "North Bennington, VT",
+    "Old Bennington, VT",
+    "Perkinsville, VT",
+    "Poultney, VT",
+    "Rutland, VT",
+    "Saxtons River, VT",
+    "South Burlington, VT",
+    "St. Albans, VT",
+    "Vergennes, VT",
+    "Waterbury, VT",
+    "Wells River, VT",
+    "Westminster, VT",
+    "Winooski, VT",
+    "Woodstock, VT"
+   ],
+   "counties-served": [
+    {
+     "county": "Chittenden County, VT",
+     "population": 168323
+    },
+    {
+     "county": "Rutland County, VT",
+     "population": 60572
+    },
+    {
+     "county": "Washington County, VT",
+     "population": 59807
+    },
+    {
+     "county": "Windsor County, VT",
+     "population": 57753
+    },
+    {
+     "county": "Franklin County, VT",
+     "population": 49946
+    },
+    {
+     "county": "Windham County, VT",
+     "population": 45905
+    },
+    {
+     "county": "Addison County, VT",
+     "population": 37363
+    },
+    {
+     "county": "Bennington County, VT",
+     "population": 37347
+    },
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Orange County, VT",
+     "population": 29277
+    },
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    },
+    {
+     "county": "Grand Isle County, VT",
+     "population": 7293
+    },
+    {
+     "county": "Essex County, VT",
+     "population": 5920
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 270397
+    }
+   ]
+  },
+  {
+   "company": "Vermont Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.vermontelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 46419638.0,
+   "Residential-Customers": 35284.0,
+   "Commercial-Sales-($)": 19616295.0,
+   "Commercial-Customers": 4857.0,
+   "Industrial-Sales-($)": 11655015.0,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 40157.0,
+   "cities-served": [
+    "Albany, VT",
+    "Alburgh, VT",
+    "Barton, VT",
+    "Cambridge, VT",
+    "Derby Center, VT",
+    "Derby Line, VT",
+    "Jeffersonville, VT",
+    "Jericho, VT",
+    "Newport, VT",
+    "North Troy, VT"
+   ],
+   "counties-served": [
+    {
+     "county": "Chittenden County, VT",
+     "population": 168323
+    },
+    {
+     "county": "Franklin County, VT",
+     "population": 49946
+    },
+    {
+     "county": "Addison County, VT",
+     "population": 37363
+    },
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Orleans County, VT",
+     "population": 27393
+    },
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    },
+    {
+     "county": "Grand Isle County, VT",
+     "population": 7293
+    },
+    {
+     "county": "Essex County, VT",
+     "population": 5920
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 40157
+    }
+   ]
+  },
+  {
+   "company": "Burlington Electric",
+   "company-type": "Municipal",
+   "website": "https://www.burlingtonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14814622.0,
+   "Residential-Customers": 17433.0,
+   "Commercial-Sales-($)": 25115229.0,
+   "Commercial-Customers": 4004.0,
+   "Industrial-Sales-($)": 7945084.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 21446.0,
+   "Total-Production-MWh": 164236.0,
+   "Production-from-Renewable-Energy-MWh": 163522.0,
+   "Production-from-Non-Renewable-Energy-MWh": 714.0,
+   "cities-served": [
+    "Burlington"
+   ],
+   "counties-served": [
+    {
+     "county": "Chittenden County, VT",
+     "population": 168323
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 21446
+    }
+   ]
+  },
+  {
+   "company": "Washington Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.washingtonelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15193000.0,
+   "Residential-Customers": 11039.0,
+   "Commercial-Sales-($)": 1153000.0,
+   "Commercial-Customers": 659.0,
+   "Industrial-Sales-($)": 509000.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 11711.0,
+   "Total-Production-MWh": 55482.0,
+   "Production-from-Renewable-Energy-MWh": 55482.0,
+   "cities-served": [
+    "Marshfield, VT",
+    "Montpelier, VT",
+    "Newbury, VT"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, VT",
+     "population": 59807
+    },
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Orange County, VT",
+     "population": 29277
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 11711
+    }
+   ]
+  },
+  {
+   "company": "Lyndonville Electric",
+   "company-type": "Municipal",
+   "website": "https://www.lyndonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4847280.149,
+   "Residential-Customers": 4940.0,
+   "Commercial-Sales-($)": 1815559.75,
+   "Commercial-Customers": 907.0,
+   "Industrial-Sales-($)": 2327160.101,
+   "Industrial-Customers": 42.0,
+   "Total-Customers": 5889.0,
+   "Total-Production-MWh": 2455.0,
+   "Production-from-Renewable-Energy-MWh": 2170.0,
+   "Production-from-Non-Renewable-Energy-MWh": 285.0,
+   "cities-served": [
+    "Lyndonville, VT",
+    "West Burke, VT"
+   ],
+   "counties-served": [
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Essex County, VT",
+     "population": 5920
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 5889
+    }
+   ]
+  },
+  {
+   "company": "Hardwick Electric",
+   "company-type": "Municipal",
+   "website": "https://www.hardwickelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4380436.016,
+   "Residential-Customers": 4208.0,
+   "Commercial-Sales-($)": 948753.315,
+   "Commercial-Customers": 396.0,
+   "Industrial-Sales-($)": 877110.67,
+   "Industrial-Customers": 30.0,
+   "Total-Customers": 4634.0,
+   "cities-served": [
+    "Hardwick CDP",
+    "Greensboro Bend CDP",
+    "Wolcott CDP",
+    "Greensboro CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, VT",
+     "population": 59807
+    },
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Orleans County, VT",
+     "population": 27393
+    },
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 4634
+    }
+   ]
+  },
+  {
+   "company": "Stowe Electric",
+   "company-type": "Municipal",
+   "website": "https://www.stoweelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4337050.778,
+   "Residential-Customers": 3431.0,
+   "Commercial-Sales-($)": 6139702.947,
+   "Commercial-Customers": 864.0,
+   "Industrial-Sales-($)": 1146546.274,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4296.0,
+   "Total-Production-MWh": 1236.0,
+   "Production-from-Renewable-Energy-MWh": 1236.0,
+   "cities-served": [
+    "Stowe CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 4296
+    }
+   ]
+  },
+  {
+   "company": "Morrisville Water and Light",
+   "company-type": "Municipal",
+   "website": "https://www.mwlvt.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3409127.965,
+   "Residential-Customers": 3609.0,
+   "Commercial-Sales-($)": 2836208.579,
+   "Commercial-Customers": 655.0,
+   "Industrial-Sales-($)": 862763.456,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 4268.0,
+   "Total-Production-MWh": 3821.0,
+   "Production-from-Renewable-Energy-MWh": 3821.0,
+   "cities-served": [
+    "Hyde Park, VT",
+    "Morrisville, VT"
+   ],
+   "counties-served": [
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 4268
+    }
+   ]
+  },
+  {
+   "company": "Ludlow Electric",
+   "company-type": "Municipal",
+   "website": "https://www.ludlowelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2033659.497,
+   "Residential-Customers": 3100.0,
+   "Commercial-Sales-($)": 2719713.304,
+   "Commercial-Customers": 720.0,
+   "Industrial-Sales-($)": 2872827.199,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 3824.0,
+   "cities-served": [
+    "Ludlow",
+    "Proctorsville CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Windsor County, VT",
+     "population": 57753
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 3824
+    }
+   ]
+  },
+  {
+   "company": "Swanton Electric",
+   "company-type": "Municipal",
+   "website": "http://www.swantonvillage.org/publicworks/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3435523.276,
+   "Residential-Customers": 3303.0,
+   "Commercial-Sales-($)": 3431476.724,
+   "Commercial-Customers": 436.0,
+   "Total-Customers": 3739.0,
+   "Total-Production-MWh": 29409.0,
+   "Production-from-Renewable-Energy-MWh": 29409.0,
+   "cities-served": [
+    "Swanton",
+    "Highgate Center CDP",
+    "Highgate Springs CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, VT",
+     "population": 49946
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 3739
+    }
+   ]
+  },
+  {
+   "company": "Barton Electric",
+   "company-type": "Municipal",
+   "website": "https://www.bartonvt.com/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2063964.601,
+   "Residential-Customers": 1982.0,
+   "Commercial-Sales-($)": 745835.399,
+   "Commercial-Customers": 203.0,
+   "Total-Customers": 2185.0,
+   "Total-Production-MWh": 4109.0,
+   "Production-from-Renewable-Energy-MWh": 4109.0,
+   "cities-served": [
+    "Barton"
+   ],
+   "counties-served": [
+    {
+     "county": "Caledonia County, VT",
+     "population": 30233
+    },
+    {
+     "county": "Orleans County, VT",
+     "population": 27393
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 2185
+    }
+   ]
+  },
+  {
+   "company": "Northfield Electric",
+   "company-type": "Municipal",
+   "website": "https://www.northfield-vt.gov/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1314868.882,
+   "Residential-Customers": 1613.0,
+   "Commercial-Sales-($)": 471769.001,
+   "Commercial-Customers": 234.0,
+   "Industrial-Sales-($)": 1730662.117,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1860.0,
+   "cities-served": [
+    "Northfield CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, VT",
+     "population": 59807
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 1860
+    }
+   ]
+  },
+  {
+   "company": "Enosburg Falls, Vermont Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.villageofenosburgfalls.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2257524.94,
+   "Residential-Customers": 1559.0,
+   "Commercial-Sales-($)": 508395.934,
+   "Commercial-Customers": 200.0,
+   "Industrial-Sales-($)": 1334179.127,
+   "Industrial-Customers": 20.0,
+   "Total-Customers": 1779.0,
+   "cities-served": [
+    "Enosburg Falls",
+    "Bakersfield CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, VT",
+     "population": 49946
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 1779
+    }
+   ]
+  },
+  {
+   "company": "Hyde Park Electric",
+   "company-type": "Municipal",
+   "website": "https://www.villageofhydepark.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1565328.467,
+   "Residential-Customers": 1200.0,
+   "Commercial-Sales-($)": 776871.533,
+   "Commercial-Customers": 170.0,
+   "Total-Customers": 1370.0,
+   "cities-served": [
+    "Hyde Park",
+    "North Hyde Park CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 1370
+    }
+   ]
+  },
+  {
+   "company": "Johnson, Vermont Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townofjohnson.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 837457.728,
+   "Residential-Customers": 808.0,
+   "Commercial-Sales-($)": 304504.507,
+   "Commercial-Customers": 157.0,
+   "Industrial-Sales-($)": 872437.765,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 981.0,
+   "cities-served": [
+    "Johnson"
+   ],
+   "counties-served": [
+    {
+     "county": "Lamoille County, VT",
+     "population": 25945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 981
+    }
+   ]
+  },
+  {
+   "company": "Jacksonville, Vermont Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townofwhitingham-vt.org/business/jacksonville-electric-co",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 597490.639,
+   "Residential-Customers": 663.0,
+   "Commercial-Sales-($)": 106883.984,
+   "Commercial-Customers": 52.0,
+   "Industrial-Sales-($)": 146825.377,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 719.0,
+   "cities-served": [
+    "Jacksonville",
+    "Whitingham CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Windham County, VT",
+     "population": 45905
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 719
+    }
+   ]
+  },
+  {
+   "company": "Orleans, Vermont Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.virtualvermont.com/towns/orleans.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 485791.667,
+   "Residential-Customers": 577.0,
+   "Commercial-Sales-($)": 289154.915,
+   "Commercial-Customers": 89.0,
+   "Industrial-Sales-($)": 960553.419,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 667.0,
+   "cities-served": [
+    "Orleans"
+   ],
+   "counties-served": [
+    {
+     "county": "Orleans County, VT",
+     "population": 27393
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Vermont",
+     "customers": 667
+    }
+   ]
+  }
+ ]
+}

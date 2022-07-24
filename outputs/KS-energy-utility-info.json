@@ -1,0 +1,7926 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Evergy",
+   "company-type": "Investor Owned",
+   "website": "https://www.evergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1964720159.0,
+   "Residential-Customers": 1433156.0,
+   "Commercial-Sales-($)": 1761212787.0,
+   "Commercial-Customers": 200149.0,
+   "Industrial-Sales-($)": 609662061.0,
+   "Industrial-Customers": 6396.0,
+   "Total-Customers": 1639701.0,
+   "Total-Production-MWh": 36043192.0,
+   "Production-from-Renewable-Energy-MWh": 1581647.0,
+   "Production-from-Non-Renewable-Energy-MWh": 34461545.0,
+   "cities-served": [
+    "Abilene, KS",
+    "Admire, KS",
+    "Adrian, MO",
+    "Agency, MO",
+    "Allen, KS",
+    "Allendale, MO",
+    "Alma, KS",
+    "Alma, MO",
+    "Alta Vista, KS",
+    "Altamont, KS",
+    "Altoona, KS",
+    "Amazonia, MO",
+    "Americus, KS",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Andale, KS",
+    "Andover, KS",
+    "Appleton City, MO",
+    "Arcadia, KS",
+    "Archie, MO",
+    "Arkansas City, KS",
+    "Arkoe, MO",
+    "Arma, KS",
+    "Armstrong, MO",
+    "Arrow Rock, MO",
+    "Assaria, KS",
+    "Atchison, KS",
+    "Atlanta, KS",
+    "Auburn, KS",
+    "Augusta, KS",
+    "Aullville, MO",
+    "Avondale, MO",
+    "Axtell, KS",
+    "Baldwin City, KS",
+    "Baldwin Park, MO",
+    "Barnard, MO",
+    "Barnard, KS",
+    "Barnes, KS",
+    "Bartlett, KS",
+    "Basehor, KS",
+    "Bassett, KS",
+    "Bates City, MO",
+    "Beattie, KS",
+    "Bel Aire, KS",
+    "Belle Plaine, KS",
+    "Belton, MO",
+    "Belvue, KS",
+    "Benedict, KS",
+    "Bennington, KS",
+    "Bentley, KS",
+    "Benton, KS",
+    "Bern, KS",
+    "Bethany, MO",
+    "Beverly, KS",
+    "Big Lake, MO",
+    "Bigelow, MO",
+    "Birmingham, MO",
+    "Blackburn, MO",
+    "Blairstown, MO",
+    "Blue Mound, KS",
+    "Blue Rapids, KS",
+    "Blue Springs, MO",
+    "Blythedale, MO",
+    "Bogard, MO",
+    "Bolckow, MO",
+    "Bonner Springs, KS",
+    "Bosworth, MO",
+    "Brimson, MO",
+    "Bronaugh, MO",
+    "Bronson, KS",
+    "Brookville, KS",
+    "Brownington, MO",
+    "Brunswick, MO",
+    "Buckner, MO",
+    "Buffalo, KS",
+    "Buhler, KS",
+    "Burden, KS",
+    "Burgess, MO",
+    "Burlingame, KS",
+    "Burlington, KS",
+    "Burlington Junction, MO",
+    "Burns, KS",
+    "Burrton, KS",
+    "Bushong, KS",
+    "Butler, MO",
+    "Cainsville, MO",
+    "Calhoun, MO",
+    "Cambridge, KS",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Caney, KS",
+    "Canton, KS",
+    "Carbondale, KS",
+    "Carlton, KS",
+    "Carrollton, MO",
+    "Cassoday, KS",
+    "Cedar Point, KS",
+    "Centerview, MO",
+    "Centralia, KS",
+    "Chanute, KS",
+    "Chapman, KS",
+    "Cheney, KS",
+    "Cherokee, KS",
+    "Cherryvale, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Circleville, KS",
+    "Clarksdale, MO",
+    "Clay Center, KS",
+    "Claycomo, MO",
+    "Clearmont, MO",
+    "Clearwater, KS",
+    "Cleveland, MO",
+    "Clifton, KS",
+    "Climax, KS",
+    "Clinton, MO",
+    "Clyde, MO",
+    "Coffeyville, KS",
+    "Cole Camp, MO",
+    "Colony, KS",
+    "Colwich, KS",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Conway Springs, KS",
+    "Corder, MO",
+    "Corning, KS",
+    "Corning, MO",
+    "Cosby, MO",
+    "Cottonwood Falls, KS",
+    "Council Grove, KS",
+    "Country Club, MO",
+    "Coyville, KS",
+    "Craig, MO",
+    "Creighton, MO",
+    "Culver, KS",
+    "Dalton, MO",
+    "De Kalb, MO",
+    "De Soto, KS",
+    "De Witt, MO",
+    "Dearborn, MO",
+    "Dearing, KS",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delia, KS",
+    "Delphos, KS",
+    "Denison, KS",
+    "Denton, KS",
+    "Denver, MO",
+    "Derby, KS",
+    "Douglass, KS",
+    "Dover, MO",
+    "Drexel, MO",
+    "Dunlap, KS",
+    "Durham, KS",
+    "Dwight, KS",
+    "Eagleville, MO",
+    "Earlton, KS",
+    "East Lynne, MO",
+    "Eastborough, KS",
+    "Easton, MO",
+    "Easton, KS",
+    "Edgerton, KS",
+    "Edgerton, MO",
+    "Edna, KS",
+    "Edwardsville, KS",
+    "Effingham, KS",
+    "El Dorado, KS",
+    "El Dorado Springs, MO",
+    "Elbing, KS",
+    "Elk City, KS",
+    "Elk Falls, KS",
+    "Elmdale, KS",
+    "Elmo, MO",
+    "Elsmore, KS",
+    "Elwood, KS",
+    "Emma, MO",
+    "Emmett, KS",
+    "Emporia, KS",
+    "Enterprise, KS",
+    "Erie, KS",
+    "Eskridge, KS",
+    "Eudora, KS",
+    "Eureka, KS",
+    "Everest, KS",
+    "Fairfax, MO",
+    "Fairview, KS",
+    "Fairway, KS",
+    "Fall River, KS",
+    "Farley, MO",
+    "Ferrelview, MO",
+    "Fillmore, MO",
+    "Fleming, MO",
+    "Florence, KS",
+    "Fontana, KS",
+    "Forest City, MO",
+    "Fort Scott, KS",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Frankfort, KS",
+    "Fredonia, KS",
+    "Freeman, MO",
+    "Frontenac, KS",
+    "Fulton, KS",
+    "Galesburg, KS",
+    "Gallatin, MO",
+    "Galt, MO",
+    "Galva, KS",
+    "Garden City, MO",
+    "Garden Plain, KS",
+    "Gardner, KS",
+    "Garnett, KS",
+    "Gas, KS",
+    "Gentry, MO",
+    "Geuda Springs, KS",
+    "Gilliam, MO",
+    "Gilman City, MO",
+    "Girard, KS",
+    "Gladstone, MO",
+    "Glasgow, MO",
+    "Glenaire, MO",
+    "Goddard, KS",
+    "Goessel, KS",
+    "Goff, KS",
+    "Gower, MO",
+    "Graham, MO",
+    "Grain Valley, MO",
+    "Grand Pass, MO",
+    "Grandview, MO",
+    "Grandview Plaza, KS",
+    "Grant City, MO",
+    "Greeley, KS",
+    "Green Ridge, MO",
+    "Greenwood, MO",
+    "Grenola, KS",
+    "Gridley, KS",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Gypsum, KS",
+    "Halstead, KS",
+    "Hamilton, KS",
+    "Hamlin, KS",
+    "Hanover, KS",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Hartford, KS",
+    "Harveyville, KS",
+    "Harwood, MO",
+    "Havana, KS",
+    "Haven, KS",
+    "Havensville, KS",
+    "Haysville, KS",
+    "Henrietta, MO",
+    "Hepler, KS",
+    "Herington, KS",
+    "Hesston, KS",
+    "Hiawatha, KS",
+    "Higginsville, MO",
+    "Highland, KS",
+    "Hillsboro, KS",
+    "Holden, MO",
+    "Holton, KS",
+    "Hope, KS",
+    "Hopkins, MO",
+    "Horton, KS",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howard, KS",
+    "Hoyt, KS",
+    "Hughesville, MO",
+    "Humboldt, KS",
+    "Hume, MO",
+    "Huron, KS",
+    "Hutchinson, KS",
+    "Iatan, MO",
+    "Independence, MO",
+    "Independence, KS",
+    "Inman, KS",
+    "Iola, KS",
+    "Ionia, MO",
+    "Irena, MO",
+    "Jamesport, MO",
+    "Jerico Springs, MO",
+    "Junction City, KS",
+    "Kansas City, MO",
+    "Kansas City, KS",
+    "Kearney, MO",
+    "Kechi, KS",
+    "Keytesville, MO",
+    "Kincaid, KS",
+    "King City, MO",
+    "Kingsville, MO",
+    "Knob Noster, MO",
+    "La Cygne, KS",
+    "La Due, MO",
+    "La Harpe, KS",
+    "La Monte, MO",
+    "Labette, KS",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Lotawana, MO",
+    "Lake Quivira, KS",
+    "Lake Tapawingo, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lancaster, KS",
+    "Lane, KS",
+    "Lansing, KS",
+    "Laredo, MO",
+    "Latham, KS",
+    "Latimer, KS",
+    "Lawrence, KS",
+    "LeRoy, KS",
+    "Leavenworth, KS",
+    "Leawood, KS",
+    "Lebo, KS",
+    "Lecompton, KS",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Lehigh, KS",
+    "Lenexa, KS",
+    "Leon, KS",
+    "Leona, KS",
+    "Leonardville, KS",
+    "Levasy, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Liberty, MO",
+    "Liberty, KS",
+    "Lincoln, MO",
+    "Lincolnville, KS",
+    "Lindsborg, KS",
+    "Linn Valley, KS",
+    "Linwood, KS",
+    "Loch Lloyd, MO",
+    "Lock Springs, MO",
+    "Lone Elm, KS",
+    "Lone Jack, MO",
+    "Longford, KS",
+    "Longton, KS",
+    "Lost Springs, KS",
+    "Louisburg, KS",
+    "Louisville, KS",
+    "Lowry City, MO",
+    "Lyndon, KS",
+    "Madison, KS",
+    "Maitland, MO",
+    "Maize, KS",
+    "Malta Bend, MO",
+    "Manchester, KS",
+    "Manhattan, KS",
+    "Maple Hill, KS",
+    "Mapleton, KS",
+    "Marion, KS",
+    "Marquette, KS",
+    "Marshall, MO",
+    "Marysville, KS",
+    "Maryville, MO",
+    "Matfield Green, KS",
+    "Mayetta, KS",
+    "Mayview, MO",
+    "McCune, KS",
+    "McFarland, KS",
+    "McLouth, KS",
+    "McPherson, KS",
+    "Melvern, KS",
+    "Mendon, MO",
+    "Meriden, KS",
+    "Merriam, KS",
+    "Merwin, MO",
+    "Metz, MO",
+    "Miami, MO",
+    "Milan, KS",
+    "Mildred, KS",
+    "Milford, KS",
+    "Milford, MO",
+    "Milo, MO",
+    "Miltonvale, KS",
+    "Minneapolis, KS",
+    "Mission, KS",
+    "Mission Hills, KS",
+    "Mission Woods, KS",
+    "Missouri City, MO",
+    "Moline, KS",
+    "Montrose, MO",
+    "Moran, KS",
+    "Morganville, KS",
+    "Morrill, KS",
+    "Mound City, MO",
+    "Mound City, KS",
+    "Mound Valley, KS",
+    "Moundridge, KS",
+    "Moundville, MO",
+    "Mount Hope, KS",
+    "Mount Leonard, MO",
+    "Mount Moriah, MO",
+    "Mulberry, KS",
+    "Mulvane, KS",
+    "Muscotah, KS",
+    "Napoleon, MO",
+    "Neodesha, KS",
+    "Neosho Falls, KS",
+    "Neosho Rapids, KS",
+    "Netawaka, KS",
+    "Nevada, MO",
+    "New Albany, KS",
+    "New Cambria, KS",
+    "New Hampton, MO",
+    "New Strawn, KS",
+    "Newton, KS",
+    "Nickerson, KS",
+    "Norborne, MO",
+    "North Kansas City, MO",
+    "North Newton, KS",
+    "Northmoor, MO",
+    "Nortonville, KS",
+    "Oak Grove, MO",
+    "Oak Hill, KS",
+    "Oaks, MO",
+    "Oakview, MO",
+    "Oakwood, MO",
+    "Oakwood Park, MO",
+    "Odessa, MO",
+    "Ogden, KS",
+    "Oketo, KS",
+    "Olathe, KS",
+    "Olivet, KS",
+    "Olpe, KS",
+    "Olsburg, KS",
+    "Onaga, KS",
+    "Oneida, KS",
+    "Oregon, MO",
+    "Orrick, MO",
+    "Osage City, KS",
+    "Osawatomie, KS",
+    "Osceola, MO",
+    "Oskaloosa, KS",
+    "Oswego, KS",
+    "Ottawa, KS",
+    "Overbrook, KS",
+    "Overland Park, KS",
+    "Oxford, KS",
+    "Ozawkie, KS",
+    "Paola, KS",
+    "Park City, KS",
+    "Parker, KS",
+    "Parkerfield, KS",
+    "Parkerville, KS",
+    "Parkville, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Partridge, KS",
+    "Passaic, MO",
+    "Paxico, KS",
+    "Peabody, KS",
+    "Peculiar, MO",
+    "Perry, KS",
+    "Pickering, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hill, MO",
+    "Pleasant Valley, MO",
+    "Pleasanton, KS",
+    "Pomona, KS",
+    "Potwin, KS",
+    "Powhattan, KS",
+    "Prairie Village, KS",
+    "Prescott, KS",
+    "Pretty Prairie, KS",
+    "Princeton, MO",
+    "Princeton, KS",
+    "Quenemo, KS",
+    "Quitman, MO",
+    "Ramona, KS",
+    "Randolph, KS",
+    "Randolph, MO",
+    "Rantoul, KS",
+    "Ravenwood, MO",
+    "Raymore, MO",
+    "Raytown, MO",
+    "Rea, MO",
+    "Reading, KS",
+    "Redfield, KS",
+    "Reserve, KS",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Richmond, KS",
+    "Ridgely, MO",
+    "Ridgeway, MO",
+    "Riley, KS",
+    "River Bend, MO",
+    "Riverside, MO",
+    "Riverview Estates, MO",
+    "Robinson, KS",
+    "Rock Port, MO",
+    "Rockville, MO",
+    "Roeland Park, KS",
+    "Roscoe, MO",
+    "Rose Hill, KS",
+    "Rosendale, MO",
+    "Rossville, KS",
+    "Rushville, MO",
+    "Sabetha, KS",
+    "Salina, KS",
+    "Salisbury, MO",
+    "Savannah, MO",
+    "Savonburg, KS",
+    "Schell City, MO",
+    "Scranton, KS",
+    "Sedalia, MO",
+    "Sedgwick, KS",
+    "Seneca, KS",
+    "Severance, KS",
+    "Severy, KS",
+    "Shawnee, KS",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sibley, MO",
+    "Silver Lake, KS",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithville, MO",
+    "Smolan, KS",
+    "Soldier, KS",
+    "Solomon, KS",
+    "South Hutchinson, KS",
+    "Spickard, MO",
+    "Spring Hill, KS",
+    "St. George, KS",
+    "St. Joseph, MO",
+    "St. Marys, KS",
+    "St. Paul, KS",
+    "Stark, KS",
+    "Stewartsville, MO",
+    "Stotesbury, MO",
+    "Strasburg, MO",
+    "Strong City, KS",
+    "Sugar Creek, MO",
+    "Summerfield, KS",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tampa, KS",
+    "Tarkio, MO",
+    "Tescott, KS",
+    "Thayer, KS",
+    "The Highlands, KS",
+    "Tightwad, MO",
+    "Tina, MO",
+    "Tindall, MO",
+    "Tonganoxie, KS",
+    "Topeka, KS",
+    "Toronto, KS",
+    "Towanda, KS",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Trimble, MO",
+    "Triplett, MO",
+    "Troy, KS",
+    "Tyro, KS",
+    "Udall, KS",
+    "Union Star, MO",
+    "Uniontown, KS",
+    "Unity Village, MO",
+    "Urich, MO",
+    "Valley Center, KS",
+    "Valley Falls, KS",
+    "Vermillion, KS",
+    "Vining, KS",
+    "Viola, KS",
+    "Virgil, KS",
+    "Wakefield, KS",
+    "Walker, MO",
+    "Walnut, KS",
+    "Walton, KS",
+    "Wamego, KS",
+    "Warrensburg, MO",
+    "Warsaw, MO",
+    "Waterville, KS",
+    "Wathena, KS",
+    "Watson, MO",
+    "Waverly, MO",
+    "Waverly, KS",
+    "Weatherby Lake, MO",
+    "Weir, KS",
+    "Wellington, KS",
+    "Wellington, MO",
+    "Wellsville, KS",
+    "West Line, MO",
+    "Westboro, MO",
+    "Westmoreland, KS",
+    "Weston, MO",
+    "Westphalia, KS",
+    "Westwood, KS",
+    "Westwood Hills, KS",
+    "Wetmore, KS",
+    "Wheaton, KS",
+    "White City, KS",
+    "White Cloud, KS",
+    "Whitewater, KS",
+    "Whiting, KS",
+    "Wichita, KS",
+    "Willard, KS",
+    "Williamsburg, KS",
+    "Willis, KS",
+    "Willowbrook, KS",
+    "Wilsey, KS",
+    "Winchester, KS",
+    "Windom, KS",
+    "Windsor, MO",
+    "Winfield, KS",
+    "Woodbine, KS",
+    "Worth, MO",
+    "Yates Center, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Johnson County, KS",
+     "population": 609863
+    },
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Shawnee County, KS",
+     "population": 178909
+    },
+    {
+     "county": "Wyandotte County, KS",
+     "population": 169245
+    },
+    {
+     "county": "Douglas County, KS",
+     "population": 118785
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Leavenworth County, KS",
+     "population": 81881
+    },
+    {
+     "county": "Riley County, KS",
+     "population": 71959
+    },
+    {
+     "county": "Butler County, KS",
+     "population": 67380
+    },
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "Saline County, KS",
+     "population": 54303
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Geary County, KS",
+     "population": 36739
+    },
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    },
+    {
+     "county": "Miami County, KS",
+     "population": 34191
+    },
+    {
+     "county": "Harvey County, KS",
+     "population": 34024
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Lyon County, KS",
+     "population": 32179
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    },
+    {
+     "county": "Franklin County, KS",
+     "population": 25996
+    },
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    },
+    {
+     "county": "Jefferson County, KS",
+     "population": 18368
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Atchison County, KS",
+     "population": 16348
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Osage County, KS",
+     "population": 15766
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Bourbon County, KS",
+     "population": 14360
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    },
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    },
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "DeKalb County, MO",
+     "population": 11029
+    },
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Linn County, KS",
+     "population": 9591
+    },
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    },
+    {
+     "county": "Rice County, KS",
+     "population": 9427
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Wilson County, KS",
+     "population": 8624
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Coffey County, KS",
+     "population": 8360
+    },
+    {
+     "county": "Harrison County, MO",
+     "population": 8157
+    },
+    {
+     "county": "Clay County, KS",
+     "population": 8117
+    },
+    {
+     "county": "Anderson County, KS",
+     "population": 7836
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    },
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    },
+    {
+     "county": "Greenwood County, KS",
+     "population": 6016
+    },
+    {
+     "county": "Ottawa County, KS",
+     "population": 5735
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    },
+    {
+     "county": "Morris County, KS",
+     "population": 5386
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Mercer County, MO",
+     "population": 3538
+    },
+    {
+     "county": "Chautauqua County, KS",
+     "population": 3379
+    },
+    {
+     "county": "Woodson County, KS",
+     "population": 3115
+    },
+    {
+     "county": "Lincoln County, KS",
+     "population": 2939
+    },
+    {
+     "county": "Chase County, KS",
+     "population": 2572
+    },
+    {
+     "county": "Elk County, KS",
+     "population": 2483
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1000766
+    },
+    {
+     "state": "Missouri",
+     "customers": 638935
+    }
+   ]
+  },
+  {
+   "company": "Empire District Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.empiredistrict.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 263145083.0,
+   "Residential-Customers": 151567.0,
+   "Commercial-Sales-($)": 192645615.0,
+   "Commercial-Customers": 27707.0,
+   "Industrial-Sales-($)": 93240795.0,
+   "Industrial-Customers": 333.0,
+   "Total-Customers": 179607.0,
+   "Total-Production-MWh": 5924541.0,
+   "Production-from-Renewable-Energy-MWh": 1957971.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3966570.0,
+   "cities-served": [
+    "Adona, AR",
+    "Adrian, MO",
+    "Advance, MO",
+    "Afton, OK",
+    "Airport Drive, MO",
+    "Alba, MO",
+    "Aldrich, MO",
+    "Alexandria, MO",
+    "Allenville, IL",
+    "Allenville, MO",
+    "Alma, MO",
+    "Altamont, IL",
+    "Altamont, KS",
+    "Amazonia, MO",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Anderson, MO",
+    "Annada, MO",
+    "Annapolis, MO",
+    "Anniston, MO",
+    "Appleton City, MO",
+    "Arbela, MO",
+    "Arbyrd, MO",
+    "Arcadia, MO",
+    "Archie, MO",
+    "Arcola, MO",
+    "Arkoe, MO",
+    "Armstrong, MO",
+    "Arnold, MO",
+    "Arrow Point, MO",
+    "Arrow Rock, MO",
+    "Asbury, MO",
+    "Ash Grove, MO",
+    "Ashburn, MO",
+    "Assumption, IL",
+    "Athens, IL",
+    "Atlanta, IL",
+    "Atlanta, MO",
+    "Auburn, IL",
+    "Aullville, MO",
+    "Aurora, MO",
+    "Avilla, MO",
+    "Avoca, AR",
+    "Baker, MO",
+    "Baldwin Park, MO",
+    "Baring, MO",
+    "Barnard, MO",
+    "Bartlett, KS",
+    "Bates City, MO",
+    "Battlefield, MO",
+    "Baxter Springs, KS",
+    "Beaver, AR",
+    "Beecher City, IL",
+    "Bell City, MO",
+    "Bella Vista, AR",
+    "Belton, MO",
+    "Benton, MO",
+    "Bentonville, AR",
+    "Berger, MO",
+    "Bernice, OK",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Bevier, MO",
+    "Big Cabin, OK",
+    "Big Lake, MO",
+    "Bigelow, AR",
+    "Bigelow, MO",
+    "Billings, MO",
+    "Bingham, IL",
+    "Blackburn, MO",
+    "Blackwater, MO",
+    "Blairstown, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Blue Eye, MO",
+    "Bluejacket, OK",
+    "Bolckow, MO",
+    "Bolivar, MO",
+    "Boonville, MO",
+    "Bowling Green, MO",
+    "Bragg City, MO",
+    "Branson, MO",
+    "Branson West, MO",
+    "Brashear, MO",
+    "Brimson, MO",
+    "Broadwell, IL",
+    "Bronaugh, MO",
+    "Brooklyn Heights, MO",
+    "Brookport, IL",
+    "Browning, MO",
+    "Brownington, MO",
+    "Brownstown, IL",
+    "Brunswick, MO",
+    "Bryant, AR",
+    "Bucklin, MO",
+    "Buffalo, MO",
+    "Buffalo, IL",
+    "Bull Creek, MO",
+    "Bulpitt, IL",
+    "Bunceton, MO",
+    "Burgess, MO",
+    "Burlington Junction, MO",
+    "Butler, MO",
+    "Butler, IL",
+    "Butterfield, MO",
+    "Byrnes Mill, MO",
+    "Calhoun, MO",
+    "Callao, MO",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Cammack Village, AR",
+    "Campbell, MO",
+    "Canalou, MO",
+    "Canton, MO",
+    "Cantrall, IL",
+    "Cape Girardeau, MO",
+    "Cardwell, MO",
+    "Carl Junction, MO",
+    "Carlinville, IL",
+    "Carterville, MO",
+    "Carthage, MO",
+    "Caruthersville, MO",
+    "Carytown, MO",
+    "Cassville, MO",
+    "Catron, MO",
+    "Cave Springs, AR",
+    "Cedar Hill Lakes, MO",
+    "Centerton, AR",
+    "Centerview, MO",
+    "Chaffee, MO",
+    "Chain-O-Lakes, MO",
+    "Charleston, IL",
+    "Charleston, MO",
+    "Chatham, IL",
+    "Cherokee, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Clarksville, MO",
+    "Clarkton, MO",
+    "Clear Lake, IL",
+    "Clearmont, MO",
+    "Cleveland, MO",
+    "Clever, MO",
+    "Cliff Village, MO",
+    "Clinton, MO",
+    "Clinton, IL",
+    "Clyde, MO",
+    "Coalton, IL",
+    "Colcord, OK",
+    "Collins, MO",
+    "Columbus, KS",
+    "Commerce, OK",
+    "Commerce, MO",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Coney Island, MO",
+    "Conway, AR",
+    "Cooter, MO",
+    "Corder, MO",
+    "Corning, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Cowden, IL",
+    "Craig, MO",
+    "Crane, MO",
+    "Creighton, MO",
+    "Cross Timbers, MO",
+    "Crystal City, MO",
+    "Crystal Lakes, MO",
+    "Curryville, MO",
+    "Dadeville, MO",
+    "Dalton, MO",
+    "Dawson, IL",
+    "De Soto, MO",
+    "Dearborn, MO",
+    "Decatur, IL",
+    "Decatur, AR",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delta, MO",
+    "Dennis Acres, MO",
+    "Des Arc, MO",
+    "Dexter, MO",
+    "Diamond, MO",
+    "Diehlstadt, MO",
+    "Dieterich, IL",
+    "Diggins, MO",
+    "Disney, OK",
+    "Divernon, IL",
+    "Doniphan, MO",
+    "Donnellson, IA",
+    "Dover, MO",
+    "Downing, MO",
+    "Drexel, MO",
+    "Dudley, MO",
+    "Duenweg, MO",
+    "Duquesne, MO",
+    "Dutchtown, MO",
+    "East Gillespie, IL",
+    "East Lynne, MO",
+    "East Prairie, MO",
+    "Edgerton, MO",
+    "Edgewood, IL",
+    "Edina, MO",
+    "Edinburg, IL",
+    "Edna, KS",
+    "Effingham, IL",
+    "El Dorado Springs, MO",
+    "Elkhart, IL",
+    "Elmer, MO",
+    "Elmira, MO",
+    "Elmo, MO",
+    "Emerald Beach, MO",
+    "Emma, MO",
+    "Essex, MO",
+    "Ethel, MO",
+    "Eureka, MO",
+    "Eureka Springs, AR",
+    "Everton, MO",
+    "Ewing, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Exeter, MO",
+    "Fair Grove, MO",
+    "Fair Play, MO",
+    "Fairfax, MO",
+    "Fairland, OK",
+    "Fairview, MO",
+    "Farina, IL",
+    "Farley, MO",
+    "Farmersville, IL",
+    "Farmington, MO",
+    "Fayette, MO",
+    "Ferrelview, MO",
+    "Festus, MO",
+    "Fidelity, MO",
+    "Fillmore, IL",
+    "Fillmore, MO",
+    "Fisk, MO",
+    "Fleming, MO",
+    "Flemington, MO",
+    "Fordland, MO",
+    "Forest City, MO",
+    "Forsyth, IL",
+    "Forsyth, MO",
+    "Fort Madison, IA",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Fourche, AR",
+    "Frankford, MO",
+    "Franklin, IA",
+    "Franklin, MO",
+    "Freeman, MO",
+    "Freistatt, MO",
+    "Fremont Hills, MO",
+    "Galena, KS",
+    "Galena, MO",
+    "Galesburg, KS",
+    "Galt, MO",
+    "Garden City, MO",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gays, IL",
+    "Gentry, AR",
+    "Gerald, MO",
+    "Gerster, MO",
+    "Gibbs, MO",
+    "Gideon, MO",
+    "Gillespie, IL",
+    "Gilliam, MO",
+    "Ginger Blue, MO",
+    "Girard, IL",
+    "Glasgow, MO",
+    "Glenwood, MO",
+    "Golden City, MO",
+    "Goodman, MO",
+    "Goodnight, MO",
+    "Gordonville, MO",
+    "Graham, MO",
+    "Granby, MO",
+    "Grand Falls Plaza, MO",
+    "Grand Pass, MO",
+    "Grandview, IL",
+    "Granger, MO",
+    "Gravette, AR",
+    "Green Ridge, MO",
+    "Greencastle, MO",
+    "Greenfield, MO",
+    "Greentop, MO",
+    "Greenup, IL",
+    "Greenville, IL",
+    "Greenville, MO",
+    "Greenwood, MO",
+    "Grove, OK",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Hale, MO",
+    "Halfway, MO",
+    "Halltown, MO",
+    "Hamilton, IL",
+    "Hannibal, MO",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Harristown, IL",
+    "Hartsburg, IL",
+    "Harvel, IL",
+    "Harwood, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Haywood City, MO",
+    "Henrietta, MO",
+    "Herculaneum, MO",
+    "Hermitage, MO",
+    "Herrick, IL",
+    "Hidalgo, IL",
+    "Higginsville, MO",
+    "Highfill, AR",
+    "Highlandville, MO",
+    "Hillsboro, IL",
+    "Hillsboro, MO",
+    "Hoberg, MO",
+    "Holcomb, MO",
+    "Holden, MO",
+    "Holland, MO",
+    "Hollister, MO",
+    "Homestead, MO",
+    "Homestown, MO",
+    "Hopkins, MO",
+    "Hornersville, MO",
+    "Houston, AR",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howardville, MO",
+    "Hughesville, MO",
+    "Humansville, MO",
+    "Hume, MO",
+    "Hurdland, MO",
+    "Hurley, MO",
+    "Iatan, MO",
+    "Illiopolis, IL",
+    "Indian Point, MO",
+    "Iola, IL",
+    "Ironton, MO",
+    "Irving, IL",
+    "Jackson, MO",
+    "Jacksonville, AR",
+    "Jacksonville, MO",
+    "Jane, MO",
+    "Jasper, MO",
+    "Jay, OK",
+    "Jeisyville, IL",
+    "Jerico Springs, MO",
+    "Jewett, IL",
+    "Joplin, MO",
+    "Joppa, IL",
+    "Kahoka, MO",
+    "Kansas City, MO",
+    "Kelso, MO",
+    "Kennett, MO",
+    "Kenney, IL",
+    "Keokuk, IA",
+    "Ketchum, OK",
+    "Keytesville, MO",
+    "Kimberling City, MO",
+    "Kimmswick, MO",
+    "Kincaid, IL",
+    "Kingsville, MO",
+    "Kinmundy, IL",
+    "Kirbyville, MO",
+    "Kirksville, MO",
+    "Knob Noster, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Due, MO",
+    "La Grange, MO",
+    "La Monte, MO",
+    "La Plata, MO",
+    "La Russell, MO",
+    "Labette, KS",
+    "Laclede, MO",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Tekakwitha, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lambert, MO",
+    "Lanagan, MO",
+    "Lancaster, MO",
+    "Laredo, MO",
+    "Latham, IL",
+    "Lawson, MO",
+    "Leawood, MO",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Leland Grove, IL",
+    "Leonard, MO",
+    "Lerna, IL",
+    "Leslie, MO",
+    "Lewistown, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Lilbourn, MO",
+    "Lincoln, IL",
+    "Linneus, MO",
+    "Litchfield, IL",
+    "Little Flock, AR",
+    "Little Rock, AR",
+    "Livonia, MO",
+    "Loch Lloyd, MO",
+    "Lockwood, MO",
+    "Loma Linda, MO",
+    "Lone Jack, MO",
+    "Louisburg, MO",
+    "Louisiana, MO",
+    "Louisville, IL",
+    "Lowell, AR",
+    "Lowry City, MO",
+    "Ludlow, MO",
+    "Luray, MO",
+    "Macon, MO",
+    "Maitland, MO",
+    "Malden, MO",
+    "Malta Bend, MO",
+    "Marceline, MO",
+    "Marionville, MO",
+    "Maroa, IL",
+    "Marshall, MO",
+    "Marston, MO",
+    "Maryville, MO",
+    "Mason, IL",
+    "Matthews, MO",
+    "Mattoon, IL",
+    "Maumelle, AR",
+    "Mayflower, AR",
+    "Mayview, MO",
+    "McCord Bend, MO",
+    "McCune, KS",
+    "Meadville, MO",
+    "Mechanicsburg, IL",
+    "Memphis, MO",
+    "Mendon, MO",
+    "Merriam Woods, MO",
+    "Merwin, MO",
+    "Metropolis, IL",
+    "Metz, MO",
+    "Miami, OK",
+    "Miami, MO",
+    "Milford, MO",
+    "Mill Spring, MO",
+    "Millard, MO",
+    "Miller, MO",
+    "Milo, MO",
+    "Mindenmines, MO",
+    "Miner, MO",
+    "Modesto, IL",
+    "Monett, MO",
+    "Monticello, MO",
+    "Montrose, IA",
+    "Montrose, MO",
+    "Montrose, IL",
+    "Mooresville, MO",
+    "Morehouse, MO",
+    "Morley, MO",
+    "Morrisonville, IL",
+    "Morrisville, MO",
+    "Mound City, MO",
+    "Mound Valley, KS",
+    "Moundville, MO",
+    "Mount Auburn, IL",
+    "Mount Leonard, MO",
+    "Mount Pulaski, IL",
+    "Mount Vernon, MO",
+    "Napoleon, MO",
+    "Nauvoo, IL",
+    "Naylor, MO",
+    "Neck City, MO",
+    "Neelyville, MO",
+    "Nelson, MO",
+    "Neoga, IL",
+    "Neosho, MO",
+    "Nevada, MO",
+    "New Cambria, MO",
+    "New Franklin, MO",
+    "New Haven, MO",
+    "New Madrid, MO",
+    "Newark, MO",
+    "Newton, IL",
+    "Newtonia, MO",
+    "Niantic, IL",
+    "Nilwood, IL",
+    "Nixa, MO",
+    "Noel, MO",
+    "Nokomis, IL",
+    "North Lilbourn, MO",
+    "North Little Rock, AR",
+    "North Miami, OK",
+    "Northmoor, MO",
+    "Novelty, MO",
+    "Novinger, MO",
+    "Oak Ridge, MO",
+    "Oblong, IL",
+    "Oconee, IL",
+    "Odessa, MO",
+    "Ohlman, IL",
+    "Olympian Village, MO",
+    "Oppelo, AR",
+    "Oran, MO",
+    "Oreana, IL",
+    "Oregon, MO",
+    "Oronogo, MO",
+    "Orrick, MO",
+    "Osceola, MO",
+    "Osgood, MO",
+    "Oswego, KS",
+    "Otterville, MO",
+    "Owaneco, IL",
+    "Ozark, MO",
+    "Pacific, MO",
+    "Palmer, IL",
+    "Palmyra, MO",
+    "Palmyra, IL",
+    "Pana, IL",
+    "Parkdale, MO",
+    "Parkville, MO",
+    "Parkway, MO",
+    "Parma, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Pascola, MO",
+    "Passaic, MO",
+    "Patoka, IL",
+    "Pawnee, IL",
+    "Paynesville, MO",
+    "Pea Ridge, AR",
+    "Peaceful Village, MO",
+    "Peculiar, MO",
+    "Penermon, MO",
+    "Peoria, OK",
+    "Perry, AR",
+    "Perryville, AR",
+    "Pevely, MO",
+    "Pickering, MO",
+    "Piedmont, MO",
+    "Pierce City, MO",
+    "Pilot Grove, MO",
+    "Pilot Knob, MO",
+    "Pineville, MO",
+    "Pinhook, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hope, MO",
+    "Pocahontas, MO",
+    "Pontoosuc, IL",
+    "Poplar Bluff, MO",
+    "Portageville, MO",
+    "Prairie Home, MO",
+    "Preston, MO",
+    "Purcell, MO",
+    "Purdin, MO",
+    "Purdy, MO",
+    "Puxico, MO",
+    "Quapaw, OK",
+    "Queen City, MO",
+    "Quitman, MO",
+    "Qulin, MO",
+    "Ramsey, IL",
+    "Ravenwood, MO",
+    "Raymond, IL",
+    "Raymore, MO",
+    "Rea, MO",
+    "Redings Mill, MO",
+    "Reeds, MO",
+    "Reeds Spring, MO",
+    "Republic, MO",
+    "Revere, MO",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Ridgely, MO",
+    "Risco, MO",
+    "Ritchey, MO",
+    "Riverside, MO",
+    "Riverton, IL",
+    "Riverview Estates, MO",
+    "Rives, MO",
+    "Rochester, IL",
+    "Rock Port, MO",
+    "Rockaway Beach, MO",
+    "Rockville, MO",
+    "Rogers, AR",
+    "Rogersville, MO",
+    "Roscoe, MO",
+    "Rose Hill, IL",
+    "Roseland, KS",
+    "Rosendale, MO",
+    "Rothville, MO",
+    "Rutledge, MO",
+    "Saddlebrooke, MO",
+    "Saginaw, MO",
+    "Sarcoxie, MO",
+    "Savannah, MO",
+    "Scammon, KS",
+    "Schell City, MO",
+    "Schram City, IL",
+    "Scotsdale, MO",
+    "Scott City, MO",
+    "Sedalia, MO",
+    "Seligman, MO",
+    "Senath, MO",
+    "Seneca, MO",
+    "Shelbyville, IL",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sherman, IL",
+    "Sherwood, AR",
+    "Shoal Creek Drive, MO",
+    "Shoal Creek Estates, MO",
+    "Shumway, IL",
+    "Sibley, MO",
+    "Sigel, IL",
+    "Sikeston, MO",
+    "Siloam Springs, AR",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithboro, IL",
+    "Smithton, MO",
+    "Smithville, MO",
+    "South Gifford, MO",
+    "South Gorin, MO",
+    "South Greenfield, MO",
+    "Southern View, IL",
+    "Southwest City, MO",
+    "Sparta, MO",
+    "Spaulding, IL",
+    "Spickard, MO",
+    "Springfield, MO",
+    "Springfield, IL",
+    "Springtown, AR",
+    "St. Clair, MO",
+    "St. Elmo, IL",
+    "St. Joseph, MO",
+    "St. Peter, IL",
+    "Standard City, IL",
+    "Stark City, MO",
+    "Ste. Marie, IL",
+    "Steele, MO",
+    "Stella, MO",
+    "Stewardson, IL",
+    "Stockton, MO",
+    "Stotesbury, MO",
+    "Stotts City, MO",
+    "Strafford, MO",
+    "Strasburg, IL",
+    "Strasburg, MO",
+    "Sullivan, IL",
+    "Sulphur Springs, AR",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tallapoosa, MO",
+    "Taneyville, MO",
+    "Tarkio, MO",
+    "Tarrants, MO",
+    "Taylor Springs, IL",
+    "Taylorville, IL",
+    "Teutopolis, IL",
+    "Thayer, IL",
+    "Theodosia, MO",
+    "Tightwad, MO",
+    "Tindall, MO",
+    "Toledo, IL",
+    "Tovey, IL",
+    "Tower Hill, IL",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Triplett, MO",
+    "Umber View Heights, MO",
+    "Union, MO",
+    "Urbana, MO",
+    "Urich, MO",
+    "Utica, MO",
+    "Vandalia, IL",
+    "Vanduser, MO",
+    "Vernon, IL",
+    "Verona, MO",
+    "Viburnum, MO",
+    "Vilonia, AR",
+    "Vinita, OK",
+    "Virden, IL",
+    "Vista, MO",
+    "Waco, MO",
+    "Waggoner, IL",
+    "Walker, MO",
+    "Walnut Grove, MO",
+    "Wapella, IL",
+    "Wardell, MO",
+    "Warrensburg, MO",
+    "Warrensburg, IL",
+    "Washburn, MO",
+    "Washington, MO",
+    "Watson, IL",
+    "Watson, MO",
+    "Waverly, IL",
+    "Waverly, MO",
+    "Wayland, MO",
+    "Waynesville, IL",
+    "Weatherby Lake, MO",
+    "Weaubleau, MO",
+    "Webb City, MO",
+    "Weir, KS",
+    "Welch, OK",
+    "Wellington, MO",
+    "Wenonah, IL",
+    "Wentworth, MO",
+    "West Line, MO",
+    "West Mineral, KS",
+    "West Point, IA",
+    "Westboro, MO",
+    "Weston, MO",
+    "Wheatland, MO",
+    "Wheaton, MO",
+    "Wheeler, IL",
+    "Wheeling, MO",
+    "Whitewater, MO",
+    "Willard, MO",
+    "Williamsville, IL",
+    "Williamsville, MO",
+    "Willow Hill, IL",
+    "Wilson City, MO",
+    "Windsor, MO",
+    "Windsor, IL",
+    "Windsor Place, MO",
+    "Witt, IL",
+    "Wood Heights, MO",
+    "Wooldridge, MO",
+    "Worthington, MO",
+    "Wyaconda, MO",
+    "Wyandotte, OK",
+    "Wyatt, MO",
+    "Yale, IL"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    },
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Jefferson County, MO",
+     "population": 226739
+    },
+    {
+     "county": "Sangamon County, IL",
+     "population": 196343
+    },
+    {
+     "county": "McLean County, IL",
+     "population": 170954
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Macon County, IL",
+     "population": 103998
+    },
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "McCracken County, KY",
+     "population": 67875
+    },
+    {
+     "county": "Newton County, MO",
+     "population": 58648
+    },
+    {
+     "county": "Taney County, MO",
+     "population": 56066
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Coles County, IL",
+     "population": 46863
+    },
+    {
+     "county": "Macoupin County, IL",
+     "population": 44967
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    },
+    {
+     "county": "Marion County, IL",
+     "population": 37729
+    },
+    {
+     "county": "Effingham County, IL",
+     "population": 34668
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Christian County, IL",
+     "population": 34032
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Morgan County, IL",
+     "population": 32915
+    },
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Montgomery County, IL",
+     "population": 28288
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Logan County, IL",
+     "population": 27987
+    },
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, IL",
+     "population": 23768
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "McDonald County, MO",
+     "population": 23303
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Fayette County, IL",
+     "population": 21488
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Shelby County, IL",
+     "population": 20990
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Crawford County, IL",
+     "population": 18679
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    },
+    {
+     "county": "Bond County, IL",
+     "population": 16725
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Richland County, IL",
+     "population": 15813
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    },
+    {
+     "county": "De Witt County, IL",
+     "population": 15516
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Moultrie County, IL",
+     "population": 14526
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Massac County, IL",
+     "population": 14169
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    },
+    {
+     "county": "Johnson County, IL",
+     "population": 13308
+    },
+    {
+     "county": "Clay County, IL",
+     "population": 13288
+    },
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Menard County, IL",
+     "population": 12297
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Ripley County, MO",
+     "population": 10679
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Cumberland County, IL",
+     "population": 10450
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Jasper County, IL",
+     "population": 9287
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Pope County, IL",
+     "population": 3763
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    },
+    {
+     "county": "Hardin County, IL",
+     "population": 3649
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 159923
+    },
+    {
+     "state": "Kansas",
+     "customers": 9728
+    },
+    {
+     "state": "Arkansas",
+     "customers": 5192
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4764
+    }
+   ]
+  },
+  {
+   "company": "Kansas City Board of Public Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.bpu.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 75326000.0,
+   "Residential-Customers": 59755.0,
+   "Commercial-Sales-($)": 107805000.0,
+   "Commercial-Customers": 7032.0,
+   "Industrial-Sales-($)": 41403000.0,
+   "Industrial-Customers": 82.0,
+   "Total-Customers": 66869.0,
+   "Total-Production-MWh": 1600185.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1600185.0,
+   "cities-served": [
+    "Ashland, KS",
+    "Englewood, KS",
+    "Minneola, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Meade County, KS",
+     "population": 4055
+    },
+    {
+     "county": "Clark County, KS",
+     "population": 1991
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 66869
+    }
+   ]
+  },
+  {
+   "company": "Midwest Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.mwenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 38998925.0,
+   "Residential-Customers": 29745.0,
+   "Commercial-Sales-($)": 41990834.0,
+   "Commercial-Customers": 13323.0,
+   "Industrial-Sales-($)": 66065843.0,
+   "Industrial-Customers": 6940.0,
+   "Total-Customers": 50008.0,
+   "Total-Production-MWh": 89213.0,
+   "Production-from-Renewable-Energy-MWh": 705.0,
+   "Production-from-Non-Renewable-Energy-MWh": 88508.0,
+   "cities-served": [
+    "Abbyville, KS",
+    "Albert, KS",
+    "Alden, KS",
+    "Arlington, KS",
+    "Atwood, KS",
+    "Belpre, KS",
+    "Bird City, KS",
+    "Brewster, KS",
+    "Burdett, KS",
+    "Bushton, KS",
+    "Chase, KS",
+    "Claflin, KS",
+    "Colby, KS",
+    "Collyer, KS",
+    "Dresden, KS",
+    "Edmond, KS",
+    "Ellinwood, KS",
+    "Ellis, KS",
+    "Frederick, KS",
+    "Galatia, KS",
+    "Garfield, KS",
+    "Gem, KS",
+    "Geneseo, KS",
+    "Goodland, KS",
+    "Gorham, KS",
+    "Grainfield, KS",
+    "Great Bend, KS",
+    "Grinnell, KS",
+    "Hanston, KS",
+    "Hays, KS",
+    "Hill City, KS",
+    "Hoisington, KS",
+    "Hoxie, KS",
+    "Hudson, KS",
+    "Kanorado, KS",
+    "Kinsley, KS",
+    "La Crosse, KS",
+    "Langdon, KS",
+    "Larned, KS",
+    "Lenora, KS",
+    "Lewis, KS",
+    "Little River, KS",
+    "Lyons, KS",
+    "McDonald, KS",
+    "Menlo, KS",
+    "Morland, KS",
+    "Oakley, KS",
+    "Offerle, KS",
+    "Park, KS",
+    "Pawnee Rock, KS",
+    "Plevna, KS",
+    "Quinter, KS",
+    "Radium, KS",
+    "Raymond, KS",
+    "Rexford, KS",
+    "Rozel, KS",
+    "Rush Center, KS",
+    "Russell Springs, KS",
+    "Schoenchen, KS",
+    "Selden, KS",
+    "Seward, KS",
+    "St. John, KS",
+    "Stafford, KS",
+    "Susank, KS",
+    "Sylvia, KS",
+    "Timken, KS",
+    "Turon, KS",
+    "Victoria, KS",
+    "WaKeeney, KS",
+    "Wallace, KS",
+    "Winona, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "Ellis County, KS",
+     "population": 28934
+    },
+    {
+     "county": "Barton County, KS",
+     "population": 25493
+    },
+    {
+     "county": "Rice County, KS",
+     "population": 9427
+    },
+    {
+     "county": "Pratt County, KS",
+     "population": 9157
+    },
+    {
+     "county": "Thomas County, KS",
+     "population": 7930
+    },
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Pawnee County, KS",
+     "population": 6253
+    },
+    {
+     "county": "Sherman County, KS",
+     "population": 5927
+    },
+    {
+     "county": "Norton County, KS",
+     "population": 5459
+    },
+    {
+     "county": "Rooks County, KS",
+     "population": 4919
+    },
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    },
+    {
+     "county": "Rush County, KS",
+     "population": 2956
+    },
+    {
+     "county": "Edwards County, KS",
+     "population": 2907
+    },
+    {
+     "county": "Trego County, KS",
+     "population": 2808
+    },
+    {
+     "county": "Decatur County, KS",
+     "population": 2764
+    },
+    {
+     "county": "Logan County, KS",
+     "population": 2762
+    },
+    {
+     "county": "Gove County, KS",
+     "population": 2718
+    },
+    {
+     "county": "Ness County, KS",
+     "population": 2687
+    },
+    {
+     "county": "Cheyenne County, KS",
+     "population": 2616
+    },
+    {
+     "county": "Rawlins County, KS",
+     "population": 2561
+    },
+    {
+     "county": "Sheridan County, KS",
+     "population": 2447
+    },
+    {
+     "county": "Graham County, KS",
+     "population": 2415
+    },
+    {
+     "county": "Hodgeman County, KS",
+     "population": 1723
+    },
+    {
+     "county": "Wallace County, KS",
+     "population": 1512
+    },
+    {
+     "county": "Greeley County, KS",
+     "population": 1284
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 50008
+    }
+   ]
+  },
+  {
+   "company": "Wheatland Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.weci.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 26244400.0,
+   "Residential-Customers": 20579.0,
+   "Commercial-Sales-($)": 50610000.0,
+   "Commercial-Customers": 10975.0,
+   "Industrial-Sales-($)": 8027400.0,
+   "Industrial-Customers": 1221.0,
+   "Total-Customers": 32775.0,
+   "cities-served": [
+    "Coolidge, KS",
+    "Deerfield, KS",
+    "Garden City, KS",
+    "Holcomb, KS",
+    "Horace, KS",
+    "Lakin, KS",
+    "Leoti, KS",
+    "Scott City, KS",
+    "Syracuse, KS",
+    "Tribune, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Finney County, KS",
+     "population": 38470
+    },
+    {
+     "county": "Gray County, KS",
+     "population": 5653
+    },
+    {
+     "county": "Scott County, KS",
+     "population": 5151
+    },
+    {
+     "county": "Kearny County, KS",
+     "population": 3983
+    },
+    {
+     "county": "Logan County, KS",
+     "population": 2762
+    },
+    {
+     "county": "Hamilton County, KS",
+     "population": 2518
+    },
+    {
+     "county": "Wichita County, KS",
+     "population": 2152
+    },
+    {
+     "county": "Greeley County, KS",
+     "population": 1284
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 32713
+    },
+    {
+     "state": "Colorado",
+     "customers": 62
+    }
+   ]
+  },
+  {
+   "company": "Prairie Land Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.prairielandelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16599800.0,
+   "Residential-Customers": 13446.0,
+   "Commercial-Sales-($)": 21642400.0,
+   "Commercial-Customers": 8807.0,
+   "Industrial-Sales-($)": 15878100.0,
+   "Industrial-Customers": 2333.0,
+   "Total-Customers": 24586.0,
+   "cities-served": [
+    "Agenda, KS",
+    "Agra, KS",
+    "Almena, KS",
+    "Athol, KS",
+    "Atwood, KS",
+    "Belleville, KS",
+    "Bird City, KS",
+    "Bogue, KS",
+    "Burr Oak, KS",
+    "Cawker City, KS",
+    "Cedar, KS",
+    "Clayton, KS",
+    "Clifton, KS",
+    "Clyde, KS",
+    "Concordia, KS",
+    "Courtland, KS",
+    "Cuba, KS",
+    "Damar, KS",
+    "Downs, KS",
+    "Dresden, KS",
+    "Formoso, KS",
+    "Gaylord, KS",
+    "Glade, KS",
+    "Glen Elder, KS",
+    "Haddam, KS",
+    "Haigler, NE",
+    "Hill City, KS",
+    "Hunter, KS",
+    "Jamestown, KS",
+    "Jennings, KS",
+    "Jewell, KS",
+    "Kensington, KS",
+    "Kirwin, KS",
+    "Logan, KS",
+    "Long Island, KS",
+    "Mahaska, KS",
+    "Mankato, KS",
+    "Morrowville, KS",
+    "Munden, KS",
+    "Narka, KS",
+    "Norcatur, KS",
+    "Norton, KS",
+    "Oberlin, KS",
+    "Osborne, KS",
+    "Palco, KS",
+    "Phillipsburg, KS",
+    "Portis, KS",
+    "Prairie View, KS",
+    "Randall, KS",
+    "Republic, KS",
+    "Scottsville, KS",
+    "Simpson, KS",
+    "Smith Center, KS",
+    "Speed, KS",
+    "Stockton, KS",
+    "Vining, KS",
+    "Webber, KS",
+    "Woodston, KS",
+    "Zurich, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Mitchell County, KS",
+     "population": 5796
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    },
+    {
+     "county": "Norton County, KS",
+     "population": 5459
+    },
+    {
+     "county": "Phillips County, KS",
+     "population": 4981
+    },
+    {
+     "county": "Rooks County, KS",
+     "population": 4919
+    },
+    {
+     "county": "Republic County, KS",
+     "population": 4674
+    },
+    {
+     "county": "Smith County, KS",
+     "population": 3570
+    },
+    {
+     "county": "Osborne County, KS",
+     "population": 3500
+    },
+    {
+     "county": "Jewell County, KS",
+     "population": 2932
+    },
+    {
+     "county": "Decatur County, KS",
+     "population": 2764
+    },
+    {
+     "county": "Cheyenne County, KS",
+     "population": 2616
+    },
+    {
+     "county": "Rawlins County, KS",
+     "population": 2561
+    },
+    {
+     "county": "Sheridan County, KS",
+     "population": 2447
+    },
+    {
+     "county": "Graham County, KS",
+     "population": 2415
+    },
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 24586
+    }
+   ]
+  },
+  {
+   "company": "Victory Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.victoryelectric.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17900000.0,
+   "Residential-Customers": 13753.0,
+   "Commercial-Sales-($)": 25871000.0,
+   "Commercial-Customers": 3783.0,
+   "Industrial-Sales-($)": 22573000.0,
+   "Industrial-Customers": 2318.0,
+   "Total-Customers": 19854.0,
+   "cities-served": [
+    "Bucklin, KS",
+    "Cimarron, KS",
+    "Copeland, KS",
+    "Dodge City, KS",
+    "Ensign, KS",
+    "Ford, KS",
+    "Ingalls, KS",
+    "Jetmore, KS",
+    "Montezuma, KS",
+    "Mullinville, KS",
+    "Spearville, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Finney County, KS",
+     "population": 38470
+    },
+    {
+     "county": "Ford County, KS",
+     "population": 34287
+    },
+    {
+     "county": "Gray County, KS",
+     "population": 5653
+    },
+    {
+     "county": "Edwards County, KS",
+     "population": 2907
+    },
+    {
+     "county": "Kiowa County, KS",
+     "population": 2460
+    },
+    {
+     "county": "Hodgeman County, KS",
+     "population": 1723
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 19854
+    }
+   ]
+  },
+  {
+   "company": "FreeState Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.freestate.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 31307000.0,
+   "Residential-Customers": 16993.0,
+   "Commercial-Sales-($)": 4483000.0,
+   "Commercial-Customers": 1449.0,
+   "Industrial-Sales-($)": 1730000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 18451.0,
+   "cities-served": [
+    "Auburn, KS",
+    "Basehor, KS",
+    "Easton, KS",
+    "Hoyt, KS",
+    "Lansing, KS",
+    "Lawrence, KS",
+    "Leavenworth, KS",
+    "Lecompton, KS",
+    "McLouth, KS",
+    "Nortonville, KS",
+    "Oskaloosa, KS",
+    "Perry, KS",
+    "Scranton, KS",
+    "Silver Lake, KS",
+    "St. Marys, KS",
+    "Tonganoxie, KS",
+    "Topeka, KS",
+    "Valley Falls, KS",
+    "Winchester, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Shawnee County, KS",
+     "population": 178909
+    },
+    {
+     "county": "Douglas County, KS",
+     "population": 118785
+    },
+    {
+     "county": "Leavenworth County, KS",
+     "population": 81881
+    },
+    {
+     "county": "Jefferson County, KS",
+     "population": 18368
+    },
+    {
+     "county": "Atchison County, KS",
+     "population": 16348
+    },
+    {
+     "county": "Osage County, KS",
+     "population": 15766
+    },
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    },
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 18451
+    }
+   ]
+  },
+  {
+   "company": "Southern Pioneer",
+   "company-type": "Cooperative",
+   "website": "https://www.southernpioneer.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16818000.0,
+   "Residential-Customers": 12498.0,
+   "Commercial-Sales-($)": 17521000.0,
+   "Commercial-Customers": 4344.0,
+   "Industrial-Sales-($)": 30736000.0,
+   "Industrial-Customers": 84.0,
+   "Total-Customers": 16926.0,
+   "cities-served": [
+    "Coats, KS",
+    "Coldwater, KS",
+    "Cunningham, KS",
+    "Englewood, KS",
+    "Fowler, KS",
+    "Greensburg, KS",
+    "Haviland, KS",
+    "Hazelton, KS",
+    "Kiowa, KS",
+    "Liberal, KS",
+    "Meade, KS",
+    "Medicine Lodge, KS",
+    "Minneola, KS",
+    "Nashville, KS",
+    "Penalosa, KS",
+    "Satanta, KS",
+    "Sawyer, KS",
+    "Sharon, KS",
+    "Sublette, KS",
+    "Sun City, KS",
+    "Wilmore, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Seward County, KS",
+     "population": 21964
+    },
+    {
+     "county": "Pratt County, KS",
+     "population": 9157
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    },
+    {
+     "county": "Meade County, KS",
+     "population": 4055
+    },
+    {
+     "county": "Haskell County, KS",
+     "population": 3780
+    },
+    {
+     "county": "Kiowa County, KS",
+     "population": 2460
+    },
+    {
+     "county": "Clark County, KS",
+     "population": 1991
+    },
+    {
+     "county": "Comanche County, KS",
+     "population": 1689
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 16926
+    }
+   ]
+  },
+  {
+   "company": "Pioneer Electric Ulysess, Kansas",
+   "company-type": "Cooperative",
+   "website": "https://www.pioneerelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6412000.0,
+   "Residential-Customers": 5007.0,
+   "Commercial-Sales-($)": 29352000.0,
+   "Commercial-Customers": 10955.0,
+   "Industrial-Sales-($)": 31411000.0,
+   "Industrial-Customers": 600.0,
+   "Total-Customers": 16562.0,
+   "cities-served": [
+    "Hugoton, KS",
+    "Johnson City, KS",
+    "Manter, KS",
+    "Moscow, KS",
+    "Richfield, KS",
+    "Rolla, KS",
+    "Satanta, KS",
+    "Sublette, KS",
+    "Ulysses, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Finney County, KS",
+     "population": 38470
+    },
+    {
+     "county": "Seward County, KS",
+     "population": 21964
+    },
+    {
+     "county": "Grant County, KS",
+     "population": 7352
+    },
+    {
+     "county": "Stevens County, KS",
+     "population": 5250
+    },
+    {
+     "county": "Kearny County, KS",
+     "population": 3983
+    },
+    {
+     "county": "Haskell County, KS",
+     "population": 3780
+    },
+    {
+     "county": "Morton County, KS",
+     "population": 2701
+    },
+    {
+     "county": "Hamilton County, KS",
+     "population": 2518
+    },
+    {
+     "county": "Stanton County, KS",
+     "population": 2084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 16562
+    }
+   ]
+  },
+  {
+   "company": "Western Cooperative Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.westerncoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7557100.0,
+   "Residential-Customers": 5883.0,
+   "Commercial-Sales-($)": 23140300.0,
+   "Commercial-Customers": 5892.0,
+   "Industrial-Sales-($)": 1132600.0,
+   "Industrial-Customers": 473.0,
+   "Total-Customers": 12248.0,
+   "cities-served": [
+    "Bison, KS",
+    "Bunker Hill, KS",
+    "Dorrance, KS",
+    "Ellis, KS",
+    "Ellsworth, KS",
+    "Galatia, KS",
+    "Gove City, KS",
+    "Hoisington, KS",
+    "Holyrood, KS",
+    "La Crosse, KS",
+    "Liebenthal, KS",
+    "Lorraine, KS",
+    "Lucas, KS",
+    "Luray, KS",
+    "Natoma, KS",
+    "Olmitz, KS",
+    "Otis, KS",
+    "Paradise, KS",
+    "Plainville, KS",
+    "Quinter, KS",
+    "Ransom, KS",
+    "Schoenchen, KS",
+    "Susank, KS",
+    "Sylvan Grove, KS",
+    "Timken, KS",
+    "WaKeeney, KS",
+    "Waldo, KS",
+    "Zurich, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Ellis County, KS",
+     "population": 28934
+    },
+    {
+     "county": "Barton County, KS",
+     "population": 25493
+    },
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Rooks County, KS",
+     "population": 4919
+    },
+    {
+     "county": "Osborne County, KS",
+     "population": 3500
+    },
+    {
+     "county": "Rush County, KS",
+     "population": 2956
+    },
+    {
+     "county": "Lincoln County, KS",
+     "population": 2939
+    },
+    {
+     "county": "Trego County, KS",
+     "population": 2808
+    },
+    {
+     "county": "Gove County, KS",
+     "population": 2718
+    },
+    {
+     "county": "Ness County, KS",
+     "population": 2687
+    },
+    {
+     "county": "Sheridan County, KS",
+     "population": 2447
+    },
+    {
+     "county": "Graham County, KS",
+     "population": 2415
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 12248
+    }
+   ]
+  },
+  {
+   "company": "Garden City Electric",
+   "company-type": "Municipal",
+   "website": "https://www.garden-city.org/government/departments/public-utilities/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11000000.0,
+   "Residential-Customers": 10140.0,
+   "Commercial-Sales-($)": 7400000.0,
+   "Commercial-Customers": 1018.0,
+   "Industrial-Sales-($)": 10000000.0,
+   "Industrial-Customers": 415.0,
+   "Total-Customers": 11573.0,
+   "cities-served": [
+    "Garden City"
+   ],
+   "counties-served": [
+    {
+     "county": "Finney County, KS",
+     "population": 38470
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 11573
+    }
+   ]
+  },
+  {
+   "company": "Heartland Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.heartland-rec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15659267.075,
+   "Residential-Customers": 9466.0,
+   "Commercial-Sales-($)": 5055409.807,
+   "Commercial-Customers": 1793.0,
+   "Industrial-Sales-($)": 2389823.117,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 11262.0,
+   "cities-served": [
+    "Bassett, KS",
+    "Columbus, KS",
+    "Earlton, KS",
+    "Erie, KS",
+    "Gas, KS",
+    "Girard, KS",
+    "Iola, KS",
+    "La Harpe, KS",
+    "Mapleton, KS",
+    "McCune, KS",
+    "Mildred, KS",
+    "Mound City, KS",
+    "Osawatomie, KS",
+    "Parker, KS",
+    "Pleasanton, KS",
+    "Prescott, KS",
+    "Savonburg, KS",
+    "St. Paul, KS",
+    "Stark, KS",
+    "Thayer, KS",
+    "Walnut, KS",
+    "Weir, KS",
+    "West Mineral, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Miami County, KS",
+     "population": 34191
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Bourbon County, KS",
+     "population": 14360
+    },
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    },
+    {
+     "county": "Linn County, KS",
+     "population": 9591
+    },
+    {
+     "county": "Wilson County, KS",
+     "population": 8624
+    },
+    {
+     "county": "Anderson County, KS",
+     "population": 7836
+    },
+    {
+     "county": "Woodson County, KS",
+     "population": 3115
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 11262
+    }
+   ]
+  },
+  {
+   "company": "Rolling Hills Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.rollinghills.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12884038.87,
+   "Residential-Customers": 8997.0,
+   "Commercial-Sales-($)": 12831968.842,
+   "Commercial-Customers": 1704.0,
+   "Industrial-Sales-($)": 1182792.288,
+   "Industrial-Customers": 537.0,
+   "Total-Customers": 11238.0,
+   "cities-served": [
+    "Alton, KS",
+    "Aurora, KS",
+    "Belleville, KS",
+    "Beloit, KS",
+    "Burr Oak, KS",
+    "Concordia, KS",
+    "Cuba, KS",
+    "Ellsworth, KS",
+    "Esbon, KS",
+    "Formoso, KS",
+    "Gaylord, KS",
+    "Glasco, KS",
+    "Glen Elder, KS",
+    "Holyrood, KS",
+    "Jewell, KS",
+    "Kanopolis, KS",
+    "Lebanon, KS",
+    "Lorraine, KS",
+    "Lucas, KS",
+    "Luray, KS",
+    "Mankato, KS",
+    "Munden, KS",
+    "Narka, KS",
+    "Osborne, KS",
+    "Paradise, KS",
+    "Portis, KS",
+    "Randall, KS",
+    "Republic, KS",
+    "Russell, KS",
+    "Scandia, KS",
+    "Smith Center, KS",
+    "Tipton, KS",
+    "Webber, KS",
+    "Wilson, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Mitchell County, KS",
+     "population": 5796
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    },
+    {
+     "county": "Rooks County, KS",
+     "population": 4919
+    },
+    {
+     "county": "Republic County, KS",
+     "population": 4674
+    },
+    {
+     "county": "Smith County, KS",
+     "population": 3570
+    },
+    {
+     "county": "Osborne County, KS",
+     "population": 3500
+    },
+    {
+     "county": "Lincoln County, KS",
+     "population": 2939
+    },
+    {
+     "county": "Jewell County, KS",
+     "population": 2932
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 11238
+    }
+   ]
+  },
+  {
+   "company": "Gardner Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.gardnerkansas.gov/government/departments-and-divisions-/utilities-department/electric-division/electric-distribution",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9886268.118,
+   "Residential-Customers": 8865.0,
+   "Commercial-Sales-($)": 4304537.169,
+   "Commercial-Customers": 542.0,
+   "Industrial-Sales-($)": 640194.714,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 9414.0,
+   "Total-Production-MWh": 14.0,
+   "Production-from-Non-Renewable-Energy-MWh": 14.0,
+   "cities-served": [
+    "Edgerton, KS",
+    "Gardner, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Johnson County, KS",
+     "population": 609863
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 9414
+    }
+   ]
+  },
+  {
+   "company": "McPherson BPU",
+   "company-type": "Municipal",
+   "website": "https://www.mcphersonpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6793700.0,
+   "Residential-Customers": 7384.0,
+   "Commercial-Sales-($)": 7653000.0,
+   "Commercial-Customers": 1401.0,
+   "Industrial-Sales-($)": 39270600.0,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 8804.0,
+   "Total-Production-MWh": 25880.0,
+   "Production-from-Non-Renewable-Energy-MWh": 25880.0,
+   "cities-served": [
+    "Inman, KS",
+    "McPherson, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 8804
+    }
+   ]
+  },
+  {
+   "company": "Alfalfa Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.aec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5103000.0,
+   "Residential-Customers": 2904.0,
+   "Commercial-Sales-($)": 6115000.0,
+   "Commercial-Customers": 5385.0,
+   "Industrial-Sales-($)": 30255000.0,
+   "Industrial-Customers": 231.0,
+   "Total-Customers": 8520.0,
+   "cities-served": [
+    "Aline, OK",
+    "Alva, OK",
+    "Ames, OK",
+    "Amorita, OK",
+    "Burlington, OK",
+    "Byron, OK",
+    "Capron, OK",
+    "Carmen, OK",
+    "Cherokee, OK",
+    "Cleo Springs, OK",
+    "Dacoma, OK",
+    "Freedom, OK",
+    "Goltry, OK",
+    "Hardtner, KS",
+    "Hazelton, KS",
+    "Helena, OK",
+    "Hillsdale, OK",
+    "Jefferson, OK",
+    "Jet, OK",
+    "Kiowa, KS",
+    "Lambert, OK",
+    "Manchester, OK",
+    "Meno, OK",
+    "Nash, OK",
+    "Pond Creek, OK",
+    "Ringwood, OK",
+    "Wakita, OK",
+    "Waldron, KS",
+    "Waynoka, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    },
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    },
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    },
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 7594
+    },
+    {
+     "state": "Kansas",
+     "customers": 926
+    }
+   ]
+  },
+  {
+   "company": "DSO Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://dsoelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13650555.272,
+   "Residential-Customers": 7217.0,
+   "Commercial-Sales-($)": 4665293.457,
+   "Commercial-Customers": 1128.0,
+   "Industrial-Sales-($)": 744151.271,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 8349.0,
+   "cities-served": [
+    "Abilene, KS",
+    "Carlton, KS",
+    "Delphos, KS",
+    "Hope, KS",
+    "Junction City, KS",
+    "Lindsborg, KS",
+    "Manchester, KS",
+    "Marquette, KS",
+    "Minneapolis, KS",
+    "New Cambria, KS",
+    "Ramona, KS",
+    "Salina, KS",
+    "Solomon, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, KS",
+     "population": 54303
+    },
+    {
+     "county": "Geary County, KS",
+     "population": 36739
+    },
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    },
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    },
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    },
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Ottawa County, KS",
+     "population": 5735
+    },
+    {
+     "county": "Morris County, KS",
+     "population": 5386
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 8349
+    }
+   ]
+  },
+  {
+   "company": "Butler County Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.butler.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13929790.451,
+   "Residential-Customers": 6780.0,
+   "Commercial-Sales-($)": 2802549.355,
+   "Commercial-Customers": 843.0,
+   "Industrial-Sales-($)": 1173660.193,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 7631.0,
+   "cities-served": [
+    "Andover, KS",
+    "Augusta, KS",
+    "Bel Aire, KS",
+    "Benton, KS",
+    "Cassoday, KS",
+    "Douglass, KS",
+    "Kechi, KS",
+    "Latham, KS",
+    "Newton, KS",
+    "Park City, KS",
+    "Potwin, KS",
+    "Rose Hill, KS",
+    "Towanda, KS",
+    "Udall, KS",
+    "Whitewater, KS",
+    "Wichita, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    },
+    {
+     "county": "Butler County, KS",
+     "population": 67380
+    },
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    },
+    {
+     "county": "Harvey County, KS",
+     "population": 34024
+    },
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    },
+    {
+     "county": "Greenwood County, KS",
+     "population": 6016
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 7631
+    }
+   ]
+  },
+  {
+   "company": "Bluestem Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://bluestemelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11699587.325,
+   "Residential-Customers": 5651.0,
+   "Commercial-Sales-($)": 4746413.129,
+   "Commercial-Customers": 1416.0,
+   "Industrial-Sales-($)": 340299.547,
+   "Industrial-Customers": 219.0,
+   "Total-Customers": 7286.0,
+   "cities-served": [
+    "Alma, KS",
+    "Barnes, KS",
+    "Clay Center, KS",
+    "Green, KS",
+    "Greenleaf, KS",
+    "Leonardville, KS",
+    "Linn, KS",
+    "Louisville, KS",
+    "Olsburg, KS",
+    "Onaga, KS",
+    "Palmer, KS",
+    "Riley, KS",
+    "Wamego, KS",
+    "Washington, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Riley County, KS",
+     "population": 71959
+    },
+    {
+     "county": "Geary County, KS",
+     "population": 36739
+    },
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    },
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    },
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    },
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Clay County, KS",
+     "population": 8117
+    },
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 7286
+    }
+   ]
+  },
+  {
+   "company": "Winfield Electric",
+   "company-type": "Municipal",
+   "website": "https://www.winfieldks.org/departments/public_utilities/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6848000.0,
+   "Residential-Customers": 6074.0,
+   "Commercial-Sales-($)": 5505000.0,
+   "Commercial-Customers": 1010.0,
+   "Industrial-Sales-($)": 11122000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 7102.0,
+   "Total-Production-MWh": 2268.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2268.0,
+   "cities-served": [
+    "Winfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 7102
+    }
+   ]
+  },
+  {
+   "company": "Sedgwick County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sedgwickcountyelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12134521.763,
+   "Residential-Customers": 5927.0,
+   "Commercial-Sales-($)": 4951822.384,
+   "Commercial-Customers": 994.0,
+   "Industrial-Sales-($)": 340355.852,
+   "Industrial-Customers": 140.0,
+   "Total-Customers": 7061.0,
+   "cities-served": [
+    "Andale, KS",
+    "Cheney, KS",
+    "Colwich, KS",
+    "Goddard, KS",
+    "Haysville, KS",
+    "Maize, KS",
+    "Mount Hope, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    },
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "Harvey County, KS",
+     "population": 34024
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 7061
+    }
+   ]
+  },
+  {
+   "company": "Flint Hills Rural Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.flinthillsrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8389871.398,
+   "Residential-Customers": 5857.0,
+   "Commercial-Sales-($)": 2607834.279,
+   "Commercial-Customers": 739.0,
+   "Industrial-Sales-($)": 50094.323,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 6628.0,
+   "cities-served": [
+    "Alta Vista, KS",
+    "Cedar Point, KS",
+    "Cottonwood Falls, KS",
+    "Council Grove, KS",
+    "Dunlap, KS",
+    "Durham, KS",
+    "Dwight, KS",
+    "Grandview Plaza, KS",
+    "Herington, KS",
+    "Hillsboro, KS",
+    "Lehigh, KS",
+    "Marion, KS",
+    "Matfield Green, KS",
+    "Parkerville, KS",
+    "Strong City, KS",
+    "White City, KS",
+    "Wilsey, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Geary County, KS",
+     "population": 36739
+    },
+    {
+     "county": "Harvey County, KS",
+     "population": 34024
+    },
+    {
+     "county": "Lyon County, KS",
+     "population": 32179
+    },
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    },
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    },
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    },
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    },
+    {
+     "county": "Morris County, KS",
+     "population": 5386
+    },
+    {
+     "county": "Chase County, KS",
+     "population": 2572
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 6628
+    }
+   ]
+  },
+  {
+   "company": "Ottawa KS Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.ottawaks.gov/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5652531.762,
+   "Residential-Customers": 5311.0,
+   "Commercial-Sales-($)": 6953349.034,
+   "Commercial-Customers": 876.0,
+   "Industrial-Sales-($)": 651719.204,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 6219.0,
+   "Total-Production-MWh": 2003.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2003.0,
+   "cities-served": [
+    "Ottawa"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, KS",
+     "population": 25996
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 6219
+    }
+   ]
+  },
+  {
+   "company": "City of Coffeyville Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.coffeyville.com/166/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5693572.0,
+   "Residential-Customers": 4851.0,
+   "Commercial-Sales-($)": 6959690.0,
+   "Commercial-Customers": 998.0,
+   "Industrial-Sales-($)": 42341892.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 5859.0,
+   "Total-Production-MWh": 57759.0,
+   "Production-from-Non-Renewable-Energy-MWh": 57759.0,
+   "cities-served": [
+    "Coffeyville, KS",
+    "Dearing, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5859
+    }
+   ]
+  },
+  {
+   "company": "CMS Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cmselectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4137000.0,
+   "Residential-Customers": 3153.0,
+   "Commercial-Sales-($)": 11448300.0,
+   "Commercial-Customers": 2605.0,
+   "Industrial-Sales-($)": 5880200.0,
+   "Industrial-Customers": 89.0,
+   "Total-Customers": 5847.0,
+   "cities-served": [
+    "Ashland, KS",
+    "Coldwater, KS",
+    "Copeland, KS",
+    "Englewood, KS",
+    "Kismet, KS",
+    "Liberal, KS",
+    "Meade, KS",
+    "Plains, KS",
+    "Protection, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Seward County, KS",
+     "population": 21964
+    },
+    {
+     "county": "Gray County, KS",
+     "population": 5653
+    },
+    {
+     "county": "Meade County, KS",
+     "population": 4055
+    },
+    {
+     "county": "Kiowa County, KS",
+     "population": 2460
+    },
+    {
+     "county": "Clark County, KS",
+     "population": 1991
+    },
+    {
+     "county": "Comanche County, KS",
+     "population": 1689
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5847
+    }
+   ]
+  },
+  {
+   "company": "Lane Scott",
+   "company-type": "Cooperative",
+   "website": "https://www.lanescott.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2609584.27,
+   "Residential-Customers": 2272.0,
+   "Commercial-Sales-($)": 11579747.336,
+   "Commercial-Customers": 2107.0,
+   "Industrial-Sales-($)": 1186668.393,
+   "Industrial-Customers": 1379.0,
+   "Total-Customers": 5758.0,
+   "cities-served": [
+    "Alexander, KS",
+    "Bazine, KS",
+    "Brownell, KS",
+    "Dighton, KS",
+    "McCracken, KS",
+    "Ness City, KS",
+    "Ransom, KS",
+    "Utica, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Finney County, KS",
+     "population": 38470
+    },
+    {
+     "county": "Scott County, KS",
+     "population": 5151
+    },
+    {
+     "county": "Rush County, KS",
+     "population": 2956
+    },
+    {
+     "county": "Gove County, KS",
+     "population": 2718
+    },
+    {
+     "county": "Ness County, KS",
+     "population": 2687
+    },
+    {
+     "county": "Hodgeman County, KS",
+     "population": 1723
+    },
+    {
+     "county": "Lane County, KS",
+     "population": 1574
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5758
+    }
+   ]
+  },
+  {
+   "company": "City of Chanute Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.chanute.org/index.aspx?NID=555",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4021000.0,
+   "Residential-Customers": 4578.0,
+   "Commercial-Sales-($)": 3511000.0,
+   "Commercial-Customers": 938.0,
+   "Industrial-Sales-($)": 10904000.0,
+   "Industrial-Customers": 94.0,
+   "Total-Customers": 5610.0,
+   "Total-Production-MWh": 195849.0,
+   "Production-from-Non-Renewable-Energy-MWh": 195849.0,
+   "cities-served": [
+    "Chanute"
+   ],
+   "counties-served": [
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5610
+    }
+   ]
+  },
+  {
+   "company": "The Caney Valley Electric Cooperative Association",
+   "company-type": "Cooperative",
+   "website": "https://www.caneyvalley.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5070497.186,
+   "Residential-Customers": 3509.0,
+   "Commercial-Sales-($)": 4033502.814,
+   "Commercial-Customers": 1740.0,
+   "Total-Customers": 5249.0,
+   "cities-served": [
+    "Cambridge, KS",
+    "Cedar Vale, KS",
+    "Chautauqua, KS",
+    "Elgin, KS",
+    "Elk Falls, KS",
+    "Havana, KS",
+    "Longton, KS",
+    "Niotaze, KS",
+    "Peru, KS",
+    "Sedan, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Chautauqua County, KS",
+     "population": 3379
+    },
+    {
+     "county": "Elk County, KS",
+     "population": 2483
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5249
+    }
+   ]
+  },
+  {
+   "company": "Ark Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.arkvalley.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7101636.792,
+   "Residential-Customers": 4218.0,
+   "Commercial-Sales-($)": 3392398.017,
+   "Commercial-Customers": 940.0,
+   "Industrial-Sales-($)": 3306465.191,
+   "Industrial-Customers": 36.0,
+   "Total-Customers": 5194.0,
+   "cities-served": [
+    "Abbyville, KS",
+    "Alden, KS",
+    "Buhler, KS",
+    "Haven, KS",
+    "Kingman, KS",
+    "Penalosa, KS",
+    "Sterling, KS",
+    "The Highlands, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    },
+    {
+     "county": "Rice County, KS",
+     "population": 9427
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 5194
+    }
+   ]
+  },
+  {
+   "company": "Sumner-Cowley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sucocoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7188343.313,
+   "Residential-Customers": 3284.0,
+   "Commercial-Sales-($)": 3479233.533,
+   "Commercial-Customers": 1149.0,
+   "Industrial-Sales-($)": 660423.154,
+   "Industrial-Customers": 46.0,
+   "Total-Customers": 4479.0,
+   "cities-served": [
+    "Argonia, KS",
+    "Atlanta, KS",
+    "Caldwell, KS",
+    "Clearwater, KS",
+    "Conway Springs, KS",
+    "Danville, KS",
+    "Dexter, KS",
+    "Geuda Springs, KS",
+    "Hunnewell, KS",
+    "Mayfield, KS",
+    "Milan, KS",
+    "Mulvane, KS",
+    "Norwich, KS",
+    "South Haven, KS",
+    "Udall, KS",
+    "Wellington, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    },
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 4479
+    }
+   ]
+  },
+  {
+   "company": "City of Wellington, KS Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityofwellington.net/pview.aspx?id=20841&catID=0",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4960813.146,
+   "Residential-Customers": 3803.0,
+   "Commercial-Sales-($)": 4900178.45,
+   "Commercial-Customers": 565.0,
+   "Industrial-Sales-($)": 2362208.404,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 4378.0,
+   "Total-Production-MWh": 2501.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2501.0,
+   "cities-served": [
+    "Mayfield, KS",
+    "Wellington, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 4378
+    }
+   ]
+  },
+  {
+   "company": "Pratt Electrical",
+   "company-type": "Municipal",
+   "website": "https://www.cityofprattks.com/162/Electric-Utility",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3542657.972,
+   "Residential-Customers": 3550.0,
+   "Commercial-Sales-($)": 2983194.063,
+   "Commercial-Customers": 775.0,
+   "Industrial-Sales-($)": 1658147.965,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 4339.0,
+   "Total-Production-MWh": 724.0,
+   "Production-from-Non-Renewable-Energy-MWh": 724.0,
+   "cities-served": [
+    "Pratt"
+   ],
+   "counties-served": [
+    {
+     "county": "Pratt County, KS",
+     "population": 9157
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 4339
+    }
+   ]
+  },
+  {
+   "company": "Augusta, KS Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.augustaks.org/government/departments/public_works/electric_division/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4828033.746,
+   "Residential-Customers": 3897.0,
+   "Commercial-Sales-($)": 2495891.843,
+   "Commercial-Customers": 413.0,
+   "Industrial-Sales-($)": 942574.411,
+   "Industrial-Customers": 27.0,
+   "Total-Customers": 4337.0,
+   "Total-Production-MWh": 2920.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2920.0,
+   "cities-served": [
+    "Augusta"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, KS",
+     "population": 67380
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 4337
+    }
+   ]
+  },
+  {
+   "company": "Ninnescah Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.ninnescah.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3784094.813,
+   "Residential-Customers": 2763.0,
+   "Commercial-Sales-($)": 5955235.548,
+   "Commercial-Customers": 1338.0,
+   "Industrial-Sales-($)": 2822669.639,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 4104.0,
+   "cities-served": [
+    "Belpre, KS",
+    "Byers, KS",
+    "Cullison, KS",
+    "Greensburg, KS",
+    "Isabel, KS",
+    "Iuka, KS",
+    "Lewis, KS",
+    "Macksville, KS",
+    "Medicine Lodge, KS",
+    "Pratt, KS",
+    "Preston, KS",
+    "Spivey, KS",
+    "Sun City, KS",
+    "Turon, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "Pratt County, KS",
+     "population": 9157
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Pawnee County, KS",
+     "population": 6253
+    },
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    },
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    },
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    },
+    {
+     "county": "Edwards County, KS",
+     "population": 2907
+    },
+    {
+     "county": "Kiowa County, KS",
+     "population": 2460
+    },
+    {
+     "county": "Comanche County, KS",
+     "population": 1689
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 4104
+    }
+   ]
+  },
+  {
+   "company": "Iola, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofiola.com/164/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3289219.647,
+   "Residential-Customers": 3113.0,
+   "Commercial-Sales-($)": 2647021.342,
+   "Commercial-Customers": 579.0,
+   "Industrial-Sales-($)": 2971759.012,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 3694.0,
+   "Total-Production-MWh": 1668.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1668.0,
+   "cities-served": [
+    "Bassett, KS",
+    "Gas, KS",
+    "Iola, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 3694
+    }
+   ]
+  },
+  {
+   "company": "Nemaha-Marshall Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.nemaha-marshall.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5392857.138,
+   "Residential-Customers": 3349.0,
+   "Commercial-Sales-($)": 1105982.524,
+   "Commercial-Customers": 118.0,
+   "Industrial-Sales-($)": 39560.337,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 3496.0,
+   "cities-served": [
+    "Axtell, KS",
+    "Beattie, KS",
+    "Blue Rapids, KS",
+    "Corning, KS",
+    "Frankfort, KS",
+    "Goff, KS",
+    "Hanover, KS",
+    "Hollenberg, KS",
+    "Marysville, KS",
+    "Oketo, KS",
+    "Oneida, KS",
+    "Soldier, KS",
+    "Summerfield, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    },
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    },
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 3496
+    }
+   ]
+  },
+  {
+   "company": "Russell, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.russellcity.org/191/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2224758.499,
+   "Residential-Customers": 2420.0,
+   "Commercial-Sales-($)": 1553198.271,
+   "Commercial-Customers": 682.0,
+   "Industrial-Sales-($)": 4985043.23,
+   "Industrial-Customers": 239.0,
+   "Total-Customers": 3341.0,
+   "Total-Production-MWh": 1112.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1112.0,
+   "cities-served": [
+    "Russell"
+   ],
+   "counties-served": [
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 3341
+    }
+   ]
+  },
+  {
+   "company": "Brown Atchison Electric",
+   "company-type": "Cooperative",
+   "website": "http://baelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4220193.571,
+   "Residential-Customers": 2824.0,
+   "Commercial-Sales-($)": 2305106.429,
+   "Commercial-Customers": 457.0,
+   "Total-Customers": 3281.0,
+   "cities-served": [
+    "Atchison, KS",
+    "Circleville, KS",
+    "Fairview, KS",
+    "Hiawatha, KS",
+    "Holton, KS",
+    "Horton, KS",
+    "Huron, KS",
+    "Lancaster, KS",
+    "Morrill, KS",
+    "Muscotah, KS",
+    "Netawaka, KS",
+    "Powhattan, KS",
+    "Reserve, KS",
+    "Robinson, KS",
+    "Sabetha, KS",
+    "Wetmore, KS",
+    "Whiting, KS",
+    "Willis, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, KS",
+     "population": 18368
+    },
+    {
+     "county": "Atchison County, KS",
+     "population": 16348
+    },
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    },
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    },
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 3281
+    }
+   ]
+  },
+  {
+   "company": "Colby, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofcolby.com/51/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2017589.279,
+   "Residential-Customers": 2343.0,
+   "Commercial-Sales-($)": 990043.45,
+   "Commercial-Customers": 622.0,
+   "Industrial-Sales-($)": 2763867.271,
+   "Industrial-Customers": 101.0,
+   "Total-Customers": 3066.0,
+   "Total-Production-MWh": 528.0,
+   "Production-from-Non-Renewable-Energy-MWh": 528.0,
+   "cities-served": [
+    "Colby"
+   ],
+   "counties-served": [
+    {
+     "county": "Thomas County, KS",
+     "population": 7930
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 3066
+    }
+   ]
+  },
+  {
+   "company": "Twin Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.twinvalleyelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4064353.815,
+   "Residential-Customers": 2124.0,
+   "Commercial-Sales-($)": 1669746.185,
+   "Commercial-Customers": 762.0,
+   "Total-Customers": 2886.0,
+   "cities-served": [
+    "Altamont, KS",
+    "Bartlett, KS",
+    "Chetopa, KS",
+    "Edna, KS",
+    "Labette, KS",
+    "Mound Valley, KS",
+    "Oswego, KS",
+    "Parsons, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2886
+    }
+   ]
+  },
+  {
+   "company": "City of Mulvane Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.mulvanekansas.com/department/?structureid=1",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2767529.694,
+   "Residential-Customers": 2385.0,
+   "Commercial-Sales-($)": 1714470.306,
+   "Commercial-Customers": 405.0,
+   "Total-Customers": 2790.0,
+   "Total-Production-MWh": 255.0,
+   "Production-from-Non-Renewable-Energy-MWh": 255.0,
+   "cities-served": [
+    "Mulvane"
+   ],
+   "counties-served": [
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2790
+    }
+   ]
+  },
+  {
+   "company": "Clay Center Public Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.claycenterpublicutilities.com/services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2441121.019,
+   "Residential-Customers": 2181.0,
+   "Commercial-Sales-($)": 1239507.119,
+   "Commercial-Customers": 360.0,
+   "Industrial-Sales-($)": 1642371.862,
+   "Industrial-Customers": 245.0,
+   "Total-Customers": 2786.0,
+   "Total-Production-MWh": 787.0,
+   "Production-from-Non-Renewable-Energy-MWh": 787.0,
+   "cities-served": [
+    "Clay Center"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, KS",
+     "population": 8117
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2786
+    }
+   ]
+  },
+  {
+   "company": "Goodland, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofgoodland.org/city-departments/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2547207.232,
+   "Residential-Customers": 2169.0,
+   "Commercial-Sales-($)": 949115.453,
+   "Commercial-Customers": 442.0,
+   "Industrial-Sales-($)": 2632677.315,
+   "Industrial-Customers": 65.0,
+   "Total-Customers": 2676.0,
+   "cities-served": [
+    "Goodland"
+   ],
+   "counties-served": [
+    {
+     "county": "Sherman County, KS",
+     "population": 5927
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2676
+    }
+   ]
+  },
+  {
+   "company": "Eudora Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofeudoraks.gov/93/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3041405.114,
+   "Residential-Customers": 2456.0,
+   "Commercial-Sales-($)": 1150528.633,
+   "Commercial-Customers": 160.0,
+   "Industrial-Sales-($)": 507866.253,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2617.0,
+   "cities-served": [
+    "Eudora"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, KS",
+     "population": 118785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2617
+    }
+   ]
+  },
+  {
+   "company": "Holton, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.holtonkansas.org/pview.aspx?id=1924&catid=29",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1818923.318,
+   "Residential-Customers": 2027.0,
+   "Commercial-Sales-($)": 1390155.074,
+   "Commercial-Customers": 447.0,
+   "Industrial-Sales-($)": 397921.608,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 2487.0,
+   "Total-Production-MWh": 1439.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1439.0,
+   "cities-served": [
+    "Holton"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2487
+    }
+   ]
+  },
+  {
+   "company": "Larned, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoflarned.org/179/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2380947.53,
+   "Residential-Customers": 2076.0,
+   "Commercial-Sales-($)": 1979330.747,
+   "Commercial-Customers": 397.0,
+   "Industrial-Sales-($)": 182721.723,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 2486.0,
+   "cities-served": [
+    "Larned"
+   ],
+   "counties-served": [
+    {
+     "county": "Pawnee County, KS",
+     "population": 6253
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2486
+    }
+   ]
+  },
+  {
+   "company": "Wamego, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.wamego.org/government/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2244357.447,
+   "Residential-Customers": 2084.0,
+   "Commercial-Sales-($)": 1325957.447,
+   "Commercial-Customers": 270.0,
+   "Industrial-Sales-($)": 1021685.106,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 2380.0,
+   "cities-served": [
+    "Wamego"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2380
+    }
+   ]
+  },
+  {
+   "company": "Beloit, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.beloitks.org/154/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1755819.531,
+   "Residential-Customers": 1801.0,
+   "Commercial-Sales-($)": 1388430.845,
+   "Commercial-Customers": 469.0,
+   "Industrial-Sales-($)": 1190749.624,
+   "Industrial-Customers": 33.0,
+   "Total-Customers": 2303.0,
+   "Total-Production-MWh": 160.0,
+   "Production-from-Non-Renewable-Energy-MWh": 160.0,
+   "cities-served": [
+    "Beloit"
+   ],
+   "counties-served": [
+    {
+     "county": "Mitchell County, KS",
+     "population": 5796
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2303
+    }
+   ]
+  },
+  {
+   "company": "Osawatomie, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.osawatomieks.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2061583.333,
+   "Residential-Customers": 1788.0,
+   "Commercial-Sales-($)": 1184333.333,
+   "Commercial-Customers": 263.0,
+   "Industrial-Sales-($)": 10083.333,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 2053.0,
+   "Total-Production-MWh": 336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 336.0,
+   "cities-served": [
+    "Osawatomie"
+   ],
+   "counties-served": [
+    {
+     "county": "Miami County, KS",
+     "population": 34191
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2053
+    }
+   ]
+  },
+  {
+   "company": "Hugoton, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityofhugoton.com/departments/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2280784.125,
+   "Residential-Customers": 1598.0,
+   "Commercial-Sales-($)": 1944680.403,
+   "Commercial-Customers": 422.0,
+   "Industrial-Sales-($)": 575535.472,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 2022.0,
+   "Total-Production-MWh": 307.0,
+   "Production-from-Non-Renewable-Energy-MWh": 307.0,
+   "cities-served": [
+    "Hugoton"
+   ],
+   "counties-served": [
+    {
+     "county": "Stevens County, KS",
+     "population": 5250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2022
+    }
+   ]
+  },
+  {
+   "company": "Baldwin City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.baldwincity.gov/256/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2347756.257,
+   "Residential-Customers": 1761.0,
+   "Commercial-Sales-($)": 2032243.743,
+   "Commercial-Customers": 244.0,
+   "Total-Customers": 2005.0,
+   "Total-Production-MWh": 477.0,
+   "Production-from-Non-Renewable-Energy-MWh": 477.0,
+   "cities-served": [
+    "Baldwin City"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, KS",
+     "population": 118785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 2005
+    }
+   ]
+  },
+  {
+   "company": "Anthony Electric",
+   "company-type": "Municipal",
+   "website": "https://www.anthonykansas.org/department-city-services#utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1757867.036,
+   "Residential-Customers": 1593.0,
+   "Commercial-Sales-($)": 1995154.873,
+   "Commercial-Customers": 351.0,
+   "Industrial-Sales-($)": 92978.091,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 1954.0,
+   "Total-Production-MWh": 234.0,
+   "Production-from-Non-Renewable-Energy-MWh": 234.0,
+   "cities-served": [
+    "Anthony"
+   ],
+   "counties-served": [
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1954
+    }
+   ]
+  },
+  {
+   "company": "Garnett, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.simplygarnett.com/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1677783.234,
+   "Residential-Customers": 1666.0,
+   "Commercial-Sales-($)": 320813.75,
+   "Commercial-Customers": 224.0,
+   "Industrial-Sales-($)": 961403.016,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 1930.0,
+   "cities-served": [
+    "Garnett"
+   ],
+   "counties-served": [
+    {
+     "county": "Anderson County, KS",
+     "population": 7836
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1930
+    }
+   ]
+  },
+  {
+   "company": "Kingman Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofkingman.com/utilities/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1790223.588,
+   "Residential-Customers": 1534.0,
+   "Commercial-Sales-($)": 1047074.914,
+   "Commercial-Customers": 360.0,
+   "Industrial-Sales-($)": 2266701.498,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 1909.0,
+   "Total-Production-MWh": 6583.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6583.0,
+   "cities-served": [
+    "Kingman"
+   ],
+   "counties-served": [
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1909
+    }
+   ]
+  },
+  {
+   "company": "Sabetha, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofsabetha.com/electrical.cfm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1331950.644,
+   "Residential-Customers": 1366.0,
+   "Commercial-Sales-($)": 621637.912,
+   "Commercial-Customers": 390.0,
+   "Industrial-Sales-($)": 2232411.444,
+   "Industrial-Customers": 79.0,
+   "Total-Customers": 1835.0,
+   "cities-served": [
+    "Sabetha"
+   ],
+   "counties-served": [
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    },
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1835
+    }
+   ]
+  },
+  {
+   "company": "Norton, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofnorton.com/2155/Electric-Distribution",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1449795.98,
+   "Residential-Customers": 1485.0,
+   "Commercial-Sales-($)": 1252137.742,
+   "Commercial-Customers": 299.0,
+   "Industrial-Sales-($)": 252966.278,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 1787.0,
+   "cities-served": [
+    "Norton"
+   ],
+   "counties-served": [
+    {
+     "county": "Norton County, KS",
+     "population": 5459
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1787
+    }
+   ]
+  },
+  {
+   "company": "Lindsborg, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1638852.745,
+   "Residential-Customers": 1488.0,
+   "Commercial-Sales-($)": 1569447.255,
+   "Commercial-Customers": 223.0,
+   "Total-Customers": 1711.0,
+   "cities-served": [
+    "Lindsborg"
+   ],
+   "counties-served": [
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1711
+    }
+   ]
+  },
+  {
+   "company": "City of Hoisington Utility",
+   "company-type": "Municipal",
+   "website": "https://www.hoisingtonks.org/departments",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1498605.565,
+   "Residential-Customers": 1405.0,
+   "Commercial-Sales-($)": 933394.435,
+   "Commercial-Customers": 229.0,
+   "Total-Customers": 1634.0,
+   "Total-Production-MWh": 386.0,
+   "Production-from-Non-Renewable-Energy-MWh": 386.0,
+   "cities-served": [
+    "Hoisington"
+   ],
+   "counties-served": [
+    {
+     "county": "Barton County, KS",
+     "population": 25493
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1634
+    }
+   ]
+  },
+  {
+   "company": "Burlington, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.burlingtonkansas.gov/city-departments-services/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1584147.724,
+   "Residential-Customers": 1266.0,
+   "Commercial-Sales-($)": 1774811.392,
+   "Commercial-Customers": 364.0,
+   "Industrial-Sales-($)": 264040.883,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1631.0,
+   "Total-Production-MWh": 487.0,
+   "Production-from-Non-Renewable-Energy-MWh": 487.0,
+   "cities-served": [
+    "Burlington"
+   ],
+   "counties-served": [
+    {
+     "county": "Coffey County, KS",
+     "population": 8360
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1631
+    }
+   ]
+  },
+  {
+   "company": "Girard Electric",
+   "company-type": "Municipal",
+   "website": "http://girardkansas.gov/164/Electric-Water-Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1943341.864,
+   "Residential-Customers": 1360.0,
+   "Commercial-Sales-($)": 607879.833,
+   "Commercial-Customers": 199.0,
+   "Industrial-Sales-($)": 1190778.303,
+   "Industrial-Customers": 70.0,
+   "Total-Customers": 1629.0,
+   "Total-Production-MWh": 636.0,
+   "Production-from-Non-Renewable-Energy-MWh": 636.0,
+   "cities-served": [
+    "Girard"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1629
+    }
+   ]
+  },
+  {
+   "company": "Neodesha, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.neodesha.org/government/departments/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1190451.462,
+   "Residential-Customers": 1278.0,
+   "Commercial-Sales-($)": 944638.304,
+   "Commercial-Customers": 274.0,
+   "Industrial-Sales-($)": 1085910.234,
+   "Industrial-Customers": 65.0,
+   "Total-Customers": 1617.0,
+   "cities-served": [
+    "Neodesha"
+   ],
+   "counties-served": [
+    {
+     "county": "Wilson County, KS",
+     "population": 8624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1617
+    }
+   ]
+  },
+  {
+   "company": "Osage Electric",
+   "company-type": "Municipal",
+   "website": "https://osagecity.com/63/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1583093.848,
+   "Residential-Customers": 1296.0,
+   "Commercial-Sales-($)": 1079906.72,
+   "Commercial-Customers": 289.0,
+   "Industrial-Sales-($)": 727599.432,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1586.0,
+   "Total-Production-MWh": 312.0,
+   "Production-from-Non-Renewable-Energy-MWh": 312.0,
+   "cities-served": [
+    "Osage City"
+   ],
+   "counties-served": [
+    {
+     "county": "Osage County, KS",
+     "population": 15766
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1586
+    }
+   ]
+  },
+  {
+   "company": "Doniphan Electric Coop",
+   "company-type": "Cooperative",
+   "website": "http://www.donrec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2440335.373,
+   "Residential-Customers": 1372.0,
+   "Commercial-Sales-($)": 485887.393,
+   "Commercial-Customers": 183.0,
+   "Industrial-Sales-($)": 41777.234,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1568.0,
+   "cities-served": [
+    "Denton, KS",
+    "Troy, KS",
+    "White Cloud, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    },
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1568
+    }
+   ]
+  },
+  {
+   "company": "Fredonia, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.fredoniaks.org/93/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1033355.944,
+   "Residential-Customers": 1241.0,
+   "Commercial-Sales-($)": 1472644.056,
+   "Commercial-Customers": 289.0,
+   "Total-Customers": 1530.0,
+   "cities-served": [
+    "Fredonia"
+   ],
+   "counties-served": [
+    {
+     "county": "Wilson County, KS",
+     "population": 8624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1530
+    }
+   ]
+  },
+  {
+   "company": "Hillsboro Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhillsboro.net/departments/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1266359.767,
+   "Residential-Customers": 1171.0,
+   "Commercial-Sales-($)": 1410640.233,
+   "Commercial-Customers": 259.0,
+   "Total-Customers": 1430.0,
+   "cities-served": [
+    "Hillsboro"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1430
+    }
+   ]
+  },
+  {
+   "company": "Belleville Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbellevillekansas.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1268059.377,
+   "Residential-Customers": 1131.0,
+   "Commercial-Sales-($)": 1421940.623,
+   "Commercial-Customers": 260.0,
+   "Total-Customers": 1391.0,
+   "Total-Production-MWh": 277.0,
+   "Production-from-Non-Renewable-Energy-MWh": 277.0,
+   "cities-served": [
+    "Belleville"
+   ],
+   "counties-served": [
+    {
+     "county": "Republic County, KS",
+     "population": 4674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1391
+    }
+   ]
+  },
+  {
+   "company": "City of Herington, KS Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofherington.com/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1842649.388,
+   "Residential-Customers": 1154.0,
+   "Commercial-Sales-($)": 1147350.612,
+   "Commercial-Customers": 183.0,
+   "Total-Customers": 1337.0,
+   "cities-served": [
+    "Herington"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1337
+    }
+   ]
+  },
+  {
+   "company": "Oberlin Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.oberlin-kansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 965267.969,
+   "Residential-Customers": 970.0,
+   "Commercial-Sales-($)": 1098432.031,
+   "Commercial-Customers": 341.0,
+   "Total-Customers": 1311.0,
+   "Total-Production-MWh": 2.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2.0,
+   "cities-served": [
+    "Oberlin"
+   ],
+   "counties-served": [
+    {
+     "county": "Decatur County, KS",
+     "population": 2764
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1311
+    }
+   ]
+  },
+  {
+   "company": "Seneca Electric",
+   "company-type": "Municipal",
+   "website": "https://www.senecakansas.com/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 748512.264,
+   "Residential-Customers": 987.0,
+   "Commercial-Sales-($)": 376670.688,
+   "Commercial-Customers": 213.0,
+   "Industrial-Sales-($)": 1276817.049,
+   "Industrial-Customers": 61.0,
+   "Total-Customers": 1261.0,
+   "cities-served": [
+    "Seneca"
+   ],
+   "counties-served": [
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1261
+    }
+   ]
+  },
+  {
+   "company": "Ellinwood, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofellinwoodks.com/departments/public-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1408382.558,
+   "Residential-Customers": 1028.0,
+   "Commercial-Sales-($)": 692517.442,
+   "Commercial-Customers": 220.0,
+   "Total-Customers": 1248.0,
+   "Total-Production-MWh": 244.0,
+   "Production-from-Non-Renewable-Energy-MWh": 244.0,
+   "cities-served": [
+    "Ellinwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Barton County, KS",
+     "population": 25493
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1248
+    }
+   ]
+  },
+  {
+   "company": "Horton Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhorton.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 803707.779,
+   "Residential-Customers": 926.0,
+   "Commercial-Sales-($)": 590366.38,
+   "Commercial-Customers": 296.0,
+   "Industrial-Sales-($)": 87725.841,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 1225.0,
+   "cities-served": [
+    "Horton"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1225
+    }
+   ]
+  },
+  {
+   "company": "Sterling, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.sterling-kansas.com/871/Electrical-Distribution",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1059000.0,
+   "Residential-Customers": 992.0,
+   "Commercial-Sales-($)": 1418000.0,
+   "Commercial-Customers": 218.0,
+   "Total-Customers": 1210.0,
+   "Total-Production-MWh": 319.0,
+   "Production-from-Non-Renewable-Energy-MWh": 319.0,
+   "cities-served": [
+    "Sterling"
+   ],
+   "counties-served": [
+    {
+     "county": "Rice County, KS",
+     "population": 9427
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1210
+    }
+   ]
+  },
+  {
+   "company": "Marion Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.marionks.net/electrical-department/pages/service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1077100.127,
+   "Residential-Customers": 945.0,
+   "Commercial-Sales-($)": 1098812.049,
+   "Commercial-Customers": 260.0,
+   "Industrial-Sales-($)": 49087.824,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1207.0,
+   "cities-served": [
+    "Marion"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1207
+    }
+   ]
+  },
+  {
+   "company": "Cimarron, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cimarronks.org/services/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 923054.908,
+   "Residential-Customers": 935.0,
+   "Commercial-Sales-($)": 580034.503,
+   "Commercial-Customers": 175.0,
+   "Industrial-Sales-($)": 178010.589,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 1118.0,
+   "cities-served": [
+    "Cimarron"
+   ],
+   "counties-served": [
+    {
+     "county": "Gray County, KS",
+     "population": 5653
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1118
+    }
+   ]
+  },
+  {
+   "company": "Hill City, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Cityofhillcity/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 872556.468,
+   "Residential-Customers": 853.0,
+   "Commercial-Sales-($)": 837443.532,
+   "Commercial-Customers": 260.0,
+   "Total-Customers": 1113.0,
+   "Total-Production-MWh": 4.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4.0,
+   "cities-served": [
+    "Hill City"
+   ],
+   "counties-served": [
+    {
+     "county": "Graham County, KS",
+     "population": 2415
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1113
+    }
+   ]
+  },
+  {
+   "company": "Minneapolis, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.minneapolis-ks.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1195967.886,
+   "Residential-Customers": 889.0,
+   "Commercial-Sales-($)": 835200.714,
+   "Commercial-Customers": 211.0,
+   "Industrial-Sales-($)": 184831.401,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1113.0,
+   "Total-Production-MWh": 375.0,
+   "Production-from-Non-Renewable-Energy-MWh": 375.0,
+   "cities-served": [
+    "Minneapolis"
+   ],
+   "counties-served": [
+    {
+     "county": "Ottawa County, KS",
+     "population": 5735
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1113
+    }
+   ]
+  },
+  {
+   "company": "St Marys, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.smks.info/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 928816.254,
+   "Residential-Customers": 904.0,
+   "Commercial-Sales-($)": 754989.132,
+   "Commercial-Customers": 178.0,
+   "Industrial-Sales-($)": 166294.613,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 1092.0,
+   "cities-served": [
+    "St. Marys"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1092
+    }
+   ]
+  },
+  {
+   "company": "Moundridge, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.moundridge.com/160/Electricity",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1022701.034,
+   "Residential-Customers": 884.0,
+   "Commercial-Sales-($)": 345173.927,
+   "Commercial-Customers": 121.0,
+   "Industrial-Sales-($)": 1779125.039,
+   "Industrial-Customers": 31.0,
+   "Total-Customers": 1036.0,
+   "cities-served": [
+    "Moundridge"
+   ],
+   "counties-served": [
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1036
+    }
+   ]
+  },
+  {
+   "company": "St Francis, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.stfranciskansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 731921.656,
+   "Residential-Customers": 756.0,
+   "Commercial-Sales-($)": 692078.344,
+   "Commercial-Customers": 264.0,
+   "Total-Customers": 1020.0,
+   "cities-served": [
+    "St. Francis"
+   ],
+   "counties-served": [
+    {
+     "county": "Cheyenne County, KS",
+     "population": 2616
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1020
+    }
+   ]
+  },
+  {
+   "company": "Lakin, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.lakinkansas.org/Home/Components/BusinessDirectory/BusinessDirectory/2/62",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1142728.446,
+   "Residential-Customers": 853.0,
+   "Commercial-Sales-($)": 1195171.554,
+   "Commercial-Customers": 143.0,
+   "Total-Customers": 996.0,
+   "cities-served": [
+    "Lakin"
+   ],
+   "counties-served": [
+    {
+     "county": "Kearny County, KS",
+     "population": 3983
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 996
+    }
+   ]
+  },
+  {
+   "company": "City of Stockton Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.stocktonks.com/2159/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 869182.116,
+   "Residential-Customers": 697.0,
+   "Commercial-Sales-($)": 934571.974,
+   "Commercial-Customers": 232.0,
+   "Industrial-Sales-($)": 41245.911,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 940.0,
+   "Total-Production-MWh": 4.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4.0,
+   "cities-served": [
+    "Stockton"
+   ],
+   "counties-served": [
+    {
+     "county": "Rooks County, KS",
+     "population": 4919
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 940
+    }
+   ]
+  },
+  {
+   "company": "La Crosse, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoflacrosseks.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 690089.494,
+   "Residential-Customers": 687.0,
+   "Commercial-Sales-($)": 300252.918,
+   "Commercial-Customers": 205.0,
+   "Industrial-Sales-($)": 274657.588,
+   "Industrial-Customers": 33.0,
+   "Total-Customers": 925.0,
+   "Total-Production-MWh": 79.0,
+   "Production-from-Non-Renewable-Energy-MWh": 79.0,
+   "cities-served": [
+    "La Crosse"
+   ],
+   "counties-served": [
+    {
+     "county": "Rush County, KS",
+     "population": 2956
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 925
+    }
+   ]
+  },
+  {
+   "company": "Meade, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmeade.org/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 790703.518,
+   "Residential-Customers": 748.0,
+   "Commercial-Sales-($)": 266862.437,
+   "Commercial-Customers": 157.0,
+   "Industrial-Sales-($)": 515934.045,
+   "Industrial-Customers": 20.0,
+   "Total-Customers": 925.0,
+   "Total-Production-MWh": 246.0,
+   "Production-from-Non-Renewable-Energy-MWh": 246.0,
+   "cities-served": [
+    "Meade"
+   ],
+   "counties-served": [
+    {
+     "county": "Meade County, KS",
+     "population": 4055
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 925
+    }
+   ]
+  },
+  {
+   "company": "City of Lincoln Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.lincolnks.org/Utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 779918.502,
+   "Residential-Customers": 667.0,
+   "Commercial-Sales-($)": 523187.225,
+   "Commercial-Customers": 207.0,
+   "Industrial-Sales-($)": 462894.273,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 880.0,
+   "Total-Production-MWh": 133.0,
+   "Production-from-Non-Renewable-Energy-MWh": 133.0,
+   "cities-served": [
+    "Lincoln Center"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, KS",
+     "population": 2939
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 880
+    }
+   ]
+  },
+  {
+   "company": "Osborne, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.discoverosborne.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 946425.571,
+   "Residential-Customers": 715.0,
+   "Commercial-Sales-($)": 288591.781,
+   "Commercial-Customers": 127.0,
+   "Industrial-Sales-($)": 892982.648,
+   "Industrial-Customers": 37.0,
+   "Total-Customers": 879.0,
+   "Total-Production-MWh": 8.0,
+   "Production-from-Non-Renewable-Energy-MWh": 8.0,
+   "cities-served": [
+    "Osborne"
+   ],
+   "counties-served": [
+    {
+     "county": "Osborne County, KS",
+     "population": 3500
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 879
+    }
+   ]
+  },
+  {
+   "company": "Dighton, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.dightonkansas.com/electric-and-gas-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 690008.437,
+   "Residential-Customers": 723.0,
+   "Commercial-Sales-($)": 183024.33,
+   "Commercial-Customers": 124.0,
+   "Industrial-Sales-($)": 419067.233,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 866.0,
+   "cities-served": [
+    "Dighton"
+   ],
+   "counties-served": [
+    {
+     "county": "Lane County, KS",
+     "population": 1574
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 866
+    }
+   ]
+  },
+  {
+   "company": "Johnson, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.johnsoncityks.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 662638.6,
+   "Residential-Customers": 628.0,
+   "Commercial-Sales-($)": 711552.034,
+   "Commercial-Customers": 196.0,
+   "Industrial-Sales-($)": 576809.366,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 833.0,
+   "Total-Production-MWh": 189.0,
+   "Production-from-Non-Renewable-Energy-MWh": 189.0,
+   "cities-served": [
+    "Johnson City"
+   ],
+   "counties-served": [
+    {
+     "county": "Stanton County, KS",
+     "population": 2084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 833
+    }
+   ]
+  },
+  {
+   "company": "Arma, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.armakansas.org/utility-department.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1414228.723,
+   "Residential-Customers": 780.0,
+   "Commercial-Sales-($)": 2828.457,
+   "Commercial-Customers": 30.0,
+   "Industrial-Sales-($)": 942.819,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 820.0,
+   "cities-served": [
+    "Arma"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 820
+    }
+   ]
+  },
+  {
+   "company": "St John Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.stjohnkansas.com/departments/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 567250.883,
+   "Residential-Customers": 643.0,
+   "Commercial-Sales-($)": 504749.117,
+   "Commercial-Customers": 168.0,
+   "Total-Customers": 811.0,
+   "Total-Production-MWh": 79.0,
+   "Production-from-Non-Renewable-Energy-MWh": 79.0,
+   "cities-served": [
+    "St. John"
+   ],
+   "counties-served": [
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 811
+    }
+   ]
+  },
+  {
+   "company": "Chapman Services",
+   "company-type": "Municipal",
+   "website": "http://www.chapmanks.com/chapman-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 870163.453,
+   "Residential-Customers": 702.0,
+   "Commercial-Sales-($)": 486836.547,
+   "Commercial-Customers": 88.0,
+   "Total-Customers": 790.0,
+   "cities-served": [
+    "Chapman"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 790
+    }
+   ]
+  },
+  {
+   "company": "City of Washington Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.washingtonks.net/electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 556527.441,
+   "Residential-Customers": 553.0,
+   "Commercial-Sales-($)": 780472.559,
+   "Commercial-Customers": 203.0,
+   "Total-Customers": 756.0,
+   "Total-Production-MWh": 108.0,
+   "Production-from-Non-Renewable-Energy-MWh": 108.0,
+   "cities-served": [
+    "Washington"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 756
+    }
+   ]
+  },
+  {
+   "company": "Kiowa Electric",
+   "company-type": "Municipal",
+   "website": "https://www.kiowaks.org/pview.aspx?id=21221",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1098061.818,
+   "Residential-Customers": 605.0,
+   "Commercial-Sales-($)": 222723.636,
+   "Commercial-Customers": 126.0,
+   "Industrial-Sales-($)": 13214.545,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 748.0,
+   "cities-served": [
+    "Kiowa"
+   ],
+   "counties-served": [
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 748
+    }
+   ]
+  },
+  {
+   "company": "Stafford, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.staffordkansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 652896.613,
+   "Residential-Customers": 608.0,
+   "Commercial-Sales-($)": 474103.387,
+   "Commercial-Customers": 119.0,
+   "Total-Customers": 727.0,
+   "cities-served": [
+    "Stafford"
+   ],
+   "counties-served": [
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 727
+    }
+   ]
+  },
+  {
+   "company": "Ashland, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ashlandks.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 532101.514,
+   "Residential-Customers": 498.0,
+   "Commercial-Sales-($)": 725898.486,
+   "Commercial-Customers": 207.0,
+   "Total-Customers": 705.0,
+   "Total-Production-MWh": 307.0,
+   "Production-from-Non-Renewable-Energy-MWh": 307.0,
+   "cities-served": [
+    "Ashland"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, KS",
+     "population": 1991
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 705
+    }
+   ]
+  },
+  {
+   "company": "Burlingame, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.burlingameks.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 543486.684,
+   "Residential-Customers": 571.0,
+   "Commercial-Sales-($)": 206713.316,
+   "Commercial-Customers": 95.0,
+   "Total-Customers": 666.0,
+   "Total-Production-MWh": 7.0,
+   "Production-from-Non-Renewable-Energy-MWh": 7.0,
+   "cities-served": [
+    "Burlingame"
+   ],
+   "counties-served": [
+    {
+     "county": "Osage County, KS",
+     "population": 15766
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 666
+    }
+   ]
+  },
+  {
+   "company": "Chetopa, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://chetopa.org/resident-resources/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 810227.87,
+   "Residential-Customers": 538.0,
+   "Commercial-Sales-($)": 385672.13,
+   "Commercial-Customers": 119.0,
+   "Total-Customers": 657.0,
+   "cities-served": [
+    "Chetopa"
+   ],
+   "counties-served": [
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 657
+    }
+   ]
+  },
+  {
+   "company": "Haven, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.havencityhall.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 945485.887,
+   "Residential-Customers": 551.0,
+   "Commercial-Sales-($)": 747514.113,
+   "Commercial-Customers": 103.0,
+   "Total-Customers": 654.0,
+   "cities-served": [
+    "Haven"
+   ],
+   "counties-served": [
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 654
+    }
+   ]
+  },
+  {
+   "company": "Greensburg, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.greensburgks.org/departments/parks-recreation",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 456244.983,
+   "Residential-Customers": 489.0,
+   "Commercial-Sales-($)": 970755.017,
+   "Commercial-Customers": 153.0,
+   "Total-Customers": 642.0,
+   "cities-served": [
+    "Greensburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Kiowa County, KS",
+     "population": 2460
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 642
+    }
+   ]
+  },
+  {
+   "company": "Jetmore, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.jetmorekansas.com/city-office/street-park-utility-department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 502231.221,
+   "Residential-Customers": 448.0,
+   "Commercial-Sales-($)": 587268.779,
+   "Commercial-Customers": 180.0,
+   "Total-Customers": 628.0,
+   "Total-Production-MWh": 219.0,
+   "Production-from-Non-Renewable-Energy-MWh": 219.0,
+   "cities-served": [
+    "Jetmore"
+   ],
+   "counties-served": [
+    {
+     "county": "Hodgeman County, KS",
+     "population": 1723
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 628
+    }
+   ]
+  },
+  {
+   "company": "Wathena, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.wathenakansas.com/residents/pages/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 760909.091,
+   "Residential-Customers": 510.0,
+   "Commercial-Sales-($)": 319090.909,
+   "Commercial-Customers": 114.0,
+   "Total-Customers": 624.0,
+   "cities-served": [
+    "Wathena"
+   ],
+   "counties-served": [
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 624
+    }
+   ]
+  },
+  {
+   "company": "Oxford, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.oxfordks.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 672170.917,
+   "Residential-Customers": 496.0,
+   "Commercial-Sales-($)": 192851.266,
+   "Commercial-Customers": 77.0,
+   "Industrial-Sales-($)": 96277.817,
+   "Industrial-Customers": 35.0,
+   "Total-Customers": 608.0,
+   "Total-Production-MWh": 9.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Energy Makeup",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Power Plants",
+    "Fuel Makeup",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 608
+    }
+   ]
+  },
+  {
+   "company": "Pomona, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 631184.116,
+   "Residential-Customers": 552.0,
+   "Commercial-Sales-($)": 185815.884,
+   "Commercial-Customers": 55.0,
+   "Total-Customers": 607.0,
+   "cities-served": [
+    "Pomona"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, KS",
+     "population": 25996
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 607
+    }
+   ]
+  },
+  {
+   "company": "Erie, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 685144.022,
+   "Residential-Customers": 486.0,
+   "Commercial-Sales-($)": 704070.652,
+   "Commercial-Customers": 101.0,
+   "Industrial-Sales-($)": 3785.326,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 588.0,
+   "Total-Production-MWh": 1544.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1544.0,
+   "cities-served": [
+    "Erie"
+   ],
+   "counties-served": [
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 588
+    }
+   ]
+  },
+  {
+   "company": "Troy, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://troykansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 680140.206,
+   "Residential-Customers": 490.0,
+   "Commercial-Sales-($)": 243859.794,
+   "Commercial-Customers": 86.0,
+   "Total-Customers": 576.0,
+   "cities-served": [
+    "Troy"
+   ],
+   "counties-served": [
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 576
+    }
+   ]
+  },
+  {
+   "company": "Elwood, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 662737.384,
+   "Residential-Customers": 554.0,
+   "Commercial-Sales-($)": 191862.616,
+   "Commercial-Customers": 21.0,
+   "Total-Customers": 575.0,
+   "cities-served": [
+    "Elwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 575
+    }
+   ]
+  },
+  {
+   "company": "Sharon Springs, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://web.facebook.com/City-of-Sharon-Springs-100129408320950/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 438693.396,
+   "Residential-Customers": 436.0,
+   "Commercial-Sales-($)": 456846.226,
+   "Commercial-Customers": 111.0,
+   "Industrial-Sales-($)": 173460.377,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 561.0,
+   "Total-Production-MWh": 46.0,
+   "Production-from-Non-Renewable-Energy-MWh": 46.0,
+   "cities-served": [
+    "Sharon Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Wallace County, KS",
+     "population": 1512
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 561
+    }
+   ]
+  },
+  {
+   "company": "Altamont, Kansas Electricity Utility",
+   "company-type": "Municipal",
+   "website": "https://www.altamontks.com/services/utilities.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 517647.386,
+   "Residential-Customers": 544.0,
+   "Commercial-Sales-($)": 297352.614,
+   "Commercial-Customers": 11.0,
+   "Total-Customers": 555.0,
+   "cities-served": [
+    "Altamont"
+   ],
+   "counties-served": [
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 555
+    }
+   ]
+  },
+  {
+   "company": "Montezuma, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmontezumaks.com/services",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 450029.552,
+   "Residential-Customers": 442.0,
+   "Commercial-Sales-($)": 582970.448,
+   "Commercial-Customers": 108.0,
+   "Total-Customers": 550.0,
+   "cities-served": [
+    "Montezuma"
+   ],
+   "counties-served": [
+    {
+     "county": "Gray County, KS",
+     "population": 5653
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 550
+    }
+   ]
+  },
+  {
+   "company": "Attica, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofatticaks.com/living-in-attica/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 324157.752,
+   "Residential-Customers": 384.0,
+   "Commercial-Sales-($)": 204342.248,
+   "Commercial-Customers": 100.0,
+   "Total-Customers": 484.0,
+   "cities-served": [
+    "Attica"
+   ],
+   "counties-served": [
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 484
+    }
+   ]
+  },
+  {
+   "company": "Alma, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofalma-kansas.com/city-information/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 422791.971,
+   "Residential-Customers": 364.0,
+   "Commercial-Sales-($)": 334131.658,
+   "Commercial-Customers": 109.0,
+   "Industrial-Sales-($)": 652076.371,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 477.0,
+   "cities-served": [
+    "Alma"
+   ],
+   "counties-served": [
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 477
+    }
+   ]
+  },
+  {
+   "company": "Galva, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 471769.088,
+   "Residential-Customers": 418.0,
+   "Commercial-Sales-($)": 58230.912,
+   "Commercial-Customers": 51.0,
+   "Total-Customers": 469.0,
+   "cities-served": [
+    "Galva"
+   ],
+   "counties-served": [
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 469
+    }
+   ]
+  },
+  {
+   "company": "Mount Hope, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mounthopecity.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 649504.739,
+   "Residential-Customers": 406.0,
+   "Commercial-Sales-($)": 51495.261,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 426.0,
+   "cities-served": [
+    "Mount Hope"
+   ],
+   "counties-served": [
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 426
+    }
+   ]
+  },
+  {
+   "company": "Udall, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofudall.com/electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 387792.135,
+   "Residential-Customers": 356.0,
+   "Commercial-Sales-($)": 304207.865,
+   "Commercial-Customers": 65.0,
+   "Total-Customers": 421.0,
+   "cities-served": [
+    "Udall"
+   ],
+   "counties-served": [
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 421
+    }
+   ]
+  },
+  {
+   "company": "Cawker City, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cawkercitykansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 303639.583,
+   "Residential-Customers": 346.0,
+   "Commercial-Sales-($)": 139360.417,
+   "Commercial-Customers": 49.0,
+   "Total-Customers": 395.0,
+   "cities-served": [
+    "Cawker City"
+   ],
+   "counties-served": [
+    {
+     "county": "Mitchell County, KS",
+     "population": 5796
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 395
+    }
+   ]
+  },
+  {
+   "company": "Glasco, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.glascokansas.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 303997.555,
+   "Residential-Customers": 328.0,
+   "Commercial-Sales-($)": 101002.445,
+   "Commercial-Customers": 59.0,
+   "Total-Customers": 387.0,
+   "cities-served": [
+    "Glasco"
+   ],
+   "counties-served": [
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 387
+    }
+   ]
+  },
+  {
+   "company": "Waterville, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofwatervilleks.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 424565.217,
+   "Residential-Customers": 321.0,
+   "Commercial-Sales-($)": 105441.472,
+   "Commercial-Customers": 44.0,
+   "Industrial-Sales-($)": 27993.311,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 373.0,
+   "cities-served": [
+    "Waterville"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 373
+    }
+   ]
+  },
+  {
+   "company": "Glen Elder, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.glenelder.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 277915.632,
+   "Residential-Customers": 291.0,
+   "Commercial-Sales-($)": 192584.368,
+   "Commercial-Customers": 74.0,
+   "Total-Customers": 365.0,
+   "cities-served": [
+    "Glen Elder"
+   ],
+   "counties-served": [
+    {
+     "county": "Mitchell County, KS",
+     "population": 5796
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 365
+    }
+   ]
+  },
+  {
+   "company": "Lucas, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.kpp.agency/city-of-lucas/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 266435.874,
+   "Residential-Customers": 275.0,
+   "Commercial-Sales-($)": 119299.645,
+   "Commercial-Customers": 70.0,
+   "Industrial-Sales-($)": 418364.481,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 356.0,
+   "cities-served": [
+    "Lucas"
+   ],
+   "counties-served": [
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 356
+    }
+   ]
+  },
+  {
+   "company": "Enterprise, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.enterpriseks.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 442565.217,
+   "Residential-Customers": 340.0,
+   "Commercial-Sales-($)": 134295.652,
+   "Commercial-Customers": 4.0,
+   "Industrial-Sales-($)": 8139.13,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 346.0,
+   "cities-served": [
+    "Enterprise"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 346
+    }
+   ]
+  },
+  {
+   "company": "City of Centralia Utilities",
+   "company-type": "Municipal",
+   "website": "http://cityofcentraliaks.org/Utilities.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 354185.206,
+   "Residential-Customers": 261.0,
+   "Commercial-Sales-($)": 74114.794,
+   "Commercial-Customers": 39.0,
+   "Total-Customers": 300.0,
+   "cities-served": [
+    "Centralia"
+   ],
+   "counties-served": [
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 300
+    }
+   ]
+  },
+  {
+   "company": "Holyrood, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.holyroodkansas.com/about_us.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 223422.994,
+   "Residential-Customers": 228.0,
+   "Commercial-Sales-($)": 136877.006,
+   "Commercial-Customers": 66.0,
+   "Total-Customers": 294.0,
+   "cities-served": [
+    "Holyrood"
+   ],
+   "counties-served": [
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 294
+    }
+   ]
+  },
+  {
+   "company": "La Harpe, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoflaharpe.org/?page_id=91",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 390763.73,
+   "Residential-Customers": 249.0,
+   "Commercial-Sales-($)": 28699.132,
+   "Commercial-Customers": 17.0,
+   "Industrial-Sales-($)": 21137.138,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 277.0,
+   "cities-served": [
+    "La Harpe"
+   ],
+   "counties-served": [
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 277
+    }
+   ]
+  },
+  {
+   "company": "Moran, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.morancity.org/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 318458.182,
+   "Residential-Customers": 222.0,
+   "Commercial-Sales-($)": 215541.818,
+   "Commercial-Customers": 50.0,
+   "Total-Customers": 272.0,
+   "cities-served": [
+    "Moran"
+   ],
+   "counties-served": [
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 272
+    }
+   ]
+  },
+  {
+   "company": "Axtell, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 199940.12,
+   "Residential-Customers": 187.0,
+   "Commercial-Sales-($)": 115059.88,
+   "Commercial-Customers": 41.0,
+   "Total-Customers": 228.0,
+   "cities-served": [
+    "Axtell"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 228
+    }
+   ]
+  },
+  {
+   "company": "Mulberry, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 280505.042,
+   "Residential-Customers": 203.0,
+   "Commercial-Sales-($)": 35394.958,
+   "Commercial-Customers": 13.0,
+   "Total-Customers": 216.0,
+   "cities-served": [
+    "Burgess, MO",
+    "Mulberry, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 216
+    }
+   ]
+  },
+  {
+   "company": "Toronto, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 180710.9,
+   "Residential-Customers": 175.0,
+   "Commercial-Sales-($)": 24289.1,
+   "Commercial-Customers": 22.0,
+   "Total-Customers": 197.0,
+   "cities-served": [
+    "Toronto"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodson County, KS",
+     "population": 3115
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 197
+    }
+   ]
+  },
+  {
+   "company": "Prescott, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://prescottks.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 181751.961,
+   "Residential-Customers": 148.0,
+   "Commercial-Sales-($)": 26548.039,
+   "Commercial-Customers": 18.0,
+   "Total-Customers": 166.0,
+   "cities-served": [
+    "Prescott"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, KS",
+     "population": 9591
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 166
+    }
+   ]
+  },
+  {
+   "company": "Herndon, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/The-City-of-Herndon-Kansas-569313886429193/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 163386.243,
+   "Residential-Customers": 153.0,
+   "Commercial-Sales-($)": 29613.757,
+   "Commercial-Customers": 7.0,
+   "Total-Customers": 160.0,
+   "cities-served": [
+    "Herndon"
+   ],
+   "counties-served": [
+    {
+     "county": "Rawlins County, KS",
+     "population": 2561
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 160
+    }
+   ]
+  },
+  {
+   "company": "Blue Mound, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 194900.0,
+   "Residential-Customers": 147.0,
+   "Total-Customers": 147.0,
+   "cities-served": [
+    "Blue Mound"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, KS",
+     "population": 9591
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 147
+    }
+   ]
+  },
+  {
+   "company": "Luray, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.kpp.agency/city-of-luray/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 179000.0,
+   "Residential-Customers": 146.0,
+   "Total-Customers": 146.0,
+   "cities-served": [
+    "Luray"
+   ],
+   "counties-served": [
+    {
+     "county": "Russell County, KS",
+     "population": 6691
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 146
+    }
+   ]
+  },
+  {
+   "company": "Morrill, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 149161.047,
+   "Residential-Customers": 86.0,
+   "Commercial-Sales-($)": 42617.442,
+   "Commercial-Customers": 45.0,
+   "Industrial-Sales-($)": 1121.512,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 136.0,
+   "cities-served": [
+    "Morrill"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 136
+    }
+   ]
+  },
+  {
+   "company": "Bronson, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/bronsonkansas/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 172520.293,
+   "Residential-Customers": 119.0,
+   "Commercial-Sales-($)": 31079.707,
+   "Commercial-Customers": 15.0,
+   "Total-Customers": 134.0,
+   "cities-served": [
+    "Bronson"
+   ],
+   "counties-served": [
+    {
+     "county": "Bourbon County, KS",
+     "population": 14360
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 134
+    }
+   ]
+  },
+  {
+   "company": "Robinson, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 141482.601,
+   "Residential-Customers": 116.0,
+   "Commercial-Sales-($)": 9380.062,
+   "Commercial-Customers": 5.0,
+   "Industrial-Sales-($)": 6937.337,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 124.0,
+   "cities-served": [
+    "Robinson"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 124
+    }
+   ]
+  },
+  {
+   "company": "City of Vermillion Utilities",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 90373.267,
+   "Residential-Customers": 94.0,
+   "Commercial-Sales-($)": 6626.733,
+   "Commercial-Customers": 10.0,
+   "Total-Customers": 104.0,
+   "cities-served": [
+    "Vermillion"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 104
+    }
+   ]
+  },
+  {
+   "company": "Muscotah, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 116000.0,
+   "Residential-Customers": 83.0,
+   "Commercial-Sales-($)": 10000.0,
+   "Commercial-Customers": 6.0,
+   "Total-Customers": 89.0,
+   "cities-served": [
+    "Muscotah"
+   ],
+   "counties-served": [
+    {
+     "county": "Atchison County, KS",
+     "population": 16348
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 89
+    }
+   ]
+  },
+  {
+   "company": "Iuka, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.iukaks.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 189424.497,
+   "Residential-Customers": 79.0,
+   "Commercial-Sales-($)": 57075.503,
+   "Commercial-Customers": 8.0,
+   "Total-Customers": 87.0,
+   "cities-served": [
+    "Iuka"
+   ],
+   "counties-served": [
+    {
+     "county": "Pratt County, KS",
+     "population": 9157
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 87
+    }
+   ]
+  },
+  {
+   "company": "Isabel, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/CityofIsabel",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 42933.333,
+   "Residential-Customers": 49.0,
+   "Commercial-Sales-($)": 13066.667,
+   "Commercial-Customers": 17.0,
+   "Total-Customers": 66.0,
+   "cities-served": [
+    "Isabel"
+   ],
+   "counties-served": [
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 66
+    }
+   ]
+  },
+  {
+   "company": "Savonburg, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 40000.0,
+   "Residential-Customers": 53.0,
+   "Commercial-Sales-($)": 17000.0,
+   "Commercial-Customers": 4.0,
+   "Total-Customers": 57.0,
+   "cities-served": [
+    "Savonburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 57
+    }
+   ]
+  },
+  {
+   "company": "Elsmore, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 50884.615,
+   "Residential-Customers": 40.0,
+   "Commercial-Sales-($)": 3115.385,
+   "Commercial-Customers": 3.0,
+   "Total-Customers": 43.0,
+   "cities-served": [
+    "Elsmore"
+   ],
+   "counties-served": [
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 43
+    }
+   ]
+  },
+  {
+   "company": "Radium, Kansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 28100.0,
+   "Residential-Customers": 23.0,
+   "Total-Customers": 23.0,
+   "cities-served": [
+    "Radium"
+   ],
+   "counties-served": [
+    {
+     "county": "Stafford County, KS",
+     "population": 4072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 23
+    }
+   ]
+  }
+ ]
+}

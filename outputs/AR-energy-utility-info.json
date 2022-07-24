@@ -1,0 +1,4993 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Oklahoma Gas & Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.oge.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1007264375.0,
+   "Residential-Customers": 747694.0,
+   "Commercial-Sales-($)": 809602176.0,
+   "Commercial-Customers": 120418.0,
+   "Industrial-Sales-($)": 452692878.0,
+   "Industrial-Customers": 9398.0,
+   "Total-Customers": 877510.0,
+   "Total-Production-MWh": 15893042.0,
+   "Production-from-Renewable-Energy-MWh": 1037682.0,
+   "Production-from-Non-Renewable-Energy-MWh": 14855360.0,
+   "cities-served": [
+    "Achille, OK",
+    "Ada, OK",
+    "Agra, OK",
+    "Aline, OK",
+    "Allen, OK",
+    "Alma, AR",
+    "Altus, AR",
+    "Alva, OK",
+    "Ames, OK",
+    "Amorita, OK",
+    "Arcadia, OK",
+    "Ardmore, OK",
+    "Arkoma, OK",
+    "Armstrong, OK",
+    "Arnett, OK",
+    "Asher, OK",
+    "Barling, AR",
+    "Bearden, OK",
+    "Beggs, OK",
+    "Bennington, OK",
+    "Bethany, OK",
+    "Bethel Acres, OK",
+    "Billings, OK",
+    "Bixby, OK",
+    "Blackwell, OK",
+    "Blanchard, OK",
+    "Bokchito, OK",
+    "Bokoshe, OK",
+    "Boley, OK",
+    "Bonanza, AR",
+    "Bowlegs, OK",
+    "Boynton, OK",
+    "Braggs, OK",
+    "Braman, OK",
+    "Branch, AR",
+    "Breckenridge, OK",
+    "Bristow, OK",
+    "Broken Arrow, OK",
+    "Bromide, OK",
+    "Brooksville, OK",
+    "Burlington, OK",
+    "Byars, OK",
+    "Byng, OK",
+    "Byron, OK",
+    "Caddo, OK",
+    "Calera, OK",
+    "Calumet, OK",
+    "Camargo, OK",
+    "Cameron, OK",
+    "Canton, OK",
+    "Capron, OK",
+    "Carlton Landing, OK",
+    "Carmen, OK",
+    "Carney, OK",
+    "Carrier, OK",
+    "Cashion, OK",
+    "Caulksville, AR",
+    "Cedar Valley, OK",
+    "Cedarville, AR",
+    "Central City, AR",
+    "Chandler, OK",
+    "Charleston, AR",
+    "Checotah, OK",
+    "Cherokee, OK",
+    "Chester, AR",
+    "Choctaw, OK",
+    "Cimarron City, OK",
+    "Clarksville, AR",
+    "Cleo Springs, OK",
+    "Cleveland, OK",
+    "Coal Hill, AR",
+    "Colbert, OK",
+    "Cole, OK",
+    "Cornish, OK",
+    "Council Hill, OK",
+    "Covington, OK",
+    "Cowlington, OK",
+    "Coyle, OK",
+    "Crescent, OK",
+    "Cromwell, OK",
+    "Cushing, OK",
+    "Dacoma, OK",
+    "Davenport, OK",
+    "Davis, OK",
+    "Deer Creek, OK",
+    "Del City, OK",
+    "Denning, AR",
+    "Depew, OK",
+    "Dibble, OK",
+    "Dickson, OK",
+    "Dougherty, OK",
+    "Douglas, OK",
+    "Dover, OK",
+    "Drummond, OK",
+    "Drumright, OK",
+    "Durant, OK",
+    "Dyer, AR",
+    "Earlsboro, OK",
+    "Edmond, OK",
+    "El Reno, OK",
+    "Elmore City, OK",
+    "Enid, OK",
+    "Erin Springs, OK",
+    "Etowah, OK",
+    "Eufaula, OK",
+    "Fairmont, OK",
+    "Fairview, OK",
+    "Fallis, OK",
+    "Fargo, OK",
+    "Fitzhugh, OK",
+    "Forest Park, OK",
+    "Fort Coffee, OK",
+    "Fort Gibson, OK",
+    "Fort Smith, AR",
+    "Foster, OK",
+    "Francis, OK",
+    "Gage, OK",
+    "Gans, OK",
+    "Garber, OK",
+    "Geary, OK",
+    "Gene Autry, OK",
+    "Glencoe, OK",
+    "Glenpool, OK",
+    "Goldsby, OK",
+    "Goltry, OK",
+    "Gore, OK",
+    "Greenfield, OK",
+    "Greenwood, AR",
+    "Guthrie, OK",
+    "Hallett, OK",
+    "Harrah, OK",
+    "Hartman, AR",
+    "Haskell, OK",
+    "Healdton, OK",
+    "Heavener, OK",
+    "Helena, OK",
+    "Hendrix, OK",
+    "Hennessey, OK",
+    "Hickory, OK",
+    "Hillsdale, OK",
+    "Hitchcock, OK",
+    "Holdenville, OK",
+    "Howe, OK",
+    "Hunter, OK",
+    "Jefferson, OK",
+    "Jenks, OK",
+    "Jennings, OK",
+    "Jet, OK",
+    "Johnson, OK",
+    "Jones, OK",
+    "Katie, OK",
+    "Kellyville, OK",
+    "Kemp, OK",
+    "Kendrick, OK",
+    "Kibler, AR",
+    "Kiefer, OK",
+    "Kildare, OK",
+    "Kingfisher, OK",
+    "Kingston, OK",
+    "Knoxville, AR",
+    "Konawa, OK",
+    "Kremlin, OK",
+    "Lahoma, OK",
+    "Lake Aluma, OK",
+    "Lamar, AR",
+    "Lambert, OK",
+    "Lamont, OK",
+    "Langston, OK",
+    "Lavaca, AR",
+    "Lawrence Creek, OK",
+    "Lexington, OK",
+    "Liberty, OK",
+    "Lima, OK",
+    "Lindsay, OK",
+    "Lone Grove, OK",
+    "Longdale, OK",
+    "Lotsee, OK",
+    "Loyal, OK",
+    "Luther, OK",
+    "Macomb, OK",
+    "Madill, OK",
+    "Manchester, OK",
+    "Mannford, OK",
+    "Mannsville, OK",
+    "Maramec, OK",
+    "Marietta, OK",
+    "Marland, OK",
+    "Marshall, OK",
+    "Maud, OK",
+    "Maysville, OK",
+    "McCurtain, OK",
+    "McLoud, OK",
+    "Mead, OK",
+    "Medford, OK",
+    "Meeker, OK",
+    "Meno, OK",
+    "Meridian, OK",
+    "Midwest City, OK",
+    "Milburn, OK",
+    "Mill Creek, OK",
+    "Moffett, OK",
+    "Moore, OK",
+    "Mooreland, OK",
+    "Morris, OK",
+    "Morrison, OK",
+    "Morrison Bluff, AR",
+    "Mounds, OK",
+    "Mountainburg, AR",
+    "Mulberry, AR",
+    "Muldrow, OK",
+    "Mulhall, OK",
+    "Muskogee, OK",
+    "Mustang, OK",
+    "Mutual, OK",
+    "Nash, OK",
+    "New Woodville, OK",
+    "Newcastle, OK",
+    "Newkirk, OK",
+    "Nichols Hills, OK",
+    "Nicoma Park, OK",
+    "Noble, OK",
+    "Norman, OK",
+    "North Enid, OK",
+    "Oak Grove, OK",
+    "Oakland, OK",
+    "Oakwood, OK",
+    "Oilton, OK",
+    "Okarche, OK",
+    "Okay, OK",
+    "Oklahoma City, OK",
+    "Oktaha, OK",
+    "Orlando, OK",
+    "Ozark, AR",
+    "Paden, OK",
+    "Panama, OK",
+    "Paoli, OK",
+    "Paradise Hill, OK",
+    "Paris, AR",
+    "Pauls Valley, OK",
+    "Perkins, OK",
+    "Perry, OK",
+    "Piedmont, OK",
+    "Pink, OK",
+    "Pocola, OK",
+    "Porum, OK",
+    "Poteau, OK",
+    "Prague, OK",
+    "Purcell, OK",
+    "Ratcliff, AR",
+    "Ratliff City, OK",
+    "Ravia, OK",
+    "Red Rock, OK",
+    "Renfrow, OK",
+    "Rentiesville, OK",
+    "Ringling, OK",
+    "Ringwood, OK",
+    "Ripley, OK",
+    "Rock Island, OK",
+    "Roff, OK",
+    "Roland, OK",
+    "Rosedale, OK",
+    "Rudy, AR",
+    "Sallisaw, OK",
+    "Sand Springs, OK",
+    "Sapulpa, OK",
+    "Sasakwa, OK",
+    "Scranton, AR",
+    "Seiling, OK",
+    "Seminole, OK",
+    "Shady Point, OK",
+    "Shamrock, OK",
+    "Sharon, OK",
+    "Shattuck, OK",
+    "Shawnee, OK",
+    "Silo, OK",
+    "Slaughterville, OK",
+    "Slick, OK",
+    "Smith Village, OK",
+    "Sparks, OK",
+    "Spaulding, OK",
+    "Spencer, OK",
+    "Spiro, OK",
+    "Springer, OK",
+    "St. Louis, OK",
+    "Stidham, OK",
+    "Stillwater, OK",
+    "Stonewall, OK",
+    "Stratford, OK",
+    "Stroud, OK",
+    "Subiaco, AR",
+    "Sulphur, OK",
+    "Summit, OK",
+    "Taft, OK",
+    "Taloga, OK",
+    "Tamaha, OK",
+    "Tatums, OK",
+    "Tecumseh, OK",
+    "Terlton, OK",
+    "Thackerville, OK",
+    "The Village, OK",
+    "Tishomingo, OK",
+    "Tonkawa, OK",
+    "Tribbey, OK",
+    "Tryon, OK",
+    "Tullahassee, OK",
+    "Tulsa, OK",
+    "Union City, OK",
+    "Valley Brook, OK",
+    "Van Buren, AR",
+    "Velma, OK",
+    "Vian, OK",
+    "Vici, OK",
+    "Wainwright, OK",
+    "Wakita, OK",
+    "Wanette, OK",
+    "Warner, OK",
+    "Warr Acres, OK",
+    "Warwick, OK",
+    "Washington, OK",
+    "Watonga, OK",
+    "Waukomis, OK",
+    "Wayne, OK",
+    "Waynoka, OK",
+    "Webbers Falls, OK",
+    "Wellston, OK",
+    "Westport, OK",
+    "Wewoka, OK",
+    "Whitefield, OK",
+    "Wiederkehr Village, AR",
+    "Wilson, OK",
+    "Winchester, OK",
+    "Wister, OK",
+    "Woodlawn Park, OK",
+    "Woodward, OK",
+    "Wynnewood, OK",
+    "Yeager, OK",
+    "Yukon, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Oklahoma County, OK",
+     "population": 796292
+    },
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Cleveland County, OK",
+     "population": 295528
+    },
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    },
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    },
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    },
+    {
+     "county": "Pottawatomie County, OK",
+     "population": 72454
+    },
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    },
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Logan County, OK",
+     "population": 49555
+    },
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Carter County, OK",
+     "population": 48003
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Bryan County, OK",
+     "population": 46067
+    },
+    {
+     "county": "Pittsburg County, OK",
+     "population": 43773
+    },
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    },
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Pontotoc County, OK",
+     "population": 38065
+    },
+    {
+     "county": "Okmulgee County, OK",
+     "population": 36706
+    },
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    },
+    {
+     "county": "Seminole County, OK",
+     "population": 23556
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Woodward County, OK",
+     "population": 20470
+    },
+    {
+     "county": "McIntosh County, OK",
+     "population": 18941
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Pawnee County, OK",
+     "population": 15553
+    },
+    {
+     "county": "Marshall County, OK",
+     "population": 15312
+    },
+    {
+     "county": "Kingfisher County, OK",
+     "population": 15184
+    },
+    {
+     "county": "Murray County, OK",
+     "population": 13904
+    },
+    {
+     "county": "Hughes County, OK",
+     "population": 13367
+    },
+    {
+     "county": "Haskell County, OK",
+     "population": 11561
+    },
+    {
+     "county": "Okfuskee County, OK",
+     "population": 11310
+    },
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Love County, OK",
+     "population": 10146
+    },
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    },
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    },
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    },
+    {
+     "county": "Coal County, OK",
+     "population": 5266
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    },
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    },
+    {
+     "county": "Ellis County, OK",
+     "population": 3749
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 808700
+    },
+    {
+     "state": "Arkansas",
+     "customers": 68810
+    }
+   ]
+  },
+  {
+   "company": "Entergy Arkansas",
+   "company-type": "Investor Owned",
+   "website": "http://www.entergy-arkansas.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 873375868.0,
+   "Residential-Customers": 605608.0,
+   "Commercial-Sales-($)": 506539872.0,
+   "Commercial-Customers": 98925.0,
+   "Industrial-Sales-($)": 502921449.0,
+   "Industrial-Customers": 24052.0,
+   "Total-Customers": 728585.0,
+   "Total-Production-MWh": 26777087.0,
+   "Production-from-Renewable-Energy-MWh": 177925.0,
+   "Production-from-Non-Renewable-Energy-MWh": 26599162.0,
+   "cities-served": [
+    "Adona, AR",
+    "Alexander, AR",
+    "Alicia, AR",
+    "Allport, AR",
+    "Almyra, AR",
+    "Alpena, AR",
+    "Altheimer, AR",
+    "Amagon, AR",
+    "Amity, AR",
+    "Anthonyville, AR",
+    "Antoine, AR",
+    "Arkadelphia, AR",
+    "Arkansas City, AR",
+    "Ash Flat, AR",
+    "Atkins, AR",
+    "Aubrey, AR",
+    "Augusta, AR",
+    "Austin, AR",
+    "Bald Knob, AR",
+    "Banks, AR",
+    "Bassett, AR",
+    "Batesville, AR",
+    "Bauxite, AR",
+    "Bay, AR",
+    "Bearden, AR",
+    "Beaver, AR",
+    "Beebe, AR",
+    "Beedeville, AR",
+    "Bellefonte, AR",
+    "Belleville, AR",
+    "Benton, AR",
+    "Bergman, AR",
+    "Berryville, AR",
+    "Big Flat, AR",
+    "Bigelow, AR",
+    "Biggers, AR",
+    "Birdsong, AR",
+    "Black Oak, AR",
+    "Black Rock, AR",
+    "Black Springs, AR",
+    "Blevins, AR",
+    "Blue Eye, AR",
+    "Bluff City, AR",
+    "Blytheville, AR",
+    "Bodcaw, AR",
+    "Bono, AR",
+    "Bradford, AR",
+    "Bradley, AR",
+    "Briarcliff, AR",
+    "Brinkley, AR",
+    "Brookland, AR",
+    "Bryant, AR",
+    "Buckner, AR",
+    "Bull Shoals, AR",
+    "Burdette, AR",
+    "Cabot, AR",
+    "Caddo Valley, AR",
+    "Caldwell, AR",
+    "Cale, AR",
+    "Calico Rock, AR",
+    "Calion, AR",
+    "Camden, AR",
+    "Cammack Village, AR",
+    "Campbell Station, AR",
+    "Caraway, AR",
+    "Carlisle, AR",
+    "Carthage, AR",
+    "Casa, AR",
+    "Cash, AR",
+    "Cave City, AR",
+    "Cherokee Village, AR",
+    "Cherry Valley, AR",
+    "Chidester, AR",
+    "Clarendon, AR",
+    "Clarkedale, AR",
+    "Clinton, AR",
+    "Colt, AR",
+    "Concord, AR",
+    "Conway, AR",
+    "Corinth, AR",
+    "Corning, AR",
+    "Cotter, AR",
+    "Cotton Plant, AR",
+    "Coy, AR",
+    "Crawfordsville, AR",
+    "Crossett, AR",
+    "Cushman, AR",
+    "Daisy, AR",
+    "Damascus, AR",
+    "Danville, AR",
+    "Dardanelle, AR",
+    "Datto, AR",
+    "De Valls Bluff, AR",
+    "DeWitt, AR",
+    "Delaplaine, AR",
+    "Delight, AR",
+    "Dell, AR",
+    "Dermott, AR",
+    "Des Arc, AR",
+    "Diamond City, AR",
+    "Diaz, AR",
+    "Donaldson, AR",
+    "Dover, AR",
+    "Dumas, AR",
+    "Dyess, AR",
+    "Earle, AR",
+    "East Camden, AR",
+    "Edmondson, AR",
+    "Egypt, AR",
+    "El Dorado, AR",
+    "Elaine, AR",
+    "Emerson, AR",
+    "Emmet, AR",
+    "England, AR",
+    "Enola, AR",
+    "Etowah, AR",
+    "Eudora, AR",
+    "Eureka Springs, AR",
+    "Evening Shade, AR",
+    "Everton, AR",
+    "Fairfield Bay, AR",
+    "Fargo, AR",
+    "Felsenthal, AR",
+    "Fifty-Six, AR",
+    "Fisher, AR",
+    "Flippin, AR",
+    "Fordyce, AR",
+    "Forrest City, AR",
+    "Fouke, AR",
+    "Fountain Hill, AR",
+    "Fountain Lake, AR",
+    "Fourche, AR",
+    "Franklin, AR",
+    "Fredonia (Biscoe), AR",
+    "Friendship, AR",
+    "Fulton, AR",
+    "Garland, AR",
+    "Garner, AR",
+    "Gassville, AR",
+    "Georgetown, AR",
+    "Gilbert, AR",
+    "Gillett, AR",
+    "Gilmore, AR",
+    "Glenwood, AR",
+    "Gosnell, AR",
+    "Gould, AR",
+    "Grady, AR",
+    "Green Forest, AR",
+    "Greenbrier, AR",
+    "Greenway, AR",
+    "Greers Ferry, AR",
+    "Griffithville, AR",
+    "Grubbs, AR",
+    "Guion, AR",
+    "Gum Springs, AR",
+    "Gurdon, AR",
+    "Hamburg, AR",
+    "Hampton, AR",
+    "Hardy, AR",
+    "Harrell, AR",
+    "Harrisburg, AR",
+    "Harrison, AR",
+    "Haskell, AR",
+    "Havana, AR",
+    "Haynes, AR",
+    "Hazen, AR",
+    "Heber Springs, AR",
+    "Hector, AR",
+    "Helena-West Helena, AR",
+    "Hermitage, AR",
+    "Hickory Ridge, AR",
+    "Higden, AR",
+    "Higginson, AR",
+    "Highland, AR",
+    "Holland, AR",
+    "Holly Grove, AR",
+    "Hope, AR",
+    "Horseshoe Bend, AR",
+    "Horseshoe Lake, AR",
+    "Hot Springs, AR",
+    "Houston, AR",
+    "Hoxie, AR",
+    "Hughes, AR",
+    "Humnoke, AR",
+    "Humphrey, AR",
+    "Hunter, AR",
+    "Huttig, AR",
+    "Imboden, AR",
+    "Jacksonport, AR",
+    "Jacksonville, AR",
+    "Jasper, AR",
+    "Jennette, AR",
+    "Jericho, AR",
+    "Jerome, AR",
+    "Joiner, AR",
+    "Jonesboro, AR",
+    "Judsonia, AR",
+    "Junction City, AR",
+    "Keiser, AR",
+    "Kensett, AR",
+    "Keo, AR",
+    "Kingsland, AR",
+    "Knobel, AR",
+    "LaGrange, AR",
+    "Lafe, AR",
+    "Lake City, AR",
+    "Lake View, AR",
+    "Lake Village, AR",
+    "Lakeview, AR",
+    "Leachville, AR",
+    "Lead Hill, AR",
+    "Leola, AR",
+    "Lepanto, AR",
+    "Leslie, AR",
+    "Letona, AR",
+    "Lewisville, AR",
+    "Lexa, AR",
+    "Little Rock, AR",
+    "London, AR",
+    "Lonoke, AR",
+    "Lonsdale, AR",
+    "Louann, AR",
+    "Luxora, AR",
+    "Lynn, AR",
+    "Madison, AR",
+    "Magness, AR",
+    "Magnolia, AR",
+    "Malvern, AR",
+    "Mammoth Spring, AR",
+    "Manila, AR",
+    "Mansfield, AR",
+    "Marianna, AR",
+    "Marie, AR",
+    "Marion, AR",
+    "Marked Tree, AR",
+    "Marmaduke, AR",
+    "Marshall, AR",
+    "Marvell, AR",
+    "Maumelle, AR",
+    "Mayflower, AR",
+    "Maynard, AR",
+    "McCaskill, AR",
+    "McCrory, AR",
+    "McDougal, AR",
+    "McGehee, AR",
+    "McNab, AR",
+    "McNeil, AR",
+    "McRae, AR",
+    "Melbourne, AR",
+    "Menifee, AR",
+    "Midway, AR",
+    "Minturn, AR",
+    "Mitchellville, AR",
+    "Monette, AR",
+    "Monticello, AR",
+    "Montrose, AR",
+    "Moorefield, AR",
+    "Moro, AR",
+    "Morrilton, AR",
+    "Mount Ida, AR",
+    "Mount Pleasant, AR",
+    "Mount Vernon, AR",
+    "Mountain Home, AR",
+    "Mountain Pine, AR",
+    "Mountain View, AR",
+    "Murfreesboro, AR",
+    "Newark, AR",
+    "Newport, AR",
+    "Nimmons, AR",
+    "Norfork, AR",
+    "Norman, AR",
+    "Norphlet, AR",
+    "North Little Rock, AR",
+    "O'Kean, AR",
+    "Oak Grove, AR",
+    "Oak Grove Heights, AR",
+    "Oakhaven, AR",
+    "Oden, AR",
+    "Oil Trough, AR",
+    "Okolona, AR",
+    "Ola, AR",
+    "Omaha, AR",
+    "Oppelo, AR",
+    "Osceola, AR",
+    "Oxford, AR",
+    "Ozan, AR",
+    "Palestine, AR",
+    "Pangburn, AR",
+    "Paragould, AR",
+    "Parkdale, AR",
+    "Parkin, AR",
+    "Patmos, AR",
+    "Patterson, AR",
+    "Peach Orchard, AR",
+    "Perla, AR",
+    "Perry, AR",
+    "Perrytown, AR",
+    "Perryville, AR",
+    "Piggott, AR",
+    "Pindall, AR",
+    "Pine Bluff, AR",
+    "Pineville, AR",
+    "Plainview, AR",
+    "Pleasant Plains, AR",
+    "Plumerville, AR",
+    "Pocahontas, AR",
+    "Pollard, AR",
+    "Portia, AR",
+    "Portland, AR",
+    "Pottsville, AR",
+    "Powhatan, AR",
+    "Poyen, AR",
+    "Prattsville, AR",
+    "Prescott, AR",
+    "Pyatt, AR",
+    "Quitman, AR",
+    "Ravenden, AR",
+    "Ravenden Springs, AR",
+    "Rector, AR",
+    "Redfield, AR",
+    "Reed, AR",
+    "Reyno, AR",
+    "Rison, AR",
+    "Rockport, AR",
+    "Roe, AR",
+    "Rondo, AR",
+    "Rose Bud, AR",
+    "Rosston, AR",
+    "Russell, AR",
+    "Russellville, AR",
+    "Salem, AR",
+    "Salesville, AR",
+    "Searcy, AR",
+    "Sedgwick, AR",
+    "Shannon Hills, AR",
+    "Sheridan, AR",
+    "Sherrill, AR",
+    "Sherwood, AR",
+    "Shirley, AR",
+    "Sidney, AR",
+    "Smackover, AR",
+    "Smithville, AR",
+    "South Lead Hill, AR",
+    "Southside, AR",
+    "Sparkman, AR",
+    "St. Charles, AR",
+    "St. Francis, AR",
+    "St. Joe, AR",
+    "Stamps, AR",
+    "Star City, AR",
+    "Stephens, AR",
+    "Strawberry, AR",
+    "Strong, AR",
+    "Stuttgart, AR",
+    "Success, AR",
+    "Sulphur Rock, AR",
+    "Summit, AR",
+    "Sunset, AR",
+    "Swifton, AR",
+    "Taylor, AR",
+    "Texarkana, AR",
+    "Thornton, AR",
+    "Tillar, AR",
+    "Tinsman, AR",
+    "Traskwood, AR",
+    "Trumann, AR",
+    "Tuckerman, AR",
+    "Tull, AR",
+    "Tupelo, AR",
+    "Turrell, AR",
+    "Twin Groves, AR",
+    "Tyronza, AR",
+    "Ulm, AR",
+    "Valley Springs, AR",
+    "Victoria, AR",
+    "Vilonia, AR",
+    "Viola, AR",
+    "Wabbaseka, AR",
+    "Waldenburg, AR",
+    "Waldo, AR",
+    "Waldron, AR",
+    "Walnut Ridge, AR",
+    "Ward, AR",
+    "Warren, AR",
+    "Washington, AR",
+    "Watson, AR",
+    "Weiner, AR",
+    "Weldon, AR",
+    "West Memphis, AR",
+    "West Point, AR",
+    "Western Grove, AR",
+    "Wheatley, AR",
+    "Whelen Springs, AR",
+    "White Hall, AR",
+    "Widener, AR",
+    "Williford, AR",
+    "Willisville, AR",
+    "Wilmar, AR",
+    "Wilmot, AR",
+    "Wilson, AR",
+    "Winchester, AR",
+    "Wooster, AR",
+    "Wrightsville, AR",
+    "Wynne, AR",
+    "Yellville, AR",
+    "Zinc, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Craighead County, AR",
+     "population": 111231
+    },
+    {
+     "county": "Garland County, AR",
+     "population": 100180
+    },
+    {
+     "county": "White County, AR",
+     "population": 76822
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "Jefferson County, AR",
+     "population": 67260
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Tipton County, TN",
+     "population": 60970
+    },
+    {
+     "county": "Crittenden County, AR",
+     "population": 48163
+    },
+    {
+     "county": "Greene County, AR",
+     "population": 45736
+    },
+    {
+     "county": "Miller County, AR",
+     "population": 42600
+    },
+    {
+     "county": "Baxter County, AR",
+     "population": 41627
+    },
+    {
+     "county": "Mississippi County, AR",
+     "population": 40685
+    },
+    {
+     "county": "Union County, AR",
+     "population": 39054
+    },
+    {
+     "county": "Independence County, AR",
+     "population": 37938
+    },
+    {
+     "county": "Boone County, AR",
+     "population": 37373
+    },
+    {
+     "county": "Hot Spring County, AR",
+     "population": 33040
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Cleburne County, AR",
+     "population": 24711
+    },
+    {
+     "county": "St. Francis County, AR",
+     "population": 23090
+    },
+    {
+     "county": "Poinsett County, AR",
+     "population": 22965
+    },
+    {
+     "county": "Columbia County, AR",
+     "population": 22801
+    },
+    {
+     "county": "Ouachita County, AR",
+     "population": 22650
+    },
+    {
+     "county": "Clark County, AR",
+     "population": 21446
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Yell County, AR",
+     "population": 20263
+    },
+    {
+     "county": "Hempstead County, AR",
+     "population": 20065
+    },
+    {
+     "county": "Ashley County, AR",
+     "population": 19062
+    },
+    {
+     "county": "Randolph County, AR",
+     "population": 18571
+    },
+    {
+     "county": "Grant County, AR",
+     "population": 17958
+    },
+    {
+     "county": "Drew County, AR",
+     "population": 17350
+    },
+    {
+     "county": "Sharp County, AR",
+     "population": 17271
+    },
+    {
+     "county": "Arkansas County, AR",
+     "population": 17149
+    },
+    {
+     "county": "Cross County, AR",
+     "population": 16833
+    },
+    {
+     "county": "Marion County, AR",
+     "population": 16826
+    },
+    {
+     "county": "Jackson County, AR",
+     "population": 16755
+    },
+    {
+     "county": "Phillips County, AR",
+     "population": 16568
+    },
+    {
+     "county": "Lawrence County, AR",
+     "population": 16216
+    },
+    {
+     "county": "Van Buren County, AR",
+     "population": 15796
+    },
+    {
+     "county": "Clay County, AR",
+     "population": 14552
+    },
+    {
+     "county": "Izard County, AR",
+     "population": 13577
+    },
+    {
+     "county": "Lincoln County, AR",
+     "population": 12941
+    },
+    {
+     "county": "Stone County, AR",
+     "population": 12359
+    },
+    {
+     "county": "Fulton County, AR",
+     "population": 12075
+    },
+    {
+     "county": "Desha County, AR",
+     "population": 11395
+    },
+    {
+     "county": "Bradley County, AR",
+     "population": 10545
+    },
+    {
+     "county": "Chicot County, AR",
+     "population": 10208
+    },
+    {
+     "county": "Pike County, AR",
+     "population": 10171
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Lee County, AR",
+     "population": 8600
+    },
+    {
+     "county": "Montgomery County, AR",
+     "population": 8484
+    },
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    },
+    {
+     "county": "Prairie County, AR",
+     "population": 8282
+    },
+    {
+     "county": "Searcy County, AR",
+     "population": 7828
+    },
+    {
+     "county": "Cleveland County, AR",
+     "population": 7550
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    },
+    {
+     "county": "Monroe County, AR",
+     "population": 6799
+    },
+    {
+     "county": "Dallas County, AR",
+     "population": 6482
+    },
+    {
+     "county": "Lafayette County, AR",
+     "population": 6308
+    },
+    {
+     "county": "Woodruff County, AR",
+     "population": 6269
+    },
+    {
+     "county": "Calhoun County, AR",
+     "population": 4739
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 728583
+    },
+    {
+     "state": "Tennessee",
+     "customers": 7
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Electric Power Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.swepco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 729505151.0,
+   "Residential-Customers": 465410.0,
+   "Commercial-Sales-($)": 569973737.0,
+   "Commercial-Customers": 74792.0,
+   "Industrial-Sales-($)": 378788800.0,
+   "Industrial-Customers": 6855.0,
+   "Total-Customers": 547057.0,
+   "Total-Production-MWh": 14995771.0,
+   "Production-from-Non-Renewable-Energy-MWh": 14995771.0,
+   "cities-served": [
+    "Alba, TX",
+    "Alpena, AR",
+    "Anacoco, LA",
+    "Annona, TX",
+    "Antoine, AR",
+    "Arcadia, LA",
+    "Arp, TX",
+    "Ashdown, AR",
+    "Ashland, LA",
+    "Atlanta, TX",
+    "Atlanta, LA",
+    "Avery, TX",
+    "Avinger, TX",
+    "Avoca, AR",
+    "Barling, AR",
+    "Beaver, AR",
+    "Beckville, TX",
+    "Belcher, LA",
+    "Bella Vista, AR",
+    "Ben Lomond, AR",
+    "Benton, LA",
+    "Bentonville, AR",
+    "Berryville, AR",
+    "Bethel Heights, AR",
+    "Bienville, LA",
+    "Big Sandy, TX",
+    "Blanchard, LA",
+    "Blevins, AR",
+    "Bloomburg, TX",
+    "Blue Eye, AR",
+    "Blue Mountain, AR",
+    "Bluff City, AR",
+    "Bodcaw, AR",
+    "Bogata, TX",
+    "Bonanza, AR",
+    "Booneville, AR",
+    "Bossier City, LA",
+    "Bryceland, LA",
+    "Bullard, TX",
+    "Cale, AR",
+    "Callender Lake CDP, TX",
+    "Calvin, LA",
+    "Campti, LA",
+    "Canton, TX",
+    "Carthage, TX",
+    "Castor, LA",
+    "Caulksville, AR",
+    "Cave Springs, AR",
+    "Center, TX",
+    "Centerton, AR",
+    "Central City, AR",
+    "Childress, TX",
+    "Clarence, LA",
+    "Clarendon, TX",
+    "Clarksville, TX",
+    "Clarksville City, TX",
+    "Colfax, LA",
+    "Como, TX",
+    "Converse, LA",
+    "Cotton Valley, LA",
+    "Coushatta, LA",
+    "Cove, AR",
+    "Creola, LA",
+    "Cullen, LA",
+    "Cumby, TX",
+    "Daingerfield, TX",
+    "Daisy, AR",
+    "De Kalb, TX",
+    "De Queen, AR",
+    "DeRidder, LA",
+    "Decatur, AR",
+    "Delight, AR",
+    "Deport, TX",
+    "Detroit, TX",
+    "Dierks, AR",
+    "Dixie Inn, LA",
+    "Dodson, LA",
+    "Dodson, TX",
+    "Domino, TX",
+    "Douglassville, TX",
+    "Doyline, LA",
+    "Dry Prong, LA",
+    "Dubberly, LA",
+    "East Mountain, TX",
+    "East Tawakoni, TX",
+    "Easton, TX",
+    "Edgefield, LA",
+    "Edgewood, TX",
+    "Edom, TX",
+    "Elkins, AR",
+    "Elm Springs, AR",
+    "Emerald Bay CDP, TX",
+    "Emmet, AR",
+    "Emory, TX",
+    "Estelline, TX",
+    "Eureka Springs, AR",
+    "Farmington, AR",
+    "Fayetteville, AR",
+    "Fisher, LA",
+    "Florien, LA",
+    "Foreman, AR",
+    "Fort Smith, AR",
+    "Fouke, AR",
+    "Fruitvale, TX",
+    "Fulton, AR",
+    "Garfield, AR",
+    "Garland, AR",
+    "Gary City, TX",
+    "Gateway, AR",
+    "Gentry, AR",
+    "Georgetown, LA",
+    "Gibsland, LA",
+    "Gillham, AR",
+    "Gilliam, LA",
+    "Gilmer, TX",
+    "Gladewater, TX",
+    "Glenwood, AR",
+    "Goldonna, LA",
+    "Goshen, AR",
+    "Grand Cane, LA",
+    "Grand Saline, TX",
+    "Grannis, AR",
+    "Gravette, AR",
+    "Green Forest, AR",
+    "Greenland, AR",
+    "Greenwood, AR",
+    "Greenwood, LA",
+    "Hackett, AR",
+    "Hall Summit, LA",
+    "Hallsville, TX",
+    "Hartford, AR",
+    "Hatfield, AR",
+    "Haughton, LA",
+    "Hawkins, TX",
+    "Hedley, TX",
+    "Heflin, LA",
+    "Henderson, TX",
+    "Hideaway, TX",
+    "Highfill, AR",
+    "Holly Lake Ranch CDP, TX",
+    "Hooks, TX",
+    "Hope, AR",
+    "Horatio, AR",
+    "Hornbeck, LA",
+    "Hosston, LA",
+    "Howardwick, TX",
+    "Hughes Springs, TX",
+    "Huntington, AR",
+    "Huxley, TX",
+    "Ida, LA",
+    "Jamestown, LA",
+    "Jefferson, TX",
+    "Joaquin, TX",
+    "Johnson, AR",
+    "Keachi, LA",
+    "Kilgore, TX",
+    "Lakeport, TX",
+    "Lakeview, TX",
+    "Lavaca, AR",
+    "Leary, TX",
+    "Leesville, LA",
+    "Lincoln, AR",
+    "Lindale, TX",
+    "Linden, TX",
+    "Little Flock, AR",
+    "Lockesburg, AR",
+    "Logansport, LA",
+    "Lone Star, TX",
+    "Longstreet, LA",
+    "Longview, TX",
+    "Lowell, AR",
+    "Lucky, LA",
+    "Magazine, AR",
+    "Mansfield, LA",
+    "Mansfield, AR",
+    "Many, LA",
+    "Marietta, TX",
+    "Marshall, TX",
+    "Martin, LA",
+    "Maud, TX",
+    "McCaskill, AR",
+    "McNab, AR",
+    "Memphis, TX",
+    "Mena, AR",
+    "Midland, AR",
+    "Miller's Cove, TX",
+    "Minden, LA",
+    "Mineola, TX",
+    "Mineral Springs, AR",
+    "Mobeetie, TX",
+    "Montgomery, LA",
+    "Mooringsport, LA",
+    "Morrison Bluff, AR",
+    "Mount Enterprise, TX",
+    "Mount Lebanon, LA",
+    "Mount Pleasant, TX",
+    "Mount Vernon, TX",
+    "Murfreesboro, AR",
+    "Naples, TX",
+    "Nash, TX",
+    "Nashville, AR",
+    "Natchez, LA",
+    "Natchitoches, LA",
+    "Nesbitt, TX",
+    "New Boston, TX",
+    "New Chapel Hill, TX",
+    "New Llano, LA",
+    "New London, TX",
+    "Noble, LA",
+    "Noonday, TX",
+    "Oak Grove, AR",
+    "Oakhaven, AR",
+    "Ogden, AR",
+    "Oil City, LA",
+    "Omaha, TX",
+    "Ore City, TX",
+    "Overton, TX",
+    "Ozan, AR",
+    "Paris, AR",
+    "Patmos, AR",
+    "Pea Ridge, AR",
+    "Perrytown, AR",
+    "Pittsburg, TX",
+    "Plain Dealing, LA",
+    "Pleasant Hill, LA",
+    "Point, TX",
+    "Pollock, LA",
+    "Powhatan, LA",
+    "Prairie Grove, AR",
+    "Prescott, AR",
+    "Provencal, LA",
+    "Queen City, TX",
+    "Quitman, TX",
+    "Ratcliff, AR",
+    "Red Lick, TX",
+    "Redwater, TX",
+    "Reklaw, TX",
+    "Ringgold, LA",
+    "Robeline, LA",
+    "Rocky Mound, TX",
+    "Rodessa, LA",
+    "Rogers, AR",
+    "Rosepine, LA",
+    "Rosston, AR",
+    "Saline, LA",
+    "Sarepta, LA",
+    "Scottsville, TX",
+    "Scranton, AR",
+    "Shamrock, TX",
+    "Shongaloo, LA",
+    "Shreveport, LA",
+    "Sibley, LA",
+    "Sikes, LA",
+    "Siloam Springs, AR",
+    "Simpson, LA",
+    "South Mansfield, LA",
+    "Springdale, AR",
+    "Springhill, LA",
+    "Springtown, AR",
+    "Stanley, LA",
+    "Stonewall, LA",
+    "Subiaco, AR",
+    "Sulphur Springs, TX",
+    "Sulphur Springs, AR",
+    "Talco, TX",
+    "Tatum, TX",
+    "Tenaha, TX",
+    "Texarkana, TX",
+    "Texarkana, AR",
+    "Timpson, TX",
+    "Tira, TX",
+    "Tollette, AR",
+    "Tontitown, AR",
+    "Troup, TX",
+    "Tullos, LA",
+    "Turkey, TX",
+    "Tyler, TX",
+    "Uncertain, TX",
+    "Union Grove, TX",
+    "Van, TX",
+    "Vandervoort, AR",
+    "Vivian, LA",
+    "Wake Village, TX",
+    "Waldron, AR",
+    "Warren City, TX",
+    "Washington, AR",
+    "Waskom, TX",
+    "Wellington, TX",
+    "West Fork, AR",
+    "Wheeler, TX",
+    "White Oak, TX",
+    "Whitehouse, TX",
+    "Wickes, AR",
+    "Willisville, AR",
+    "Wills Point, TX",
+    "Wilton, AR",
+    "Winfield, TX",
+    "Winnfield, LA",
+    "Winnsboro, TX",
+    "Winona, TX",
+    "Winslow, AR",
+    "Winthrop, AR",
+    "Yantis, TX",
+    "Zwolle, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Caddo Parish, LA",
+     "population": 237848
+    },
+    {
+     "county": "Smith County, TX",
+     "population": 233479
+    },
+    {
+     "county": "Bossier Parish, LA",
+     "population": 128746
+    },
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Gregg County, TX",
+     "population": 124239
+    },
+    {
+     "county": "Bowie County, TX",
+     "population": 92893
+    },
+    {
+     "county": "Harrison County, TX",
+     "population": 68839
+    },
+    {
+     "county": "Van Zandt County, TX",
+     "population": 59541
+    },
+    {
+     "county": "Rusk County, TX",
+     "population": 52214
+    },
+    {
+     "county": "Vernon Parish, LA",
+     "population": 48750
+    },
+    {
+     "county": "Wood County, TX",
+     "population": 44843
+    },
+    {
+     "county": "Miller County, AR",
+     "population": 42600
+    },
+    {
+     "county": "Upshur County, TX",
+     "population": 40892
+    },
+    {
+     "county": "Natchitoches Parish, LA",
+     "population": 37515
+    },
+    {
+     "county": "Webster Parish, LA",
+     "population": 36967
+    },
+    {
+     "county": "Hopkins County, TX",
+     "population": 36787
+    },
+    {
+     "county": "Titus County, TX",
+     "population": 31247
+    },
+    {
+     "county": "Cass County, TX",
+     "population": 28454
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "De Soto Parish, LA",
+     "population": 26812
+    },
+    {
+     "county": "Shelby County, TX",
+     "population": 24022
+    },
+    {
+     "county": "Panola County, TX",
+     "population": 22491
+    },
+    {
+     "county": "Grant Parish, LA",
+     "population": 22169
+    },
+    {
+     "county": "Sabine Parish, LA",
+     "population": 22155
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Hempstead County, AR",
+     "population": 20065
+    },
+    {
+     "county": "Polk County, AR",
+     "population": 19221
+    },
+    {
+     "county": "Sevier County, AR",
+     "population": 15839
+    },
+    {
+     "county": "Winn Parish, LA",
+     "population": 13755
+    },
+    {
+     "county": "Bienville Parish, LA",
+     "population": 12981
+    },
+    {
+     "county": "Howard County, AR",
+     "population": 12785
+    },
+    {
+     "county": "Camp County, TX",
+     "population": 12464
+    },
+    {
+     "county": "Rains County, TX",
+     "population": 12164
+    },
+    {
+     "county": "Little River County, AR",
+     "population": 12026
+    },
+    {
+     "county": "Morris County, TX",
+     "population": 11973
+    },
+    {
+     "county": "Red River County, TX",
+     "population": 11587
+    },
+    {
+     "county": "Franklin County, TX",
+     "population": 10359
+    },
+    {
+     "county": "Pike County, AR",
+     "population": 10171
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Marion County, TX",
+     "population": 9725
+    },
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    },
+    {
+     "county": "Red River Parish, LA",
+     "population": 7620
+    },
+    {
+     "county": "Childress County, TX",
+     "population": 6664
+    },
+    {
+     "county": "Wheeler County, TX",
+     "population": 4990
+    },
+    {
+     "county": "Donley County, TX",
+     "population": 3258
+    },
+    {
+     "county": "Hall County, TX",
+     "population": 2825
+    },
+    {
+     "county": "Collingsworth County, TX",
+     "population": 2652
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 233539
+    },
+    {
+     "state": "Texas",
+     "customers": 189062
+    },
+    {
+     "state": "Arkansas",
+     "customers": 124456
+    }
+   ]
+  },
+  {
+   "company": "Empire District Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.empiredistrict.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 263145083.0,
+   "Residential-Customers": 151567.0,
+   "Commercial-Sales-($)": 192645615.0,
+   "Commercial-Customers": 27707.0,
+   "Industrial-Sales-($)": 93240795.0,
+   "Industrial-Customers": 333.0,
+   "Total-Customers": 179607.0,
+   "Total-Production-MWh": 5924541.0,
+   "Production-from-Renewable-Energy-MWh": 1957971.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3966570.0,
+   "cities-served": [
+    "Adona, AR",
+    "Adrian, MO",
+    "Advance, MO",
+    "Afton, OK",
+    "Airport Drive, MO",
+    "Alba, MO",
+    "Aldrich, MO",
+    "Alexandria, MO",
+    "Allenville, IL",
+    "Allenville, MO",
+    "Alma, MO",
+    "Altamont, IL",
+    "Altamont, KS",
+    "Amazonia, MO",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Anderson, MO",
+    "Annada, MO",
+    "Annapolis, MO",
+    "Anniston, MO",
+    "Appleton City, MO",
+    "Arbela, MO",
+    "Arbyrd, MO",
+    "Arcadia, MO",
+    "Archie, MO",
+    "Arcola, MO",
+    "Arkoe, MO",
+    "Armstrong, MO",
+    "Arnold, MO",
+    "Arrow Point, MO",
+    "Arrow Rock, MO",
+    "Asbury, MO",
+    "Ash Grove, MO",
+    "Ashburn, MO",
+    "Assumption, IL",
+    "Athens, IL",
+    "Atlanta, IL",
+    "Atlanta, MO",
+    "Auburn, IL",
+    "Aullville, MO",
+    "Aurora, MO",
+    "Avilla, MO",
+    "Avoca, AR",
+    "Baker, MO",
+    "Baldwin Park, MO",
+    "Baring, MO",
+    "Barnard, MO",
+    "Bartlett, KS",
+    "Bates City, MO",
+    "Battlefield, MO",
+    "Baxter Springs, KS",
+    "Beaver, AR",
+    "Beecher City, IL",
+    "Bell City, MO",
+    "Bella Vista, AR",
+    "Belton, MO",
+    "Benton, MO",
+    "Bentonville, AR",
+    "Berger, MO",
+    "Bernice, OK",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Bevier, MO",
+    "Big Cabin, OK",
+    "Big Lake, MO",
+    "Bigelow, AR",
+    "Bigelow, MO",
+    "Billings, MO",
+    "Bingham, IL",
+    "Blackburn, MO",
+    "Blackwater, MO",
+    "Blairstown, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Blue Eye, MO",
+    "Bluejacket, OK",
+    "Bolckow, MO",
+    "Bolivar, MO",
+    "Boonville, MO",
+    "Bowling Green, MO",
+    "Bragg City, MO",
+    "Branson, MO",
+    "Branson West, MO",
+    "Brashear, MO",
+    "Brimson, MO",
+    "Broadwell, IL",
+    "Bronaugh, MO",
+    "Brooklyn Heights, MO",
+    "Brookport, IL",
+    "Browning, MO",
+    "Brownington, MO",
+    "Brownstown, IL",
+    "Brunswick, MO",
+    "Bryant, AR",
+    "Bucklin, MO",
+    "Buffalo, MO",
+    "Buffalo, IL",
+    "Bull Creek, MO",
+    "Bulpitt, IL",
+    "Bunceton, MO",
+    "Burgess, MO",
+    "Burlington Junction, MO",
+    "Butler, MO",
+    "Butler, IL",
+    "Butterfield, MO",
+    "Byrnes Mill, MO",
+    "Calhoun, MO",
+    "Callao, MO",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Cammack Village, AR",
+    "Campbell, MO",
+    "Canalou, MO",
+    "Canton, MO",
+    "Cantrall, IL",
+    "Cape Girardeau, MO",
+    "Cardwell, MO",
+    "Carl Junction, MO",
+    "Carlinville, IL",
+    "Carterville, MO",
+    "Carthage, MO",
+    "Caruthersville, MO",
+    "Carytown, MO",
+    "Cassville, MO",
+    "Catron, MO",
+    "Cave Springs, AR",
+    "Cedar Hill Lakes, MO",
+    "Centerton, AR",
+    "Centerview, MO",
+    "Chaffee, MO",
+    "Chain-O-Lakes, MO",
+    "Charleston, IL",
+    "Charleston, MO",
+    "Chatham, IL",
+    "Cherokee, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Clarksville, MO",
+    "Clarkton, MO",
+    "Clear Lake, IL",
+    "Clearmont, MO",
+    "Cleveland, MO",
+    "Clever, MO",
+    "Cliff Village, MO",
+    "Clinton, MO",
+    "Clinton, IL",
+    "Clyde, MO",
+    "Coalton, IL",
+    "Colcord, OK",
+    "Collins, MO",
+    "Columbus, KS",
+    "Commerce, OK",
+    "Commerce, MO",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Coney Island, MO",
+    "Conway, AR",
+    "Cooter, MO",
+    "Corder, MO",
+    "Corning, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Cowden, IL",
+    "Craig, MO",
+    "Crane, MO",
+    "Creighton, MO",
+    "Cross Timbers, MO",
+    "Crystal City, MO",
+    "Crystal Lakes, MO",
+    "Curryville, MO",
+    "Dadeville, MO",
+    "Dalton, MO",
+    "Dawson, IL",
+    "De Soto, MO",
+    "Dearborn, MO",
+    "Decatur, IL",
+    "Decatur, AR",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delta, MO",
+    "Dennis Acres, MO",
+    "Des Arc, MO",
+    "Dexter, MO",
+    "Diamond, MO",
+    "Diehlstadt, MO",
+    "Dieterich, IL",
+    "Diggins, MO",
+    "Disney, OK",
+    "Divernon, IL",
+    "Doniphan, MO",
+    "Donnellson, IA",
+    "Dover, MO",
+    "Downing, MO",
+    "Drexel, MO",
+    "Dudley, MO",
+    "Duenweg, MO",
+    "Duquesne, MO",
+    "Dutchtown, MO",
+    "East Gillespie, IL",
+    "East Lynne, MO",
+    "East Prairie, MO",
+    "Edgerton, MO",
+    "Edgewood, IL",
+    "Edina, MO",
+    "Edinburg, IL",
+    "Edna, KS",
+    "Effingham, IL",
+    "El Dorado Springs, MO",
+    "Elkhart, IL",
+    "Elmer, MO",
+    "Elmira, MO",
+    "Elmo, MO",
+    "Emerald Beach, MO",
+    "Emma, MO",
+    "Essex, MO",
+    "Ethel, MO",
+    "Eureka, MO",
+    "Eureka Springs, AR",
+    "Everton, MO",
+    "Ewing, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Exeter, MO",
+    "Fair Grove, MO",
+    "Fair Play, MO",
+    "Fairfax, MO",
+    "Fairland, OK",
+    "Fairview, MO",
+    "Farina, IL",
+    "Farley, MO",
+    "Farmersville, IL",
+    "Farmington, MO",
+    "Fayette, MO",
+    "Ferrelview, MO",
+    "Festus, MO",
+    "Fidelity, MO",
+    "Fillmore, IL",
+    "Fillmore, MO",
+    "Fisk, MO",
+    "Fleming, MO",
+    "Flemington, MO",
+    "Fordland, MO",
+    "Forest City, MO",
+    "Forsyth, IL",
+    "Forsyth, MO",
+    "Fort Madison, IA",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Fourche, AR",
+    "Frankford, MO",
+    "Franklin, IA",
+    "Franklin, MO",
+    "Freeman, MO",
+    "Freistatt, MO",
+    "Fremont Hills, MO",
+    "Galena, KS",
+    "Galena, MO",
+    "Galesburg, KS",
+    "Galt, MO",
+    "Garden City, MO",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gays, IL",
+    "Gentry, AR",
+    "Gerald, MO",
+    "Gerster, MO",
+    "Gibbs, MO",
+    "Gideon, MO",
+    "Gillespie, IL",
+    "Gilliam, MO",
+    "Ginger Blue, MO",
+    "Girard, IL",
+    "Glasgow, MO",
+    "Glenwood, MO",
+    "Golden City, MO",
+    "Goodman, MO",
+    "Goodnight, MO",
+    "Gordonville, MO",
+    "Graham, MO",
+    "Granby, MO",
+    "Grand Falls Plaza, MO",
+    "Grand Pass, MO",
+    "Grandview, IL",
+    "Granger, MO",
+    "Gravette, AR",
+    "Green Ridge, MO",
+    "Greencastle, MO",
+    "Greenfield, MO",
+    "Greentop, MO",
+    "Greenup, IL",
+    "Greenville, IL",
+    "Greenville, MO",
+    "Greenwood, MO",
+    "Grove, OK",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Hale, MO",
+    "Halfway, MO",
+    "Halltown, MO",
+    "Hamilton, IL",
+    "Hannibal, MO",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Harristown, IL",
+    "Hartsburg, IL",
+    "Harvel, IL",
+    "Harwood, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Haywood City, MO",
+    "Henrietta, MO",
+    "Herculaneum, MO",
+    "Hermitage, MO",
+    "Herrick, IL",
+    "Hidalgo, IL",
+    "Higginsville, MO",
+    "Highfill, AR",
+    "Highlandville, MO",
+    "Hillsboro, IL",
+    "Hillsboro, MO",
+    "Hoberg, MO",
+    "Holcomb, MO",
+    "Holden, MO",
+    "Holland, MO",
+    "Hollister, MO",
+    "Homestead, MO",
+    "Homestown, MO",
+    "Hopkins, MO",
+    "Hornersville, MO",
+    "Houston, AR",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howardville, MO",
+    "Hughesville, MO",
+    "Humansville, MO",
+    "Hume, MO",
+    "Hurdland, MO",
+    "Hurley, MO",
+    "Iatan, MO",
+    "Illiopolis, IL",
+    "Indian Point, MO",
+    "Iola, IL",
+    "Ironton, MO",
+    "Irving, IL",
+    "Jackson, MO",
+    "Jacksonville, AR",
+    "Jacksonville, MO",
+    "Jane, MO",
+    "Jasper, MO",
+    "Jay, OK",
+    "Jeisyville, IL",
+    "Jerico Springs, MO",
+    "Jewett, IL",
+    "Joplin, MO",
+    "Joppa, IL",
+    "Kahoka, MO",
+    "Kansas City, MO",
+    "Kelso, MO",
+    "Kennett, MO",
+    "Kenney, IL",
+    "Keokuk, IA",
+    "Ketchum, OK",
+    "Keytesville, MO",
+    "Kimberling City, MO",
+    "Kimmswick, MO",
+    "Kincaid, IL",
+    "Kingsville, MO",
+    "Kinmundy, IL",
+    "Kirbyville, MO",
+    "Kirksville, MO",
+    "Knob Noster, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Due, MO",
+    "La Grange, MO",
+    "La Monte, MO",
+    "La Plata, MO",
+    "La Russell, MO",
+    "Labette, KS",
+    "Laclede, MO",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Tekakwitha, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lambert, MO",
+    "Lanagan, MO",
+    "Lancaster, MO",
+    "Laredo, MO",
+    "Latham, IL",
+    "Lawson, MO",
+    "Leawood, MO",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Leland Grove, IL",
+    "Leonard, MO",
+    "Lerna, IL",
+    "Leslie, MO",
+    "Lewistown, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Lilbourn, MO",
+    "Lincoln, IL",
+    "Linneus, MO",
+    "Litchfield, IL",
+    "Little Flock, AR",
+    "Little Rock, AR",
+    "Livonia, MO",
+    "Loch Lloyd, MO",
+    "Lockwood, MO",
+    "Loma Linda, MO",
+    "Lone Jack, MO",
+    "Louisburg, MO",
+    "Louisiana, MO",
+    "Louisville, IL",
+    "Lowell, AR",
+    "Lowry City, MO",
+    "Ludlow, MO",
+    "Luray, MO",
+    "Macon, MO",
+    "Maitland, MO",
+    "Malden, MO",
+    "Malta Bend, MO",
+    "Marceline, MO",
+    "Marionville, MO",
+    "Maroa, IL",
+    "Marshall, MO",
+    "Marston, MO",
+    "Maryville, MO",
+    "Mason, IL",
+    "Matthews, MO",
+    "Mattoon, IL",
+    "Maumelle, AR",
+    "Mayflower, AR",
+    "Mayview, MO",
+    "McCord Bend, MO",
+    "McCune, KS",
+    "Meadville, MO",
+    "Mechanicsburg, IL",
+    "Memphis, MO",
+    "Mendon, MO",
+    "Merriam Woods, MO",
+    "Merwin, MO",
+    "Metropolis, IL",
+    "Metz, MO",
+    "Miami, OK",
+    "Miami, MO",
+    "Milford, MO",
+    "Mill Spring, MO",
+    "Millard, MO",
+    "Miller, MO",
+    "Milo, MO",
+    "Mindenmines, MO",
+    "Miner, MO",
+    "Modesto, IL",
+    "Monett, MO",
+    "Monticello, MO",
+    "Montrose, IA",
+    "Montrose, MO",
+    "Montrose, IL",
+    "Mooresville, MO",
+    "Morehouse, MO",
+    "Morley, MO",
+    "Morrisonville, IL",
+    "Morrisville, MO",
+    "Mound City, MO",
+    "Mound Valley, KS",
+    "Moundville, MO",
+    "Mount Auburn, IL",
+    "Mount Leonard, MO",
+    "Mount Pulaski, IL",
+    "Mount Vernon, MO",
+    "Napoleon, MO",
+    "Nauvoo, IL",
+    "Naylor, MO",
+    "Neck City, MO",
+    "Neelyville, MO",
+    "Nelson, MO",
+    "Neoga, IL",
+    "Neosho, MO",
+    "Nevada, MO",
+    "New Cambria, MO",
+    "New Franklin, MO",
+    "New Haven, MO",
+    "New Madrid, MO",
+    "Newark, MO",
+    "Newton, IL",
+    "Newtonia, MO",
+    "Niantic, IL",
+    "Nilwood, IL",
+    "Nixa, MO",
+    "Noel, MO",
+    "Nokomis, IL",
+    "North Lilbourn, MO",
+    "North Little Rock, AR",
+    "North Miami, OK",
+    "Northmoor, MO",
+    "Novelty, MO",
+    "Novinger, MO",
+    "Oak Ridge, MO",
+    "Oblong, IL",
+    "Oconee, IL",
+    "Odessa, MO",
+    "Ohlman, IL",
+    "Olympian Village, MO",
+    "Oppelo, AR",
+    "Oran, MO",
+    "Oreana, IL",
+    "Oregon, MO",
+    "Oronogo, MO",
+    "Orrick, MO",
+    "Osceola, MO",
+    "Osgood, MO",
+    "Oswego, KS",
+    "Otterville, MO",
+    "Owaneco, IL",
+    "Ozark, MO",
+    "Pacific, MO",
+    "Palmer, IL",
+    "Palmyra, MO",
+    "Palmyra, IL",
+    "Pana, IL",
+    "Parkdale, MO",
+    "Parkville, MO",
+    "Parkway, MO",
+    "Parma, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Pascola, MO",
+    "Passaic, MO",
+    "Patoka, IL",
+    "Pawnee, IL",
+    "Paynesville, MO",
+    "Pea Ridge, AR",
+    "Peaceful Village, MO",
+    "Peculiar, MO",
+    "Penermon, MO",
+    "Peoria, OK",
+    "Perry, AR",
+    "Perryville, AR",
+    "Pevely, MO",
+    "Pickering, MO",
+    "Piedmont, MO",
+    "Pierce City, MO",
+    "Pilot Grove, MO",
+    "Pilot Knob, MO",
+    "Pineville, MO",
+    "Pinhook, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hope, MO",
+    "Pocahontas, MO",
+    "Pontoosuc, IL",
+    "Poplar Bluff, MO",
+    "Portageville, MO",
+    "Prairie Home, MO",
+    "Preston, MO",
+    "Purcell, MO",
+    "Purdin, MO",
+    "Purdy, MO",
+    "Puxico, MO",
+    "Quapaw, OK",
+    "Queen City, MO",
+    "Quitman, MO",
+    "Qulin, MO",
+    "Ramsey, IL",
+    "Ravenwood, MO",
+    "Raymond, IL",
+    "Raymore, MO",
+    "Rea, MO",
+    "Redings Mill, MO",
+    "Reeds, MO",
+    "Reeds Spring, MO",
+    "Republic, MO",
+    "Revere, MO",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Ridgely, MO",
+    "Risco, MO",
+    "Ritchey, MO",
+    "Riverside, MO",
+    "Riverton, IL",
+    "Riverview Estates, MO",
+    "Rives, MO",
+    "Rochester, IL",
+    "Rock Port, MO",
+    "Rockaway Beach, MO",
+    "Rockville, MO",
+    "Rogers, AR",
+    "Rogersville, MO",
+    "Roscoe, MO",
+    "Rose Hill, IL",
+    "Roseland, KS",
+    "Rosendale, MO",
+    "Rothville, MO",
+    "Rutledge, MO",
+    "Saddlebrooke, MO",
+    "Saginaw, MO",
+    "Sarcoxie, MO",
+    "Savannah, MO",
+    "Scammon, KS",
+    "Schell City, MO",
+    "Schram City, IL",
+    "Scotsdale, MO",
+    "Scott City, MO",
+    "Sedalia, MO",
+    "Seligman, MO",
+    "Senath, MO",
+    "Seneca, MO",
+    "Shelbyville, IL",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sherman, IL",
+    "Sherwood, AR",
+    "Shoal Creek Drive, MO",
+    "Shoal Creek Estates, MO",
+    "Shumway, IL",
+    "Sibley, MO",
+    "Sigel, IL",
+    "Sikeston, MO",
+    "Siloam Springs, AR",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithboro, IL",
+    "Smithton, MO",
+    "Smithville, MO",
+    "South Gifford, MO",
+    "South Gorin, MO",
+    "South Greenfield, MO",
+    "Southern View, IL",
+    "Southwest City, MO",
+    "Sparta, MO",
+    "Spaulding, IL",
+    "Spickard, MO",
+    "Springfield, MO",
+    "Springfield, IL",
+    "Springtown, AR",
+    "St. Clair, MO",
+    "St. Elmo, IL",
+    "St. Joseph, MO",
+    "St. Peter, IL",
+    "Standard City, IL",
+    "Stark City, MO",
+    "Ste. Marie, IL",
+    "Steele, MO",
+    "Stella, MO",
+    "Stewardson, IL",
+    "Stockton, MO",
+    "Stotesbury, MO",
+    "Stotts City, MO",
+    "Strafford, MO",
+    "Strasburg, IL",
+    "Strasburg, MO",
+    "Sullivan, IL",
+    "Sulphur Springs, AR",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tallapoosa, MO",
+    "Taneyville, MO",
+    "Tarkio, MO",
+    "Tarrants, MO",
+    "Taylor Springs, IL",
+    "Taylorville, IL",
+    "Teutopolis, IL",
+    "Thayer, IL",
+    "Theodosia, MO",
+    "Tightwad, MO",
+    "Tindall, MO",
+    "Toledo, IL",
+    "Tovey, IL",
+    "Tower Hill, IL",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Triplett, MO",
+    "Umber View Heights, MO",
+    "Union, MO",
+    "Urbana, MO",
+    "Urich, MO",
+    "Utica, MO",
+    "Vandalia, IL",
+    "Vanduser, MO",
+    "Vernon, IL",
+    "Verona, MO",
+    "Viburnum, MO",
+    "Vilonia, AR",
+    "Vinita, OK",
+    "Virden, IL",
+    "Vista, MO",
+    "Waco, MO",
+    "Waggoner, IL",
+    "Walker, MO",
+    "Walnut Grove, MO",
+    "Wapella, IL",
+    "Wardell, MO",
+    "Warrensburg, MO",
+    "Warrensburg, IL",
+    "Washburn, MO",
+    "Washington, MO",
+    "Watson, IL",
+    "Watson, MO",
+    "Waverly, IL",
+    "Waverly, MO",
+    "Wayland, MO",
+    "Waynesville, IL",
+    "Weatherby Lake, MO",
+    "Weaubleau, MO",
+    "Webb City, MO",
+    "Weir, KS",
+    "Welch, OK",
+    "Wellington, MO",
+    "Wenonah, IL",
+    "Wentworth, MO",
+    "West Line, MO",
+    "West Mineral, KS",
+    "West Point, IA",
+    "Westboro, MO",
+    "Weston, MO",
+    "Wheatland, MO",
+    "Wheaton, MO",
+    "Wheeler, IL",
+    "Wheeling, MO",
+    "Whitewater, MO",
+    "Willard, MO",
+    "Williamsville, IL",
+    "Williamsville, MO",
+    "Willow Hill, IL",
+    "Wilson City, MO",
+    "Windsor, MO",
+    "Windsor, IL",
+    "Windsor Place, MO",
+    "Witt, IL",
+    "Wood Heights, MO",
+    "Wooldridge, MO",
+    "Worthington, MO",
+    "Wyaconda, MO",
+    "Wyandotte, OK",
+    "Wyatt, MO",
+    "Yale, IL"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    },
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Jefferson County, MO",
+     "population": 226739
+    },
+    {
+     "county": "Sangamon County, IL",
+     "population": 196343
+    },
+    {
+     "county": "McLean County, IL",
+     "population": 170954
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Macon County, IL",
+     "population": 103998
+    },
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "McCracken County, KY",
+     "population": 67875
+    },
+    {
+     "county": "Newton County, MO",
+     "population": 58648
+    },
+    {
+     "county": "Taney County, MO",
+     "population": 56066
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Coles County, IL",
+     "population": 46863
+    },
+    {
+     "county": "Macoupin County, IL",
+     "population": 44967
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    },
+    {
+     "county": "Marion County, IL",
+     "population": 37729
+    },
+    {
+     "county": "Effingham County, IL",
+     "population": 34668
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Christian County, IL",
+     "population": 34032
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Morgan County, IL",
+     "population": 32915
+    },
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Montgomery County, IL",
+     "population": 28288
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Logan County, IL",
+     "population": 27987
+    },
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, IL",
+     "population": 23768
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "McDonald County, MO",
+     "population": 23303
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Fayette County, IL",
+     "population": 21488
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Shelby County, IL",
+     "population": 20990
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Crawford County, IL",
+     "population": 18679
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    },
+    {
+     "county": "Bond County, IL",
+     "population": 16725
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Richland County, IL",
+     "population": 15813
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    },
+    {
+     "county": "De Witt County, IL",
+     "population": 15516
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Moultrie County, IL",
+     "population": 14526
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Massac County, IL",
+     "population": 14169
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    },
+    {
+     "county": "Johnson County, IL",
+     "population": 13308
+    },
+    {
+     "county": "Clay County, IL",
+     "population": 13288
+    },
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Menard County, IL",
+     "population": 12297
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Ripley County, MO",
+     "population": 10679
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Cumberland County, IL",
+     "population": 10450
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Jasper County, IL",
+     "population": 9287
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Pope County, IL",
+     "population": 3763
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    },
+    {
+     "county": "Hardin County, IL",
+     "population": 3649
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 159923
+    },
+    {
+     "state": "Kansas",
+     "customers": 9728
+    },
+    {
+     "state": "Arkansas",
+     "customers": 5192
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4764
+    }
+   ]
+  },
+  {
+   "company": "Carroll Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.carrollecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 154249283.0,
+   "Residential-Customers": 102298.0,
+   "Commercial-Sales-($)": 38435127.0,
+   "Commercial-Customers": 7096.0,
+   "Industrial-Sales-($)": 25898811.0,
+   "Industrial-Customers": 47.0,
+   "Total-Customers": 109441.0,
+   "cities-served": [
+    "Alpena, AR",
+    "Arrow Point, MO",
+    "Avoca, AR",
+    "Beaver, AR",
+    "Bella Vista, AR",
+    "Bentonville, AR",
+    "Berryville, AR",
+    "Bethel Heights, AR",
+    "Blue Eye, MO",
+    "Blue Eye, AR",
+    "Cave Springs, AR",
+    "Centerton, AR",
+    "Chain-O-Lakes, MO",
+    "Coney Island, MO",
+    "Decatur, AR",
+    "Elm Springs, AR",
+    "Emerald Beach, MO",
+    "Eureka Springs, AR",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gentry, AR",
+    "Gravette, AR",
+    "Green Forest, AR",
+    "Highfill, AR",
+    "Hindsville, AR",
+    "Huntsville, AR",
+    "Jasper, AR",
+    "Little Flock, AR",
+    "Lowell, AR",
+    "Oak Grove, AR",
+    "Pea Ridge, AR",
+    "Rogers, AR",
+    "Siloam Springs, AR",
+    "Springdale, AR",
+    "Springtown, AR",
+    "Sulphur Springs, AR",
+    "Tontitown, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Boone County, AR",
+     "population": 37373
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 96875
+    },
+    {
+     "state": "Missouri",
+     "customers": 12566
+    }
+   ]
+  },
+  {
+   "company": "First Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.firstelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 158049940.0,
+   "Residential-Customers": 91389.0,
+   "Commercial-Sales-($)": 25646202.0,
+   "Commercial-Customers": 6210.0,
+   "Industrial-Sales-($)": 39992313.0,
+   "Industrial-Customers": 1651.0,
+   "Total-Customers": 99250.0,
+   "cities-served": [
+    "Adona, AR",
+    "Allport, AR",
+    "Altheimer, AR",
+    "Austin, AR",
+    "Bauxite, AR",
+    "Beebe, AR",
+    "Benton, AR",
+    "Bigelow, AR",
+    "Bryant, AR",
+    "Cabot, AR",
+    "Casa, AR",
+    "Concord, AR",
+    "DeWitt, AR",
+    "Fairfield Bay, AR",
+    "Fountain Lake, AR",
+    "Fourche, AR",
+    "Greers Ferry, AR",
+    "Heber Springs, AR",
+    "Higden, AR",
+    "Houston, AR",
+    "Humnoke, AR",
+    "Humphrey, AR",
+    "Jacksonville, AR",
+    "Keo, AR",
+    "Letona, AR",
+    "Lonoke, AR",
+    "McRae, AR",
+    "Mount Vernon, AR",
+    "Oppelo, AR",
+    "Perry, AR",
+    "Perryville, AR",
+    "Quitman, AR",
+    "Rose Bud, AR",
+    "Searcy, AR",
+    "Shannon Hills, AR",
+    "Sherwood, AR",
+    "Tull, AR",
+    "Ward, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "White County, AR",
+     "population": 76822
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "Jefferson County, AR",
+     "population": 67260
+    },
+    {
+     "county": "Cleburne County, AR",
+     "population": 24711
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Grant County, AR",
+     "population": 17958
+    },
+    {
+     "county": "Arkansas County, AR",
+     "population": 17149
+    },
+    {
+     "county": "Stone County, AR",
+     "population": 12359
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Prairie County, AR",
+     "population": 8282
+    },
+    {
+     "county": "Monroe County, AR",
+     "population": 6799
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 99250
+    }
+   ]
+  },
+  {
+   "company": "Ozark Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ozarksecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 101340000.0,
+   "Residential-Customers": 74518.0,
+   "Commercial-Sales-($)": 35055000.0,
+   "Commercial-Customers": 5690.0,
+   "Industrial-Sales-($)": 10273000.0,
+   "Industrial-Customers": 35.0,
+   "Total-Customers": 80243.0,
+   "cities-served": [
+    "Chester, AR",
+    "Elkins, AR",
+    "Elm Springs, AR",
+    "Farmington, AR",
+    "Fayetteville, AR",
+    "Goshen, AR",
+    "Greenland, AR",
+    "Hindsville, AR",
+    "Johnson, AR",
+    "Kansas, OK",
+    "Lincoln, AR",
+    "Marble City, OK",
+    "Prairie Grove, AR",
+    "Siloam Springs, AR",
+    "Springdale, AR",
+    "St. Paul, AR",
+    "Stilwell, OK",
+    "Tontitown, AR",
+    "Watts, OK",
+    "West Fork, AR",
+    "West Siloam Springs, OK",
+    "Westville, OK",
+    "Winslow, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Adair County, OK",
+     "population": 19495
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 68004
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 12239
+    }
+   ]
+  },
+  {
+   "company": "Arkansas Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.avecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 96974758.0,
+   "Residential-Customers": 56888.0,
+   "Commercial-Sales-($)": 23195710.0,
+   "Commercial-Customers": 4614.0,
+   "Industrial-Sales-($)": 19387288.0,
+   "Industrial-Customers": 45.0,
+   "Total-Customers": 61547.0,
+   "cities-served": [
+    "Alma, AR",
+    "Altus, AR",
+    "Barling, AR",
+    "Blue Mountain, AR",
+    "Bonanza, AR",
+    "Booneville, AR",
+    "Branch, AR",
+    "Caulksville, AR",
+    "Cedarville, AR",
+    "Central City, AR",
+    "Charleston, AR",
+    "Chester, AR",
+    "Clarksville, AR",
+    "Coal Hill, AR",
+    "Denning, AR",
+    "Dover, AR",
+    "Dyer, AR",
+    "Fort Coffee, OK",
+    "Fort Smith, AR",
+    "Greenwood, AR",
+    "Hackett, AR",
+    "Hartford, AR",
+    "Hartman, AR",
+    "Havana, AR",
+    "Huntington, AR",
+    "Kibler, AR",
+    "Knoxville, AR",
+    "Lamar, AR",
+    "Lavaca, AR",
+    "London, AR",
+    "Mansfield, AR",
+    "Midland, AR",
+    "Moffett, OK",
+    "Morrison Bluff, AR",
+    "Mountainburg, AR",
+    "Mulberry, AR",
+    "Muldrow, OK",
+    "Ozark, AR",
+    "Paris, AR",
+    "Pocola, OK",
+    "Ratcliff, AR",
+    "Rock Island, OK",
+    "Roland, OK",
+    "Rudy, AR",
+    "Scranton, AR",
+    "Spiro, OK",
+    "Subiaco, AR",
+    "Van Buren, AR",
+    "Waldron, AR",
+    "Wiederkehr Village, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Yell County, AR",
+     "population": 20263
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 56849
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4698
+    }
+   ]
+  },
+  {
+   "company": "North Little Rock Electric",
+   "company-type": "Municipal",
+   "website": "https://www.nlrelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 42550000.0,
+   "Residential-Customers": 34472.0,
+   "Commercial-Sales-($)": 26583000.0,
+   "Commercial-Customers": 4968.0,
+   "Industrial-Sales-($)": 24228000.0,
+   "Industrial-Customers": 152.0,
+   "Total-Customers": 39592.0,
+   "Total-Production-MWh": 100477.0,
+   "Production-from-Renewable-Energy-MWh": 100477.0,
+   "cities-served": [
+    "North Little Rock"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 39593
+    }
+   ]
+  },
+  {
+   "company": "CWL Jonesboro",
+   "company-type": "Municipal",
+   "website": "http://www.jonesborocwl.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29853000.0,
+   "Residential-Customers": 33019.0,
+   "Commercial-Sales-($)": 19787000.0,
+   "Commercial-Customers": 5399.0,
+   "Industrial-Sales-($)": 25242000.0,
+   "Industrial-Customers": 34.0,
+   "Total-Customers": 38452.0,
+   "Total-Production-MWh": 753883.0,
+   "Production-from-Non-Renewable-Energy-MWh": 753883.0,
+   "cities-served": [
+    "Jonesboro"
+   ],
+   "counties-served": [
+    {
+     "county": "Craighead County, AR",
+     "population": 111231
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 38452
+    }
+   ]
+  },
+  {
+   "company": "North Arkansas Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.naeci.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 45887800.0,
+   "Residential-Customers": 34597.0,
+   "Commercial-Sales-($)": 9910900.0,
+   "Commercial-Customers": 2753.0,
+   "Industrial-Sales-($)": 6821000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 37358.0,
+   "cities-served": [
+    "Ash Flat, AR",
+    "Big Flat, AR",
+    "Briarcliff, AR",
+    "Bull Shoals, AR",
+    "Calico Rock, AR",
+    "Cave City, AR",
+    "Cherokee Village, AR",
+    "Cotter, AR",
+    "Evening Shade, AR",
+    "Fifty-Six, AR",
+    "Franklin, AR",
+    "Gassville, AR",
+    "Hardy, AR",
+    "Highland, AR",
+    "Horseshoe Bend, AR",
+    "Lakeview, AR",
+    "Mammoth Spring, AR",
+    "Melbourne, AR",
+    "Mount Pleasant, AR",
+    "Mountain Home, AR",
+    "Mountain View, AR",
+    "Norfork, AR",
+    "Oxford, AR",
+    "Pineville, AR",
+    "Salem, AR",
+    "Salesville, AR",
+    "Sidney, AR",
+    "Viola, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Baxter County, AR",
+     "population": 41627
+    },
+    {
+     "county": "Independence County, AR",
+     "population": 37938
+    },
+    {
+     "county": "Sharp County, AR",
+     "population": 17271
+    },
+    {
+     "county": "Marion County, AR",
+     "population": 16826
+    },
+    {
+     "county": "Izard County, AR",
+     "population": 13577
+    },
+    {
+     "county": "Stone County, AR",
+     "population": 12359
+    },
+    {
+     "county": "Fulton County, AR",
+     "population": 12075
+    },
+    {
+     "county": "Searcy County, AR",
+     "population": 7828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 37358
+    }
+   ]
+  },
+  {
+   "company": "Craighead Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.craigheadelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 37730000.0,
+   "Residential-Customers": 24174.0,
+   "Commercial-Sales-($)": 13716000.0,
+   "Commercial-Customers": 5878.0,
+   "Industrial-Sales-($)": 7012000.0,
+   "Industrial-Customers": 1510.0,
+   "Total-Customers": 31562.0,
+   "cities-served": [
+    "Bay, AR",
+    "Black Oak, AR",
+    "Black Rock, AR",
+    "Bono, AR",
+    "Brookland, AR",
+    "Caraway, AR",
+    "Cash, AR",
+    "Earle, AR",
+    "Egypt, AR",
+    "Gilmore, AR",
+    "Harrisburg, AR",
+    "Hoxie, AR",
+    "Imboden, AR",
+    "Jennette, AR",
+    "Jonesboro, AR",
+    "Lafe, AR",
+    "Lake City, AR",
+    "Lepanto, AR",
+    "Lynn, AR",
+    "Marked Tree, AR",
+    "Marmaduke, AR",
+    "Minturn, AR",
+    "Monette, AR",
+    "Oak Grove Heights, AR",
+    "Paragould, AR",
+    "Portia, AR",
+    "Powhatan, AR",
+    "Ravenden, AR",
+    "Sedgwick, AR",
+    "Smithville, AR",
+    "Strawberry, AR",
+    "Trumann, AR",
+    "Turrell, AR",
+    "Tyronza, AR",
+    "Walnut Ridge, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Craighead County, AR",
+     "population": 111231
+    },
+    {
+     "county": "Crittenden County, AR",
+     "population": 48163
+    },
+    {
+     "county": "Greene County, AR",
+     "population": 45736
+    },
+    {
+     "county": "Independence County, AR",
+     "population": 37938
+    },
+    {
+     "county": "Poinsett County, AR",
+     "population": 22965
+    },
+    {
+     "county": "Randolph County, AR",
+     "population": 18571
+    },
+    {
+     "county": "Lawrence County, AR",
+     "population": 16216
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 31562
+    }
+   ]
+  },
+  {
+   "company": "Conway Electric",
+   "company-type": "Municipal",
+   "website": "https://www.conwaycorp.com/services/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22823300.0,
+   "Residential-Customers": 28375.0,
+   "Commercial-Sales-($)": 15505500.0,
+   "Commercial-Customers": 3037.0,
+   "Industrial-Sales-($)": 16230600.0,
+   "Industrial-Customers": 98.0,
+   "Total-Customers": 31510.0,
+   "Total-Production-MWh": 219385.0,
+   "Production-from-Non-Renewable-Energy-MWh": 219385.0,
+   "cities-served": [
+    "Conway"
+   ],
+   "counties-served": [
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 31510
+    }
+   ]
+  },
+  {
+   "company": "Southwest Arkansas Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.swrea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 39711100.0,
+   "Residential-Customers": 25466.0,
+   "Commercial-Sales-($)": 10197200.0,
+   "Commercial-Customers": 3030.0,
+   "Industrial-Sales-($)": 11434500.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 28500.0,
+   "cities-served": [
+    "Ashdown, AR",
+    "Barling, AR",
+    "Ben Lomond, AR",
+    "Blevins, AR",
+    "Bonanza, AR",
+    "Central City, AR",
+    "Cove, AR",
+    "De Queen, AR",
+    "Emmet, AR",
+    "Foreman, AR",
+    "Fort Smith, AR",
+    "Fouke, AR",
+    "Fulton, AR",
+    "Garland, AR",
+    "Gillham, AR",
+    "Grannis, AR",
+    "Greenwood, AR",
+    "Hackett, AR",
+    "Hartford, AR",
+    "Hatfield, AR",
+    "Hope, AR",
+    "Horatio, AR",
+    "Huntington, AR",
+    "Kibler, AR",
+    "Lockesburg, AR",
+    "Mansfield, AR",
+    "McCaskill, AR",
+    "McNab, AR",
+    "Mena, AR",
+    "Midland, AR",
+    "Mineral Springs, AR",
+    "Nashville, AR",
+    "Oakhaven, AR",
+    "Ogden, AR",
+    "Ozan, AR",
+    "Patmos, AR",
+    "Perrytown, AR",
+    "Texarkana, AR",
+    "Tollette, AR",
+    "Vandervoort, AR",
+    "Washington, AR",
+    "Wickes, AR",
+    "Wilton, AR",
+    "Winthrop, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Miller County, AR",
+     "population": 42600
+    },
+    {
+     "county": "Hempstead County, AR",
+     "population": 20065
+    },
+    {
+     "county": "Polk County, AR",
+     "population": 19221
+    },
+    {
+     "county": "Sevier County, AR",
+     "population": 15839
+    },
+    {
+     "county": "Howard County, AR",
+     "population": 12785
+    },
+    {
+     "county": "Little River County, AR",
+     "population": 12026
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Lafayette County, AR",
+     "population": 6308
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 27155
+    },
+    {
+     "state": "Texas",
+     "customers": 1113
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 232
+    }
+   ]
+  },
+  {
+   "company": "Bentonville Electric",
+   "company-type": "Municipal",
+   "website": "http://www.bentonvillear.com/194/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 30279000.0,
+   "Residential-Customers": 22451.0,
+   "Commercial-Sales-($)": 34322000.0,
+   "Commercial-Customers": 3421.0,
+   "Total-Customers": 25872.0,
+   "cities-served": [
+    "Bentonville"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 25872
+    }
+   ]
+  },
+  {
+   "company": "C & L Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.clelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 27118000.0,
+   "Residential-Customers": 20009.0,
+   "Commercial-Sales-($)": 9065000.0,
+   "Commercial-Customers": 2232.0,
+   "Industrial-Sales-($)": 1281000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 22252.0,
+   "cities-served": [
+    "Gould, AR",
+    "Grady, AR",
+    "Monticello, AR",
+    "Pine Bluff, AR",
+    "Reed, AR",
+    "Rison, AR",
+    "Sheridan, AR",
+    "Star City, AR",
+    "Tillar, AR",
+    "Warren, AR",
+    "Watson, AR",
+    "Wilmar, AR",
+    "Winchester, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Jefferson County, AR",
+     "population": 67260
+    },
+    {
+     "county": "Grant County, AR",
+     "population": 17958
+    },
+    {
+     "county": "Drew County, AR",
+     "population": 17350
+    },
+    {
+     "county": "Arkansas County, AR",
+     "population": 17149
+    },
+    {
+     "county": "Lincoln County, AR",
+     "population": 12941
+    },
+    {
+     "county": "Desha County, AR",
+     "population": 11395
+    },
+    {
+     "county": "Bradley County, AR",
+     "population": 10545
+    },
+    {
+     "county": "Cleveland County, AR",
+     "population": 7550
+    },
+    {
+     "county": "Dallas County, AR",
+     "population": 6482
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 22252
+    }
+   ]
+  },
+  {
+   "company": "Petit Jean Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.pjecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23531800.0,
+   "Residential-Customers": 18380.0,
+   "Commercial-Sales-($)": 6204500.0,
+   "Commercial-Customers": 1992.0,
+   "Industrial-Sales-($)": 1807400.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 20381.0,
+   "cities-served": [
+    "Clinton, AR",
+    "Damascus, AR",
+    "Fairfield Bay, AR",
+    "Guy, AR",
+    "Leslie, AR",
+    "Marshall, AR",
+    "Quitman, AR",
+    "Shirley, AR",
+    "Twin Groves, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Van Buren County, AR",
+     "population": 15796
+    },
+    {
+     "county": "Searcy County, AR",
+     "population": 7828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 20381
+    }
+   ]
+  },
+  {
+   "company": "Woodruff Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.woodruffelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17925700.0,
+   "Residential-Customers": 12202.0,
+   "Commercial-Sales-($)": 11925200.0,
+   "Commercial-Customers": 1462.0,
+   "Industrial-Sales-($)": 13275200.0,
+   "Industrial-Customers": 6202.0,
+   "Total-Customers": 19866.0,
+   "cities-served": [
+    "Aubrey, AR",
+    "Augusta, AR",
+    "Brinkley, AR",
+    "Caldwell, AR",
+    "Cherry Valley, AR",
+    "Clarendon, AR",
+    "Colt, AR",
+    "Cotton Plant, AR",
+    "Forrest City, AR",
+    "Haynes, AR",
+    "Holly Grove, AR",
+    "Hughes, AR",
+    "Hunter, AR",
+    "LaGrange, AR",
+    "Lexa, AR",
+    "Madison, AR",
+    "Marianna, AR",
+    "McCrory, AR",
+    "Moro, AR",
+    "Palestine, AR",
+    "Patterson, AR",
+    "Rondo, AR",
+    "Widener, AR",
+    "Wynne, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Francis County, AR",
+     "population": 23090
+    },
+    {
+     "county": "Cross County, AR",
+     "population": 16833
+    },
+    {
+     "county": "Jackson County, AR",
+     "population": 16755
+    },
+    {
+     "county": "Phillips County, AR",
+     "population": 16568
+    },
+    {
+     "county": "Tunica County, MS",
+     "population": 9782
+    },
+    {
+     "county": "Lee County, AR",
+     "population": 8600
+    },
+    {
+     "county": "Prairie County, AR",
+     "population": 8282
+    },
+    {
+     "county": "Monroe County, AR",
+     "population": 6799
+    },
+    {
+     "county": "Woodruff County, AR",
+     "population": 6269
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 19866
+    }
+   ]
+  },
+  {
+   "company": "Benton, Arkansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.bentonutilities.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15094300.0,
+   "Residential-Customers": 12387.0,
+   "Commercial-Sales-($)": 6309800.0,
+   "Commercial-Customers": 1843.0,
+   "Industrial-Sales-($)": 3246600.0,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 14251.0,
+   "cities-served": [
+    "Benton",
+    "Salem CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 14251
+    }
+   ]
+  },
+  {
+   "company": "Paragould Light Water and Cable",
+   "company-type": "Municipal",
+   "website": "https://www.paragould.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15132000.0,
+   "Residential-Customers": 12071.0,
+   "Commercial-Sales-($)": 6678000.0,
+   "Commercial-Customers": 1885.0,
+   "Industrial-Sales-($)": 16923000.0,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 13995.0,
+   "Total-Production-MWh": 550.0,
+   "Production-from-Non-Renewable-Energy-MWh": 550.0,
+   "cities-served": [
+    "Delaplaine, AR",
+    "Lafe, AR",
+    "Marmaduke, AR",
+    "Oak Grove Heights, AR",
+    "Paragould, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, AR",
+     "population": 45736
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 13995
+    }
+   ]
+  },
+  {
+   "company": "Clay County Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.claycountyelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14342900.0,
+   "Residential-Customers": 10590.0,
+   "Commercial-Sales-($)": 10312100.0,
+   "Commercial-Customers": 2520.0,
+   "Industrial-Sales-($)": 6821300.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 13123.0,
+   "cities-served": [
+    "Biggers, AR",
+    "Black Rock, AR",
+    "Corning, AR",
+    "Datto, AR",
+    "Delaplaine, AR",
+    "Greenway, AR",
+    "Hoxie, AR",
+    "Imboden, AR",
+    "Knobel, AR",
+    "Lafe, AR",
+    "Marmaduke, AR",
+    "Maynard, AR",
+    "McDougal, AR",
+    "Nimmons, AR",
+    "O'Kean, AR",
+    "Oak Grove Heights, AR",
+    "Paragould, AR",
+    "Peach Orchard, AR",
+    "Piggott, AR",
+    "Pocahontas, AR",
+    "Pollard, AR",
+    "Portia, AR",
+    "Powhatan, AR",
+    "Ravenden, AR",
+    "Ravenden Springs, AR",
+    "Rector, AR",
+    "Smithville, AR",
+    "St. Francis, AR",
+    "Success, AR",
+    "Walnut Ridge, AR",
+    "Williford, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, AR",
+     "population": 45736
+    },
+    {
+     "county": "Randolph County, AR",
+     "population": 18571
+    },
+    {
+     "county": "Sharp County, AR",
+     "population": 17271
+    },
+    {
+     "county": "Lawrence County, AR",
+     "population": 16216
+    },
+    {
+     "county": "Clay County, AR",
+     "population": 14552
+    },
+    {
+     "county": "Fulton County, AR",
+     "population": 12075
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 13070
+    },
+    {
+     "state": "Missouri",
+     "customers": 53
+    }
+   ]
+  },
+  {
+   "company": "West Memphis Electric Company",
+   "company-type": "Municipal",
+   "website": "http://www.westmemphisutilities.com/263/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9300000.0,
+   "Residential-Customers": 10196.0,
+   "Commercial-Sales-($)": 7070000.0,
+   "Commercial-Customers": 1539.0,
+   "Industrial-Sales-($)": 6359000.0,
+   "Industrial-Customers": 48.0,
+   "Total-Customers": 11783.0,
+   "Total-Production-MWh": 109693.0,
+   "Production-from-Non-Renewable-Energy-MWh": 109693.0,
+   "cities-served": [
+    "West Memphis"
+   ],
+   "counties-served": [
+    {
+     "county": "Crittenden County, AR",
+     "population": 48163
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 11783
+    }
+   ]
+  },
+  {
+   "company": "South Central Electric Arkadelphia",
+   "company-type": "Cooperative",
+   "website": "https://www.scaec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12444000.0,
+   "Residential-Customers": 9067.0,
+   "Commercial-Sales-($)": 3629000.0,
+   "Commercial-Customers": 1225.0,
+   "Industrial-Sales-($)": 7140000.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 10306.0,
+   "cities-served": [
+    "Amity, AR",
+    "Arkadelphia, AR",
+    "Bluff City, AR",
+    "Caddo Valley, AR",
+    "Cale, AR",
+    "Daisy, AR",
+    "Donaldson, AR",
+    "Glenwood, AR",
+    "Gum Springs, AR",
+    "Gurdon, AR",
+    "Midway, AR",
+    "Prescott, AR",
+    "Rosston, AR",
+    "Sparkman, AR",
+    "Whelen Springs, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Hot Spring County, AR",
+     "population": 33040
+    },
+    {
+     "county": "Ouachita County, AR",
+     "population": 22650
+    },
+    {
+     "county": "Clark County, AR",
+     "population": 21446
+    },
+    {
+     "county": "Pike County, AR",
+     "population": 10171
+    },
+    {
+     "county": "Montgomery County, AR",
+     "population": 8484
+    },
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    },
+    {
+     "county": "Dallas County, AR",
+     "population": 6482
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 10306
+    }
+   ]
+  },
+  {
+   "company": "Ouachita Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.oecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12086000.0,
+   "Residential-Customers": 8547.0,
+   "Commercial-Sales-($)": 3655000.0,
+   "Commercial-Customers": 843.0,
+   "Industrial-Sales-($)": 7877000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 9408.0,
+   "cities-served": [
+    "Banks, AR",
+    "Bearden, AR",
+    "Camden, AR",
+    "East Camden, AR",
+    "Hampton, AR",
+    "Harrell, AR",
+    "Tinsman, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Ouachita County, AR",
+     "population": 22650
+    },
+    {
+     "county": "Bradley County, AR",
+     "population": 10545
+    },
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    },
+    {
+     "county": "Dallas County, AR",
+     "population": 6482
+    },
+    {
+     "county": "Calhoun County, AR",
+     "population": 4739
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 9408
+    }
+   ]
+  },
+  {
+   "company": "Rich Mountain Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.rmec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11954886.076,
+   "Residential-Customers": 8569.0,
+   "Commercial-Sales-($)": 1549447.785,
+   "Commercial-Customers": 495.0,
+   "Industrial-Sales-($)": 2246170.19,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 9065.0,
+   "cities-served": [
+    "Dierks, AR",
+    "Hatfield, AR",
+    "Mena, AR",
+    "Oden, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, AR",
+     "population": 19221
+    },
+    {
+     "county": "Sevier County, AR",
+     "population": 15839
+    },
+    {
+     "county": "Howard County, AR",
+     "population": 12785
+    },
+    {
+     "county": "Pike County, AR",
+     "population": 10171
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Montgomery County, AR",
+     "population": 8484
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 8524
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 541
+    }
+   ]
+  },
+  {
+   "company": "City of Siloam Springs Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.siloamsprings.com/182/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7781000.0,
+   "Residential-Customers": 7193.0,
+   "Commercial-Sales-($)": 2245000.0,
+   "Commercial-Customers": 868.0,
+   "Industrial-Sales-($)": 12307000.0,
+   "Industrial-Customers": 222.0,
+   "Total-Customers": 8283.0,
+   "cities-served": [
+    "Gentry, AR",
+    "Siloam Springs, AR",
+    "West Siloam Springs, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 8283
+    }
+   ]
+  },
+  {
+   "company": "Hope Water & Light",
+   "company-type": "Municipal",
+   "website": "https://www.hope-wl.com/pview.aspx?id=20595&catid=542",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6579900.0,
+   "Residential-Customers": 5822.0,
+   "Commercial-Sales-($)": 9977000.0,
+   "Commercial-Customers": 1040.0,
+   "Industrial-Sales-($)": 3328200.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 6863.0,
+   "cities-served": [
+    "Hope"
+   ],
+   "counties-served": [
+    {
+     "county": "Hempstead County, AR",
+     "population": 20065
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 6863
+    }
+   ]
+  },
+  {
+   "company": "Farmers Electric Newport, Arkansas",
+   "company-type": "Cooperative",
+   "website": "https://www.farmersecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5610277.989,
+   "Residential-Customers": 4116.0,
+   "Commercial-Sales-($)": 2228717.232,
+   "Commercial-Customers": 503.0,
+   "Industrial-Sales-($)": 1361904.779,
+   "Industrial-Customers": 434.0,
+   "Total-Customers": 5053.0,
+   "cities-served": [
+    "Bradford, AR",
+    "Campbell Station, AR",
+    "Diaz, AR",
+    "Tuckerman, AR",
+    "Tupelo, AR",
+    "Weldon, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "White County, AR",
+     "population": 76822
+    },
+    {
+     "county": "Independence County, AR",
+     "population": 37938
+    },
+    {
+     "county": "Jackson County, AR",
+     "population": 16755
+    },
+    {
+     "county": "Woodruff County, AR",
+     "population": 6269
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 5053
+    }
+   ]
+  },
+  {
+   "company": "Ashley Chicot Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.ashley-chicot.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6538968.008,
+   "Residential-Customers": 4377.0,
+   "Commercial-Sales-($)": 2892997.967,
+   "Commercial-Customers": 661.0,
+   "Industrial-Sales-($)": 63883.587,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 5040.0,
+   "cities-served": [
+    "Crossett, AR",
+    "Eudora, AR",
+    "Fountain Hill, AR",
+    "Hamburg, AR",
+    "Jerome, AR",
+    "Lake Village, AR",
+    "Montrose, AR",
+    "Parkdale, AR",
+    "Portland, AR",
+    "Wilmot, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Ashley County, AR",
+     "population": 19062
+    },
+    {
+     "county": "Drew County, AR",
+     "population": 17350
+    },
+    {
+     "county": "Bradley County, AR",
+     "population": 10545
+    },
+    {
+     "county": "Chicot County, AR",
+     "population": 10208
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 4928
+    },
+    {
+     "state": "Louisiana",
+     "customers": 112
+    }
+   ]
+  },
+  {
+   "company": "Mississippi County Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.mceci.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5066239.0,
+   "Residential-Customers": 3283.0,
+   "Commercial-Sales-($)": 1650766.0,
+   "Commercial-Customers": 754.0,
+   "Industrial-Sales-($)": 190934142.0,
+   "Industrial-Customers": 898.0,
+   "Total-Customers": 4935.0,
+   "cities-served": [
+    "Blytheville, AR",
+    "Burdette, AR",
+    "Dell, AR",
+    "Etowah, AR",
+    "Gosnell, AR",
+    "Keiser, AR",
+    "Leachville, AR",
+    "Manila, AR",
+    "Marie, AR",
+    "Victoria, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Mississippi County, AR",
+     "population": 40685
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 4935
+    }
+   ]
+  },
+  {
+   "company": "Clarksville Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.clarksvilleconnected.net/148/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3645000.0,
+   "Residential-Customers": 3810.0,
+   "Commercial-Sales-($)": 2919000.0,
+   "Commercial-Customers": 670.0,
+   "Industrial-Sales-($)": 9042000.0,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 4520.0,
+   "cities-served": [
+    "Clarksville"
+   ],
+   "counties-served": [
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 4520
+    }
+   ]
+  },
+  {
+   "company": "Osceola, Arkansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://osceolaarkansas.com/index.php/city-services/oml-p/osceola-municipal-electric-utility",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3879921.901,
+   "Residential-Customers": 2872.0,
+   "Commercial-Sales-($)": 1965395.48,
+   "Commercial-Customers": 542.0,
+   "Industrial-Sales-($)": 8069682.619,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 3454.0,
+   "Total-Production-MWh": 22137.0,
+   "Production-from-Non-Renewable-Energy-MWh": 22137.0,
+   "cities-served": [
+    "Luxora, AR",
+    "Osceola, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Mississippi County, AR",
+     "population": 40685
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 3454
+    }
+   ]
+  },
+  {
+   "company": "Piggott, Arkansas Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofpiggott.org/utilities.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2322532.37,
+   "Residential-Customers": 1811.0,
+   "Commercial-Sales-($)": 1820467.63,
+   "Commercial-Customers": 375.0,
+   "Total-Customers": 2186.0,
+   "Total-Production-MWh": 126.0,
+   "Production-from-Non-Renewable-Energy-MWh": 126.0,
+   "cities-served": [
+    "Piggott"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, AR",
+     "population": 14552
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 2186
+    }
+   ]
+  },
+  {
+   "company": "City of Paris Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.paris-ar.us/utility-services/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1729741.811,
+   "Residential-Customers": 1592.0,
+   "Commercial-Sales-($)": 867622.351,
+   "Commercial-Customers": 275.0,
+   "Industrial-Sales-($)": 734635.838,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 1879.0,
+   "cities-served": [
+    "Paris"
+   ],
+   "counties-served": [
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 1879
+    }
+   ]
+  },
+  {
+   "company": "City of Prescott Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.prescottar.com/index.php/community/relocation/4-shared/community-information/72-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1561991.237,
+   "Residential-Customers": 1347.0,
+   "Commercial-Sales-($)": 1297128.302,
+   "Commercial-Customers": 322.0,
+   "Industrial-Sales-($)": 5342880.461,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1673.0,
+   "cities-served": [
+    "Prescott"
+   ],
+   "counties-served": [
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 1673
+    }
+   ]
+  },
+  {
+   "company": "Augusta, Arkansas Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1490113.518,
+   "Residential-Customers": 768.0,
+   "Commercial-Sales-($)": 692886.482,
+   "Commercial-Customers": 148.0,
+   "Total-Customers": 916.0,
+   "cities-served": [
+    "Augusta"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodruff County, AR",
+     "population": 6269
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 916
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2833 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Public Service Company of Colorado",
+   "company-type": "Investor Owned",
+   "website": "https://my.xcelenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1284955049.0,
+   "Residential-Customers": 1318255.0,
+   "Commercial-Sales-($)": 1380447837.0,
+   "Commercial-Customers": 221511.0,
+   "Industrial-Sales-($)": 451947476.0,
+   "Industrial-Customers": 316.0,
+   "Total-Customers": 1540082.0,
+   "Total-Production-MWh": 23177736.0,
+   "Production-from-Renewable-Energy-MWh": 4269422.0,
+   "Production-from-Non-Renewable-Energy-MWh": 18908211.0,
+   "cities-served": [
+    "Alamosa, CO",
+    "Alma, CO",
+    "Antonito, CO",
+    "Arvada, CO",
+    "Ault, CO",
+    "Aurora, CO",
+    "Berthoud, CO",
+    "Black Hawk, CO",
+    "Blanca, CO",
+    "Blue River, CO",
+    "Bonanza, CO",
+    "Boulder, CO",
+    "Bow Mar, CO",
+    "Breckenridge, CO",
+    "Brighton, CO",
+    "Broomfield, CO",
+    "Brush, CO",
+    "Carbondale, CO",
+    "Castle Pines, CO",
+    "Centennial, CO",
+    "Central City, CO",
+    "Cherry Hills Village, CO",
+    "Columbine Valley, CO",
+    "Commerce City, CO",
+    "Crestone, CO",
+    "Denver, CO",
+    "Dillon, CO",
+    "Eaton, CO",
+    "Edgewater, CO",
+    "Englewood, CO",
+    "Erie, CO",
+    "Evans, CO",
+    "Fairplay, CO",
+    "Federal Heights, CO",
+    "Fort Collins, CO",
+    "Frisco, CO",
+    "Garden City, CO",
+    "Georgetown, CO",
+    "Gilcrest, CO",
+    "Glendale, CO",
+    "Glenwood Springs, CO",
+    "Golden, CO",
+    "Grand Junction, CO",
+    "Greeley, CO",
+    "Greenwood Village, CO",
+    "Hillrose, CO",
+    "Hooper, CO",
+    "Idaho Springs, CO",
+    "Iliff, CO",
+    "Jamestown, CO",
+    "Johnstown, CO",
+    "Kersey, CO",
+    "La Salle, CO",
+    "Lafayette, CO",
+    "Lakeside, CO",
+    "Lakewood, CO",
+    "Leadville, CO",
+    "Littleton, CO",
+    "Lone Tree, CO",
+    "Longmont, CO",
+    "Louisville, CO",
+    "Manassa, CO",
+    "Milliken, CO",
+    "Minturn, CO",
+    "Montezuma, CO",
+    "Morrison, CO",
+    "Mountain View, CO",
+    "Nederland, CO",
+    "New Castle, CO",
+    "Northglenn, CO",
+    "Nunn, CO",
+    "Palisade, CO",
+    "Parachute, CO",
+    "Pierce, CO",
+    "Platteville, CO",
+    "Poncha Springs, CO",
+    "Red Cliff, CO",
+    "Rifle, CO",
+    "Romeo, CO",
+    "Saguache, CO",
+    "Salida, CO",
+    "San Luis, CO",
+    "Sanford, CO",
+    "Severance, CO",
+    "Sheridan, CO",
+    "Silt, CO",
+    "Silverthorne, CO",
+    "Superior, CO",
+    "Thornton, CO",
+    "Timnath, CO",
+    "Ward, CO",
+    "Wellington, CO",
+    "Westminster, CO",
+    "Wheat Ridge, CO",
+    "Windsor, CO",
+    "Winter Park, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Denver County, CO",
+     "population": 715522
+    },
+    {
+     "county": "Arapahoe County, CO",
+     "population": 655070
+    },
+    {
+     "county": "Jefferson County, CO",
+     "population": 582910
+    },
+    {
+     "county": "Adams County, CO",
+     "population": 519572
+    },
+    {
+     "county": "Douglas County, CO",
+     "population": 357978
+    },
+    {
+     "county": "Boulder County, CO",
+     "population": 330758
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Mesa County, CO",
+     "population": 155703
+    },
+    {
+     "county": "Broomfield County, CO",
+     "population": 74112
+    },
+    {
+     "county": "Garfield County, CO",
+     "population": 61685
+    },
+    {
+     "county": "Eagle County, CO",
+     "population": 55731
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Summit County, CO",
+     "population": 31055
+    },
+    {
+     "county": "Morgan County, CO",
+     "population": 29111
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Chaffee County, CO",
+     "population": 19476
+    },
+    {
+     "county": "Park County, CO",
+     "population": 17390
+    },
+    {
+     "county": "Pitkin County, CO",
+     "population": 17358
+    },
+    {
+     "county": "Alamosa County, CO",
+     "population": 16376
+    },
+    {
+     "county": "Grand County, CO",
+     "population": 15717
+    },
+    {
+     "county": "Rio Grande County, CO",
+     "population": 11539
+    },
+    {
+     "county": "Clear Creek County, CO",
+     "population": 9397
+    },
+    {
+     "county": "Conejos County, CO",
+     "population": 7461
+    },
+    {
+     "county": "Lake County, CO",
+     "population": 7436
+    },
+    {
+     "county": "Saguache County, CO",
+     "population": 6368
+    },
+    {
+     "county": "Gilpin County, CO",
+     "population": 5808
+    },
+    {
+     "county": "Costilla County, CO",
+     "population": 3499
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1540082
+    }
+   ]
+  },
+  {
+   "company": "Colorado Springs Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.csu.org/Pages/default.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 223183517.0,
+   "Residential-Customers": 206991.0,
+   "Commercial-Sales-($)": 110472285.0,
+   "Commercial-Customers": 36497.0,
+   "Industrial-Sales-($)": 179055701.0,
+   "Industrial-Customers": 1606.0,
+   "Total-Customers": 245094.0,
+   "Total-Production-MWh": 3786433.0,
+   "Production-from-Renewable-Energy-MWh": 83740.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3702693.0,
+   "cities-served": [
+    "Colorado Springs, CO",
+    "Fountain, CO",
+    "Green Mountain Falls, CO",
+    "Manitou Springs, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Teller County, CO",
+     "population": 24710
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 245095
+    }
+   ]
+  },
+  {
+   "company": "Black Hills Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.blackhillsenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 234077961.0,
+   "Residential-Customers": 186531.0,
+   "Commercial-Sales-($)": 281991703.0,
+   "Commercial-Customers": 31552.0,
+   "Industrial-Sales-($)": 141438502.0,
+   "Industrial-Customers": 77.0,
+   "Total-Customers": 218160.0,
+   "Total-Production-MWh": 4621438.0,
+   "Production-from-Renewable-Energy-MWh": 845265.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3776173.0,
+   "cities-served": [
+    "Belle Fourche, SD",
+    "Boone, CO",
+    "Box Elder, SD",
+    "Brookside, CO",
+    "Buffalo Chip, SD",
+    "Buffalo Gap, SD",
+    "Ca\u00f1on City, CO",
+    "Central City, SD",
+    "Cheraw, CO",
+    "Cheyenne, WY",
+    "Coal Creek, CO",
+    "Cripple Creek, CO",
+    "Crowley, CO",
+    "Custer, SD",
+    "Deadwood, SD",
+    "Edgemont, SD",
+    "Florence, CO",
+    "Fountain, CO",
+    "Fowler, CO",
+    "Fruitdale, SD",
+    "Green Mountain Falls, CO",
+    "Hill City, SD",
+    "Hot Springs, SD",
+    "Keystone, SD",
+    "La Junta, CO",
+    "Lead, SD",
+    "Manitou Springs, CO",
+    "Manzanola, CO",
+    "Monument, CO",
+    "Newcastle, WY",
+    "Newell, SD",
+    "Nisland, SD",
+    "Olney Springs, CO",
+    "Ordway, CO",
+    "Piedmont, SD",
+    "Pueblo, CO",
+    "Rapid City, SD",
+    "Rockvale, CO",
+    "Rocky Ford, CO",
+    "Silver Cliff, CO",
+    "Spearfish, SD",
+    "Sturgis, SD",
+    "Sugar City, CO",
+    "Summerset, SD",
+    "Swink, CO",
+    "Upton, WY",
+    "Victor, CO",
+    "Westcliffe, CO",
+    "Whitewood, SD",
+    "Williamsburg, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Pennington County, SD",
+     "population": 109222
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Lawrence County, SD",
+     "population": 25768
+    },
+    {
+     "county": "Teller County, CO",
+     "population": 24710
+    },
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    },
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Butte County, SD",
+     "population": 10243
+    },
+    {
+     "county": "Custer County, SD",
+     "population": 8318
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    },
+    {
+     "county": "Crowley County, CO",
+     "population": 5922
+    },
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    },
+    {
+     "county": "Custer County, CO",
+     "population": 4704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 99809
+    },
+    {
+     "state": "South Dakota",
+     "customers": 71792
+    },
+    {
+     "state": "Wyoming",
+     "customers": 46518
+    },
+    {
+     "state": "Montana",
+     "customers": 41
+    }
+   ]
+  },
+  {
+   "company": "Intermountain Rural Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.irea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 229098000.0,
+   "Residential-Customers": 155005.0,
+   "Commercial-Sales-($)": 91463000.0,
+   "Commercial-Customers": 13590.0,
+   "Industrial-Sales-($)": 9542000.0,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 168635.0,
+   "Total-Production-MWh": 941927.0,
+   "Production-from-Non-Renewable-Energy-MWh": 941927.0,
+   "cities-served": [
+    "Aurora, CO",
+    "Bennett, CO",
+    "Castle Pines, CO",
+    "Castle Rock, CO",
+    "Centennial, CO",
+    "Deer Trail, CO",
+    "Elizabeth, CO",
+    "Fairplay, CO",
+    "Foxfield, CO",
+    "Idaho Springs, CO",
+    "Kiowa, CO",
+    "Larkspur, CO",
+    "Lone Tree, CO",
+    "Palmer Lake, CO",
+    "Parker, CO",
+    "Woodland Park, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Arapahoe County, CO",
+     "population": 655070
+    },
+    {
+     "county": "Jefferson County, CO",
+     "population": 582910
+    },
+    {
+     "county": "Adams County, CO",
+     "population": 519572
+    },
+    {
+     "county": "Douglas County, CO",
+     "population": 357978
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Summit County, CO",
+     "population": 31055
+    },
+    {
+     "county": "Elbert County, CO",
+     "population": 26062
+    },
+    {
+     "county": "Teller County, CO",
+     "population": 24710
+    },
+    {
+     "county": "Park County, CO",
+     "population": 17390
+    },
+    {
+     "county": "Clear Creek County, CO",
+     "population": 9397
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 168634
+    }
+   ]
+  },
+  {
+   "company": "United Power",
+   "company-type": "Cooperative",
+   "website": "https://www.unitedpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 123451754.0,
+   "Residential-Customers": 89666.0,
+   "Commercial-Sales-($)": 67077695.0,
+   "Commercial-Customers": 10813.0,
+   "Industrial-Sales-($)": 115124237.0,
+   "Industrial-Customers": 851.0,
+   "Total-Customers": 101330.0,
+   "cities-served": [
+    "Aurora, CO",
+    "Berthoud, CO",
+    "Black Hawk, CO",
+    "Brighton, CO",
+    "Broomfield, CO",
+    "Central City, CO",
+    "Commerce City, CO",
+    "Dacono, CO",
+    "Denver, CO",
+    "Erie, CO",
+    "Firestone, CO",
+    "Fort Lupton, CO",
+    "Frederick, CO",
+    "Hudson, CO",
+    "Idaho Springs, CO",
+    "Johnstown, CO",
+    "Keenesburg, CO",
+    "Lafayette, CO",
+    "Lochbuie, CO",
+    "Longmont, CO",
+    "Mead, CO",
+    "Milliken, CO",
+    "Northglenn, CO",
+    "Platteville, CO",
+    "Thornton, CO",
+    "Westminster, CO",
+    "Winter Park, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Denver County, CO",
+     "population": 715522
+    },
+    {
+     "county": "Jefferson County, CO",
+     "population": 582910
+    },
+    {
+     "county": "Adams County, CO",
+     "population": 519572
+    },
+    {
+     "county": "Boulder County, CO",
+     "population": 330758
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Broomfield County, CO",
+     "population": 74112
+    },
+    {
+     "county": "Grand County, CO",
+     "population": 15717
+    },
+    {
+     "county": "Clear Creek County, CO",
+     "population": 9397
+    },
+    {
+     "county": "Gilpin County, CO",
+     "population": 5808
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 101330
+    }
+   ]
+  },
+  {
+   "company": "Fort Collins Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.fcgov.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 63213665.0,
+   "Residential-Customers": 69120.0,
+   "Commercial-Sales-($)": 47930099.0,
+   "Commercial-Customers": 8765.0,
+   "Industrial-Sales-($)": 34632591.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 77898.0,
+   "cities-served": [
+    "Fort Collins"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 77898
+    }
+   ]
+  },
+  {
+   "company": "Mountain View Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.mvea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 84957800.0,
+   "Residential-Customers": 52390.0,
+   "Commercial-Sales-($)": 24224000.0,
+   "Commercial-Customers": 4062.0,
+   "Industrial-Sales-($)": 10844100.0,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 56491.0,
+   "cities-served": [
+    "Calhan, CO",
+    "Colorado Springs, CO",
+    "Genoa, CO",
+    "Limon, CO",
+    "Monument, CO",
+    "Palmer Lake, CO",
+    "Ramah, CO",
+    "Simla, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Douglas County, CO",
+     "population": 357978
+    },
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Elbert County, CO",
+     "population": 26062
+    },
+    {
+     "county": "Lincoln County, CO",
+     "population": 5675
+    },
+    {
+     "county": "Washington County, CO",
+     "population": 4817
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 56491
+    }
+   ]
+  },
+  {
+   "company": "Poudre Valley REA",
+   "company-type": "Cooperative",
+   "website": "https://www.pvrea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 58110616.0,
+   "Residential-Customers": 43330.0,
+   "Commercial-Sales-($)": 35955580.0,
+   "Commercial-Customers": 4592.0,
+   "Industrial-Sales-($)": 42936574.0,
+   "Industrial-Customers": 720.0,
+   "Total-Customers": 48642.0,
+   "Total-Production-MWh": 3210.0,
+   "Production-from-Renewable-Energy-MWh": 3210.0,
+   "cities-served": [
+    "Ault, CO",
+    "Berthoud, CO",
+    "Boulder, CO",
+    "Eaton, CO",
+    "Estes Park, CO",
+    "Evans, CO",
+    "Fort Collins, CO",
+    "Garden City, CO",
+    "Greeley, CO",
+    "Jamestown, CO",
+    "Johnstown, CO",
+    "Kersey, CO",
+    "La Salle, CO",
+    "Longmont, CO",
+    "Loveland, CO",
+    "Lyons, CO",
+    "Mead, CO",
+    "Milliken, CO",
+    "Nunn, CO",
+    "Pierce, CO",
+    "Severance, CO",
+    "Timnath, CO",
+    "Ward, CO",
+    "Wellington, CO",
+    "Windsor, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    },
+    {
+     "county": "Boulder County, CO",
+     "population": 330758
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 48643
+    }
+   ]
+  },
+  {
+   "company": "La Plata Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.lpea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48364000.0,
+   "Residential-Customers": 37968.0,
+   "Commercial-Sales-($)": 31106000.0,
+   "Commercial-Customers": 6651.0,
+   "Industrial-Sales-($)": 24863000.0,
+   "Industrial-Customers": 212.0,
+   "Total-Customers": 44831.0,
+   "cities-served": [
+    "Bayfield, CO",
+    "Durango, CO",
+    "Ignacio, CO",
+    "Pagosa Springs, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "La Plata County, CO",
+     "population": 55638
+    },
+    {
+     "county": "Archuleta County, CO",
+     "population": 13359
+    },
+    {
+     "county": "Mineral County, CO",
+     "population": 865
+    },
+    {
+     "county": "Hinsdale County, CO",
+     "population": 788
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 44831
+    }
+   ]
+  },
+  {
+   "company": "City of Longmont Electric",
+   "company-type": "Municipal",
+   "website": "https://www.longmontcolorado.gov/departments/departments-e-m/longmont-power-communications/electric-service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 34950700.0,
+   "Residential-Customers": 39186.0,
+   "Commercial-Sales-($)": 29075700.0,
+   "Commercial-Customers": 2848.0,
+   "Industrial-Sales-($)": 8911700.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 42047.0,
+   "cities-served": [
+    "Longmont"
+   ],
+   "counties-served": [
+    {
+     "county": "Boulder County, CO",
+     "population": 330758
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 42047
+    }
+   ]
+  },
+  {
+   "company": "City of Loveland Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.lovelandwaterandpower.org/home-water#Services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 31518900.0,
+   "Residential-Customers": 33390.0,
+   "Commercial-Sales-($)": 11972400.0,
+   "Commercial-Customers": 4559.0,
+   "Industrial-Sales-($)": 26226700.0,
+   "Industrial-Customers": 333.0,
+   "Total-Customers": 38282.0,
+   "cities-served": [
+    "Loveland"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 38282
+    }
+   ]
+  },
+  {
+   "company": "Delta Montrose Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.dmea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 41022600.0,
+   "Residential-Customers": 30620.0,
+   "Commercial-Sales-($)": 10311100.0,
+   "Commercial-Customers": 3751.0,
+   "Industrial-Sales-($)": 15752200.0,
+   "Industrial-Customers": 285.0,
+   "Total-Customers": 34656.0,
+   "cities-served": [
+    "Cedaredge, CO",
+    "Crawford, CO",
+    "Hotchkiss, CO",
+    "Montrose, CO",
+    "Olathe, CO",
+    "Orchard City, CO",
+    "Paonia, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Montrose County, CO",
+     "population": 42679
+    },
+    {
+     "county": "Delta County, CO",
+     "population": 31196
+    },
+    {
+     "county": "Gunnison County, CO",
+     "population": 16918
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 34656
+    }
+   ]
+  },
+  {
+   "company": "Holy Cross Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.holycross.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 76910500.0,
+   "Residential-Customers": 24060.0,
+   "Commercial-Sales-($)": 47941800.0,
+   "Commercial-Customers": 5241.0,
+   "Industrial-Sales-($)": 6316200.0,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 29320.0,
+   "Total-Production-MWh": 300547.0,
+   "Production-from-Renewable-Energy-MWh": 3057.0,
+   "Production-from-Non-Renewable-Energy-MWh": 297490.0,
+   "cities-served": [
+    "Aspen, CO",
+    "Avon, CO",
+    "Basalt, CO",
+    "Carbondale, CO",
+    "Eagle, CO",
+    "Gypsum, CO",
+    "Marble, CO",
+    "Minturn, CO",
+    "Parachute, CO",
+    "Rifle, CO",
+    "Silt, CO",
+    "Snowmass Village, CO",
+    "Vail, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, CO",
+     "population": 61685
+    },
+    {
+     "county": "Eagle County, CO",
+     "population": 55731
+    },
+    {
+     "county": "Pitkin County, CO",
+     "population": 17358
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 29321
+    }
+   ]
+  },
+  {
+   "company": "Yampa Valley Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.yvea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 32364800.0,
+   "Residential-Customers": 22907.0,
+   "Commercial-Sales-($)": 14578500.0,
+   "Commercial-Customers": 4599.0,
+   "Industrial-Sales-($)": 12396800.0,
+   "Industrial-Customers": 73.0,
+   "Total-Customers": 27579.0,
+   "cities-served": [
+    "Baggs, WY",
+    "Craig, CO",
+    "Dixon, WY",
+    "Hayden, CO",
+    "Oak Creek, CO",
+    "Steamboat Springs, CO",
+    "Yampa, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Eagle County, CO",
+     "population": 55731
+    },
+    {
+     "county": "Summit County, CO",
+     "population": 31055
+    },
+    {
+     "county": "Routt County, CO",
+     "population": 24829
+    },
+    {
+     "county": "Grand County, CO",
+     "population": 15717
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "Moffat County, CO",
+     "population": 13292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 26816
+    },
+    {
+     "state": "Wyoming",
+     "customers": 763
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Cooperative (Oklahoma)",
+   "company-type": "Cooperative",
+   "website": "https://www.tcec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19503400.0,
+   "Residential-Customers": 14202.0,
+   "Commercial-Sales-($)": 35157600.0,
+   "Commercial-Customers": 9777.0,
+   "Industrial-Sales-($)": 28132200.0,
+   "Industrial-Customers": 2127.0,
+   "Total-Customers": 26106.0,
+   "cities-served": [
+    "Beaver, OK",
+    "Boise City, OK",
+    "Elkhart, KS",
+    "Forgan, OK",
+    "Goodwell, OK",
+    "Guymon, OK",
+    "Hardesty, OK",
+    "Hooker, OK",
+    "Keyes, OK",
+    "Optima, OK",
+    "Texhoma, OK",
+    "Texhoma, TX",
+    "Tyrone, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Texas County, OK",
+     "population": 21384
+    },
+    {
+     "county": "Hansford County, TX",
+     "population": 5285
+    },
+    {
+     "county": "Beaver County, OK",
+     "population": 5049
+    },
+    {
+     "county": "Baca County, CO",
+     "population": 3506
+    },
+    {
+     "county": "Sherman County, TX",
+     "population": 2782
+    },
+    {
+     "county": "Morton County, KS",
+     "population": 2701
+    },
+    {
+     "county": "Cimarron County, OK",
+     "population": 2296
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 24202
+    },
+    {
+     "state": "Kansas",
+     "customers": 1475
+    },
+    {
+     "state": "Texas",
+     "customers": 375
+    },
+    {
+     "state": "Colorado",
+     "customers": 48
+    },
+    {
+     "state": "New Mexico",
+     "customers": 6
+    }
+   ]
+  },
+  {
+   "company": "San Isabel Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.siea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29816200.0,
+   "Residential-Customers": 22028.0,
+   "Commercial-Sales-($)": 14056400.0,
+   "Commercial-Customers": 2708.0,
+   "Industrial-Sales-($)": 11732100.0,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 24748.0,
+   "cities-served": [
+    "Aguilar, CO",
+    "Branson, CO",
+    "Cokedale, CO",
+    "La Veta, CO",
+    "Pueblo, CO",
+    "Rye, CO",
+    "Starkville, CO",
+    "Trinidad, CO",
+    "Walsenburg, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    },
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Huerfano County, CO",
+     "population": 6820
+    },
+    {
+     "county": "Custer County, CO",
+     "population": 4704
+    },
+    {
+     "county": "Costilla County, CO",
+     "population": 3499
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 24748
+    }
+   ]
+  },
+  {
+   "company": "Moon Lake Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mleainc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13302023.0,
+   "Residential-Customers": 14430.0,
+   "Commercial-Sales-($)": 10679409.0,
+   "Commercial-Customers": 4121.0,
+   "Industrial-Sales-($)": 55537809.0,
+   "Industrial-Customers": 1213.0,
+   "Total-Customers": 19764.0,
+   "Total-Production-MWh": 5839.0,
+   "Production-from-Renewable-Energy-MWh": 5839.0,
+   "cities-served": [
+    "Altamont, UT",
+    "Ballard, UT",
+    "Dinosaur, CO",
+    "Duchesne, UT",
+    "Dutch John, UT",
+    "Myton, UT",
+    "Rangely, CO",
+    "Roosevelt, UT",
+    "Tabiona, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Moffat County, CO",
+     "population": 13292
+    },
+    {
+     "county": "Rio Blanco County, CO",
+     "population": 6529
+    },
+    {
+     "county": "Daggett County, UT",
+     "population": 935
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 17508
+    },
+    {
+     "state": "Colorado",
+     "customers": 2257
+    }
+   ]
+  },
+  {
+   "company": "Grand Valley Power",
+   "company-type": "Cooperative",
+   "website": "https://www.gvp.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22770000.0,
+   "Residential-Customers": 16112.0,
+   "Commercial-Sales-($)": 9689000.0,
+   "Commercial-Customers": 2043.0,
+   "Industrial-Sales-($)": 1055000.0,
+   "Industrial-Customers": 140.0,
+   "Total-Customers": 18295.0,
+   "cities-served": [
+    "Collbran, CO",
+    "De Beque, CO",
+    "Fruita, CO",
+    "Grand Junction, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Mesa County, CO",
+     "population": 155703
+    },
+    {
+     "county": "Garfield County, CO",
+     "population": 61685
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 18295
+    }
+   ]
+  },
+  {
+   "company": "Fountain Electric Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.fountaincolorado.org/government/city_departments___divisions/utilities/utilities_departments/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 12946000.0,
+   "Residential-Customers": 16694.0,
+   "Commercial-Sales-($)": 7144000.0,
+   "Commercial-Customers": 934.0,
+   "Total-Customers": 17628.0,
+   "cities-served": [
+    "Fountain"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 17628
+    }
+   ]
+  },
+  {
+   "company": "Empire Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.eea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16050200.0,
+   "Residential-Customers": 12643.0,
+   "Commercial-Sales-($)": 17331200.0,
+   "Commercial-Customers": 3781.0,
+   "Industrial-Sales-($)": 24852900.0,
+   "Industrial-Customers": 127.0,
+   "Total-Customers": 16551.0,
+   "cities-served": [
+    "Cortez, CO",
+    "Dolores, CO",
+    "Dove Creek, CO",
+    "Mancos, CO",
+    "Monticello, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Montezuma County, CO",
+     "population": 25849
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "San Miguel County, CO",
+     "population": 8072
+    },
+    {
+     "county": "Dolores County, CO",
+     "population": 2326
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 15236
+    },
+    {
+     "state": "Utah",
+     "customers": 1315
+    }
+   ]
+  },
+  {
+   "company": "San Miguel Power Association",
+   "company-type": "Cooperative",
+   "website": "https://www.smpa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17628700.0,
+   "Residential-Customers": 11388.0,
+   "Commercial-Sales-($)": 11409000.0,
+   "Commercial-Customers": 2519.0,
+   "Industrial-Sales-($)": 208000.0,
+   "Industrial-Customers": 65.0,
+   "Total-Customers": 13972.0,
+   "Total-Production-MWh": 1417.0,
+   "Production-from-Renewable-Energy-MWh": 1417.0,
+   "cities-served": [
+    "Mountain Village, CO",
+    "Naturita, CO",
+    "Norwood, CO",
+    "Nucla, CO",
+    "Ophir, CO",
+    "Ouray, CO",
+    "Rico, CO",
+    "Ridgway, CO",
+    "Sawpit, CO",
+    "Silverton, CO",
+    "Telluride, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Montrose County, CO",
+     "population": 42679
+    },
+    {
+     "county": "San Miguel County, CO",
+     "population": 8072
+    },
+    {
+     "county": "Ouray County, CO",
+     "population": 4874
+    },
+    {
+     "county": "Dolores County, CO",
+     "population": 2326
+    },
+    {
+     "county": "Hinsdale County, CO",
+     "population": 788
+    },
+    {
+     "county": "San Juan County, CO",
+     "population": 705
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 13972
+    }
+   ]
+  },
+  {
+   "company": "Sangre de Cristo Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.myelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 15105354.555,
+   "Residential-Customers": 11803.0,
+   "Commercial-Sales-($)": 5773845.445,
+   "Commercial-Customers": 1297.0,
+   "Total-Customers": 13100.0,
+   "cities-served": [
+    "Buena Vista",
+    "Leadville North CDP",
+    "Howard CDP",
+    "Coaldale CDP",
+    "Johnson Village CDP",
+    "Nathrop CDP",
+    "Twin Lakes CDP (Lake County)",
+    "Cotopaxi CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Chaffee County, CO",
+     "population": 19476
+    },
+    {
+     "county": "Lake County, CO",
+     "population": 7436
+    },
+    {
+     "county": "Huerfano County, CO",
+     "population": 6820
+    },
+    {
+     "county": "Custer County, CO",
+     "population": 4704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 13100
+    }
+   ]
+  },
+  {
+   "company": "San Luis Valley REC",
+   "company-type": "Cooperative",
+   "website": "https://www.slvrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11930000.0,
+   "Residential-Customers": 8813.0,
+   "Commercial-Sales-($)": 7252000.0,
+   "Commercial-Customers": 1525.0,
+   "Industrial-Sales-($)": 15556000.0,
+   "Industrial-Customers": 2605.0,
+   "Total-Customers": 12943.0,
+   "cities-served": [
+    "City of Creede, CO",
+    "Crestone, CO",
+    "Monte Vista, CO",
+    "South Fork, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Alamosa County, CO",
+     "population": 16376
+    },
+    {
+     "county": "Rio Grande County, CO",
+     "population": 11539
+    },
+    {
+     "county": "Conejos County, CO",
+     "population": 7461
+    },
+    {
+     "county": "Saguache County, CO",
+     "population": 6368
+    },
+    {
+     "county": "Costilla County, CO",
+     "population": 3499
+    },
+    {
+     "county": "Mineral County, CO",
+     "population": 865
+    },
+    {
+     "county": "Hinsdale County, CO",
+     "population": 788
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 12943
+    }
+   ]
+  },
+  {
+   "company": "Gunnison County Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.gcea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13227516.477,
+   "Residential-Customers": 9690.0,
+   "Commercial-Sales-($)": 5033139.513,
+   "Commercial-Customers": 1508.0,
+   "Industrial-Sales-($)": 943344.01,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 11205.0,
+   "cities-served": [
+    "Crested Butte, CO",
+    "Lake City, CO",
+    "Mount Crested Butte, CO",
+    "Pitkin, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Chaffee County, CO",
+     "population": 19476
+    },
+    {
+     "county": "Pitkin County, CO",
+     "population": 17358
+    },
+    {
+     "county": "Gunnison County, CO",
+     "population": 16918
+    },
+    {
+     "county": "Saguache County, CO",
+     "population": 6368
+    },
+    {
+     "county": "Hinsdale County, CO",
+     "population": 788
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 11205
+    }
+   ]
+  },
+  {
+   "company": "Estes Park Utilities",
+   "company-type": "Municipal",
+   "website": "https://estespark.colorado.gov/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 8589030.128,
+   "Residential-Customers": 8111.0,
+   "Commercial-Sales-($)": 8493969.872,
+   "Commercial-Customers": 2671.0,
+   "Total-Customers": 10782.0,
+   "cities-served": [
+    "Estes Park"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 10782
+    }
+   ]
+  },
+  {
+   "company": "High West Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.highwestenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13097000.0,
+   "Residential-Customers": 7781.0,
+   "Commercial-Sales-($)": 1711000.0,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 38989000.0,
+   "Industrial-Customers": 2771.0,
+   "Total-Customers": 10651.0,
+   "cities-served": [
+    "Albin, WY",
+    "Burns, WY",
+    "Bushnell, NE",
+    "Cheyenne, WY",
+    "Dix, NE",
+    "Grover, CO",
+    "Kimball, NE",
+    "Peetz, CO",
+    "Pine Bluffs, WY",
+    "Potter, NE",
+    "Sidney, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Kimball County, NE",
+     "population": 3434
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 6669
+    },
+    {
+     "state": "Nebraska",
+     "customers": 2955
+    },
+    {
+     "state": "Colorado",
+     "customers": 1027
+    }
+   ]
+  },
+  {
+   "company": "Southeast Colorado Power Association",
+   "company-type": "Cooperative",
+   "website": "https://www.secpa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11803200.0,
+   "Residential-Customers": 7867.0,
+   "Commercial-Sales-($)": 16619100.0,
+   "Commercial-Customers": 2687.0,
+   "Industrial-Sales-($)": 4452900.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 10565.0,
+   "cities-served": [
+    "Boone, CO",
+    "Campo, CO",
+    "Cheraw, CO",
+    "Crowley, CO",
+    "Eads, CO",
+    "Fowler, CO",
+    "Hartman, CO",
+    "Haswell, CO",
+    "Holly, CO",
+    "Kim, CO",
+    "La Junta, CO",
+    "Lamar, CO",
+    "Las Animas, CO",
+    "Manzanola, CO",
+    "Olney Springs, CO",
+    "Ordway, CO",
+    "Pritchett, CO",
+    "Rocky Ford, CO",
+    "Sheridan Lake, CO",
+    "Sugar City, CO",
+    "Swink, CO",
+    "Two Buttes, CO",
+    "Vilas, CO",
+    "Walsh, CO",
+    "Wiley, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    },
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Prowers County, CO",
+     "population": 11999
+    },
+    {
+     "county": "Crowley County, CO",
+     "population": 5922
+    },
+    {
+     "county": "Lincoln County, CO",
+     "population": 5675
+    },
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    },
+    {
+     "county": "Baca County, CO",
+     "population": 3506
+    },
+    {
+     "county": "Cheyenne County, CO",
+     "population": 1748
+    },
+    {
+     "county": "Kiowa County, CO",
+     "population": 1446
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 10565
+    }
+   ]
+  },
+  {
+   "company": "Highline Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.hea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8178000.0,
+   "Residential-Customers": 5724.0,
+   "Commercial-Sales-($)": 8244400.0,
+   "Commercial-Customers": 1521.0,
+   "Industrial-Sales-($)": 37993500.0,
+   "Industrial-Customers": 3142.0,
+   "Total-Customers": 10387.0,
+   "cities-served": [
+    "Chappell, NE",
+    "Crook, CO",
+    "Haxtun, CO",
+    "Holyoke, CO",
+    "Iliff, CO",
+    "Imperial, NE",
+    "Julesburg, CO",
+    "Lamar, NE",
+    "Merino, CO",
+    "Ovid, CO",
+    "Paoli, CO",
+    "Sedgwick, CO",
+    "Sterling, CO",
+    "Venango, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Morgan County, CO",
+     "population": 29111
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Yuma County, CO",
+     "population": 9988
+    },
+    {
+     "county": "Washington County, CO",
+     "population": 4817
+    },
+    {
+     "county": "Phillips County, CO",
+     "population": 4530
+    },
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    },
+    {
+     "county": "Perkins County, NE",
+     "population": 2858
+    },
+    {
+     "county": "Sedgwick County, CO",
+     "population": 2404
+    },
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    },
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 8403
+    },
+    {
+     "state": "Nebraska",
+     "customers": 1984
+    }
+   ]
+  },
+  {
+   "company": "Morgan County Rural Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.mcrea.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9366100.0,
+   "Residential-Customers": 5397.0,
+   "Commercial-Sales-($)": 16327100.0,
+   "Commercial-Customers": 1810.0,
+   "Industrial-Sales-($)": 17842500.0,
+   "Industrial-Customers": 1594.0,
+   "Total-Customers": 8801.0,
+   "cities-served": [
+    "Brush, CO",
+    "Fort Morgan, CO",
+    "Keenesburg, CO",
+    "Log Lane Village, CO",
+    "Merino, CO",
+    "Raymer (New Raymer), CO",
+    "Wiggins, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Adams County, CO",
+     "population": 519572
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Morgan County, CO",
+     "population": 29111
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Washington County, CO",
+     "population": 4817
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 8801
+    }
+   ]
+  },
+  {
+   "company": "YW Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.ywelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6898000.0,
+   "Residential-Customers": 4852.0,
+   "Commercial-Sales-($)": 12342000.0,
+   "Commercial-Customers": 1219.0,
+   "Industrial-Sales-($)": 24682000.0,
+   "Industrial-Customers": 2383.0,
+   "Total-Customers": 8454.0,
+   "cities-served": [
+    "Akron, CO",
+    "Eckley, CO",
+    "Otis, CO",
+    "Wray, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Yuma County, CO",
+     "population": 9988
+    },
+    {
+     "county": "Washington County, CO",
+     "population": 4817
+    },
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 8382
+    },
+    {
+     "state": "Nebraska",
+     "customers": 72
+    }
+   ]
+  },
+  {
+   "company": "KC Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.kcelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5230450.0,
+   "Residential-Customers": 3387.0,
+   "Commercial-Sales-($)": 14226375.0,
+   "Commercial-Customers": 2531.0,
+   "Industrial-Sales-($)": 6734228.0,
+   "Industrial-Customers": 694.0,
+   "Total-Customers": 6612.0,
+   "cities-served": [
+    "Arriba, CO",
+    "Bethune, CO",
+    "Burlington, CO",
+    "Cheyenne Wells, CO",
+    "Flagler, CO",
+    "Genoa, CO",
+    "Hugo, CO",
+    "Kit Carson, CO",
+    "Seibert, CO",
+    "Stratton, CO",
+    "Vona, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Kit Carson County, CO",
+     "population": 7087
+    },
+    {
+     "county": "Lincoln County, CO",
+     "population": 5675
+    },
+    {
+     "county": "Cheyenne County, CO",
+     "population": 1748
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 6611
+    }
+   ]
+  },
+  {
+   "company": "Glenwood Springs Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cogs.us/154/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4269908.969,
+   "Residential-Customers": 5025.0,
+   "Commercial-Sales-($)": 9685091.031,
+   "Commercial-Customers": 1555.0,
+   "Total-Customers": 6580.0,
+   "cities-served": [
+    "Glenwood Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, CO",
+     "population": 61685
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 6580
+    }
+   ]
+  },
+  {
+   "company": "Fort Morgan Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityoffortmorgan.com/152/Light-Power-Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4143000.0,
+   "Residential-Customers": 5005.0,
+   "Commercial-Sales-($)": 9886000.0,
+   "Commercial-Customers": 1070.0,
+   "Industrial-Sales-($)": 5546900.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 6076.0,
+   "cities-served": [
+    "Fort Morgan"
+   ],
+   "counties-served": [
+    {
+     "county": "Morgan County, CO",
+     "population": 29111
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 6076
+    }
+   ]
+  },
+  {
+   "company": "Trinidad, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.trinidad.co.gov/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4406152.01,
+   "Residential-Customers": 4029.0,
+   "Commercial-Sales-($)": 3990847.99,
+   "Commercial-Customers": 585.0,
+   "Total-Customers": 4614.0,
+   "cities-served": [
+    "Trinidad"
+   ],
+   "counties-served": [
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 4614
+    }
+   ]
+  },
+  {
+   "company": "Gunnison Electric",
+   "company-type": "Municipal",
+   "website": "https://www.gunnisonco.gov/departments/public_works/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3066642.793,
+   "Residential-Customers": 3567.0,
+   "Commercial-Sales-($)": 3933257.207,
+   "Commercial-Customers": 872.0,
+   "Total-Customers": 4439.0,
+   "cities-served": [
+    "Gunnison"
+   ],
+   "counties-served": [
+    {
+     "county": "Gunnison County, CO",
+     "population": 16918
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 4439
+    }
+   ]
+  },
+  {
+   "company": "Lamar Light and Power",
+   "company-type": "Municipal",
+   "website": "http://www.lamarlightandpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5721565.159,
+   "Residential-Customers": 3366.0,
+   "Commercial-Sales-($)": 7556569.124,
+   "Commercial-Customers": 523.0,
+   "Industrial-Sales-($)": 853865.717,
+   "Industrial-Customers": 160.0,
+   "Total-Customers": 4049.0,
+   "Total-Production-MWh": 6372.0,
+   "Production-from-Renewable-Energy-MWh": 6372.0,
+   "cities-served": [
+    "Hartman, CO",
+    "Lamar, CO",
+    "Wiley, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Prowers County, CO",
+     "population": 11999
+    },
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 4049
+    }
+   ]
+  },
+  {
+   "company": "La Junta Utilities",
+   "company-type": "Municipal",
+   "website": "https://lajuntacolorado.org/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3316291.388,
+   "Residential-Customers": 3010.0,
+   "Commercial-Sales-($)": 2309202.9,
+   "Commercial-Customers": 721.0,
+   "Industrial-Sales-($)": 5755505.712,
+   "Industrial-Customers": 53.0,
+   "Total-Customers": 3784.0,
+   "cities-served": [
+    "La Junta"
+   ],
+   "counties-served": [
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 3784
+    }
+   ]
+  },
+  {
+   "company": "City of Delta Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityofdelta.net/publicworks-utilities/page/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2765420.133,
+   "Residential-Customers": 2756.0,
+   "Commercial-Sales-($)": 3847779.867,
+   "Commercial-Customers": 675.0,
+   "Total-Customers": 3431.0,
+   "cities-served": [
+    "Delta"
+   ],
+   "counties-served": [
+    {
+     "county": "Delta County, CO",
+     "population": 31196
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 3431
+    }
+   ]
+  },
+  {
+   "company": "White River Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.wrea.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2908900.0,
+   "Residential-Customers": 2564.0,
+   "Commercial-Sales-($)": 3439800.0,
+   "Commercial-Customers": 756.0,
+   "Industrial-Sales-($)": 51087700.0,
+   "Industrial-Customers": 88.0,
+   "Total-Customers": 3408.0,
+   "cities-served": [
+    "Meeker"
+   ],
+   "counties-served": [
+    {
+     "county": "Moffat County, CO",
+     "population": 13292
+    },
+    {
+     "county": "Rio Blanco County, CO",
+     "population": 6529
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 3408
+    }
+   ]
+  },
+  {
+   "company": "Aspen Electrical",
+   "company-type": "Municipal",
+   "website": "https://www.cityofaspen.com/182/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3760588.014,
+   "Residential-Customers": 2032.0,
+   "Commercial-Sales-($)": 5214411.986,
+   "Commercial-Customers": 1056.0,
+   "Total-Customers": 3088.0,
+   "Total-Production-MWh": 12138.0,
+   "Production-from-Renewable-Energy-MWh": 12138.0,
+   "cities-served": [
+    "Aspen"
+   ],
+   "counties-served": [
+    {
+     "county": "Pitkin County, CO",
+     "population": 17358
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 3088
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Electric Cooperative (New Mexico)",
+   "company-type": "Cooperative",
+   "website": "https://www.swec-coop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2461700.0,
+   "Residential-Customers": 1439.0,
+   "Commercial-Sales-($)": 1119200.0,
+   "Commercial-Customers": 11.0,
+   "Industrial-Sales-($)": 23592300.0,
+   "Industrial-Customers": 806.0,
+   "Total-Customers": 2256.0,
+   "cities-served": [
+    "Aguilar, CO",
+    "Angel Fire, NM",
+    "Boise City, OK",
+    "Branson, CO",
+    "Channing, TX",
+    "Cimarron, NM",
+    "Clayton, NM",
+    "Cokedale, CO",
+    "Dalhart, TX",
+    "Des Moines, NM",
+    "Eagle Nest, NM",
+    "Folsom, NM",
+    "Grenville, NM",
+    "House, NM",
+    "Keyes, OK",
+    "Kim, CO",
+    "Logan, NM",
+    "Maxwell, NM",
+    "Mosquero, NM",
+    "Raton, NM",
+    "Roy, NM",
+    "San Jon, NM",
+    "Springer, NM",
+    "Starkville, CO",
+    "Texline, TX",
+    "Trinidad, CO",
+    "Tucumcari, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    },
+    {
+     "county": "Quay County, NM",
+     "population": 8746
+    },
+    {
+     "county": "Dallam County, TX",
+     "population": 7115
+    },
+    {
+     "county": "Hartley County, TX",
+     "population": 5382
+    },
+    {
+     "county": "Union County, NM",
+     "population": 4079
+    },
+    {
+     "county": "Cimarron County, OK",
+     "population": 2296
+    },
+    {
+     "county": "Harding County, NM",
+     "population": 657
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 2206
+    },
+    {
+     "state": "Texas",
+     "customers": 26
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 17
+    },
+    {
+     "state": "Colorado",
+     "customers": 7
+    }
+   ]
+  },
+  {
+   "company": "Burlington Public Works",
+   "company-type": "Municipal",
+   "website": "http://www.burlingtoncolo.com/165/Public-Works",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1674320.785,
+   "Residential-Customers": 1740.0,
+   "Commercial-Sales-($)": 736038.048,
+   "Commercial-Customers": 334.0,
+   "Industrial-Sales-($)": 1571641.167,
+   "Industrial-Customers": 80.0,
+   "Total-Customers": 2154.0,
+   "cities-served": [
+    "Burlington"
+   ],
+   "counties-served": [
+    {
+     "county": "Kit Carson County, CO",
+     "population": 7087
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 2154
+    }
+   ]
+  },
+  {
+   "company": "Yuma Electric Service",
+   "company-type": "Municipal",
+   "website": "https://cityofyuma.colorado.gov/departments/utility-services/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1912200.528,
+   "Residential-Customers": 1297.0,
+   "Commercial-Sales-($)": 983799.472,
+   "Commercial-Customers": 382.0,
+   "Total-Customers": 1679.0,
+   "cities-served": [
+    "Yuma"
+   ],
+   "counties-served": [
+    {
+     "county": "Yuma County, CO",
+     "population": 9988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1679
+    }
+   ]
+  },
+  {
+   "company": "Las Animas Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityoflasanimas.colorado.gov/las-animas-municipal-utilities-0",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1575532.496,
+   "Residential-Customers": 1350.0,
+   "Commercial-Sales-($)": 2335866.674,
+   "Commercial-Customers": 267.0,
+   "Industrial-Sales-($)": 53000.83,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 1646.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Awards",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1646
+    }
+   ]
+  },
+  {
+   "company": "Wray, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwray.org/265/Utility-Services",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1824223.009,
+   "Residential-Customers": 997.0,
+   "Commercial-Sales-($)": 1005776.991,
+   "Commercial-Customers": 324.0,
+   "Total-Customers": 1321.0,
+   "cities-served": [
+    "Wray"
+   ],
+   "counties-served": [
+    {
+     "county": "Yuma County, CO",
+     "population": 9988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1321
+    }
+   ]
+  },
+  {
+   "company": "Holyoke, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofholyoke-co.gov/i_want_to/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1310330.871,
+   "Residential-Customers": 1019.0,
+   "Commercial-Sales-($)": 1365669.129,
+   "Commercial-Customers": 209.0,
+   "Total-Customers": 1228.0,
+   "cities-served": [
+    "Holyoke"
+   ],
+   "counties-served": [
+    {
+     "county": "Phillips County, CO",
+     "population": 4530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1228
+    }
+   ]
+  },
+  {
+   "company": "Lyons Electric",
+   "company-type": "Municipal",
+   "website": "https://www.townoflyons.com/174/Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1068607.306,
+   "Residential-Customers": 1048.0,
+   "Commercial-Sales-($)": 449392.694,
+   "Commercial-Customers": 139.0,
+   "Total-Customers": 1187.0,
+   "cities-served": [
+    "Lyons"
+   ],
+   "counties-served": [
+    {
+     "county": "Boulder County, CO",
+     "population": 330758
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 1187
+    }
+   ]
+  },
+  {
+   "company": "Center, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.centerco.gov/departments/municipal-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1503242.117,
+   "Residential-Customers": 760.0,
+   "Commercial-Sales-($)": 751570.617,
+   "Commercial-Customers": 191.0,
+   "Industrial-Sales-($)": 250187.266,
+   "Industrial-Customers": 45.0,
+   "Total-Customers": 996.0,
+   "cities-served": [
+    "Center"
+   ],
+   "counties-served": [
+    {
+     "county": "Saguache County, CO",
+     "population": 6368
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 996
+    }
+   ]
+  },
+  {
+   "company": "Springfield Utility Company",
+   "company-type": "Municipal",
+   "website": "https://townofspringfield.colorado.gov/utilities-5",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 920215.867,
+   "Residential-Customers": 741.0,
+   "Commercial-Sales-($)": 344444.034,
+   "Commercial-Customers": 169.0,
+   "Industrial-Sales-($)": 392340.098,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 928.0,
+   "cities-served": [
+    "Springfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Baca County, CO",
+     "population": 3506
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 928
+    }
+   ]
+  },
+  {
+   "company": "Julesburg, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://townofjulesburg.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 551566.633,
+   "Residential-Customers": 637.0,
+   "Commercial-Sales-($)": 653133.367,
+   "Commercial-Customers": 268.0,
+   "Total-Customers": 905.0,
+   "cities-served": [
+    "Julesburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Sedgwick County, CO",
+     "population": 2404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 905
+    }
+   ]
+  },
+  {
+   "company": "Haxtun, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://townofhaxtun.colorado.gov/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 556437.374,
+   "Residential-Customers": 466.0,
+   "Commercial-Sales-($)": 432562.626,
+   "Commercial-Customers": 126.0,
+   "Total-Customers": 592.0,
+   "cities-served": [
+    "Haxtun"
+   ],
+   "counties-served": [
+    {
+     "county": "Phillips County, CO",
+     "population": 4530
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 592
+    }
+   ]
+  },
+  {
+   "company": "Holly Electric",
+   "company-type": "Municipal",
+   "website": "https://www.townofholly.com/electric.shtml",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 500534.594,
+   "Residential-Customers": 409.0,
+   "Commercial-Sales-($)": 513016.991,
+   "Commercial-Customers": 153.0,
+   "Industrial-Sales-($)": 231448.416,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 577.0,
+   "cities-served": [
+    "Holly"
+   ],
+   "counties-served": [
+    {
+     "county": "Prowers County, CO",
+     "population": 11999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 577
+    }
+   ]
+  },
+  {
+   "company": "Granada, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Town-Of-Granada-1272433709519327/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 293489.461,
+   "Residential-Customers": 228.0,
+   "Commercial-Sales-($)": 188510.539,
+   "Commercial-Customers": 32.0,
+   "Total-Customers": 260.0,
+   "cities-served": [
+    "Granada"
+   ],
+   "counties-served": [
+    {
+     "county": "Prowers County, CO",
+     "population": 11999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 260
+    }
+   ]
+  },
+  {
+   "company": "Fleming, Colorado Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.flemingcolorado.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 248768.362,
+   "Residential-Customers": 201.0,
+   "Commercial-Sales-($)": 95231.638,
+   "Commercial-Customers": 22.0,
+   "Total-Customers": 223.0,
+   "cities-served": [
+    "Fleming"
+   ],
+   "counties-served": [
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 223
+    }
+   ]
+  }
+ ]
+}

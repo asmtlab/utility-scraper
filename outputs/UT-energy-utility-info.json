@@ -1,0 +1,2544 @@
+{
+ "electrical-providers": [
+  {
+   "company": "PacifiCorp",
+   "company-type": "Investor Owned",
+   "website": "https://www.pacificorp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1886521838.0,
+   "Residential-Customers": 1752587.0,
+   "Commercial-Sales-($)": 1572847130.0,
+   "Commercial-Customers": 226225.0,
+   "Industrial-Sales-($)": 1240293512.0,
+   "Industrial-Customers": 32989.0,
+   "Total-Customers": 2011801.0,
+   "Total-Production-MWh": 53156855.0,
+   "Production-from-Renewable-Energy-MWh": 9719336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43437520.0,
+   "cities-served": [
+    "Adams, OR",
+    "Albany, OR",
+    "Alpine, UT",
+    "Alta, UT",
+    "Alturas, CA",
+    "Amalga, UT",
+    "American Fork, UT",
+    "Ammon, ID",
+    "Annabella, UT",
+    "Apple Valley, UT",
+    "Arco, ID",
+    "Arimo, ID",
+    "Arlington, OR",
+    "Ashland, OR",
+    "Ashton, ID",
+    "Astoria, OR",
+    "Athena, OR",
+    "Aumsville, OR",
+    "Aurora, UT",
+    "Bairoil, WY",
+    "Bancroft, ID",
+    "Bandon, OR",
+    "Bar Nunn, WY",
+    "Basalt, ID",
+    "Basin, WY",
+    "Bear River, WY",
+    "Bear River City, UT",
+    "Beaver, UT",
+    "Bend, OR",
+    "Big Piney, WY",
+    "Blanding, UT",
+    "Bloomington, ID",
+    "Bluffdale, UT",
+    "Bonanza, OR",
+    "Brian Head, UT",
+    "Brighton, UT",
+    "Brownsville, OR",
+    "Buffalo, WY",
+    "Butte Falls, OR",
+    "Byron, WY",
+    "Cannon Beach, OR",
+    "Canyonville, OR",
+    "Casper, WY",
+    "Castle Dale, UT",
+    "Castle Valley, UT",
+    "Cave Junction, OR",
+    "Cedar City, UT",
+    "Cedar Fort, UT",
+    "Cedar Highlands, UT",
+    "Cedar Hills, UT",
+    "Centerfield, UT",
+    "Centerville, UT",
+    "Central Point, OR",
+    "Central Valley, UT",
+    "Charleston, UT",
+    "Chiloquin, OR",
+    "Circleville, UT",
+    "Clarkston, UT",
+    "Clawson, UT",
+    "Clearfield, UT",
+    "Cleveland, UT",
+    "Clifton, ID",
+    "Clinton, UT",
+    "Coalville, UT",
+    "Coburg, OR",
+    "Cody, WY",
+    "Cokeville, WY",
+    "College Place, WA",
+    "Coos Bay, OR",
+    "Coquille, OR",
+    "Corinne, UT",
+    "Cornish, UT",
+    "Corvallis, OR",
+    "Cottage Grove, OR",
+    "Cottonwood Heights, UT",
+    "Cowley, WY",
+    "Crescent City, CA",
+    "Creswell, OR",
+    "Culver, OR",
+    "Dallas, OR",
+    "Daniel, UT",
+    "Dayton, WA",
+    "Dayton, ID",
+    "Deaver, WY",
+    "Delta, UT",
+    "Deweyville, UT",
+    "Diamondville, WY",
+    "Dorris, CA",
+    "Douglas, WY",
+    "Downey, ID",
+    "Draper, UT",
+    "Dubois, ID",
+    "Dunsmuir, CA",
+    "Eagle Mountain, UT",
+    "Eagle Point, OR",
+    "East Carbon, UT",
+    "East Thermopolis, WY",
+    "Echo, OR",
+    "Edgerton, WY",
+    "Elmo, UT",
+    "Elsinore, UT",
+    "Elwood, UT",
+    "Emery, UT",
+    "Enoch, UT",
+    "Enterprise, OR",
+    "Enterprise, UT",
+    "Ephraim, UT",
+    "Etna, CA",
+    "Eureka, UT",
+    "Evanston, WY",
+    "Evansville, WY",
+    "Fairfield, UT",
+    "Fairview, UT",
+    "Falls City, OR",
+    "Farmington, UT",
+    "Farr West, UT",
+    "Fayette, UT",
+    "Ferron, UT",
+    "Fielding, UT",
+    "Firth, ID",
+    "Fort Jones, CA",
+    "Fountain Green, UT",
+    "Francis, UT",
+    "Franklin, ID",
+    "Frannie, WY",
+    "Fruit Heights, UT",
+    "Garden City, UT",
+    "Garland, UT",
+    "Gates, OR",
+    "Gearhart, OR",
+    "Genola, UT",
+    "Georgetown, ID",
+    "Glendale, OR",
+    "Glendo, WY",
+    "Glenrock, WY",
+    "Glenwood, UT",
+    "Gold Hill, OR",
+    "Goshen, UT",
+    "Grace, ID",
+    "Grandview, WA",
+    "Granger, WA",
+    "Grants Pass, OR",
+    "Grantsville, UT",
+    "Grass Valley, OR",
+    "Green River, WY",
+    "Green River, UT",
+    "Greybull, WY",
+    "Guernsey, WY",
+    "Gunnison, UT",
+    "Halsey, OR",
+    "Hamer, ID",
+    "Hanna, WY",
+    "Harrah, WA",
+    "Harrisburg, OR",
+    "Harrisville, UT",
+    "Hartville, WY",
+    "Heber, UT",
+    "Helix, OR",
+    "Helper, UT",
+    "Henefer, UT",
+    "Hermiston, OR",
+    "Herriman, UT",
+    "Hideout, UT",
+    "Highland, UT",
+    "Hinckley, UT",
+    "Holden, UT",
+    "Holladay, UT",
+    "Honeyville, UT",
+    "Hood River, OR",
+    "Hooper, UT",
+    "Howell, UT",
+    "Huntington, UT",
+    "Huntsville, UT",
+    "Hurricane, UT",
+    "Hyde Park, UT",
+    "Hyrum, UT",
+    "Idaho Falls, ID",
+    "Ilwaco, WA",
+    "Independence, OR",
+    "Independence, UT",
+    "Iona, ID",
+    "Ivins, UT",
+    "Jacksonville, OR",
+    "Jefferson, OR",
+    "Joseph, OR",
+    "Joseph, UT",
+    "Junction, UT",
+    "Junction City, OR",
+    "Kamas, UT",
+    "Kanarraville, UT",
+    "Kemmerer, WY",
+    "Kingston, UT",
+    "Kirby, WY",
+    "Klamath Falls, OR",
+    "La Barge, WY",
+    "La Verkin, UT",
+    "Laketown, UT",
+    "Lakeview, OR",
+    "Lander, WY",
+    "Laramie, WY",
+    "Lava Hot Springs, ID",
+    "Layton, UT",
+    "Leamington, UT",
+    "Lebanon, OR",
+    "Leeds, UT",
+    "Lehi, UT",
+    "Levan, UT",
+    "Lewiston, UT",
+    "Lewisville, ID",
+    "Lincoln City, OR",
+    "Lindon, UT",
+    "Logan, UT",
+    "Lostine, OR",
+    "Lovell, WY",
+    "Lynndyl, UT",
+    "Lyons, OR",
+    "Mabton, WA",
+    "Madras, OR",
+    "Malad City, ID",
+    "Malin, OR",
+    "Manderson, WY",
+    "Manti, UT",
+    "Mantua, UT",
+    "Mapleton, UT",
+    "Marbleton, WY",
+    "Marriott-Slaterville, UT",
+    "Marysvale, UT",
+    "Mayfield, UT",
+    "Maywood Park, OR",
+    "McCammon, ID",
+    "Medford, OR",
+    "Menan, ID",
+    "Mendon, UT",
+    "Merrill, OR",
+    "Metolius, OR",
+    "Midvale, UT",
+    "Midway, UT",
+    "Midwest, WY",
+    "Milford, UT",
+    "Mill City, OR",
+    "Millcreek, UT",
+    "Millersburg, OR",
+    "Mills, WY",
+    "Millville, UT",
+    "Minersville, UT",
+    "Moab, UT",
+    "Mona, UT",
+    "Monroe, UT",
+    "Monroe, OR",
+    "Montague, CA",
+    "Montpelier, ID",
+    "Moro, OR",
+    "Moroni, UT",
+    "Mosier, OR",
+    "Mount Pleasant, UT",
+    "Mount Shasta, CA",
+    "Moxee, WA",
+    "Mud Lake, ID",
+    "Murray, UT",
+    "Myrtle Creek, OR",
+    "Myrtle Point, OR",
+    "Naches, WA",
+    "Naples, UT",
+    "Nephi, UT",
+    "New Harmony, UT",
+    "Newdale, ID",
+    "Newton, UT",
+    "Nibley, UT",
+    "North Bend, OR",
+    "North Logan, UT",
+    "North Ogden, UT",
+    "North Salt Lake, UT",
+    "Oak City, UT",
+    "Oakland, OR",
+    "Oakley, UT",
+    "Ogden, UT",
+    "Opal, WY",
+    "Ophir, UT",
+    "Orangeville, UT",
+    "Orem, UT",
+    "Oxford, ID",
+    "Panguitch, UT",
+    "Paradise, UT",
+    "Paragonah, UT",
+    "Paris, ID",
+    "Park City, UT",
+    "Parker, ID",
+    "Parowan, UT",
+    "Payson, UT",
+    "Pendleton, OR",
+    "Perry, UT",
+    "Philomath, OR",
+    "Phoenix, OR",
+    "Pilot Rock, OR",
+    "Pinedale, WY",
+    "Plain City, UT",
+    "Pleasant Grove, UT",
+    "Pleasant View, UT",
+    "Plymouth, UT",
+    "Pomeroy, WA",
+    "Portage, UT",
+    "Portland, OR",
+    "Powell, WY",
+    "Powers, OR",
+    "Prescott, WA",
+    "Preston, ID",
+    "Price, UT",
+    "Prineville, OR",
+    "Providence, UT",
+    "Provo, UT",
+    "Randolph, UT",
+    "Rawlins, WY",
+    "Redmond, OR",
+    "Redmond, UT",
+    "Rexburg, ID",
+    "Richfield, UT",
+    "Richmond, UT",
+    "Riddle, OR",
+    "Rigby, ID",
+    "Ririe, ID",
+    "River Heights, UT",
+    "Riverdale, UT",
+    "Riverton, UT",
+    "Riverton, WY",
+    "Roberts, ID",
+    "Rock Springs, WY",
+    "Rockville, UT",
+    "Rocky Ridge, UT",
+    "Rogue River, OR",
+    "Rolling Hills, WY",
+    "Roseburg, OR",
+    "Roy, UT",
+    "Rufus, OR",
+    "Rush Valley, UT",
+    "Salina, UT",
+    "Salt Lake City, UT",
+    "Sandy, UT",
+    "Santa Clara, UT",
+    "Santaquin, UT",
+    "Saratoga Springs, UT",
+    "Scio, OR",
+    "Scipio, UT",
+    "Scofield, UT",
+    "Seaside, OR",
+    "Selah, WA",
+    "Shady Cove, OR",
+    "Shelley, ID",
+    "Shoshoni, WY",
+    "Sigurd, UT",
+    "Sinclair, WY",
+    "Smithfield, UT",
+    "Snowville, UT",
+    "Soda Springs, ID",
+    "Sodaville, OR",
+    "South Jordan, UT",
+    "South Ogden, UT",
+    "South Salt Lake, UT",
+    "South Weber, UT",
+    "Spencer, ID",
+    "Spring City, UT",
+    "Springdale, UT",
+    "Springville, UT",
+    "St. Anthony, ID",
+    "St. Charles, ID",
+    "St. George, UT",
+    "Stanfield, OR",
+    "Stayton, OR",
+    "Sterling, UT",
+    "Stockton, UT",
+    "Sublimity, OR",
+    "Sugar City, ID",
+    "Sunnyside, WA",
+    "Sunset, UT",
+    "Superior, WY",
+    "Sutherlin, OR",
+    "Swan Valley, ID",
+    "Sweet Home, OR",
+    "Syracuse, UT",
+    "Talent, OR",
+    "Tangent, OR",
+    "Taylorsville, UT",
+    "Teton, ID",
+    "Thermopolis, WY",
+    "Tieton, WA",
+    "Tooele, UT",
+    "Toppenish, WA",
+    "Toquerville, UT",
+    "Tremonton, UT",
+    "Trenton, UT",
+    "Tulelake, CA",
+    "Ucon, ID",
+    "Uintah, UT",
+    "Umatilla, OR",
+    "Union Gap, WA",
+    "Veneta, OR",
+    "Vernal, UT",
+    "Vernon, UT",
+    "Vineyard, UT",
+    "Virgin, UT",
+    "Waitsburg, WA",
+    "Wales, UT",
+    "Walla Walla, WA",
+    "Wallowa, OR",
+    "Wallsburg, UT",
+    "Wamsutter, WY",
+    "Wapato, WA",
+    "Warrenton, OR",
+    "Wasco, OR",
+    "Washington, UT",
+    "Washington Terrace, UT",
+    "Waterloo, OR",
+    "Weed, CA",
+    "Wellington, UT",
+    "Wellsville, UT",
+    "West Bountiful, UT",
+    "West Haven, UT",
+    "West Jordan, UT",
+    "West Point, UT",
+    "West Valley City, UT",
+    "Weston, OR",
+    "Weston, ID",
+    "Willard, UT",
+    "Winston, OR",
+    "Woodruff, UT",
+    "Woods Cross, UT",
+    "Worland, WY",
+    "Yakima, WA",
+    "Yreka, CA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    },
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    },
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Weber County, UT",
+     "population": 262223
+    },
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    },
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Shasta County, CA",
+     "population": 182155
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Tooele County, UT",
+     "population": 72698
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Siskiyou County, CA",
+     "population": 44076
+    },
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    },
+    {
+     "county": "Del Norte County, CA",
+     "population": 27743
+    },
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "Franklin County, ID",
+     "population": 14194
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Morgan County, UT",
+     "population": 12295
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Emery County, UT",
+     "population": 9825
+    },
+    {
+     "county": "Grand County, UT",
+     "population": 9669
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Modoc County, CA",
+     "population": 8700
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    },
+    {
+     "county": "Rich County, UT",
+     "population": 2510
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 989777
+    },
+    {
+     "state": "Oregon",
+     "customers": 612085
+    },
+    {
+     "state": "Wyoming",
+     "customers": 143068
+    },
+    {
+     "state": "Washington",
+     "customers": 135069
+    },
+    {
+     "state": "Idaho",
+     "customers": 86004
+    },
+    {
+     "state": "California",
+     "customers": 45800
+    }
+   ]
+  },
+  {
+   "company": "Navajo Tribal Utility Authority",
+   "company-type": "State",
+   "website": "https://www.ntua.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35730000.0,
+   "Residential-Customers": 38508.0,
+   "Commercial-Sales-($)": 43415000.0,
+   "Commercial-Customers": 4485.0,
+   "Industrial-Sales-($)": 21171000.0,
+   "Industrial-Customers": 146.0,
+   "Total-Customers": 43139.0,
+   "cities-served": [
+    "Bloomfield, NM",
+    "Gallup, NM",
+    "Kirtland, NM",
+    "Page, AZ"
+   ],
+   "counties-served": [
+    {
+     "county": "Sandoval County, NM",
+     "population": 148834
+    },
+    {
+     "county": "Coconino County, AZ",
+     "population": 145101
+    },
+    {
+     "county": "San Juan County, NM",
+     "population": 121661
+    },
+    {
+     "county": "Navajo County, AZ",
+     "population": 106717
+    },
+    {
+     "county": "McKinley County, NM",
+     "population": 72902
+    },
+    {
+     "county": "Apache County, AZ",
+     "population": 66021
+    },
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arizona",
+     "customers": 30104
+    },
+    {
+     "state": "New Mexico",
+     "customers": 11005
+    },
+    {
+     "state": "Utah",
+     "customers": 2030
+    }
+   ]
+  },
+  {
+   "company": "Provo City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.provo.org/departments/power",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 27557905.0,
+   "Residential-Customers": 34953.0,
+   "Commercial-Sales-($)": 34472293.0,
+   "Commercial-Customers": 4584.0,
+   "Industrial-Sales-($)": 8470940.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 39538.0,
+   "Total-Production-MWh": 178373.0,
+   "Production-from-Non-Renewable-Energy-MWh": 178373.0,
+   "cities-served": [
+    "Provo"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 39538
+    }
+   ]
+  },
+  {
+   "company": "St George Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.sgcity.org/energydepartment/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 31831701.0,
+   "Residential-Customers": 27055.0,
+   "Commercial-Sales-($)": 32656712.0,
+   "Commercial-Customers": 5061.0,
+   "Total-Customers": 32116.0,
+   "Total-Production-MWh": 129200.0,
+   "Production-from-Non-Renewable-Energy-MWh": 129200.0,
+   "cities-served": [
+    "St. George"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 32116
+    }
+   ]
+  },
+  {
+   "company": "Dixie Power",
+   "company-type": "Cooperative",
+   "website": "https://www.dixiepower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28320728.133,
+   "Residential-Customers": 22512.0,
+   "Commercial-Sales-($)": 12013468.55,
+   "Commercial-Customers": 2928.0,
+   "Industrial-Sales-($)": 4074403.317,
+   "Industrial-Customers": 209.0,
+   "Total-Customers": 25649.0,
+   "cities-served": [
+    "Fillmore, UT",
+    "Hurricane, UT",
+    "Kanosh, UT",
+    "Meadow, UT",
+    "St. George, UT",
+    "Washington, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Mohave County, AZ",
+     "population": 213267
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 22962
+    },
+    {
+     "state": "Arizona",
+     "customers": 2687
+    }
+   ]
+  },
+  {
+   "company": "Lehi City Power",
+   "company-type": "Municipal",
+   "website": "https://www.lehi-ut.gov/departments/power/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 18792000.0,
+   "Residential-Customers": 21432.0,
+   "Commercial-Sales-($)": 18644000.0,
+   "Commercial-Customers": 2387.0,
+   "Total-Customers": 23819.0,
+   "cities-served": [
+    "Lehi"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 23819
+    }
+   ]
+  },
+  {
+   "company": "Logan Power",
+   "company-type": "Municipal",
+   "website": "https://www.loganutah.org/government/departments/light_and_power/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11817000.0,
+   "Residential-Customers": 17601.0,
+   "Commercial-Sales-($)": 18609000.0,
+   "Commercial-Customers": 2279.0,
+   "Industrial-Sales-($)": 7340000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 19887.0,
+   "Total-Production-MWh": 14981.0,
+   "Production-from-Renewable-Energy-MWh": 10101.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4880.0,
+   "cities-served": [
+    "Logan"
+   ],
+   "counties-served": [
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 19887
+    }
+   ]
+  },
+  {
+   "company": "Moon Lake Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mleainc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13302023.0,
+   "Residential-Customers": 14430.0,
+   "Commercial-Sales-($)": 10679409.0,
+   "Commercial-Customers": 4121.0,
+   "Industrial-Sales-($)": 55537809.0,
+   "Industrial-Customers": 1213.0,
+   "Total-Customers": 19764.0,
+   "Total-Production-MWh": 5839.0,
+   "Production-from-Renewable-Energy-MWh": 5839.0,
+   "cities-served": [
+    "Altamont, UT",
+    "Ballard, UT",
+    "Dinosaur, CO",
+    "Duchesne, UT",
+    "Dutch John, UT",
+    "Myton, UT",
+    "Rangely, CO",
+    "Roosevelt, UT",
+    "Tabiona, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Moffat County, CO",
+     "population": 13292
+    },
+    {
+     "county": "Rio Blanco County, CO",
+     "population": 6529
+    },
+    {
+     "county": "Daggett County, UT",
+     "population": 935
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 17508
+    },
+    {
+     "state": "Colorado",
+     "customers": 2257
+    }
+   ]
+  },
+  {
+   "company": "Murray City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.murray.utah.gov/63/Utility-Billing",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11471000.0,
+   "Residential-Customers": 15794.0,
+   "Commercial-Sales-($)": 19024000.0,
+   "Commercial-Customers": 3261.0,
+   "Industrial-Sales-($)": 2528000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 19057.0,
+   "Total-Production-MWh": 16541.0,
+   "Production-from-Renewable-Energy-MWh": 150.0,
+   "Production-from-Non-Renewable-Energy-MWh": 16391.0,
+   "cities-served": [
+    "Murray"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 19057
+    }
+   ]
+  },
+  {
+   "company": "Bountiful Power",
+   "company-type": "Municipal",
+   "website": "https://www.bountifulutah.gov/Power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16916000.0,
+   "Residential-Customers": 15590.0,
+   "Commercial-Sales-($)": 8743000.0,
+   "Commercial-Customers": 1663.0,
+   "Industrial-Sales-($)": 2126000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 17254.0,
+   "Total-Production-MWh": 33141.0,
+   "Production-from-Renewable-Energy-MWh": 2828.0,
+   "Production-from-Non-Renewable-Energy-MWh": 30313.0,
+   "cities-served": [
+    "Bountiful"
+   ],
+   "counties-served": [
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 17254
+    }
+   ]
+  },
+  {
+   "company": "Empire Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.eea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16050200.0,
+   "Residential-Customers": 12643.0,
+   "Commercial-Sales-($)": 17331200.0,
+   "Commercial-Customers": 3781.0,
+   "Industrial-Sales-($)": 24852900.0,
+   "Industrial-Customers": 127.0,
+   "Total-Customers": 16551.0,
+   "cities-served": [
+    "Cortez, CO",
+    "Dolores, CO",
+    "Dove Creek, CO",
+    "Mancos, CO",
+    "Monticello, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Montezuma County, CO",
+     "population": 25849
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "San Miguel County, CO",
+     "population": 8072
+    },
+    {
+     "county": "Dolores County, CO",
+     "population": 2326
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 15236
+    },
+    {
+     "state": "Utah",
+     "customers": 1315
+    }
+   ]
+  },
+  {
+   "company": "Garkane Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.garkaneenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13862500.0,
+   "Residential-Customers": 11806.0,
+   "Commercial-Sales-($)": 10089900.0,
+   "Commercial-Customers": 2667.0,
+   "Industrial-Sales-($)": 1060000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 14474.0,
+   "Total-Production-MWh": 24062.0,
+   "Production-from-Renewable-Energy-MWh": 24062.0,
+   "cities-served": [
+    "Antimony, UT",
+    "Bicknell, UT",
+    "Big Water, UT",
+    "Boulder, UT",
+    "Bryce Canyon City, UT",
+    "Cannonville, UT",
+    "Colorado City, AZ",
+    "Escalante, UT",
+    "Fredonia, AZ",
+    "Glendale, UT",
+    "Hanksville, UT",
+    "Hatch, UT",
+    "Henrieville, UT",
+    "Kanab, UT",
+    "Koosharem, UT",
+    "Loa, UT",
+    "Lyman, UT",
+    "Orderville, UT",
+    "Torrey, UT",
+    "Tropic, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Mohave County, AZ",
+     "population": 213267
+    },
+    {
+     "county": "Coconino County, AZ",
+     "population": 145101
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 12953
+    },
+    {
+     "state": "Arizona",
+     "customers": 1521
+    }
+   ]
+  },
+  {
+   "company": "Spanish Fork Power",
+   "company-type": "Municipal",
+   "website": "https://www.spanishfork.org/departments/public_works/power/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10984000.0,
+   "Residential-Customers": 11861.0,
+   "Commercial-Sales-($)": 8673000.0,
+   "Commercial-Customers": 1487.0,
+   "Industrial-Sales-($)": 3676000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 13359.0,
+   "cities-served": [
+    "Spanish Fork",
+    "Palmyra CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 13359
+    }
+   ]
+  },
+  {
+   "company": "Heber Light and Power",
+   "company-type": "Municipal",
+   "website": "https://www.heberpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 10539499.507,
+   "Residential-Customers": 11334.0,
+   "Commercial-Sales-($)": 7752500.493,
+   "Commercial-Customers": 1841.0,
+   "Total-Customers": 13175.0,
+   "Total-Production-MWh": 22320.0,
+   "Production-from-Renewable-Energy-MWh": 4720.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17600.0,
+   "cities-served": [
+    "Charleston, UT",
+    "Daniel, UT",
+    "Heber, UT",
+    "Independence, UT",
+    "Interlaken, UT",
+    "Midway, UT",
+    "Wallsburg, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 13175
+    }
+   ]
+  },
+  {
+   "company": "Springville City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.springville.org/power/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10805697.0,
+   "Residential-Customers": 11445.0,
+   "Commercial-Sales-($)": 11060631.0,
+   "Commercial-Customers": 1322.0,
+   "Industrial-Sales-($)": 6317033.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 12769.0,
+   "Total-Production-MWh": 17580.0,
+   "Production-from-Renewable-Energy-MWh": 617.0,
+   "Production-from-Non-Renewable-Energy-MWh": 16963.0,
+   "cities-served": [
+    "Springville"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 12769
+    }
+   ]
+  },
+  {
+   "company": "Kaysville Power",
+   "company-type": "Municipal",
+   "website": "https://www.kaysvillecity.com/149/Power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9406474.112,
+   "Residential-Customers": 9226.0,
+   "Commercial-Sales-($)": 4599943.968,
+   "Commercial-Customers": 828.0,
+   "Industrial-Sales-($)": 182281.92,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 10055.0,
+   "cities-served": [
+    "Kaysville"
+   ],
+   "counties-served": [
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 10055
+    }
+   ]
+  },
+  {
+   "company": "Washington City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.washingtoncity.org/services/power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9404664.888,
+   "Residential-Customers": 8212.0,
+   "Commercial-Sales-($)": 5200058.216,
+   "Commercial-Customers": 498.0,
+   "Industrial-Sales-($)": 42276.896,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 8711.0,
+   "Total-Production-MWh": 3681.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3681.0,
+   "cities-served": [
+    "Washington"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 8711
+    }
+   ]
+  },
+  {
+   "company": "Brigham City Corporation",
+   "company-type": "Municipal",
+   "website": "https://www.bcutah.org/utility-information.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5326982.829,
+   "Residential-Customers": 7001.0,
+   "Commercial-Sales-($)": 6211035.299,
+   "Commercial-Customers": 998.0,
+   "Industrial-Sales-($)": 2868981.872,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 8000.0,
+   "Total-Production-MWh": 5675.0,
+   "Production-from-Renewable-Energy-MWh": 5675.0,
+   "cities-served": [
+    "Brigham City, UT",
+    "Perry, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 8000
+    }
+   ]
+  },
+  {
+   "company": "Mount Wheeler Power",
+   "company-type": "Cooperative",
+   "website": "https://www.mwpower.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6659735.0,
+   "Residential-Customers": 5364.0,
+   "Commercial-Sales-($)": 3730353.0,
+   "Commercial-Customers": 1836.0,
+   "Industrial-Sales-($)": 29126676.0,
+   "Industrial-Customers": 540.0,
+   "Total-Customers": 7740.0,
+   "cities-served": [
+    "Ely",
+    "McGill CDP",
+    "Eureka CDP",
+    "Ruth CDP",
+    "Lund CDP",
+    "Preston CDP",
+    "Baker CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Nye County, NV",
+     "population": 51591
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "White Pine County, NV",
+     "population": 9080
+    },
+    {
+     "county": "Eureka County, NV",
+     "population": 1855
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nevada",
+     "customers": 7327
+    },
+    {
+     "state": "Utah",
+     "customers": 414
+    }
+   ]
+  },
+  {
+   "company": "Payson City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.paysonutah.org/publicworks/page/power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6337455.709,
+   "Residential-Customers": 7031.0,
+   "Commercial-Sales-($)": 4556821.079,
+   "Commercial-Customers": 572.0,
+   "Industrial-Sales-($)": 2418723.212,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 7609.0,
+   "Total-Production-MWh": 3.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3.0,
+   "cities-served": [
+    "Payson"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 7609
+    }
+   ]
+  },
+  {
+   "company": "Hurricane City Power Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhurricane.com/178/Power-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6479792.455,
+   "Residential-Customers": 6569.0,
+   "Commercial-Sales-($)": 2844947.48,
+   "Commercial-Customers": 779.0,
+   "Industrial-Sales-($)": 3133260.066,
+   "Industrial-Customers": 46.0,
+   "Total-Customers": 7394.0,
+   "Total-Production-MWh": 4616.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4616.0,
+   "cities-served": [
+    "Hurricane"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 7394
+    }
+   ]
+  },
+  {
+   "company": "Bridger Valley Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.bvea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8880945.85,
+   "Residential-Customers": 5930.0,
+   "Commercial-Sales-($)": 3335859.684,
+   "Commercial-Customers": 772.0,
+   "Industrial-Sales-($)": 421994.466,
+   "Industrial-Customers": 101.0,
+   "Total-Customers": 6803.0,
+   "cities-served": [
+    "Dutch John, UT",
+    "Granger, WY",
+    "Lyman, WY",
+    "Manila, UT",
+    "Mountain View, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Daggett County, UT",
+     "population": 935
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 4714
+    },
+    {
+     "state": "Utah",
+     "customers": 2089
+    }
+   ]
+  },
+  {
+   "company": "Raft River Rural Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.rrelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4372049.0,
+   "Residential-Customers": 3205.0,
+   "Commercial-Sales-($)": 5737819.0,
+   "Commercial-Customers": 713.0,
+   "Industrial-Sales-($)": 10160588.0,
+   "Industrial-Customers": 1289.0,
+   "Total-Customers": 5207.0,
+   "cities-served": [
+    "Albion, ID",
+    "Malta, ID",
+    "Oakley, ID",
+    "Snowville, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Elko County, NV",
+     "population": 53702
+    },
+    {
+     "county": "Cassia County, ID",
+     "population": 24655
+    },
+    {
+     "county": "Power County, ID",
+     "population": 7878
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 2670
+    },
+    {
+     "state": "Nevada",
+     "customers": 1810
+    },
+    {
+     "state": "Utah",
+     "customers": 726
+    }
+   ]
+  },
+  {
+   "company": "Price City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.pricecityutah.com/utilities--online-pay.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2775862.116,
+   "Residential-Customers": 4272.0,
+   "Commercial-Sales-($)": 1595130.032,
+   "Commercial-Customers": 599.0,
+   "Industrial-Sales-($)": 2906007.852,
+   "Industrial-Customers": 137.0,
+   "Total-Customers": 5008.0,
+   "cities-served": [
+    "Price"
+   ],
+   "counties-served": [
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 5008
+    }
+   ]
+  },
+  {
+   "company": "South Utah Valley Electric Service District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.sesdofutah.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5655533.0,
+   "Residential-Customers": 3587.0,
+   "Commercial-Sales-($)": 1523823.0,
+   "Commercial-Customers": 475.0,
+   "Industrial-Sales-($)": 309863.0,
+   "Industrial-Customers": 33.0,
+   "Total-Customers": 4095.0,
+   "cities-served": [
+    "Elk Ridge, UT",
+    "Mapleton, UT",
+    "Payson, UT",
+    "Salem, UT",
+    "Santaquin, UT",
+    "Spanish Fork, UT",
+    "Woodland Hills, UT"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 4096
+    }
+   ]
+  },
+  {
+   "company": "Hyrum City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.hyrumcity.org/publicworks/page/power-light",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2096843.693,
+   "Residential-Customers": 3115.0,
+   "Commercial-Sales-($)": 1844652.987,
+   "Commercial-Customers": 185.0,
+   "Industrial-Sales-($)": 2798503.319,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 3301.0,
+   "cities-served": [
+    "Hyrum"
+   ],
+   "counties-served": [
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 3301
+    }
+   ]
+  },
+  {
+   "company": "Santa Clara Power",
+   "company-type": "Municipal",
+   "website": "https://www.sccity.org/city-power/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4166437.826,
+   "Residential-Customers": 2933.0,
+   "Commercial-Sales-($)": 987562.174,
+   "Commercial-Customers": 140.0,
+   "Total-Customers": 3073.0,
+   "cities-served": [
+    "Santa Clara"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 3073
+    }
+   ]
+  },
+  {
+   "company": "Salem City Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.salemcity.org/power.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2880328.406,
+   "Residential-Customers": 2453.0,
+   "Commercial-Sales-($)": 1241681.695,
+   "Commercial-Customers": 257.0,
+   "Industrial-Sales-($)": 84989.899,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2711.0,
+   "cities-served": [
+    "Salem"
+   ],
+   "counties-served": [
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 2711
+    }
+   ]
+  },
+  {
+   "company": "Nephi City Electric Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.nephi.utah.gov/257/Power-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2051778.816,
+   "Residential-Customers": 2233.0,
+   "Commercial-Sales-($)": 1844015.435,
+   "Commercial-Customers": 335.0,
+   "Industrial-Sales-($)": 2625205.749,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2569.0,
+   "cities-served": [
+    "Nephi"
+   ],
+   "counties-served": [
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 2569
+    }
+   ]
+  },
+  {
+   "company": "Ephraim, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ephraimcity.org/159/Power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1144544.662,
+   "Residential-Customers": 2057.0,
+   "Commercial-Sales-($)": 1872467.23,
+   "Commercial-Customers": 320.0,
+   "Industrial-Sales-($)": 159988.108,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2380.0,
+   "Total-Production-MWh": 1776.0,
+   "Production-from-Renewable-Energy-MWh": 1776.0,
+   "cities-served": [
+    "Ephraim"
+   ],
+   "counties-served": [
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 2380
+    }
+   ]
+  },
+  {
+   "company": "Mount Pleasant, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.mtpleasantcity.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1552983.152,
+   "Residential-Customers": 2153.0,
+   "Commercial-Sales-($)": 1050851.933,
+   "Commercial-Customers": 213.0,
+   "Industrial-Sales-($)": 7764.916,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 2375.0,
+   "Total-Production-MWh": 3250.0,
+   "Production-from-Renewable-Energy-MWh": 3250.0,
+   "cities-served": [
+    "Mount Pleasant"
+   ],
+   "counties-served": [
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 2375
+    }
+   ]
+  },
+  {
+   "company": "Blanding, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.blanding-ut.gov/procedures",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1335873.84,
+   "Residential-Customers": 1429.0,
+   "Commercial-Sales-($)": 1319126.16,
+   "Commercial-Customers": 327.0,
+   "Total-Customers": 1756.0,
+   "cities-served": [
+    "Blanding"
+   ],
+   "counties-served": [
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1756
+    }
+   ]
+  },
+  {
+   "company": "Beaver Electric",
+   "company-type": "Municipal",
+   "website": "http://beaverutah.net/city-government/city-services/beaver-electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1108867.278,
+   "Residential-Customers": 1411.0,
+   "Commercial-Sales-($)": 1316026.443,
+   "Commercial-Customers": 315.0,
+   "Industrial-Sales-($)": 202506.279,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1728.0,
+   "Total-Production-MWh": 10742.0,
+   "Production-from-Renewable-Energy-MWh": 10742.0,
+   "cities-served": [
+    "Beaver"
+   ],
+   "counties-served": [
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1728
+    }
+   ]
+  },
+  {
+   "company": "Parowan City Corporation Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.parowan.org/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1037120.941,
+   "Residential-Customers": 1478.0,
+   "Commercial-Sales-($)": 735658.455,
+   "Commercial-Customers": 125.0,
+   "Industrial-Sales-($)": 236220.605,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1608.0,
+   "cities-served": [
+    "Parowan"
+   ],
+   "counties-served": [
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1608
+    }
+   ]
+  },
+  {
+   "company": "Manti, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.manticity.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1089662.903,
+   "Residential-Customers": 1303.0,
+   "Commercial-Sales-($)": 731337.097,
+   "Commercial-Customers": 169.0,
+   "Total-Customers": 1472.0,
+   "Total-Production-MWh": 1975.0,
+   "Production-from-Renewable-Energy-MWh": 1975.0,
+   "cities-served": [
+    "Manti"
+   ],
+   "counties-served": [
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1472
+    }
+   ]
+  },
+  {
+   "company": "Helper City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.helpercity.net/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 619897.802,
+   "Residential-Customers": 1199.0,
+   "Commercial-Sales-($)": 341102.198,
+   "Commercial-Customers": 77.0,
+   "Total-Customers": 1276.0,
+   "cities-served": [
+    "Helper"
+   ],
+   "counties-served": [
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1276
+    }
+   ]
+  },
+  {
+   "company": "Fillmore City Corporation",
+   "company-type": "Municipal",
+   "website": "https://www.fillmorecity.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 738636.364,
+   "Residential-Customers": 963.0,
+   "Commercial-Sales-($)": 1064049.587,
+   "Commercial-Customers": 265.0,
+   "Industrial-Sales-($)": 947314.05,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1234.0,
+   "cities-served": [
+    "Fillmore"
+   ],
+   "counties-served": [
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1234
+    }
+   ]
+  },
+  {
+   "company": "Monroe, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.littlegreenvalley.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 846299.728,
+   "Residential-Customers": 1054.0,
+   "Commercial-Sales-($)": 342659.401,
+   "Commercial-Customers": 94.0,
+   "Industrial-Sales-($)": 77040.872,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 1188.0,
+   "cities-served": [
+    "Monroe"
+   ],
+   "counties-served": [
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 1188
+    }
+   ]
+  },
+  {
+   "company": "Fairview City Electric",
+   "company-type": "Municipal",
+   "website": "https://www.fairviewcity.com/cms/government/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 641429.658,
+   "Residential-Customers": 820.0,
+   "Commercial-Sales-($)": 186813.688,
+   "Commercial-Customers": 78.0,
+   "Industrial-Sales-($)": 23756.654,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 900.0,
+   "cities-served": [
+    "Fairview"
+   ],
+   "counties-served": [
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 900
+    }
+   ]
+  },
+  {
+   "company": "Enterprise Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.enterpriseutah.org/utilities/power/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 659228.617,
+   "Residential-Customers": 631.0,
+   "Commercial-Sales-($)": 365871.383,
+   "Commercial-Customers": 71.0,
+   "Total-Customers": 702.0,
+   "cities-served": [
+    "Enterprise"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 702
+    }
+   ]
+  },
+  {
+   "company": "Spring City, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.springcityutah.org/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 335038.61,
+   "Residential-Customers": 562.0,
+   "Commercial-Sales-($)": 53025.372,
+   "Commercial-Customers": 29.0,
+   "Industrial-Sales-($)": 1936.018,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 593.0,
+   "cities-served": [
+    "Spring City"
+   ],
+   "counties-served": [
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 593
+    }
+   ]
+  },
+  {
+   "company": "Levan, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.levantown.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 369917.855,
+   "Residential-Customers": 331.0,
+   "Commercial-Sales-($)": 47284.455,
+   "Commercial-Customers": 23.0,
+   "Industrial-Sales-($)": 38697.69,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 357.0,
+   "cities-served": [
+    "Levan"
+   ],
+   "counties-served": [
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 357
+    }
+   ]
+  },
+  {
+   "company": "Intermountain Power Agency",
+   "company-type": "Political Subdivision",
+   "website": "https://www.ipautah.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 204745.098,
+   "Residential-Customers": 274.0,
+   "Commercial-Sales-($)": 22254.902,
+   "Commercial-Customers": 12.0,
+   "Total-Customers": 286.0,
+   "Total-Production-MWh": 6310852.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6310852.0,
+   "cities-served": [
+    "Kanosh"
+   ],
+   "counties-served": [
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 286
+    }
+   ]
+  },
+  {
+   "company": "Paragonah, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 219735.683,
+   "Residential-Customers": 267.0,
+   "Commercial-Sales-($)": 12264.317,
+   "Commercial-Customers": 12.0,
+   "Total-Customers": 279.0,
+   "cities-served": [
+    "Paragonah"
+   ],
+   "counties-served": [
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 279
+    }
+   ]
+  },
+  {
+   "company": "Holden, Utah Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.holdenutah.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 189011.429,
+   "Residential-Customers": 220.0,
+   "Commercial-Sales-($)": 24388.571,
+   "Commercial-Customers": 18.0,
+   "Total-Customers": 238.0,
+   "cities-served": [
+    "Holden"
+   ],
+   "counties-served": [
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 238
+    }
+   ]
+  },
+  {
+   "company": "Meadow Town Corporation Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/pages/category/Government-Organization/Meadow-Town-Corp-251968071648553/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 74285.714,
+   "Residential-Customers": 158.0,
+   "Commercial-Sales-($)": 19285.714,
+   "Commercial-Customers": 12.0,
+   "Industrial-Sales-($)": 11428.571,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 173.0,
+   "cities-served": [
+    "Meadow"
+   ],
+   "counties-served": [
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 173
+    }
+   ]
+  }
+ ]
+}

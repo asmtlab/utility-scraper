@@ -1,0 +1,2647 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Entergy Louisiana",
+   "company-type": "Investor Owned",
+   "website": "https://www.entergy-louisiana.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1500457986.0,
+   "Residential-Customers": 953525.0,
+   "Commercial-Sales-($)": 1169912298.0,
+   "Commercial-Customers": 141995.0,
+   "Industrial-Sales-($)": 1874327954.0,
+   "Industrial-Customers": 11823.0,
+   "Total-Customers": 1107343.0,
+   "Total-Production-MWh": 51886659.0,
+   "Production-from-Non-Renewable-Energy-MWh": 51886659.0,
+   "cities-served": [
+    "Abbeville, LA",
+    "Abita Springs, LA",
+    "Addis, LA",
+    "Albany, LA",
+    "Amite City, LA",
+    "Angie, LA",
+    "Arcadia, LA",
+    "Arnaudville, LA",
+    "Ashland, LA",
+    "Athens, LA",
+    "Baker, LA",
+    "Baskin, LA",
+    "Bastrop, LA",
+    "Baton Rouge, LA",
+    "Bernice, LA",
+    "Bienville, LA",
+    "Bogalusa, LA",
+    "Bonita, LA",
+    "Breaux Bridge, LA",
+    "Broussard, LA",
+    "Brusly, LA",
+    "Bryceland, LA",
+    "Calvin, LA",
+    "Campti, LA",
+    "Cankton, LA",
+    "Carencro, LA",
+    "Castor, LA",
+    "Central, LA",
+    "Chatham, LA",
+    "Choudrant, LA",
+    "Church Point, LA",
+    "Clarks, LA",
+    "Clayton, LA",
+    "Clinton, LA",
+    "Collinston, LA",
+    "Columbia, LA",
+    "Cotton Valley, LA",
+    "Covington, LA",
+    "Crowley, LA",
+    "Cullen, LA",
+    "DeQuincy, LA",
+    "DeRidder, LA",
+    "Delcambre, LA",
+    "Delhi, LA",
+    "Delta, LA",
+    "Denham Springs, LA",
+    "Dixie Inn, LA",
+    "Dodson, LA",
+    "Donaldsonville, LA",
+    "Downsville, LA",
+    "Doyline, LA",
+    "Dubach, LA",
+    "Dubberly, LA",
+    "Duson, LA",
+    "East Hodge, LA",
+    "Elizabeth, LA",
+    "Elton, LA",
+    "Epps, LA",
+    "Erath, LA",
+    "Eros, LA",
+    "Estherwood, LA",
+    "Eunice, LA",
+    "Farmerville, LA",
+    "Fenton, LA",
+    "Ferriday, LA",
+    "Fisher, LA",
+    "Folsom, LA",
+    "Fordoche, LA",
+    "Forest, LA",
+    "Franklinton, LA",
+    "French Settlement, LA",
+    "Georgetown, LA",
+    "Gibsland, LA",
+    "Gilbert, LA",
+    "Golden Meadow, LA",
+    "Goldonna, LA",
+    "Gonzales, LA",
+    "Grambling, LA",
+    "Gramercy, LA",
+    "Grand Coteau, LA",
+    "Grand Isle, LA",
+    "Grayson, LA",
+    "Greensburg, LA",
+    "Gretna, LA",
+    "Grosse Tete, LA",
+    "Gueydan, LA",
+    "Hall Summit, LA",
+    "Hammond, LA",
+    "Harahan, LA",
+    "Harrisonburg, LA",
+    "Haughton, LA",
+    "Haynesville, LA",
+    "Heflin, LA",
+    "Henderson, LA",
+    "Hodge, LA",
+    "Homer, LA",
+    "Houma, LA",
+    "Independence, LA",
+    "Iota, LA",
+    "Iowa, LA",
+    "Jackson, LA",
+    "Jamestown, LA",
+    "Jean Lafitte, LA",
+    "Jeanerette, LA",
+    "Jena, LA",
+    "Jennings, LA",
+    "Jonesboro, LA",
+    "Kaplan, LA",
+    "Kenner, LA",
+    "Kentwood, LA",
+    "Killian, LA",
+    "Kinder, LA",
+    "Krotz Springs, LA",
+    "Lafayette, LA",
+    "Lake Arthur, LA",
+    "Lake Charles, LA",
+    "Lake Providence, LA",
+    "Leesville, LA",
+    "Leonville, LA",
+    "Lillie, LA",
+    "Lisbon, LA",
+    "Livingston, LA",
+    "Livonia, LA",
+    "Lockport, LA",
+    "Loreauville, LA",
+    "Lucky, LA",
+    "Lutcher, LA",
+    "Madisonville, LA",
+    "Mandeville, LA",
+    "Mangham, LA",
+    "Mansura, LA",
+    "Many, LA",
+    "Maringouin, LA",
+    "Marksville, LA",
+    "Martin, LA",
+    "Maurice, LA",
+    "Melville, LA",
+    "Mer Rouge, LA",
+    "Mermentau, LA",
+    "Merryville, LA",
+    "Minden, LA",
+    "Monroe, LA",
+    "Montgomery, LA",
+    "Montpelier, LA",
+    "Morgan City, LA",
+    "Morganza, LA",
+    "Morse, LA",
+    "Mound, LA",
+    "Mount Lebanon, LA",
+    "Napoleonville, LA",
+    "Natchitoches, LA",
+    "New Iberia, LA",
+    "New Llano, LA",
+    "New Orleans, LA",
+    "New Roads, LA",
+    "Newellton, LA",
+    "North Hodge, LA",
+    "Norwood, LA",
+    "Oak Grove, LA",
+    "Oak Ridge, LA",
+    "Oakdale, LA",
+    "Oberlin, LA",
+    "Olla, LA",
+    "Opelousas, LA",
+    "Osyka, MS",
+    "Palmetto, LA",
+    "Parks, LA",
+    "Pearl River, LA",
+    "Pioneer, LA",
+    "Plaquemine, LA",
+    "Ponchatoula, LA",
+    "Port Allen, LA",
+    "Port Barre, LA",
+    "Port Vincent, LA",
+    "Quitman, LA",
+    "Rayne, LA",
+    "Rayville, LA",
+    "Reeves, LA",
+    "Richmond, LA",
+    "Richwood, LA",
+    "Ridgecrest, LA",
+    "Ringgold, LA",
+    "Rosedale, LA",
+    "Roseland, LA",
+    "Ruston, LA",
+    "Saline, LA",
+    "Sarepta, LA",
+    "Scott, LA",
+    "Shongaloo, LA",
+    "Sibley, LA",
+    "Sicily Island, LA",
+    "Sikes, LA",
+    "Simsboro, LA",
+    "Slaughter, LA",
+    "Slidell, LA",
+    "Sorrento, LA",
+    "Spearsville, LA",
+    "Springfield, LA",
+    "Springhill, LA",
+    "St. Francisville, LA",
+    "St. Gabriel, LA",
+    "St. Joseph, LA",
+    "St. Martinville, LA",
+    "Sterlington, LA",
+    "Sulphur, LA",
+    "Sun, LA",
+    "Sunset, LA",
+    "Tallulah, LA",
+    "Tangipahoa, LA",
+    "Thibodaux, LA",
+    "Tickfaw, LA",
+    "Tullos, LA",
+    "Urania, LA",
+    "Varnado, LA",
+    "Vidalia, LA",
+    "Vienna, LA",
+    "Vinton, LA",
+    "Walker, LA",
+    "Washington, LA",
+    "Waterproof, LA",
+    "Welsh, LA",
+    "West Monroe, LA",
+    "Westlake, LA",
+    "Westwego, LA",
+    "White Castle, LA",
+    "Wilson, LA",
+    "Winnfield, LA",
+    "Winnsboro, LA",
+    "Wisner, LA",
+    "Youngsville, LA",
+    "Zachary, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "East Baton Rouge Parish, LA",
+     "population": 456781
+    },
+    {
+     "county": "Jefferson Parish, LA",
+     "population": 440781
+    },
+    {
+     "county": "Orleans Parish, LA",
+     "population": 383997
+    },
+    {
+     "county": "St. Tammany Parish, LA",
+     "population": 264570
+    },
+    {
+     "county": "Lafayette Parish, LA",
+     "population": 241753
+    },
+    {
+     "county": "Calcasieu Parish, LA",
+     "population": 216785
+    },
+    {
+     "county": "Ouachita Parish, LA",
+     "population": 160368
+    },
+    {
+     "county": "Livingston Parish, LA",
+     "population": 142282
+    },
+    {
+     "county": "Tangipahoa Parish, LA",
+     "population": 133157
+    },
+    {
+     "county": "Bossier Parish, LA",
+     "population": 128746
+    },
+    {
+     "county": "Ascension Parish, LA",
+     "population": 126500
+    },
+    {
+     "county": "Terrebonne Parish, LA",
+     "population": 109580
+    },
+    {
+     "county": "Lafourche Parish, LA",
+     "population": 97557
+    },
+    {
+     "county": "St. Landry Parish, LA",
+     "population": 82540
+    },
+    {
+     "county": "Iberia Parish, LA",
+     "population": 69929
+    },
+    {
+     "county": "Acadia Parish, LA",
+     "population": 57576
+    },
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    },
+    {
+     "county": "St. Charles Parish, LA",
+     "population": 52549
+    },
+    {
+     "county": "St. Martin Parish, LA",
+     "population": 51767
+    },
+    {
+     "county": "Vernon Parish, LA",
+     "population": 48750
+    },
+    {
+     "county": "Lincoln Parish, LA",
+     "population": 48396
+    },
+    {
+     "county": "Washington Parish, LA",
+     "population": 45463
+    },
+    {
+     "county": "St. Bernard Parish, LA",
+     "population": 43764
+    },
+    {
+     "county": "St. John the Baptist Parish, LA",
+     "population": 42477
+    },
+    {
+     "county": "Avoyelles Parish, LA",
+     "population": 39693
+    },
+    {
+     "county": "Natchitoches Parish, LA",
+     "population": 37515
+    },
+    {
+     "county": "Webster Parish, LA",
+     "population": 36967
+    },
+    {
+     "county": "Beauregard Parish, LA",
+     "population": 36549
+    },
+    {
+     "county": "Jefferson Davis Parish, LA",
+     "population": 32250
+    },
+    {
+     "county": "Iberville Parish, LA",
+     "population": 30241
+    },
+    {
+     "county": "West Baton Rouge Parish, LA",
+     "population": 27199
+    },
+    {
+     "county": "Morehouse Parish, LA",
+     "population": 25629
+    },
+    {
+     "county": "Plaquemines Parish, LA",
+     "population": 23515
+    },
+    {
+     "county": "Allen Parish, LA",
+     "population": 22750
+    },
+    {
+     "county": "Grant Parish, LA",
+     "population": 22169
+    },
+    {
+     "county": "Sabine Parish, LA",
+     "population": 22155
+    },
+    {
+     "county": "Union Parish, LA",
+     "population": 21107
+    },
+    {
+     "county": "Assumption Parish, LA",
+     "population": 21039
+    },
+    {
+     "county": "Pointe Coupee Parish, LA",
+     "population": 20758
+    },
+    {
+     "county": "St. James Parish, LA",
+     "population": 20192
+    },
+    {
+     "county": "Richland Parish, LA",
+     "population": 20043
+    },
+    {
+     "county": "Franklin Parish, LA",
+     "population": 19774
+    },
+    {
+     "county": "East Feliciana Parish, LA",
+     "population": 19539
+    },
+    {
+     "county": "Concordia Parish, LA",
+     "population": 18687
+    },
+    {
+     "county": "West Feliciana Parish, LA",
+     "population": 15310
+    },
+    {
+     "county": "Jackson Parish, LA",
+     "population": 15031
+    },
+    {
+     "county": "LaSalle Parish, LA",
+     "population": 14791
+    },
+    {
+     "county": "Claiborne Parish, LA",
+     "population": 14170
+    },
+    {
+     "county": "Winn Parish, LA",
+     "population": 13755
+    },
+    {
+     "county": "Bienville Parish, LA",
+     "population": 12981
+    },
+    {
+     "county": "St. Helena Parish, LA",
+     "population": 10920
+    },
+    {
+     "county": "Madison Parish, LA",
+     "population": 10017
+    },
+    {
+     "county": "West Carroll Parish, LA",
+     "population": 9751
+    },
+    {
+     "county": "Caldwell Parish, LA",
+     "population": 9645
+    },
+    {
+     "county": "Catahoula Parish, LA",
+     "population": 8906
+    },
+    {
+     "county": "Red River Parish, LA",
+     "population": 7620
+    },
+    {
+     "county": "East Carroll Parish, LA",
+     "population": 7459
+    },
+    {
+     "county": "Cameron Parish, LA",
+     "population": 5617
+    },
+    {
+     "county": "Tensas Parish, LA",
+     "population": 4147
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 1107343
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Electric Power Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.swepco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 729505151.0,
+   "Residential-Customers": 465410.0,
+   "Commercial-Sales-($)": 569973737.0,
+   "Commercial-Customers": 74792.0,
+   "Industrial-Sales-($)": 378788800.0,
+   "Industrial-Customers": 6855.0,
+   "Total-Customers": 547057.0,
+   "Total-Production-MWh": 14995771.0,
+   "Production-from-Non-Renewable-Energy-MWh": 14995771.0,
+   "cities-served": [
+    "Alba, TX",
+    "Alpena, AR",
+    "Anacoco, LA",
+    "Annona, TX",
+    "Antoine, AR",
+    "Arcadia, LA",
+    "Arp, TX",
+    "Ashdown, AR",
+    "Ashland, LA",
+    "Atlanta, TX",
+    "Atlanta, LA",
+    "Avery, TX",
+    "Avinger, TX",
+    "Avoca, AR",
+    "Barling, AR",
+    "Beaver, AR",
+    "Beckville, TX",
+    "Belcher, LA",
+    "Bella Vista, AR",
+    "Ben Lomond, AR",
+    "Benton, LA",
+    "Bentonville, AR",
+    "Berryville, AR",
+    "Bethel Heights, AR",
+    "Bienville, LA",
+    "Big Sandy, TX",
+    "Blanchard, LA",
+    "Blevins, AR",
+    "Bloomburg, TX",
+    "Blue Eye, AR",
+    "Blue Mountain, AR",
+    "Bluff City, AR",
+    "Bodcaw, AR",
+    "Bogata, TX",
+    "Bonanza, AR",
+    "Booneville, AR",
+    "Bossier City, LA",
+    "Bryceland, LA",
+    "Bullard, TX",
+    "Cale, AR",
+    "Callender Lake CDP, TX",
+    "Calvin, LA",
+    "Campti, LA",
+    "Canton, TX",
+    "Carthage, TX",
+    "Castor, LA",
+    "Caulksville, AR",
+    "Cave Springs, AR",
+    "Center, TX",
+    "Centerton, AR",
+    "Central City, AR",
+    "Childress, TX",
+    "Clarence, LA",
+    "Clarendon, TX",
+    "Clarksville, TX",
+    "Clarksville City, TX",
+    "Colfax, LA",
+    "Como, TX",
+    "Converse, LA",
+    "Cotton Valley, LA",
+    "Coushatta, LA",
+    "Cove, AR",
+    "Creola, LA",
+    "Cullen, LA",
+    "Cumby, TX",
+    "Daingerfield, TX",
+    "Daisy, AR",
+    "De Kalb, TX",
+    "De Queen, AR",
+    "DeRidder, LA",
+    "Decatur, AR",
+    "Delight, AR",
+    "Deport, TX",
+    "Detroit, TX",
+    "Dierks, AR",
+    "Dixie Inn, LA",
+    "Dodson, LA",
+    "Dodson, TX",
+    "Domino, TX",
+    "Douglassville, TX",
+    "Doyline, LA",
+    "Dry Prong, LA",
+    "Dubberly, LA",
+    "East Mountain, TX",
+    "East Tawakoni, TX",
+    "Easton, TX",
+    "Edgefield, LA",
+    "Edgewood, TX",
+    "Edom, TX",
+    "Elkins, AR",
+    "Elm Springs, AR",
+    "Emerald Bay CDP, TX",
+    "Emmet, AR",
+    "Emory, TX",
+    "Estelline, TX",
+    "Eureka Springs, AR",
+    "Farmington, AR",
+    "Fayetteville, AR",
+    "Fisher, LA",
+    "Florien, LA",
+    "Foreman, AR",
+    "Fort Smith, AR",
+    "Fouke, AR",
+    "Fruitvale, TX",
+    "Fulton, AR",
+    "Garfield, AR",
+    "Garland, AR",
+    "Gary City, TX",
+    "Gateway, AR",
+    "Gentry, AR",
+    "Georgetown, LA",
+    "Gibsland, LA",
+    "Gillham, AR",
+    "Gilliam, LA",
+    "Gilmer, TX",
+    "Gladewater, TX",
+    "Glenwood, AR",
+    "Goldonna, LA",
+    "Goshen, AR",
+    "Grand Cane, LA",
+    "Grand Saline, TX",
+    "Grannis, AR",
+    "Gravette, AR",
+    "Green Forest, AR",
+    "Greenland, AR",
+    "Greenwood, AR",
+    "Greenwood, LA",
+    "Hackett, AR",
+    "Hall Summit, LA",
+    "Hallsville, TX",
+    "Hartford, AR",
+    "Hatfield, AR",
+    "Haughton, LA",
+    "Hawkins, TX",
+    "Hedley, TX",
+    "Heflin, LA",
+    "Henderson, TX",
+    "Hideaway, TX",
+    "Highfill, AR",
+    "Holly Lake Ranch CDP, TX",
+    "Hooks, TX",
+    "Hope, AR",
+    "Horatio, AR",
+    "Hornbeck, LA",
+    "Hosston, LA",
+    "Howardwick, TX",
+    "Hughes Springs, TX",
+    "Huntington, AR",
+    "Huxley, TX",
+    "Ida, LA",
+    "Jamestown, LA",
+    "Jefferson, TX",
+    "Joaquin, TX",
+    "Johnson, AR",
+    "Keachi, LA",
+    "Kilgore, TX",
+    "Lakeport, TX",
+    "Lakeview, TX",
+    "Lavaca, AR",
+    "Leary, TX",
+    "Leesville, LA",
+    "Lincoln, AR",
+    "Lindale, TX",
+    "Linden, TX",
+    "Little Flock, AR",
+    "Lockesburg, AR",
+    "Logansport, LA",
+    "Lone Star, TX",
+    "Longstreet, LA",
+    "Longview, TX",
+    "Lowell, AR",
+    "Lucky, LA",
+    "Magazine, AR",
+    "Mansfield, LA",
+    "Mansfield, AR",
+    "Many, LA",
+    "Marietta, TX",
+    "Marshall, TX",
+    "Martin, LA",
+    "Maud, TX",
+    "McCaskill, AR",
+    "McNab, AR",
+    "Memphis, TX",
+    "Mena, AR",
+    "Midland, AR",
+    "Miller's Cove, TX",
+    "Minden, LA",
+    "Mineola, TX",
+    "Mineral Springs, AR",
+    "Mobeetie, TX",
+    "Montgomery, LA",
+    "Mooringsport, LA",
+    "Morrison Bluff, AR",
+    "Mount Enterprise, TX",
+    "Mount Lebanon, LA",
+    "Mount Pleasant, TX",
+    "Mount Vernon, TX",
+    "Murfreesboro, AR",
+    "Naples, TX",
+    "Nash, TX",
+    "Nashville, AR",
+    "Natchez, LA",
+    "Natchitoches, LA",
+    "Nesbitt, TX",
+    "New Boston, TX",
+    "New Chapel Hill, TX",
+    "New Llano, LA",
+    "New London, TX",
+    "Noble, LA",
+    "Noonday, TX",
+    "Oak Grove, AR",
+    "Oakhaven, AR",
+    "Ogden, AR",
+    "Oil City, LA",
+    "Omaha, TX",
+    "Ore City, TX",
+    "Overton, TX",
+    "Ozan, AR",
+    "Paris, AR",
+    "Patmos, AR",
+    "Pea Ridge, AR",
+    "Perrytown, AR",
+    "Pittsburg, TX",
+    "Plain Dealing, LA",
+    "Pleasant Hill, LA",
+    "Point, TX",
+    "Pollock, LA",
+    "Powhatan, LA",
+    "Prairie Grove, AR",
+    "Prescott, AR",
+    "Provencal, LA",
+    "Queen City, TX",
+    "Quitman, TX",
+    "Ratcliff, AR",
+    "Red Lick, TX",
+    "Redwater, TX",
+    "Reklaw, TX",
+    "Ringgold, LA",
+    "Robeline, LA",
+    "Rocky Mound, TX",
+    "Rodessa, LA",
+    "Rogers, AR",
+    "Rosepine, LA",
+    "Rosston, AR",
+    "Saline, LA",
+    "Sarepta, LA",
+    "Scottsville, TX",
+    "Scranton, AR",
+    "Shamrock, TX",
+    "Shongaloo, LA",
+    "Shreveport, LA",
+    "Sibley, LA",
+    "Sikes, LA",
+    "Siloam Springs, AR",
+    "Simpson, LA",
+    "South Mansfield, LA",
+    "Springdale, AR",
+    "Springhill, LA",
+    "Springtown, AR",
+    "Stanley, LA",
+    "Stonewall, LA",
+    "Subiaco, AR",
+    "Sulphur Springs, TX",
+    "Sulphur Springs, AR",
+    "Talco, TX",
+    "Tatum, TX",
+    "Tenaha, TX",
+    "Texarkana, TX",
+    "Texarkana, AR",
+    "Timpson, TX",
+    "Tira, TX",
+    "Tollette, AR",
+    "Tontitown, AR",
+    "Troup, TX",
+    "Tullos, LA",
+    "Turkey, TX",
+    "Tyler, TX",
+    "Uncertain, TX",
+    "Union Grove, TX",
+    "Van, TX",
+    "Vandervoort, AR",
+    "Vivian, LA",
+    "Wake Village, TX",
+    "Waldron, AR",
+    "Warren City, TX",
+    "Washington, AR",
+    "Waskom, TX",
+    "Wellington, TX",
+    "West Fork, AR",
+    "Wheeler, TX",
+    "White Oak, TX",
+    "Whitehouse, TX",
+    "Wickes, AR",
+    "Willisville, AR",
+    "Wills Point, TX",
+    "Wilton, AR",
+    "Winfield, TX",
+    "Winnfield, LA",
+    "Winnsboro, TX",
+    "Winona, TX",
+    "Winslow, AR",
+    "Winthrop, AR",
+    "Yantis, TX",
+    "Zwolle, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Caddo Parish, LA",
+     "population": 237848
+    },
+    {
+     "county": "Smith County, TX",
+     "population": 233479
+    },
+    {
+     "county": "Bossier Parish, LA",
+     "population": 128746
+    },
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Gregg County, TX",
+     "population": 124239
+    },
+    {
+     "county": "Bowie County, TX",
+     "population": 92893
+    },
+    {
+     "county": "Harrison County, TX",
+     "population": 68839
+    },
+    {
+     "county": "Van Zandt County, TX",
+     "population": 59541
+    },
+    {
+     "county": "Rusk County, TX",
+     "population": 52214
+    },
+    {
+     "county": "Vernon Parish, LA",
+     "population": 48750
+    },
+    {
+     "county": "Wood County, TX",
+     "population": 44843
+    },
+    {
+     "county": "Miller County, AR",
+     "population": 42600
+    },
+    {
+     "county": "Upshur County, TX",
+     "population": 40892
+    },
+    {
+     "county": "Natchitoches Parish, LA",
+     "population": 37515
+    },
+    {
+     "county": "Webster Parish, LA",
+     "population": 36967
+    },
+    {
+     "county": "Hopkins County, TX",
+     "population": 36787
+    },
+    {
+     "county": "Titus County, TX",
+     "population": 31247
+    },
+    {
+     "county": "Cass County, TX",
+     "population": 28454
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "De Soto Parish, LA",
+     "population": 26812
+    },
+    {
+     "county": "Shelby County, TX",
+     "population": 24022
+    },
+    {
+     "county": "Panola County, TX",
+     "population": 22491
+    },
+    {
+     "county": "Grant Parish, LA",
+     "population": 22169
+    },
+    {
+     "county": "Sabine Parish, LA",
+     "population": 22155
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Hempstead County, AR",
+     "population": 20065
+    },
+    {
+     "county": "Polk County, AR",
+     "population": 19221
+    },
+    {
+     "county": "Sevier County, AR",
+     "population": 15839
+    },
+    {
+     "county": "Winn Parish, LA",
+     "population": 13755
+    },
+    {
+     "county": "Bienville Parish, LA",
+     "population": 12981
+    },
+    {
+     "county": "Howard County, AR",
+     "population": 12785
+    },
+    {
+     "county": "Camp County, TX",
+     "population": 12464
+    },
+    {
+     "county": "Rains County, TX",
+     "population": 12164
+    },
+    {
+     "county": "Little River County, AR",
+     "population": 12026
+    },
+    {
+     "county": "Morris County, TX",
+     "population": 11973
+    },
+    {
+     "county": "Red River County, TX",
+     "population": 11587
+    },
+    {
+     "county": "Franklin County, TX",
+     "population": 10359
+    },
+    {
+     "county": "Pike County, AR",
+     "population": 10171
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Marion County, TX",
+     "population": 9725
+    },
+    {
+     "county": "Nevada County, AR",
+     "population": 8310
+    },
+    {
+     "county": "Red River Parish, LA",
+     "population": 7620
+    },
+    {
+     "county": "Childress County, TX",
+     "population": 6664
+    },
+    {
+     "county": "Wheeler County, TX",
+     "population": 4990
+    },
+    {
+     "county": "Donley County, TX",
+     "population": 3258
+    },
+    {
+     "county": "Hall County, TX",
+     "population": 2825
+    },
+    {
+     "county": "Collingsworth County, TX",
+     "population": 2652
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 233539
+    },
+    {
+     "state": "Texas",
+     "customers": 189062
+    },
+    {
+     "state": "Arkansas",
+     "customers": 124456
+    }
+   ]
+  },
+  {
+   "company": "CLECO Power",
+   "company-type": "Investor Owned",
+   "website": "https://www.cleco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 471451000.0,
+   "Residential-Customers": 249515.0,
+   "Commercial-Sales-($)": 325379000.0,
+   "Commercial-Customers": 41521.0,
+   "Industrial-Sales-($)": 184853000.0,
+   "Industrial-Customers": 543.0,
+   "Total-Customers": 291579.0,
+   "Total-Production-MWh": 12804937.0,
+   "Production-from-Non-Renewable-Energy-MWh": 12804937.0,
+   "cities-served": [
+    "Abita Springs, LA",
+    "Alexandria, LA",
+    "Anacoco, LA",
+    "Baldwin, LA",
+    "Ball, LA",
+    "Basile, LA",
+    "Berwick, LA",
+    "Boyce, LA",
+    "Breaux Bridge, LA",
+    "Bunkie, LA",
+    "Campti, LA",
+    "Chataignier, LA",
+    "Cheneyville, LA",
+    "Clarence, LA",
+    "Colfax, LA",
+    "Converse, LA",
+    "Cottonport, LA",
+    "Coushatta, LA",
+    "Covington, LA",
+    "Creola, LA",
+    "Crowley, LA",
+    "DeQuincy, LA",
+    "DeRidder, LA",
+    "Dry Prong, LA",
+    "Edgefield, LA",
+    "Elizabeth, LA",
+    "Elton, LA",
+    "Eunice, LA",
+    "Evergreen, LA",
+    "Forest Hill, LA",
+    "Franklin, LA",
+    "Franklinton, LA",
+    "Glenmora, LA",
+    "Grand Cane, LA",
+    "Hessmer, LA",
+    "Jeanerette, LA",
+    "Keachi, LA",
+    "Kinder, LA",
+    "Lecompte, LA",
+    "Leesville, LA",
+    "Longstreet, LA",
+    "Loreauville, LA",
+    "Madisonville, LA",
+    "Mamou, LA",
+    "Mandeville, LA",
+    "Mansfield, LA",
+    "Mansura, LA",
+    "Many, LA",
+    "Marksville, LA",
+    "Martin, LA",
+    "McNary, LA",
+    "Melville, LA",
+    "Merryville, LA",
+    "Moreauville, LA",
+    "Morgan City, LA",
+    "Natchitoches, LA",
+    "New Iberia, LA",
+    "New Llano, LA",
+    "Noble, LA",
+    "Oakdale, LA",
+    "Oberlin, LA",
+    "Opelousas, LA",
+    "Palmetto, LA",
+    "Patterson, LA",
+    "Pearl River, LA",
+    "Pine Prairie, LA",
+    "Pineville, LA",
+    "Plaucheville, LA",
+    "Pleasant Hill, LA",
+    "Pollock, LA",
+    "Powhatan, LA",
+    "Provencal, LA",
+    "Robeline, LA",
+    "Rosepine, LA",
+    "Simmesport, LA",
+    "Slidell, LA",
+    "South Mansfield, LA",
+    "Stanley, LA",
+    "Turkey Creek, LA",
+    "Ville Platte, LA",
+    "Washington, LA",
+    "Woodworth, LA",
+    "Zwolle, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Tammany Parish, LA",
+     "population": 264570
+    },
+    {
+     "county": "Calcasieu Parish, LA",
+     "population": 216785
+    },
+    {
+     "county": "Rapides Parish, LA",
+     "population": 130023
+    },
+    {
+     "county": "St. Landry Parish, LA",
+     "population": 82540
+    },
+    {
+     "county": "Iberia Parish, LA",
+     "population": 69929
+    },
+    {
+     "county": "Acadia Parish, LA",
+     "population": 57576
+    },
+    {
+     "county": "St. Martin Parish, LA",
+     "population": 51767
+    },
+    {
+     "county": "St. Mary Parish, LA",
+     "population": 49406
+    },
+    {
+     "county": "Vernon Parish, LA",
+     "population": 48750
+    },
+    {
+     "county": "Washington Parish, LA",
+     "population": 45463
+    },
+    {
+     "county": "Avoyelles Parish, LA",
+     "population": 39693
+    },
+    {
+     "county": "Natchitoches Parish, LA",
+     "population": 37515
+    },
+    {
+     "county": "Beauregard Parish, LA",
+     "population": 36549
+    },
+    {
+     "county": "Evangeline Parish, LA",
+     "population": 32350
+    },
+    {
+     "county": "Jefferson Davis Parish, LA",
+     "population": 32250
+    },
+    {
+     "county": "De Soto Parish, LA",
+     "population": 26812
+    },
+    {
+     "county": "Allen Parish, LA",
+     "population": 22750
+    },
+    {
+     "county": "Grant Parish, LA",
+     "population": 22169
+    },
+    {
+     "county": "Sabine Parish, LA",
+     "population": 22155
+    },
+    {
+     "county": "Pointe Coupee Parish, LA",
+     "population": 20758
+    },
+    {
+     "county": "LaSalle Parish, LA",
+     "population": 14791
+    },
+    {
+     "county": "Newton County, TX",
+     "population": 12217
+    },
+    {
+     "county": "Catahoula Parish, LA",
+     "population": 8906
+    },
+    {
+     "county": "Red River Parish, LA",
+     "population": 7620
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 291579
+    }
+   ]
+  },
+  {
+   "company": "Entergy New Orleans",
+   "company-type": "Investor Owned",
+   "website": "https://www.entergy-neworleans.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 256540389.0,
+   "Residential-Customers": 188591.0,
+   "Commercial-Sales-($)": 269741679.0,
+   "Commercial-Customers": 19399.0,
+   "Industrial-Sales-($)": 29694877.0,
+   "Industrial-Customers": 1702.0,
+   "Total-Customers": 209692.0,
+   "Total-Production-MWh": 2750988.0,
+   "Production-from-Renewable-Energy-MWh": 36576.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2714412.0,
+   "cities-served": [
+    "New Orleans",
+    "Terrytown CDP",
+    "Arabi CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Orleans Parish, LA",
+     "population": 383997
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 209693
+    }
+   ]
+  },
+  {
+   "company": "DEMCO Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.demco.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 159466000.0,
+   "Residential-Customers": 105779.0,
+   "Commercial-Sales-($)": 15043000.0,
+   "Commercial-Customers": 7021.0,
+   "Industrial-Sales-($)": 22616000.0,
+   "Industrial-Customers": 571.0,
+   "Total-Customers": 113371.0,
+   "cities-served": [
+    "Albany, LA",
+    "Amite City, LA",
+    "Baker, LA",
+    "Baton Rouge, LA",
+    "Central, LA",
+    "Clinton, LA",
+    "Denham Springs, LA",
+    "Donaldsonville, LA",
+    "French Settlement, LA",
+    "Gonzales, LA",
+    "Greensburg, LA",
+    "Hammond, LA",
+    "Independence, LA",
+    "Jackson, LA",
+    "Kentwood, LA",
+    "Killian, LA",
+    "Livingston, LA",
+    "Montpelier, LA",
+    "Norwood, LA",
+    "Ponchatoula, LA",
+    "Port Vincent, LA",
+    "Roseland, LA",
+    "Slaughter, LA",
+    "Sorrento, LA",
+    "Springfield, LA",
+    "St. Francisville, LA",
+    "Tangipahoa, LA",
+    "Tickfaw, LA",
+    "Walker, LA",
+    "Wilson, LA",
+    "Zachary, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "East Baton Rouge Parish, LA",
+     "population": 456781
+    },
+    {
+     "county": "Livingston Parish, LA",
+     "population": 142282
+    },
+    {
+     "county": "Tangipahoa Parish, LA",
+     "population": 133157
+    },
+    {
+     "county": "Ascension Parish, LA",
+     "population": 126500
+    },
+    {
+     "county": "East Feliciana Parish, LA",
+     "population": 19539
+    },
+    {
+     "county": "West Feliciana Parish, LA",
+     "population": 15310
+    },
+    {
+     "county": "St. Helena Parish, LA",
+     "population": 10920
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 113371
+    }
+   ]
+  },
+  {
+   "company": "Southwest Louisiana Electric Membership Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.slemco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 156247700.0,
+   "Residential-Customers": 102586.0,
+   "Commercial-Sales-($)": 45086400.0,
+   "Commercial-Customers": 8519.0,
+   "Industrial-Sales-($)": 15727900.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 111131.0,
+   "cities-served": [
+    "Abbeville, LA",
+    "Arnaudville, LA",
+    "Basile, LA",
+    "Breaux Bridge, LA",
+    "Broussard, LA",
+    "Cankton, LA",
+    "Carencro, LA",
+    "Chataignier, LA",
+    "Church Point, LA",
+    "Crowley, LA",
+    "Delcambre, LA",
+    "Duson, LA",
+    "Erath, LA",
+    "Estherwood, LA",
+    "Eunice, LA",
+    "Grand Coteau, LA",
+    "Henderson, LA",
+    "Iota, LA",
+    "Kaplan, LA",
+    "Krotz Springs, LA",
+    "Lafayette, LA",
+    "Leonville, LA",
+    "Mamou, LA",
+    "Maurice, LA",
+    "Melville, LA",
+    "Mermentau, LA",
+    "Morse, LA",
+    "Opelousas, LA",
+    "Palmetto, LA",
+    "Parks, LA",
+    "Port Barre, LA",
+    "Rayne, LA",
+    "Scott, LA",
+    "Sunset, LA",
+    "Turkey Creek, LA",
+    "Washington, LA",
+    "Youngsville, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Lafayette Parish, LA",
+     "population": 241753
+    },
+    {
+     "county": "St. Landry Parish, LA",
+     "population": 82540
+    },
+    {
+     "county": "Acadia Parish, LA",
+     "population": 57576
+    },
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    },
+    {
+     "county": "St. Martin Parish, LA",
+     "population": 51767
+    },
+    {
+     "county": "Evangeline Parish, LA",
+     "population": 32350
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 111131
+    }
+   ]
+  },
+  {
+   "company": "Lafayette Utilities System",
+   "company-type": "Municipal",
+   "website": "https://www.lus.org/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 75353000.0,
+   "Residential-Customers": 57412.0,
+   "Commercial-Sales-($)": 87643000.0,
+   "Commercial-Customers": 11954.0,
+   "Total-Customers": 69366.0,
+   "Total-Production-MWh": 1065825.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1065825.0,
+   "cities-served": [
+    "Lafayette"
+   ],
+   "counties-served": [
+    {
+     "county": "Lafayette Parish, LA",
+     "population": 241753
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 69366
+    }
+   ]
+  },
+  {
+   "company": "Washington-St Tammany Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.wste.coop/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 70501800.0,
+   "Residential-Customers": 49012.0,
+   "Commercial-Sales-($)": 18035400.0,
+   "Commercial-Customers": 4379.0,
+   "Industrial-Sales-($)": 397300.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 53392.0,
+   "cities-served": [
+    "Abita Springs, LA",
+    "Amite City, LA",
+    "Angie, LA",
+    "Bogalusa, LA",
+    "Folsom, LA",
+    "Franklinton, LA",
+    "Hammond, LA",
+    "Independence, LA",
+    "Madisonville, LA",
+    "Mandeville, LA",
+    "New Orleans, LA",
+    "Pearl River, LA",
+    "Roseland, LA",
+    "Slidell, LA",
+    "Sun, LA",
+    "Tangipahoa, LA",
+    "Varnado, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Orleans Parish, LA",
+     "population": 383997
+    },
+    {
+     "county": "St. Tammany Parish, LA",
+     "population": 264570
+    },
+    {
+     "county": "Tangipahoa Parish, LA",
+     "population": 133157
+    },
+    {
+     "county": "Washington Parish, LA",
+     "population": 45463
+    },
+    {
+     "county": "St. John the Baptist Parish, LA",
+     "population": 42477
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 53392
+    }
+   ]
+  },
+  {
+   "company": "Beauregard Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.beci.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 60908000.0,
+   "Residential-Customers": 39198.0,
+   "Commercial-Sales-($)": 14725000.0,
+   "Commercial-Customers": 4258.0,
+   "Industrial-Sales-($)": 29038000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 43461.0,
+   "cities-served": [
+    "Alexandria, LA",
+    "Anacoco, LA",
+    "Cheneyville, LA",
+    "DeQuincy, LA",
+    "DeRidder, LA",
+    "Elizabeth, LA",
+    "Elton, LA",
+    "Forest Hill, LA",
+    "Glenmora, LA",
+    "Hornbeck, LA",
+    "Kinder, LA",
+    "Lecompte, LA",
+    "Leesville, LA",
+    "McNary, LA",
+    "Merryville, LA",
+    "New Llano, LA",
+    "Oakdale, LA",
+    "Oberlin, LA",
+    "Pineville, LA",
+    "Reeves, LA",
+    "Rosepine, LA",
+    "Simpson, LA",
+    "Westlake, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Calcasieu Parish, LA",
+     "population": 216785
+    },
+    {
+     "county": "Rapides Parish, LA",
+     "population": 130023
+    },
+    {
+     "county": "Vernon Parish, LA",
+     "population": 48750
+    },
+    {
+     "county": "Beauregard Parish, LA",
+     "population": 36549
+    },
+    {
+     "county": "Evangeline Parish, LA",
+     "population": 32350
+    },
+    {
+     "county": "Jefferson Davis Parish, LA",
+     "population": 32250
+    },
+    {
+     "county": "Allen Parish, LA",
+     "population": 22750
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 43461
+    }
+   ]
+  },
+  {
+   "company": "City of Alexandria Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cityofalexandriala.com/utility-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 26365000.0,
+   "Residential-Customers": 20058.0,
+   "Commercial-Sales-($)": 32504000.0,
+   "Commercial-Customers": 3867.0,
+   "Industrial-Sales-($)": 415000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 23931.0,
+   "Total-Production-MWh": 120576.0,
+   "Production-from-Non-Renewable-Energy-MWh": 120576.0,
+   "cities-served": [
+    "Alexandria"
+   ],
+   "counties-served": [
+    {
+     "county": "Rapides Parish, LA",
+     "population": 130023
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 23931
+    }
+   ]
+  },
+  {
+   "company": "Claiborne Electric Coop",
+   "company-type": "Cooperative",
+   "website": "http://www.our.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 27043800.0,
+   "Residential-Customers": 21382.0,
+   "Commercial-Sales-($)": 6621300.0,
+   "Commercial-Customers": 2405.0,
+   "Industrial-Sales-($)": 17827500.0,
+   "Industrial-Customers": 101.0,
+   "Total-Customers": 23888.0,
+   "cities-served": [
+    "Arcadia, LA",
+    "Athens, LA",
+    "Bernice, LA",
+    "Bienville, LA",
+    "Bryceland, LA",
+    "Castor, LA",
+    "Chatham, LA",
+    "Choudrant, LA",
+    "Cotton Valley, LA",
+    "Cullen, LA",
+    "Dixie Inn, LA",
+    "Downsville, LA",
+    "Doyline, LA",
+    "Dubach, LA",
+    "Dubberly, LA",
+    "East Hodge, LA",
+    "Eros, LA",
+    "Farmerville, LA",
+    "Gibsland, LA",
+    "Grambling, LA",
+    "Hall Summit, LA",
+    "Haynesville, LA",
+    "Hodge, LA",
+    "Homer, LA",
+    "Jamestown, LA",
+    "Jonesboro, LA",
+    "Junction City, LA",
+    "Lillie, LA",
+    "Lisbon, LA",
+    "Lucky, LA",
+    "Marion, LA",
+    "Monroe, LA",
+    "Mount Lebanon, LA",
+    "North Hodge, LA",
+    "Quitman, LA",
+    "Ringgold, LA",
+    "Ruston, LA",
+    "Saline, LA",
+    "Sarepta, LA",
+    "Shongaloo, LA",
+    "Simsboro, LA",
+    "Spearsville, LA",
+    "Springhill, LA",
+    "Vienna, LA",
+    "West Monroe, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Ouachita Parish, LA",
+     "population": 160368
+    },
+    {
+     "county": "Lincoln Parish, LA",
+     "population": 48396
+    },
+    {
+     "county": "Webster Parish, LA",
+     "population": 36967
+    },
+    {
+     "county": "Union Parish, LA",
+     "population": 21107
+    },
+    {
+     "county": "Jackson Parish, LA",
+     "population": 15031
+    },
+    {
+     "county": "Claiborne Parish, LA",
+     "population": 14170
+    },
+    {
+     "county": "Bienville Parish, LA",
+     "population": 12981
+    },
+    {
+     "county": "Red River Parish, LA",
+     "population": 7620
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 23888
+    }
+   ]
+  },
+  {
+   "company": "South Louisiana Electric Cooperative Association",
+   "company-type": "Cooperative",
+   "website": "http://www.sleca.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24402000.0,
+   "Residential-Customers": 17517.0,
+   "Commercial-Sales-($)": 18953000.0,
+   "Commercial-Customers": 4199.0,
+   "Industrial-Sales-($)": 4576000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 21727.0,
+   "cities-served": [
+    "Houma, LA",
+    "Morgan City, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Terrebonne Parish, LA",
+     "population": 109580
+    },
+    {
+     "county": "Lafourche Parish, LA",
+     "population": 97557
+    },
+    {
+     "county": "Assumption Parish, LA",
+     "population": 21039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 21727
+    }
+   ]
+  },
+  {
+   "company": "Northeast Louisiana Power",
+   "company-type": "Cooperative",
+   "website": "http://www.nelpco.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16133000.0,
+   "Residential-Customers": 11551.0,
+   "Commercial-Sales-($)": 6594000.0,
+   "Commercial-Customers": 3199.0,
+   "Industrial-Sales-($)": 1430000.0,
+   "Industrial-Customers": 2595.0,
+   "Total-Customers": 17345.0,
+   "cities-served": [
+    "Baskin, LA",
+    "Bastrop, LA",
+    "Bonita, LA",
+    "Clarks, LA",
+    "Collinston, LA",
+    "Columbia, LA",
+    "Delhi, LA",
+    "Delta, LA",
+    "Forest, LA",
+    "Gilbert, LA",
+    "Grayson, LA",
+    "Kilbourne, LA",
+    "Lake Providence, LA",
+    "Mangham, LA",
+    "Mer Rouge, LA",
+    "Mound, LA",
+    "Newellton, LA",
+    "Oak Grove, LA",
+    "Oak Ridge, LA",
+    "Pioneer, LA",
+    "Rayville, LA",
+    "Richmond, LA",
+    "St. Joseph, LA",
+    "Tallulah, LA",
+    "Winnsboro, LA",
+    "Wisner, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Morehouse Parish, LA",
+     "population": 25629
+    },
+    {
+     "county": "Richland Parish, LA",
+     "population": 20043
+    },
+    {
+     "county": "Franklin Parish, LA",
+     "population": 19774
+    },
+    {
+     "county": "Madison Parish, LA",
+     "population": 10017
+    },
+    {
+     "county": "West Carroll Parish, LA",
+     "population": 9751
+    },
+    {
+     "county": "Caldwell Parish, LA",
+     "population": 9645
+    },
+    {
+     "county": "Catahoula Parish, LA",
+     "population": 8906
+    },
+    {
+     "county": "East Carroll Parish, LA",
+     "population": 7459
+    },
+    {
+     "county": "Tensas Parish, LA",
+     "population": 4147
+    },
+    {
+     "county": "Issaquena County, MS",
+     "population": 1338
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 17345
+    }
+   ]
+  },
+  {
+   "company": "Terrebonne Parish Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.tpcg.org/index.php?f=utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 14198000.0,
+   "Residential-Customers": 11442.0,
+   "Commercial-Sales-($)": 11821000.0,
+   "Commercial-Customers": 2493.0,
+   "Total-Customers": 13935.0,
+   "Total-Production-MWh": 19330.0,
+   "Production-from-Non-Renewable-Energy-MWh": 19330.0,
+   "cities-served": [
+    "Houma",
+    "Bayou Cane CDP",
+    "Bayou Blue CDP",
+    "Schriever CDP",
+    "Gray CDP",
+    "Chauvin CDP",
+    "Bourg CDP",
+    "Presquille CDP",
+    "Montegut CDP",
+    "Dulac CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Terrebonne Parish, LA",
+     "population": 109580
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 13935
+    }
+   ]
+  },
+  {
+   "company": "Concordia Electric",
+   "company-type": "Cooperative",
+   "website": "http://concordiaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13832700.0,
+   "Residential-Customers": 11849.0,
+   "Commercial-Sales-($)": 5560000.0,
+   "Commercial-Customers": 1750.0,
+   "Industrial-Sales-($)": 1771300.0,
+   "Industrial-Customers": 148.0,
+   "Total-Customers": 13747.0,
+   "cities-served": [
+    "Alexandria, LA",
+    "Ball, LA",
+    "Clayton, LA",
+    "Creola, LA",
+    "Dry Prong, LA",
+    "Ferriday, LA",
+    "Georgetown, LA",
+    "Harrisonburg, LA",
+    "Jena, LA",
+    "Jonesville, LA",
+    "Olla, LA",
+    "Pineville, LA",
+    "Sicily Island, LA",
+    "Tullos, LA",
+    "Urania, LA",
+    "Vidalia, LA",
+    "Waterproof, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Rapides Parish, LA",
+     "population": 130023
+    },
+    {
+     "county": "Grant Parish, LA",
+     "population": 22169
+    },
+    {
+     "county": "Concordia Parish, LA",
+     "population": 18687
+    },
+    {
+     "county": "LaSalle Parish, LA",
+     "population": 14791
+    },
+    {
+     "county": "Catahoula Parish, LA",
+     "population": 8906
+    },
+    {
+     "county": "Tensas Parish, LA",
+     "population": 4147
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 13747
+    }
+   ]
+  },
+  {
+   "company": "City of Ruston Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.ruston.org/light-power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4606000.0,
+   "Residential-Customers": 9092.0,
+   "Commercial-Sales-($)": 5711000.0,
+   "Commercial-Customers": 1852.0,
+   "Industrial-Sales-($)": 177000.0,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 10959.0,
+   "cities-served": [
+    "Grambling, LA",
+    "Ruston, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln Parish, LA",
+     "population": 48396
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 10959
+    }
+   ]
+  },
+  {
+   "company": "Pointe Coupee Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.pcemc.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12471000.0,
+   "Residential-Customers": 8282.0,
+   "Commercial-Sales-($)": 5158000.0,
+   "Commercial-Customers": 2180.0,
+   "Industrial-Sales-($)": 4291000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 10468.0,
+   "cities-served": [
+    "Addis, LA",
+    "Brusly, LA",
+    "Bunkie, LA",
+    "Cottonport, LA",
+    "Evergreen, LA",
+    "Fordoche, LA",
+    "Hessmer, LA",
+    "Livonia, LA",
+    "Mansura, LA",
+    "Maringouin, LA",
+    "Marksville, LA",
+    "Moreauville, LA",
+    "Morganza, LA",
+    "New Roads, LA",
+    "Plaquemine, LA",
+    "Plaucheville, LA",
+    "Port Allen, LA",
+    "Rosedale, LA",
+    "Simmesport, LA",
+    "St. Gabriel, LA",
+    "White Castle, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Avoyelles Parish, LA",
+     "population": 39693
+    },
+    {
+     "county": "Iberville Parish, LA",
+     "population": 30241
+    },
+    {
+     "county": "West Baton Rouge Parish, LA",
+     "population": 27199
+    },
+    {
+     "county": "Pointe Coupee Parish, LA",
+     "population": 20758
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 10468
+    }
+   ]
+  },
+  {
+   "company": "Jefferson Davis Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.jdec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12719000.0,
+   "Residential-Customers": 8550.0,
+   "Commercial-Sales-($)": 4556000.0,
+   "Commercial-Customers": 1471.0,
+   "Industrial-Sales-($)": 5777000.0,
+   "Industrial-Customers": 164.0,
+   "Total-Customers": 10185.0,
+   "cities-served": [
+    "Elton, LA",
+    "Fenton, LA",
+    "Iowa, LA",
+    "Jennings, LA",
+    "Lake Arthur, LA",
+    "Lake Charles, LA",
+    "Vinton, LA",
+    "Welsh, LA",
+    "Westlake, LA"
+   ],
+   "counties-served": [
+    {
+     "county": "Calcasieu Parish, LA",
+     "population": 216785
+    },
+    {
+     "county": "Jefferson Davis Parish, LA",
+     "population": 32250
+    },
+    {
+     "county": "Cameron Parish, LA",
+     "population": 5617
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 10185
+    }
+   ]
+  },
+  {
+   "company": "Natchitoches Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.natchitochesla.gov/government/city-departments/utility-service-center",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7276900.0,
+   "Residential-Customers": 7366.0,
+   "Commercial-Sales-($)": 7821200.0,
+   "Commercial-Customers": 1229.0,
+   "Industrial-Sales-($)": 3844800.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 8600.0,
+   "cities-served": [
+    "Natchitoches"
+   ],
+   "counties-served": [
+    {
+     "county": "Natchitoches Parish, LA",
+     "population": 37515
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 8600
+    }
+   ]
+  },
+  {
+   "company": "City of Minden Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.mindenla.org/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6935931.252,
+   "Residential-Customers": 5220.0,
+   "Commercial-Sales-($)": 5776016.652,
+   "Commercial-Customers": 1149.0,
+   "Industrial-Sales-($)": 3132052.096,
+   "Industrial-Customers": 36.0,
+   "Total-Customers": 6405.0,
+   "cities-served": [
+    "Minden"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster Parish, LA",
+     "population": 36967
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 6405
+    }
+   ]
+  },
+  {
+   "company": "Morgan City, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityofmc.com/index.php/city-government/directory/city-offices.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 7307326.387,
+   "Residential-Customers": 4850.0,
+   "Commercial-Sales-($)": 7797673.613,
+   "Commercial-Customers": 1180.0,
+   "Total-Customers": 6030.0,
+   "cities-served": [
+    "Morgan City"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Mary Parish, LA",
+     "population": 49406
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 6030
+    }
+   ]
+  },
+  {
+   "company": "Abbeville, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofabbeville.net/city-departments/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5731939.958,
+   "Residential-Customers": 4577.0,
+   "Commercial-Sales-($)": 3361444.4,
+   "Commercial-Customers": 887.0,
+   "Industrial-Sales-($)": 2921615.642,
+   "Industrial-Customers": 27.0,
+   "Total-Customers": 5491.0,
+   "cities-served": [
+    "Abbeville"
+   ],
+   "counties-served": [
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 5491
+    }
+   ]
+  },
+  {
+   "company": "Plaquemine City Light",
+   "company-type": "Municipal",
+   "website": "https://www.plaquemine.org/176/Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5762886.789,
+   "Residential-Customers": 3906.0,
+   "Commercial-Sales-($)": 4270113.211,
+   "Commercial-Customers": 557.0,
+   "Total-Customers": 4463.0,
+   "cities-served": [
+    "Plaquemine"
+   ],
+   "counties-served": [
+    {
+     "county": "Iberville Parish, LA",
+     "population": 30241
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 4463
+    }
+   ]
+  },
+  {
+   "company": "City of Rayne Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.rayne.org/copy-2-of-fire-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4643811.381,
+   "Residential-Customers": 3510.0,
+   "Commercial-Sales-($)": 2400472.694,
+   "Commercial-Customers": 445.0,
+   "Industrial-Sales-($)": 240715.925,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 3972.0,
+   "cities-served": [
+    "Rayne"
+   ],
+   "counties-served": [
+    {
+     "county": "Acadia Parish, LA",
+     "population": 57576
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 3972
+    }
+   ]
+  },
+  {
+   "company": "City of Vidalia LA Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofvidaliala.com/utility-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3352811.533,
+   "Residential-Customers": 1838.0,
+   "Commercial-Sales-($)": 2603531.043,
+   "Commercial-Customers": 909.0,
+   "Industrial-Sales-($)": 2840657.424,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 2754.0,
+   "cities-served": [
+    "Vidalia"
+   ],
+   "counties-served": [
+    {
+     "county": "Concordia Parish, LA",
+     "population": 18687
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 2754
+    }
+   ]
+  },
+  {
+   "company": "St Martinville, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.stmartinville.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2388076.835,
+   "Residential-Customers": 2292.0,
+   "Commercial-Sales-($)": 409521.61,
+   "Commercial-Customers": 326.0,
+   "Industrial-Sales-($)": 1396401.555,
+   "Industrial-Customers": 81.0,
+   "Total-Customers": 2699.0,
+   "cities-served": [
+    "St. Martinville"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Martin Parish, LA",
+     "population": 51767
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 2699
+    }
+   ]
+  },
+  {
+   "company": "Winnfield, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofwinnfield.com/departments/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2270056.075,
+   "Residential-Customers": 2096.0,
+   "Commercial-Sales-($)": 2743570.093,
+   "Commercial-Customers": 508.0,
+   "Industrial-Sales-($)": 156373.832,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 2606.0,
+   "cities-served": [
+    "Winnfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Winn Parish, LA",
+     "population": 13755
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 2606
+    }
+   ]
+  },
+  {
+   "company": "Kaplan Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.kaplanla.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2376838.726,
+   "Residential-Customers": 1780.0,
+   "Commercial-Sales-($)": 488108.821,
+   "Commercial-Customers": 246.0,
+   "Industrial-Sales-($)": 1488552.453,
+   "Industrial-Customers": 33.0,
+   "Total-Customers": 2059.0,
+   "cities-served": [
+    "Kaplan"
+   ],
+   "counties-served": [
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 2059
+    }
+   ]
+  },
+  {
+   "company": "Welsh, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townofwelsh.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1528082.582,
+   "Residential-Customers": 1633.0,
+   "Commercial-Sales-($)": 265671.571,
+   "Commercial-Customers": 159.0,
+   "Industrial-Sales-($)": 191245.847,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 1801.0,
+   "cities-served": [
+    "Welsh"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson Davis Parish, LA",
+     "population": 32250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 1801
+    }
+   ]
+  },
+  {
+   "company": "Vinton, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofvinton.com/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1499035.997,
+   "Residential-Customers": 1312.0,
+   "Commercial-Sales-($)": 1199264.003,
+   "Commercial-Customers": 360.0,
+   "Total-Customers": 1672.0,
+   "cities-served": [
+    "Vinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Calcasieu Parish, LA",
+     "population": 216785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 1672
+    }
+   ]
+  },
+  {
+   "company": "Jonesville, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Town-of-Jonesville-1138005326247320/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1654400.0,
+   "Residential-Customers": 831.0,
+   "Commercial-Sales-($)": 413600.0,
+   "Commercial-Customers": 189.0,
+   "Total-Customers": 1020.0,
+   "cities-served": [
+    "Jonesville"
+   ],
+   "counties-served": [
+    {
+     "county": "Catahoula Parish, LA",
+     "population": 8906
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 1020
+    }
+   ]
+  },
+  {
+   "company": "Erath, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townoferath.com/department/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1091984.046,
+   "Residential-Customers": 798.0,
+   "Commercial-Sales-($)": 595015.954,
+   "Commercial-Customers": 131.0,
+   "Total-Customers": 929.0,
+   "cities-served": [
+    "Erath"
+   ],
+   "counties-served": [
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 929
+    }
+   ]
+  },
+  {
+   "company": "Gueydan, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.gueydan.org/?page_id=23",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 762644.55,
+   "Residential-Customers": 699.0,
+   "Commercial-Sales-($)": 326847.664,
+   "Commercial-Customers": 100.0,
+   "Industrial-Sales-($)": 229507.786,
+   "Industrial-Customers": 23.0,
+   "Total-Customers": 822.0,
+   "cities-served": [
+    "Gueydan"
+   ],
+   "counties-served": [
+    {
+     "county": "Vermilion Parish, LA",
+     "population": 57359
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 822
+    }
+   ]
+  },
+  {
+   "company": "Boyce, Louisiana Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 442557.01,
+   "Residential-Customers": 328.0,
+   "Commercial-Sales-($)": 71442.99,
+   "Commercial-Customers": 39.0,
+   "Total-Customers": 367.0,
+   "cities-served": [
+    "Boyce"
+   ],
+   "counties-served": [
+    {
+     "county": "Rapides Parish, LA",
+     "population": 130023
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Louisiana",
+     "customers": 367
+    }
+   ]
+  }
+ ]
+}

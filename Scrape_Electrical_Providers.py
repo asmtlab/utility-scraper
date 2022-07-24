@@ -11,17 +11,19 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service as FirefoxService
+from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.support.ui import WebDriverWait as WDW
 from selenium.webdriver.support import expected_conditions as EC
 
 # local module
-from Collect_State_Info import REGIONS
+from Collect_State_Info import REGION_9, REGIONS
 
 # Used by webdriver_manager if not supplying path to driver
 # from webdriver_manager.firefox import GeckoDriverManager
 # webdriver_manager info:
 #
 # https://github.com/SergeyPirogov/webdriver_manager#use-with-chrome
+# This option can be used with minor adjustments to the get_driver() function
 # 
 #
 # Or to download the browser driver:
@@ -32,7 +34,7 @@ FIREFOX_PATH = "./geckodriver" # replace with path to driver for your OS
 BASE_URL = "https://findenergy.com/"
 OUTPUT_DIR = 'outputs'
 
-CLICK_DELAY = 5
+CLICK_DELAY = 2
 
 
 def button_click(driver: webdriver, section: Any) -> bool:
@@ -75,6 +77,7 @@ def scrape_table(driver: webdriver, section: Any, numItems: int, is_link: bool, 
     item_list = []
     
     while len(item_list) != numItems:
+        repeat = False
 
         print("start page {}".format(current_page))
 
@@ -97,12 +100,16 @@ def scrape_table(driver: webdriver, section: Any, numItems: int, is_link: bool, 
 
             item[key2] = int("".join(columns[1].text.split(',')))
 
+            if item in item_list:
+                repeat = True
+                print("Repeat item. Trying again.")
+                break
             print(item)
             item_list.append(item)
         
-        print("done page {}".format(current_page))
-        
-        current_page += 1
+        if not repeat:
+            print("done page {}".format(current_page))
+            current_page += 1
 
         if button_click(driver, section):
             break
@@ -138,16 +145,15 @@ def get_provider_info(driver: webdriver, url: str) -> Dict:
                 "li.svelte-1f6rrn3 a"
             ).get_attribute("href")
     except:
-        pass
-    else:
+        company_website = ''
+    finally:
         # print("\twebsite: {}".format(company_website))
         provider_info['website'] = company_website
 
     # get provider types (residential, commercial, industrial)
     service_type_elements = driver.find_element(By.CSS_SELECTOR, 
         ".tab-nav.tab-nav--underlined.svelte-9ar7ba").find_elements(
-            By.CSS_SELECTOR, 
-            ".tab-nav__link"
+            By.CSS_SELECTOR, ".tab-nav__link"
         )
     
     service_types = []
@@ -189,7 +195,7 @@ def get_provider_info(driver: webdriver, url: str) -> Dict:
             # print(text, amount)
         
         provider_info['Total-Customers'] = total_customers
-        print(total_customers)
+        print("Total customers: ", total_customers)
 
     # collect energy production
     section_title = stats_sections[1].find_element(By.CSS_SELECTOR, 
@@ -217,14 +223,16 @@ def get_provider_info(driver: webdriver, url: str) -> Dict:
     provider_info["cities-served"] = []
     city_elements = None
     try:
-        citySection = driver.find_element(By.CSS_SELECTOR,
+        # try to grab city-coverage section from bottom of page
+        city_section = driver.find_element(By.CSS_SELECTOR,
             "#city-coverage")
-        city_elements = citySection.find_elements(By.CSS_SELECTOR,
+        city_elements = city_section.find_elements(By.CSS_SELECTOR,
             "li.svelte-1f6rrn3")
     except:
-        citySection = company_overview_sections[1].find_element(By.CSS_SELECTOR,
+        # if NoSuchElement Exception is thrown, then grab cities from top of page
+        city_section = company_overview_sections[1].find_element(By.CSS_SELECTOR,
             "ul.list-unstyled.company-info__list.svelte-1f6rrn3:nth-child(3) > li:nth-child(3)")
-        city_elements = citySection.find_elements(By.CSS_SELECTOR, "ul.list-unstyled li")
+        city_elements = city_section.find_elements(By.CSS_SELECTOR, "ul.list-unstyled li")
         
     for city in city_elements:
         try:
@@ -278,8 +286,9 @@ def get_electrical_providers(driver: webdriver) -> Set[Dict]:
         ".table-footer__data.svelte-x63klk.svelte-x63klk").text.split(' ')[0]
 
     print("Number of providers: {}".format(str(num_providers)))
-
+    
     while len(providers) != int(num_providers):
+        repeat = False
         print("start providers page {}".format(current_page))
         # grab table of Electrical Providers and use as starting node
         provider_section = driver.find_element(By.CSS_SELECTOR, "#electricity-providers")
@@ -288,15 +297,21 @@ def get_electrical_providers(driver: webdriver) -> Set[Dict]:
         table_rows = table.find_elements(By.CSS_SELECTOR, "tr.svelte-x63klk")
 
         # iterate over items in the table to get href tag for a elements
+
         for row in table_rows:
             provider_element = row.find_element(By.CSS_SELECTOR, "td.svelte-x63klk a")
             link = provider_element.get_attribute("href")
+            if link in providers:
+                repeat = True
+                print("Repeat item. Trying again")
+                break
             print(provider_element.text)
             providers.add(link)
 
-        print("done providers page {}".format(current_page))
+        if not repeat:
+            print("done providers page {}".format(current_page))
 
-        current_page += 1
+            current_page += 1
 
         if button_click(driver, provider_section):
             break
@@ -322,7 +337,7 @@ def scrape_state(driver: webdriver, url: str, state: str) -> Dict:
     
     return state_info
 
-def get_driver(browser: str, options_list: List[str], driver_path: str) -> webdriver:
+def get_driver(browser: str, driver_path: str, options_list: List[str], ) -> webdriver:
     '''Create webdriver object using path to driver and list of options.'''
     driver = None
 
@@ -333,7 +348,20 @@ def get_driver(browser: str, options_list: List[str], driver_path: str) -> webdr
             options.add_argument(option)
 
         try:
-            driver = webdriver.Firefox(service=FirefoxService(executable_path=driver_path), options=options)
+            driver = webdriver.Firefox(service=FirefoxService(executable_path=driver_path), 
+                options=options)
+        except Exception as er:
+            print(er, file=sys.stderr)
+    elif browser.lower() in ['chrome', 'chromium']:
+        # not always as reliable as Firefox, and testing was mostly done with Firefox
+        options = webdriver.ChromeOptions()
+
+        for option in options_list:
+            options.add_argument(option)        
+
+        try:
+            driver = webdriver.Chrome(service=ChromeService(executable_path=driver_path), 
+                options=options)
         except Exception as er:
             print(er, file=sys.stderr)
 
@@ -342,13 +370,13 @@ def get_driver(browser: str, options_list: List[str], driver_path: str) -> webdr
 def main():
     # info = get_provider_info(driver, 'https://findenergy.com/providers/reliant-energy/')
 
-    driver = get_driver('Firefox', ['--headless', '--no-sandbox' ], FIREFOX_PATH)
+    driver = get_driver('Firefox', FIREFOX_PATH, ['--headless', '--no-sandbox' ])
     if driver is None:
         print("Not able to create webdriver object")
         return 1
 
     info = {}
-    for state in REGIONS[0]:
+    for state in REGION_9:
         url_query = "{}{}".format(BASE_URL, state)
         info[state] = scrape_state(driver, url_query, state)
 

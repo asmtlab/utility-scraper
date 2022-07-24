@@ -1,1 +1,3820 @@
-{"electrical-providers": [{"company": "Dominion Energy", "company-type": "Wholesale Power Marketer", "website": "https://www.dominionenergy.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 5015875185.0, "Residential-Customers": 3082314.0, "Commercial-Sales-($)": 4526037964.0, "Commercial-Customers": 389314.0, "Industrial-Sales-($)": 875973592.0, "Industrial-Customers": 1358.0, "Total-Customers": 3472986.0, "Total-Production-MWh": 112838037.0, "Production-from-Renewable-Energy-MWh": 4668014.0, "Production-from-Non-Renewable-Energy-MWh": 108170022.0, "cities-served": ["Ahoskie, NC", "Aiken, SC", "Alberta, VA", "Alexandria, VA", "Allendale, SC", "Altavista, VA", "Appomattox, VA", "Arcadia Lakes, SC", "Ashland, VA", "Askewville, NC", "Aulander, NC", "Bamberg, SC", "Barnwell, SC", "Batesburg-Leesville, SC", "Bear Grass, NC", "Beaufort, SC", "Bensville CDP, MD", "Bethel, NC", "Blackstone, VA", "Blackville, SC", "Bluffton, SC", "Blythewood, SC", "Bowling Green, VA", "Bowman, SC", "Boydton, VA", "Boykins, VA", "Branchville, SC", "Branchville, VA", "Bridgewater, VA", "Broadway, VA", "Brodnax, VA", "Brookneal, VA", "Brunson, SC", "Bryans Road CDP, MD", "Buchanan, VA", "Buena Vista, VA", "Burkeville, VA", "Burnettown, SC", "Cabin John CDP, MD", "Calhoun Falls, SC", "Cameron, SC", "Capron, VA", "Carlisle, SC", "Cayce, SC", "Chapin, SC", "Charleston, SC", "Charlotte Court House, VA", "Charlotte Hall CDP, MD", "Charlottesville, VA", "Chase City, VA", "Chatham, VA", "Chesapeake, VA", "Claremont, VA", "Clarksville, VA", "Clifton, VA", "Clifton Forge, VA", "Cofield, NC", "Colerain, NC", "Colonial Beach, VA", "Colonial Heights, VA", "Columbia, SC", "Columbia, NC", "Como, NC", "Conetoe, NC", "Conway, NC", "Cope, SC", "Cordova, SC", "Cottageville, SC", "Courtland, VA", "Covington, VA", "Craigsville, VA", "Creswell, NC", "Crewe, VA", "Culpeper, VA", "Dayton, VA", "Dendron, VA", "Denmark, SC", "Dillwyn, VA", "Drakes Branch, VA", "Duck, NC", "Dumfries, VA", "Eastover, SC", "Edenton, NC", "Edgefield, SC", "Edinburg, VA", "Edisto Beach, SC", "Ehrhardt, SC", "Elgin, SC", "Elizabeth City, NC", "Elko, SC", "Elkton, VA", "Elloree, SC", "Emporia, VA", "Estill, SC", "Eutawville, SC", "Everetts, NC", "Fairfax, VA", "Fairfax, SC", "Falls Church, VA", "Farmville, VA", "Folly Beach, SC", "Forest Acres, SC", "Franklin, VA", "Fredericksburg, VA", "Furman, SC", "Garysburg, NC", "Gaston, SC", "Gaston, NC", "Gatesville, NC", "Gifford, SC", "Gilbert, SC", "Glasgow, VA", "Goose Creek, SC", "Gordonsville, VA", "Goshen, VA", "Govan, SC", "Gretna, VA", "Grottoes, VA", "Halifax, VA", "Halifax, NC", "Hamilton, VA", "Hampton, VA", "Hampton, SC", "Hanahan, SC", "Hardeeville, SC", "Harleyville, SC", "Harrellsville, NC", "Haymarket, VA", "Herndon, VA", "Hertford, NC", "Hilda, SC", "Hillsboro, VA", "Hilton Head Island, SC", "Holly Hill, SC", "Hollywood, SC", "Hopewell, VA", "Hughesville CDP, MD", "Hurt, VA", "Indian Head, MD", "Irmo, SC", "Iron Gate, VA", "Irvington, VA", "Isle of Palms, SC", "Ivor, VA", "Jackson, SC", "Jackson, NC", "James Island, SC", "Jamesville, NC", "Jarratt, VA", "Jenkinsville, SC", "Johnston, SC", "Kelford, NC", "Kenbridge, VA", "Keysville, VA", "Kiawah Island, SC", "Kill Devil Hills, NC", "Kilmarnock, VA", "Kitty Hawk, NC", "Kline, SC", "La Crosse, VA", "La Plata, MD", "Lasker, NC", "Lawrenceville, VA", "Leesburg, VA", "Leggett, NC", "Lewiston Woodville, NC", "Lexington, SC", "Lexington, VA", "Lincolnville, SC", "Little Mountain, SC", "Livingston, SC", "Lodge, SC", "Louisa, VA", "Lovettsville, VA", "Luray, SC", "Manassas, VA", "Manassas Park, VA", "Manteo, NC", "McCormick, SC", "McKenney, VA", "Meggett, SC", "Middleburg, VA", "Moncks Corner, SC", "Monetta, SC", "Montross, VA", "Mount Crawford, VA", "Mount Jackson, VA", "Mount Pleasant, SC", "Murfreesboro, NC", "Nags Head, NC", "Neeses, SC", "New Ellenton, SC", "New Market, VA", "Newport News, VA", "Newsoms, VA", "Norfolk, VA", "North, SC", "North Augusta, SC", "North Charleston, SC", "Norway, SC", "Occoquan, VA", "Olar, SC", "Orange, VA", "Orangeburg, SC", "Pamplin City, VA", "Parksville, SC", "Parmele, NC", "Peak, SC", "Pelion, SC", "Perry, SC", "Petersburg, VA", "Phenix, VA", "Pine Ridge, SC", "Plum Branch, SC", "Plymouth, NC", "Pomaria, SC", "Poquoson, VA", "Port Royal, SC", "Port Tobacco Village, MD", "Portsmouth, VA", "Potomac Heights CDP, MD", "Powellsville, NC", "Princeville, NC", "Purcellville, VA", "Quantico, VA", "Ravenel, SC", "Reevesville, SC", "Remington, VA", "Rich Square, NC", "Richmond, VA", "Ridge Spring, SC", "Ridgeland, SC", "Ridgeville, SC", "Ridgeway, SC", "Roanoke Rapids, NC", "Robersonville, NC", "Rockville, SC", "Rocky Mount, NC", "Roper, NC", "Round Hill, VA", "Rowesville, SC", "Roxobel, NC", "Salley, SC", "Saluda, SC", "Santee, SC", "Scotia, SC", "Scotland Neck, NC", "Scottsburg, VA", "Seaboard, NC", "Seabrook Island, SC", "Severn, NC", "Shenandoah, VA", "Smithfield, VA", "Smoaks, SC", "Snelling, SC", "South Boston, VA", "South Congaree, SC", "South Hill, VA", "Southern Shores, NC", "Speed, NC", "Springdale, SC", "Springfield, SC", "St. George, SC", "St. Matthews, SC", "Stony Creek, VA", "Suffolk, VA", "Sullivan's Island, SC", "Summerville, SC", "Summit, SC", "Surry, VA", "Swansea, SC", "Sycamore, SC", "Tappahannock, VA", "Tarboro, NC", "The Plains, VA", "Timberville, VA", "Toms Brook, VA", "Trenton, SC", "Ulmer, SC", "Urbanna, VA", "Vance, SC", "Varnville, SC", "Victoria, VA", "Vienna, VA", "Virgilina, VA", "Virginia Beach, VA", "Wagener, SC", "Wakefield, VA", "Waldorf CDP, MD", "Walterboro, SC", "Ward, SC", "Warrenton, VA", "Warsaw, VA", "Washington, NC", "Washington Park, NC", "Waverly, VA", "Waynesboro, VA", "Weldon, NC", "West Columbia, SC", "West Point, VA", "Whitakers, NC", "White Stone, VA", "Williams, SC", "Williamsburg, VA", "Williamston, NC", "Williston, SC", "Windsor, VA", "Windsor, SC", "Winfall, NC", "Winnsboro, SC", "Winton, NC", "Woodford, SC", "Woodland, NC", "Woodstock, VA", "Yemassee, SC"], "counties-served": [{"county": "Tyrrell County, NC", "population": 3245}, {"county": "Bath County, VA", "population": 4209}, {"county": "Hyde County, NC", "population": 4589}, {"county": "Covington city, VA", "population": 5737}, {"county": "Emporia city, VA", "population": 5766}, {"county": "Surry County, VA", "population": 6561}, {"county": "King and Queen County, VA", "population": 6608}, {"county": "Buena Vista city, VA", "population": 6641}, {"county": "Charles City County, VA", "population": 6773}, {"county": "Lexington city, VA", "population": 7320}, {"county": "Allendale County, SC", "population": 8039}, {"county": "Franklin city, VA", "population": 8180}, {"county": "Mathews County, VA", "population": 8533}, {"county": "Richmond County, VA", "population": 8923}, {"county": "McCormick County, SC", "population": 9526}, {"county": "Cumberland County, VA", "population": 9675}, {"county": "Camden County, NC", "population": 10355}, {"county": "Gates County, NC", "population": 10478}, {"county": "Essex County, VA", "population": 10599}, {"county": "Middlesex County, VA", "population": 10625}, {"county": "Sussex County, VA", "population": 10829}, {"county": "Lancaster County, VA", "population": 10919}, {"county": "Washington County, NC", "population": 11003}, {"county": "Greensville County, VA", "population": 11391}, {"county": "Charlotte County, VA", "population": 11529}, {"county": "Northumberland County, VA", "population": 11839}, {"county": "Lunenburg County, VA", "population": 11936}, {"county": "Poquoson city, VA", "population": 12460}, {"county": "Perquimans County, NC", "population": 13005}, {"county": "Amelia County, VA", "population": 13265}, {"county": "Bamberg County, SC", "population": 13311}, {"county": "Chowan County, NC", "population": 13708}, {"county": "Calhoun County, SC", "population": 14119}, {"county": "Falls Church city, VA", "population": 14658}, {"county": "Alleghany County, VA", "population": 15223}, {"county": "Williamsburg city, VA", "population": 15425}, {"county": "Nottoway County, VA", "population": 15642}, {"county": "Brunswick County, VA", "population": 15849}, {"county": "Appomattox County, VA", "population": 16119}, {"county": "Buckingham County, VA", "population": 16824}, {"county": "Manassas Park city, VA", "population": 17219}, {"county": "Northampton County, NC", "population": 17471}, {"county": "King William County, VA", "population": 17810}, {"county": "Bertie County, NC", "population": 17934}, {"county": "Southampton County, VA", "population": 17996}, {"county": "Colonial Heights city, VA", "population": 18170}, {"county": "Westmoreland County, VA", "population": 18477}, {"county": "Hampton County, SC", "population": 18561}, {"county": "Saluda County, SC", "population": 18862}, {"county": "Barnwell County, SC", "population": 20589}, {"county": "Fairfield County, SC", "population": 20948}, {"county": "Hertford County, NC", "population": 21552}, {"county": "Prince Edward County, VA", "population": 21849}, {"county": "Martin County, NC", "population": 22031}, {"county": "Waynesboro city, VA", "population": 22196}, {"county": "Rockbridge County, VA", "population": 22650}, {"county": "New Kent County, VA", "population": 22945}, {"county": "Hopewell city, VA", "population": 23033}, {"county": "Fairfax city, VA", "population": 24146}, {"county": "Abbeville County, SC", "population": 24295}, {"county": "Goochland County, VA", "population": 24727}, {"county": "Edgefield County, SC", "population": 25657}, {"county": "King George County, VA", "population": 26723}, {"county": "Union County, SC", "population": 27244}, {"county": "Fluvanna County, VA", "population": 27249}, {"county": "Dinwiddie County, VA", "population": 27947}, {"county": "Fredericksburg city, VA", "population": 27982}, {"county": "Currituck County, NC", "population": 28100}, {"county": "Jasper County, SC", "population": 28791}, {"county": "Mecklenburg County, VA", "population": 30319}, {"county": "Powhatan County, VA", "population": 30333}, {"county": "Caroline County, VA", "population": 30887}, {"county": "Clarendon County, SC", "population": 31144}, {"county": "Amherst County, VA", "population": 31307}, {"county": "Petersburg city, VA", "population": 33458}, {"county": "Botetourt County, VA", "population": 33596}, {"county": "Halifax County, VA", "population": 34022}, {"county": "Orange County, VA", "population": 36254}, {"county": "Dare County, NC", "population": 36915}, {"county": "Louisa County, VA", "population": 37596}, {"county": "Newberry County, SC", "population": 37719}, {"county": "Colleton County, SC", "population": 38604}, {"county": "Isle of Wight County, VA", "population": 38606}, {"county": "Gloucester County, VA", "population": 38711}, {"county": "Pasquotank County, NC", "population": 40568}, {"county": "Manassas city, VA", "population": 42772}, {"county": "Prince George County, VA", "population": 43010}, {"county": "Shenandoah County, VA", "population": 44186}, {"county": "Beaufort County, NC", "population": 44652}, {"county": "Charlottesville city, VA", "population": 46553}, {"county": "Halifax County, NC", "population": 48622}, {"county": "Edgecombe County, NC", "population": 48900}, {"county": "Culpeper County, VA", "population": 52552}, {"county": "Campbell County, VA", "population": 55696}, {"county": "Pittsylvania County, VA", "population": 60501}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "York County, VA", "population": 70045}, {"county": "Fauquier County, VA", "population": 72972}, {"county": "Augusta County, VA", "population": 77487}, {"county": "James City County, VA", "population": 78254}, {"county": "Rockingham County, VA", "population": 83757}, {"county": "Orangeburg County, SC", "population": 84223}, {"county": "Suffolk city, VA", "population": 94324}, {"county": "Nash County, NC", "population": 94970}, {"county": "Portsmouth city, VA", "population": 97915}, {"county": "Sumter County, SC", "population": 105556}, {"county": "Hanover County, VA", "population": 109979}, {"county": "Albemarle County, VA", "population": 112395}, {"county": "Hampton city, VA", "population": 137148}, {"county": "Spotsylvania County, VA", "population": 140032}, {"county": "Stafford County, VA", "population": 156927}, {"county": "Alexandria city, VA", "population": 159467}, {"county": "Dorchester County, SC", "population": 161540}, {"county": "Charles County, MD", "population": 166617}, {"county": "Aiken County, SC", "population": 168808}, {"county": "Pitt County, NC", "population": 170243}, {"county": "Newport News city, VA", "population": 186247}, {"county": "Beaufort County, SC", "population": 187117}, {"county": "Richmond city, VA", "population": 226610}, {"county": "Berkeley County, SC", "population": 229861}, {"county": "Norfolk city, VA", "population": 238005}, {"county": "Arlington County, VA", "population": 238643}, {"county": "Chesapeake city, VA", "population": 249422}, {"county": "Lexington County, SC", "population": 293991}, {"county": "Henrico County, VA", "population": 334389}, {"county": "Chesterfield County, VA", "population": 364548}, {"county": "Charleston County, SC", "population": 408235}, {"county": "Richland County, SC", "population": 416147}, {"county": "Loudoun County, VA", "population": 420959}, {"county": "Virginia Beach city, VA", "population": 459470}, {"county": "Prince William County, VA", "population": 482204}, {"county": "Fairfax County, VA", "population": 1150309}], "states-served": [{"state": "North Carolina", "customers": 124610}, {"state": "South Carolina", "customers": 767061}, {"state": "Virginia", "customers": 2581317}]}, {"company": "Duke Energy Carolinas", "company-type": "Investor Owned", "website": "https://www.duke-energy.com/South-Carolina.asp", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 3061847931.0, "Residential-Customers": 2356964.0, "Commercial-Sales-($)": 2230182703.0, "Commercial-Customers": 414279.0, "Industrial-Sales-($)": 1151389295.0, "Industrial-Customers": 5938.0, "Total-Customers": 2777181.0, "Total-Production-MWh": 82707617.0, "Production-from-Renewable-Energy-MWh": 1583794.0, "Production-from-Non-Renewable-Energy-MWh": 81123823.0, "cities-served": ["Abbeville, SC", "Alamance, NC", "Albemarle, NC", "Anderson, SC", "Andrews, NC", "Archdale, NC", "Asheboro, NC", "Badin, NC", "Belmont, NC", "Belton, SC", "Belwood, NC", "Bermuda Run, NC", "Bessemer City, NC", "Bethania, NC", "Blacksburg, SC", "Blowing Rock, NC", "Boiling Springs, NC", "Boonville, NC", "Bostic, NC", "Brevard, NC", "Brookford, NC", "Bryson City, NC", "Burlington, NC", "Butner, NC", "Cajah's Mountain, NC", "Campobello, SC", "Carrboro, NC", "Cary, NC", "Casar, NC", "Catawba, NC", "Cedar Rock, NC", "Central, SC", "Central Pacolet, SC", "Chapel Hill, NC", "Charlotte, NC", "Cherryville, NC", "Chesnee, SC", "Chester, SC", "Chimney Rock Village, NC", "China Grove, NC", "Claremont, NC", "Clemmons, NC", "Clemson, SC", "Cleveland, NC", "Clinton, SC", "Clover, SC", "Columbus, NC", "Concord, NC", "Connelly Springs, NC", "Conover, NC", "Cooleemee, NC", "Cornelius, NC", "Cowpens, SC", "Cramerton, NC", "Creedmoor, NC", "Cross Hill, SC", "Dallas, NC", "Danbury, NC", "Davidson, NC", "Dellview, NC", "Denton, NC", "Dillsboro, NC", "Dobson, NC", "Donalds, SC", "Drexel, NC", "Due West, SC", "Duncan, SC", "Durham, NC", "Earl, NC", "Easley, SC", "East Bend, NC", "East Spencer, NC", "Eden, NC", "Elkin, NC", "Ellenboro, NC", "Elon, NC", "Fairview, NC", "Faith, NC", "Fallston, NC", "Flat Rock, NC", "Fletcher, NC", "Fontana Dam, NC", "Forest City, NC", "Forest Hills, NC", "Fort Lawn, SC", "Fort Mill, SC", "Fountain Inn, SC", "Franklin, NC", "Gaffney, SC", "Gamewell, NC", "Gastonia, NC", "Gibsonville, NC", "Glen Alpine, NC", "Graham, NC", "Granite Falls, NC", "Granite Quarry, NC", "Gray Court, SC", "Great Falls, SC", "Green Level, NC", "Greensboro, NC", "Greenville, SC", "Greenwood, SC", "Greer, SC", "Grover, NC", "Harmony, NC", "Harrisburg, NC", "Haw River, NC", "Heath Springs, SC", "Hemby Bridge, NC", "Hendersonville, NC", "Hickory, NC", "Hickory Grove, SC", "High Point, NC", "High Shoals, NC", "Highlands, NC", "Hildebran, NC", "Hillsborough, NC", "Hodges, SC", "Honea Path, SC", "Hudson, NC", "Huntersville, NC", "Indian Trail, NC", "Inman, SC", "Iva, SC", "Jamestown, NC", "Jonesville, NC", "Jonesville, SC", "Kannapolis, NC", "Kernersville, NC", "Kershaw, SC", "King, NC", "Kings Mountain, NC", "Kingstown, NC", "Lake Lure, NC", "Lake Park, NC", "Lake Santeetlah, NC", "Lancaster, SC", "Landis, NC", "Landrum, SC", "Lattimore, NC", "Laurel Park, NC", "Laurens, SC", "Lawndale, NC", "Lenoir, NC", "Lewisville, NC", "Lexington, NC", "Liberty, SC", "Lincolnton, NC", "Lockhart, SC", "Locust, NC", "Long View, NC", "Love Valley, NC", "Lowell, NC", "Lowndesville, SC", "Lowrys, SC", "Lyman, SC", "Madison, NC", "Maiden, NC", "Marion, NC", "Marshville, NC", "Marvin, NC", "Matthews, NC", "Mauldin, SC", "Mayodan, NC", "McAdenville, NC", "McConnells, SC", "Mebane, NC", "Midland, NC", "Midway, NC", "Mills River, NC", "Mineral Springs, NC", "Mint Hill, NC", "Misenheimer, NC", "Mocksville, NC", "Monroe, NC", "Mooresboro, NC", "Mooresville, NC", "Morganton, NC", "Morrisville, NC", "Mount Airy, NC", "Mount Holly, NC", "Mount Pleasant, NC", "Murphy, NC", "New London, NC", "Newberry, SC", "Newton, NC", "Ninety Six, SC", "Norris, SC", "North Wilkesboro, NC", "Norwood, NC", "Oak Ridge, NC", "Oakboro, NC", "Old Fort, NC", "Ossipee, NC", "Pacolet, SC", "Patterson Springs, NC", "Pelzer, SC", "Pendleton, SC", "Pickens, SC", "Pilot Mountain, NC", "Pineville, NC", "Pleasant Garden, NC", "Polkville, NC", "Prosperity, SC", "Randleman, NC", "Ranlo, NC", "Red Cross, NC", "Reidsville, NC", "Reidville, SC", "Rhodhiss, NC", "Richburg, SC", "Richfield, NC", "Robbinsville, NC", "Rock Hill, SC", "Rockwell, NC", "Ronda, NC", "Rosman, NC", "Rural Hall, NC", "Ruth, NC", "Rutherford College, NC", "Rutherfordton, NC", "Salem, SC", "Salisbury, NC", "Saluda, NC", "Sawmills, NC", "Sedalia, NC", "Seneca, SC", "Sharon, SC", "Shelby, NC", "Silverstreet, SC", "Simpsonville, SC", "Six Mile, SC", "Smyrna, SC", "Spartanburg, SC", "Spencer, NC", "Spencer Mountain, NC", "Spindale, NC", "Stallings, NC", "Stanfield, NC", "Stanley, NC", "Starr, SC", "Statesville, NC", "Stem, NC", "Stokesdale, NC", "Stoneville, NC", "Summerfield, NC", "Swepsonville, NC", "Sylva, NC", "Taylorsville, NC", "Tega Cay, SC", "Thomasville, NC", "Tobaccoville, NC", "Travelers Rest, SC", "Trinity, NC", "Troutman, NC", "Troy, SC", "Tryon, NC", "Union, SC", "Unionville, NC", "Valdese, NC", "Van Wyck, SC", "Waco, NC", "Walhalla, SC", "Walkertown, NC", "Wallburg, NC", "Walnut Cove, NC", "Ware Shoals, SC", "Waterloo, SC", "Waxhaw, NC", "Webster, NC", "Weddington, NC", "Wellford, SC", "Wentworth, NC", "Wesley Chapel, NC", "West Pelzer, SC", "West Union, SC", "Westminster, SC", "Whitmire, SC", "Whitsett, NC", "Wilkesboro, NC", "Williamston, SC", "Wingate, NC", "Winston-Salem, NC", "Woodruff, SC", "Yadkinville, NC", "York, SC"], "counties-served": [{"county": "Graham County, NC", "population": 8030}, {"county": "McCormick County, SC", "population": 9526}, {"county": "Alleghany County, NC", "population": 10888}, {"county": "Clay County, NC", "population": 11089}, {"county": "Swain County, NC", "population": 14117}, {"county": "Saluda County, SC", "population": 18862}, {"county": "Polk County, NC", "population": 19328}, {"county": "Fairfield County, SC", "population": 20948}, {"county": "Caswell County, NC", "population": 22736}, {"county": "Abbeville County, SC", "population": 24295}, {"county": "Edgefield County, SC", "population": 25657}, {"county": "Union County, SC", "population": 27244}, {"county": "Cherokee County, NC", "population": 28774}, {"county": "Chester County, SC", "population": 32294}, {"county": "Transylvania County, NC", "population": 32986}, {"county": "Alexander County, NC", "population": 36444}, {"county": "Macon County, NC", "population": 37014}, {"county": "Yadkin County, NC", "population": 37214}, {"county": "Newberry County, SC", "population": 37719}, {"county": "Davie County, NC", "population": 42712}, {"county": "Jackson County, NC", "population": 43109}, {"county": "Stokes County, NC", "population": 44520}, {"county": "McDowell County, NC", "population": 44578}, {"county": "Cherokee County, SC", "population": 56216}, {"county": "Granville County, NC", "population": 60992}, {"county": "Stanly County, NC", "population": 62504}, {"county": "Rutherford County, NC", "population": 64444}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "Wilkes County, NC", "population": 65969}, {"county": "Laurens County, SC", "population": 67539}, {"county": "Greenwood County, SC", "population": 69351}, {"county": "Surry County, NC", "population": 71359}, {"county": "Chatham County, NC", "population": 76285}, {"county": "Oconee County, SC", "population": 78607}, {"county": "Caldwell County, NC", "population": 80652}, {"county": "Lincoln County, NC", "population": 86810}, {"county": "Burke County, NC", "population": 87570}, {"county": "Rockingham County, NC", "population": 91096}, {"county": "Lancaster County, SC", "population": 96016}, {"county": "Cleveland County, NC", "population": 99519}, {"county": "Henderson County, NC", "population": 116281}, {"county": "Pickens County, SC", "population": 131404}, {"county": "Randolph County, NC", "population": 144171}, {"county": "Rowan County, NC", "population": 146875}, {"county": "Orange County, NC", "population": 148696}, {"county": "Catawba County, NC", "population": 160610}, {"county": "Davidson County, NC", "population": 168930}, {"county": "Alamance County, NC", "population": 171415}, {"county": "Iredell County, NC", "population": 186693}, {"county": "Anderson County, SC", "population": 203718}, {"county": "Cabarrus County, NC", "population": 225804}, {"county": "Gaston County, NC", "population": 227943}, {"county": "Union County, NC", "population": 238267}, {"county": "York County, SC", "population": 282090}, {"county": "Durham County, NC", "population": 324833}, {"county": "Spartanburg County, SC", "population": 327997}, {"county": "Forsyth County, NC", "population": 382590}, {"county": "Greenville County, SC", "population": 525534}, {"county": "Guilford County, NC", "population": 541299}, {"county": "Mecklenburg County, NC", "population": 1115482}, {"county": "Wake County, NC", "population": 1129410}], "states-served": [{"state": "South Carolina", "customers": 639886}, {"state": "North Carolina", "customers": 2137296}]}, {"company": "Duke Energy Progress", "company-type": "Investor Owned", "website": "https://www.duke-energy.com/home", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2191686913.0, "Residential-Customers": 1401099.0, "Commercial-Sales-($)": 1378263657.0, "Commercial-Customers": 244534.0, "Industrial-Sales-($)": 624685048.0, "Industrial-Customers": 3472.0, "Total-Customers": 1649105.0, "Total-Production-MWh": 59096928.0, "Production-from-Renewable-Energy-MWh": 1251000.0, "Production-from-Non-Renewable-Energy-MWh": 57845928.0, "cities-served": ["Aberdeen, NC", "Alliance, NC", "Angier, NC", "Ansonville, NC", "Apex, NC", "Arapahoe, NC", "Archer Lodge, NC", "Asheboro, NC", "Asheville, NC", "Atkinson, NC", "Atlantic Beach, NC", "Aurora, NC", "Autryville, NC", "Ayden, NC", "Aynor, SC", "Bailey, NC", "Bakersville, NC", "Bald Head Island, NC", "Bayboro, NC", "Beaufort, NC", "Belville, NC", "Bennettsville, SC", "Benson, NC", "Bethel, NC", "Bethune, SC", "Beulaville, NC", "Biltmore Forest, NC", "Biscoe, NC", "Bishopville, SC", "Black Creek, NC", "Black Mountain, NC", "Bladenboro, NC", "Blenheim, SC", "Boardman, NC", "Bogue, NC", "Boiling Spring Lakes, NC", "Bolivia, NC", "Bolton, NC", "Bridgeton, NC", "Broadway, NC", "Brunswick, NC", "Bunn, NC", "Burgaw, NC", "Calabash, NC", "Calypso, NC", "Camden, SC", "Cameron, NC", "Candor, NC", "Canton, NC", "Cape Carteret, NC", "Carolina Beach, NC", "Carolina Shores, NC", "Carthage, NC", "Cary, NC", "Castalia, NC", "Caswell Beach, NC", "Cedar Point, NC", "Centerville, NC", "Cerro Gordo, NC", "Chadbourn, NC", "Cheraw, SC", "Chesterfield, SC", "Chocowinity, NC", "Clarkton, NC", "Clayton, NC", "Clinton, NC", "Clio, SC", "Clyde, NC", "Coats, NC", "Conway, SC", "Cove City, NC", "Darlington, SC", "Dillon, SC", "Dobbins Heights, NC", "Dortches, NC", "Dover, NC", "Dublin, NC", "Dunn, NC", "East Arcadia, NC", "East Laurinburg, NC", "Eastover, NC", "Elizabethtown, NC", "Ellerbe, NC", "Elm City, NC", "Enfield, NC", "Erwin, NC", "Eureka, NC", "Fair Bluff, NC", "Fairmont, NC", "Faison, NC", "Falcon, NC", "Falkland, NC", "Farmville, NC", "Fayetteville, NC", "Fletcher, NC", "Florence, SC", "Fountain, NC", "Four Oaks, NC", "Foxfire, NC", "Franklinton, NC", "Franklinville, NC", "Fremont, NC", "Fuquay-Varina, NC", "Garland, NC", "Garner, NC", "Gibson, NC", "Godwin, NC", "Goldsboro, NC", "Goldston, NC", "Grantsboro, NC", "Greenevers, NC", "Greenville, NC", "Grifton, NC", "Grimesland, NC", "Hamlet, NC", "Harrells, NC", "Hartsville, SC", "Havelock, NC", "Henderson, NC", "Hobgood, NC", "Hoffman, NC", "Holden Beach, NC", "Holly Ridge, NC", "Holly Springs, NC", "Hookerton, NC", "Hope Mills, NC", "Hot Springs, NC", "Jacksonville, NC", "Jefferson, SC", "Kenansville, NC", "Kenly, NC", "Kinston, NC", "Kittrell, NC", "Knightdale, NC", "Kure Beach, NC", "La Grange, NC", "Lake View, SC", "Lake Waccamaw, NC", "Lamar, SC", "Latta, SC", "Laurinburg, NC", "Leland, NC", "Liberty, NC", "Lilesville, NC", "Lillington, NC", "Linden, NC", "Littleton, NC", "Loris, SC", "Louisburg, NC", "Lucama, NC", "Lumber Bridge, NC", "Lumberton, NC", "Lynchburg, SC", "Macclesfield, NC", "Macon, NC", "Maggie Valley, NC", "Magnolia, NC", "Manning, SC", "Marietta, NC", "Marion, SC", "Mars Hill, NC", "Marshall, NC", "Maxton, NC", "Mayesville, SC", "Maysville, NC", "McBee, SC", "McColl, SC", "McDonald, NC", "McFarlan, NC", "Mesic, NC", "Micro, NC", "Middleburg, NC", "Middlesex, NC", "Milton, NC", "Minnesott Beach, NC", "Momeyer, NC", "Montreat, NC", "Morehead City, NC", "Morrisville, NC", "Morven, NC", "Mount Croghan, SC", "Mount Gilead, NC", "Mount Olive, NC", "Mullins, SC", "Myrtle Beach, SC", "Nashville, NC", "Navassa, NC", "New Bern, NC", "Newport, NC", "Newton Grove, NC", "Nichols, SC", "Norlina, NC", "Norman, NC", "North Myrtle Beach, SC", "Northwest, NC", "Oak Island, NC", "Ocean Isle Beach, NC", "Olanta, SC", "Oriental, NC", "Orrum, NC", "Oxford, NC", "Pageland, SC", "Parkton, NC", "Patrick, SC", "Paxville, SC", "Peachland, NC", "Peletier, NC", "Pembroke, NC", "Pikeville, NC", "Pine Level, NC", "Pinebluff, NC", "Pinehurst, NC", "Pinetops, NC", "Pinewood, SC", "Pink Hill, NC", "Pittsboro, NC", "Polkton, NC", "Pollocksville, NC", "Princeton, NC", "Princeville, NC", "Proctorville, NC", "Quinby, SC", "Raeford, NC", "Raleigh, NC", "Ramseur, NC", "Raynham, NC", "Red Oak, NC", "Red Springs, NC", "Rennert, NC", "Richlands, NC", "River Bend, NC", "Roanoke Rapids, NC", "Robbins, NC", "Rockingham, NC", "Rocky Mount, NC", "Rolesville, NC", "Rose Hill, NC", "Roseboro, NC", "Rowland, NC", "Roxboro, NC", "Ruby, SC", "Salemburg, NC", "Sandy Creek, NC", "Sandyfield, NC", "Sanford, NC", "Saratoga, NC", "Scotland Neck, NC", "Seagrove, NC", "Sellers, SC", "Selma, NC", "Seven Springs, NC", "Shallotte, NC", "Sharpsburg, NC", "Siler City, NC", "Simpson, NC", "Sims, NC", "Smithfield, NC", "Snow Hill, NC", "Society Hill, SC", "Southern Pines, NC", "Southport, NC", "Spring Hope, NC", "Spring Lake, NC", "Spruce Pine, NC", "St. Helena, NC", "St. James, NC", "St. Pauls, NC", "Staley, NC", "Stantonsburg, NC", "Star, NC", "Stedman, NC", "Stem, NC", "Stonewall, NC", "Stovall, NC", "Sumter, SC", "Sunset Beach, NC", "Surf City, NC", "Surfside Beach, SC", "Swansboro, NC", "Tabor City, NC", "Tar Heel, NC", "Tarboro, NC", "Tatum, SC", "Taylortown, NC", "Teachey, NC", "Timmonsville, SC", "Topsail Beach, NC", "Trent Woods, NC", "Trenton, NC", "Troy, NC", "Turbeville, SC", "Turkey, NC", "Vanceboro, NC", "Vandemere, NC", "Varnamtown, NC", "Vass, NC", "Virgilina, VA", "Wade, NC", "Wadesboro, NC", "Wagram, NC", "Wake Forest, NC", "Wallace, NC", "Walnut Creek, NC", "Walstonburg, NC", "Warrenton, NC", "Warsaw, NC", "Washington, NC", "Watha, NC", "Waynesville, NC", "Weaverville, NC", "Weldon, NC", "Wendell, NC", "Whispering Pines, NC", "Whitakers, NC", "White Lake, NC", "Whiteville, NC", "Wilmington, NC", "Wilson, NC", "Wilson's Mills, NC", "Winterville, NC", "Woodfin, NC", "Wrightsville Beach, NC", "Yanceyville, NC", "Youngsville, NC", "Zebulon, NC"], "counties-served": [{"county": "Jones County, NC", "population": 9172}, {"county": "Pamlico County, NC", "population": 12276}, {"county": "Mitchell County, NC", "population": 14903}, {"county": "Lee County, SC", "population": 16531}, {"county": "Northampton County, NC", "population": 17471}, {"county": "Avery County, NC", "population": 17806}, {"county": "Yancey County, NC", "population": 18470}, {"county": "Warren County, NC", "population": 18642}, {"county": "Greene County, NC", "population": 20451}, {"county": "Madison County, NC", "population": 21193}, {"county": "Martin County, NC", "population": 22031}, {"county": "Anson County, NC", "population": 22055}, {"county": "Caswell County, NC", "population": 22736}, {"county": "Montgomery County, NC", "population": 25751}, {"county": "Marlboro County, SC", "population": 26667}, {"county": "Dillon County, SC", "population": 28292}, {"county": "Marion County, SC", "population": 29183}, {"county": "Bladen County, NC", "population": 29606}, {"county": "Clarendon County, SC", "population": 31144}, {"county": "Scotland County, NC", "population": 34174}, {"county": "Person County, NC", "population": 39097}, {"county": "Vance County, NC", "population": 42578}, {"county": "Richmond County, NC", "population": 42946}, {"county": "Jackson County, NC", "population": 43109}, {"county": "Chesterfield County, SC", "population": 43273}, {"county": "Beaufort County, NC", "population": 44652}, {"county": "Halifax County, NC", "population": 48622}, {"county": "Duplin County, NC", "population": 48715}, {"county": "Edgecombe County, NC", "population": 48900}, {"county": "Columbus County, NC", "population": 50623}, {"county": "Hoke County, NC", "population": 52082}, {"county": "Lenoir County, NC", "population": 55122}, {"county": "Sampson County, NC", "population": 59036}, {"county": "Pender County, NC", "population": 60203}, {"county": "Granville County, NC", "population": 60992}, {"county": "Haywood County, NC", "population": 62089}, {"county": "Darlington County, SC", "population": 62905}, {"county": "Lee County, NC", "population": 63285}, {"county": "Georgetown County, SC", "population": 63404}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "Carteret County, NC", "population": 67686}, {"county": "Franklin County, NC", "population": 68573}, {"county": "Chatham County, NC", "population": 76285}, {"county": "Wilson County, NC", "population": 78784}, {"county": "Nash County, NC", "population": 94970}, {"county": "Moore County, NC", "population": 99727}, {"county": "Craven County, NC", "population": 100720}, {"county": "Sumter County, SC", "population": 105556}, {"county": "Robeson County, NC", "population": 116530}, {"county": "Wayne County, NC", "population": 117333}, {"county": "Harnett County, NC", "population": 133568}, {"county": "Brunswick County, NC", "population": 136693}, {"county": "Florence County, SC", "population": 137059}, {"county": "Randolph County, NC", "population": 144171}, {"county": "Orange County, NC", "population": 148696}, {"county": "Davidson County, NC", "population": 168930}, {"county": "Pitt County, NC", "population": 170243}, {"county": "Alamance County, NC", "population": 171415}, {"county": "Onslow County, NC", "population": 204576}, {"county": "Johnston County, NC", "population": 215999}, {"county": "New Hanover County, NC", "population": 225702}, {"county": "Buncombe County, NC", "population": 269452}, {"county": "Durham County, NC", "population": 324833}, {"county": "Cumberland County, NC", "population": 334728}, {"county": "Horry County, SC", "population": 351029}, {"county": "Richland County, SC", "population": 416147}, {"county": "Wake County, NC", "population": 1129410}], "states-served": [{"state": "South Carolina", "customers": 172602}, {"state": "North Carolina", "customers": 1476694}]}, {"company": "Santee Cooper", "company-type": "State", "website": "https://www.santeecooper.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 223382385.0, "Residential-Customers": 167253.0, "Commercial-Sales-($)": 184249761.0, "Commercial-Customers": 30763.0, "Industrial-Sales-($)": 310056276.0, "Industrial-Customers": 28.0, "Total-Customers": 198044.0, "Total-Production-MWh": 17845250.0, "Production-from-Renewable-Energy-MWh": 301401.0, "Production-from-Non-Renewable-Energy-MWh": 17543849.0, "cities-served": ["Andrews, SC", "Atlantic Beach, SC", "Aynor, SC", "Bonneau, SC", "Briarcliffe Acres, SC", "Charleston, SC", "Conway, SC", "Georgetown, SC", "Goose Creek, SC", "Hanahan, SC", "Jamestown, SC", "Loris, SC", "Moncks Corner, SC", "Myrtle Beach, SC", "North Myrtle Beach, SC", "Pawleys Island, SC", "St. Stephen, SC", "Summerville, SC", "Surfside Beach, SC"], "counties-served": [{"county": "Georgetown County, SC", "population": 63404}, {"county": "Berkeley County, SC", "population": 229861}, {"county": "Horry County, SC", "population": 351029}], "states-served": [{"state": "South Carolina", "customers": 198045}]}, {"company": "Berkeley Electric Cooperative", "company-type": "Cooperative", "website": "https://www.berkeleyelectric.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 190197000.0, "Residential-Customers": 101410.0, "Commercial-Sales-($)": 62521000.0, "Commercial-Customers": 13467.0, "Industrial-Sales-($)": 112375000.0, "Industrial-Customers": 11.0, "Total-Customers": 114888.0, "cities-served": ["Awendaw, SC", "Bonneau, SC", "Charleston, SC", "Folly Beach, SC", "Goose Creek, SC", "Hollywood, SC", "Jamestown, SC", "Kiawah Island, SC", "McClellanville, SC", "Moncks Corner, SC", "Mount Pleasant, SC", "Ravenel, SC", "Rockville, SC", "Seabrook Island, SC", "St. Stephen, SC", "Summerville, SC"], "counties-served": [{"county": "Dorchester County, SC", "population": 161540}, {"county": "Berkeley County, SC", "population": 229861}, {"county": "Charleston County, SC", "population": 408235}], "states-served": [{"state": "South Carolina", "customers": 114887}]}, {"company": "Horry Electric Cooperative", "company-type": "Cooperative", "website": "https://www.horryelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 133830000.0, "Residential-Customers": 73288.0, "Commercial-Sales-($)": 27155000.0, "Commercial-Customers": 11208.0, "Industrial-Sales-($)": 3082000.0, "Industrial-Customers": 11.0, "Total-Customers": 84507.0, "cities-served": ["Aynor, SC", "Conway, SC", "Loris, SC", "Myrtle Beach, SC", "North Myrtle Beach, SC"], "counties-served": [{"county": "Horry County, SC", "population": 351029}], "states-served": [{"state": "South Carolina", "customers": 84507}]}, {"company": "Palmetto Electrictric Cooperative", "company-type": "Cooperative", "website": "http://www.palmetto.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 109182036.0, "Residential-Customers": 65468.0, "Commercial-Sales-($)": 50488001.0, "Commercial-Customers": 11020.0, "Industrial-Sales-($)": 7787273.0, "Industrial-Customers": 28.0, "Total-Customers": 76516.0, "cities-served": ["Bluffton, SC", "Hardeeville, SC", "Hilton Head Island, SC", "Ridgeland, SC"], "counties-served": [{"county": "Hampton County, SC", "population": 18561}, {"county": "Jasper County, SC", "population": 28791}, {"county": "Beaufort County, SC", "population": 187117}], "states-served": [{"state": "South Carolina", "customers": 76516}]}, {"company": "Blue Ridge Electric Coop", "company-type": "Cooperative", "website": "http://www.blueridge.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 115116900.0, "Residential-Customers": 62285.0, "Commercial-Sales-($)": 21718000.0, "Commercial-Customers": 5276.0, "Industrial-Sales-($)": 9732000.0, "Industrial-Customers": 28.0, "Total-Customers": 67589.0, "cities-served": ["Central, SC", "Clemson, SC", "Easley, SC", "Liberty, SC", "Norris, SC", "Pendleton, SC", "Pickens, SC", "Salem, SC", "Seneca, SC", "Six Mile, SC", "Walhalla, SC", "West Union, SC", "Westminster, SC"], "counties-served": [{"county": "Oconee County, SC", "population": 78607}, {"county": "Pickens County, SC", "population": 131404}, {"county": "Anderson County, SC", "population": 203718}, {"county": "Greenville County, SC", "population": 525534}], "states-served": [{"state": "South Carolina", "customers": 67589}]}, {"company": "York Electric Cooperative", "company-type": "Cooperative", "website": "https://www.yorkelectric.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 92945000.0, "Residential-Customers": 59229.0, "Commercial-Sales-($)": 25105000.0, "Commercial-Customers": 5177.0, "Industrial-Sales-($)": 6732000.0, "Industrial-Customers": 27.0, "Total-Customers": 64433.0, "cities-served": ["Clover, SC", "Fort Mill, SC", "Hickory Grove, SC", "McConnells, SC", "Rock Hill, SC", "Tega Cay, SC"], "counties-served": [{"county": "Chester County, SC", "population": 32294}, {"county": "Cherokee County, SC", "population": 56216}, {"county": "Lancaster County, SC", "population": 96016}, {"county": "York County, SC", "population": 282090}], "states-served": [{"state": "North Carolina", "customers": 17}, {"state": "South Carolina", "customers": 64416}]}, {"company": "Laurens Electric Cooperative", "company-type": "Cooperative", "website": "https://www.laurenselectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 96262000.0, "Residential-Customers": 54515.0, "Commercial-Sales-($)": 25508000.0, "Commercial-Customers": 5753.0, "Industrial-Sales-($)": 13453000.0, "Industrial-Customers": 40.0, "Total-Customers": 60308.0, "cities-served": ["Clinton, SC", "Fountain Inn, SC", "Gray Court, SC", "Greer, SC", "Mauldin, SC", "Waterloo, SC", "Woodruff, SC"], "counties-served": [{"county": "Union County, SC", "population": 27244}, {"county": "Newberry County, SC", "population": 37719}, {"county": "Laurens County, SC", "population": 67539}, {"county": "Spartanburg County, SC", "population": 327997}, {"county": "Greenville County, SC", "population": 525534}], "states-served": [{"state": "South Carolina", "customers": 60308}]}, {"company": "Mid Carolina Electric Cooperative", "company-type": "Cooperative", "website": "https://www.mcecoop.com/default.aspx", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 97899000.0, "Residential-Customers": 53605.0, "Commercial-Sales-($)": 25064000.0, "Commercial-Customers": 4172.0, "Industrial-Sales-($)": 3090000.0, "Industrial-Customers": 8.0, "Total-Customers": 57785.0, "cities-served": ["Chapin, SC", "Gilbert, SC", "Irmo, SC", "Lexington, SC", "Little Mountain, SC", "South Congaree, SC"], "counties-served": [{"county": "Saluda County, SC", "population": 18862}, {"county": "Aiken County, SC", "population": 168808}, {"county": "Lexington County, SC", "population": 293991}, {"county": "Richland County, SC", "population": 416147}], "states-served": [{"state": "South Carolina", "customers": 57785}]}, {"company": "Aiken Electric Cooperative", "company-type": "Cooperative", "website": "https://www.aikenco-op.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 83563100.0, "Residential-Customers": 46101.0, "Commercial-Sales-($)": 15287800.0, "Commercial-Customers": 3190.0, "Industrial-Sales-($)": 10963100.0, "Industrial-Customers": 16.0, "Total-Customers": 49307.0, "cities-served": ["Aiken, SC", "Burnettown, SC", "McCormick, SC", "New Ellenton, SC"], "counties-served": [{"county": "McCormick County, SC", "population": 9526}, {"county": "Calhoun County, SC", "population": 14119}, {"county": "Saluda County, SC", "population": 18862}, {"county": "Barnwell County, SC", "population": 20589}, {"county": "Edgefield County, SC", "population": 25657}, {"county": "Orangeburg County, SC", "population": 84223}, {"county": "Aiken County, SC", "population": 168808}, {"county": "Lexington County, SC", "population": 293991}], "states-served": [{"state": "South Carolina", "customers": 49307}]}, {"company": "Santee Electric Cooperative", "company-type": "Cooperative", "website": "https://www.santee.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 73488000.0, "Residential-Customers": 34251.0, "Commercial-Sales-($)": 18501500.0, "Commercial-Customers": 9397.0, "Industrial-Sales-($)": 36953800.0, "Industrial-Customers": 16.0, "Total-Customers": 43664.0, "cities-served": ["Coward, SC", "Georgetown, SC", "Greeleyville, SC", "Johnsonville, SC", "Kingstree, SC", "Lake City, SC", "Pamplico, SC", "Summerton, SC"], "counties-served": [{"county": "Williamsburg County, SC", "population": 31026}, {"county": "Clarendon County, SC", "population": 31144}, {"county": "Georgetown County, SC", "population": 63404}, {"county": "Florence County, SC", "population": 137059}], "states-served": [{"state": "South Carolina", "customers": 43664}]}, {"company": "Rock Hill Electric", "company-type": "Municipal", "website": "https://www.cityofrockhill.com/departments/utilities/more/utilities/electric-service", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 49299000.0, "Residential-Customers": 36183.0, "Commercial-Sales-($)": 53910000.0, "Commercial-Customers": 3743.0, "Industrial-Sales-($)": 5862000.0, "Industrial-Customers": 7.0, "Total-Customers": 39933.0, "cities-served": ["Rock Hill"], "counties-served": [{"county": "York County, SC", "population": 282090}], "states-served": [{"state": "South Carolina", "customers": 39933}]}, {"company": "Greer CPW", "company-type": "Municipal", "website": "https://www.greercpw.com/utilities/electricity/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 25814000.0, "Residential-Customers": 18444.0, "Commercial-Sales-($)": 19856000.0, "Commercial-Customers": 15531.0, "Total-Customers": 33975.0, "cities-served": ["Greer"], "counties-served": [{"county": "Spartanburg County, SC", "population": 327997}, {"county": "Greenville County, SC", "population": 525534}], "states-served": [{"state": "South Carolina", "customers": 33975}]}, {"company": "Black River Electric Cooperative SC", "company-type": "Cooperative", "website": "https://blackriver.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 53482900.0, "Residential-Customers": 29065.0, "Commercial-Sales-($)": 13866700.0, "Commercial-Customers": 4053.0, "Industrial-Sales-($)": 8492200.0, "Industrial-Customers": 18.0, "Total-Customers": 33136.0, "cities-served": ["Mayesville, SC", "Sumter, SC"], "counties-served": [{"county": "Lee County, SC", "population": 16531}, {"county": "Clarendon County, SC", "population": 31144}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "Sumter County, SC", "population": 105556}], "states-served": [{"state": "South Carolina", "customers": 33136}]}, {"company": "Pee Dee Electric Cooperative", "company-type": "Cooperative", "website": "https://www.pdec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 48736000.0, "Residential-Customers": 28052.0, "Commercial-Sales-($)": 7986000.0, "Commercial-Customers": 2703.0, "Industrial-Sales-($)": 14136000.0, "Industrial-Customers": 30.0, "Total-Customers": 30785.0, "cities-served": ["Darlington, SC", "Florence, SC", "Nichols, SC", "Society Hill, SC", "Timmonsville, SC"], "counties-served": [{"county": "Lee County, SC", "population": 16531}, {"county": "Dillon County, SC", "population": 28292}, {"county": "Marion County, SC", "population": 29183}, {"county": "Chesterfield County, SC", "population": 43273}, {"county": "Darlington County, SC", "population": 62905}, {"county": "Florence County, SC", "population": 137059}], "states-served": [{"state": "South Carolina", "customers": 30785}]}, {"company": "Fairfield Electric", "company-type": "Cooperative", "website": "https://www.fairfield.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 52140000.0, "Residential-Customers": 28685.0, "Commercial-Sales-($)": 9645000.0, "Commercial-Customers": 1747.0, "Industrial-Sales-($)": 9794000.0, "Industrial-Customers": 18.0, "Total-Customers": 30450.0, "cities-served": ["Blythewood, SC", "Columbia, SC", "Elgin, SC"], "counties-served": [{"county": "Fairfield County, SC", "population": 20948}, {"county": "Chester County, SC", "population": 32294}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "Richland County, SC", "population": 416147}], "states-served": [{"state": "South Carolina", "customers": 30450}]}, {"company": "Orangeburg Department of Public Utilities", "company-type": "Municipal", "website": "http://www.orbgdpu.com/about-us/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 33373600.0, "Residential-Customers": 20614.0, "Commercial-Sales-($)": 18524800.0, "Commercial-Customers": 3754.0, "Industrial-Sales-($)": 27261800.0, "Industrial-Customers": 139.0, "Total-Customers": 24507.0, "Total-Production-MWh": 193.0, "Production-from-Non-Renewable-Energy-MWh": 193.0, "cities-served": ["Cope, SC", "Cordova, SC", "Orangeburg, SC", "Rowesville, SC"], "counties-served": [{"county": "Orangeburg County, SC", "population": 84223}], "states-served": [{"state": "South Carolina", "customers": 24507}]}, {"company": "Broad River Electric Cooperative", "company-type": "Cooperative", "website": "https://www.broadriverelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 39597700.0, "Residential-Customers": 21475.0, "Commercial-Sales-($)": 5475500.0, "Commercial-Customers": 1397.0, "Industrial-Sales-($)": 5462800.0, "Industrial-Customers": 7.0, "Total-Customers": 22879.0, "cities-served": ["Blacksburg, SC", "Chesnee, SC", "Jonesville, SC", "Lyman, SC", "Wellford, SC"], "counties-served": [{"county": "Union County, SC", "population": 27244}, {"county": "Newberry County, SC", "population": 37719}, {"county": "Cherokee County, SC", "population": 56216}, {"county": "Spartanburg County, SC", "population": 327997}], "states-served": [{"state": "North Carolina", "customers": 443}, {"state": "South Carolina", "customers": 22436}]}, {"company": "Lynches River Electric Cooperative", "company-type": "Cooperative", "website": "https://www.lynchesriver.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 35947000.0, "Residential-Customers": 20208.0, "Commercial-Sales-($)": 8511000.0, "Commercial-Customers": 1106.0, "Industrial-Sales-($)": 6065000.0, "Industrial-Customers": 10.0, "Total-Customers": 21324.0, "cities-served": ["Chesterfield, SC", "Heath Springs, SC", "Kershaw, SC", "Mount Croghan, SC", "Pageland, SC", "Ruby, SC"], "counties-served": [{"county": "Chesterfield County, SC", "population": 43273}, {"county": "Kershaw County, SC", "population": 65403}, {"county": "Lancaster County, SC", "population": 96016}], "states-served": [{"state": "South Carolina", "customers": 21324}]}, {"company": "Edisto Electric Cooperative", "company-type": "Cooperative", "website": "http://www.edistoelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 33438800.0, "Residential-Customers": 15091.0, "Commercial-Sales-($)": 8730600.0, "Commercial-Customers": 5431.0, "Industrial-Sales-($)": 6019700.0, "Industrial-Customers": 28.0, "Total-Customers": 20550.0, "cities-served": ["Bamberg, SC", "Bowman, SC", "Ehrhardt, SC", "Ridgeville, SC", "Ulmer, SC"], "counties-served": [{"county": "Allendale County, SC", "population": 8039}, {"county": "Bamberg County, SC", "population": 13311}, {"county": "Hampton County, SC", "population": 18561}, {"county": "Barnwell County, SC", "population": 20589}, {"county": "Orangeburg County, SC", "population": 84223}, {"county": "Dorchester County, SC", "population": 161540}], "states-served": [{"state": "South Carolina", "customers": 20550}]}, {"company": "Tri-County Electric Cooperative", "company-type": "Cooperative", "website": "https://www.tri-countyelectric.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 35839800.0, "Residential-Customers": 17492.0, "Commercial-Sales-($)": 5504600.0, "Commercial-Customers": 527.0, "Industrial-Sales-($)": 2017600.0, "Industrial-Customers": 259.0, "Total-Customers": 18278.0, "cities-served": ["Santee, SC", "Vance, SC"], "counties-served": [{"county": "Calhoun County, SC", "population": 14119}, {"county": "Orangeburg County, SC", "population": 84223}, {"county": "Lexington County, SC", "population": 293991}, {"county": "Richland County, SC", "population": 416147}], "states-served": [{"state": "South Carolina", "customers": 18278}]}, {"company": "Easley Combined Utilities", "company-type": "Municipal", "website": "https://www.easleyutilities.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 20739000.0, "Residential-Customers": 13578.0, "Commercial-Sales-($)": 14135000.0, "Commercial-Customers": 1619.0, "Total-Customers": 15197.0, "cities-served": ["Easley", "Powdersville CDP", "Arial CDP", "Dacusville CDP"], "counties-served": [{"county": "Pickens County, SC", "population": 131404}], "states-served": [{"state": "South Carolina", "customers": 15197}]}, {"company": "Little River Electric Cooperative", "company-type": "Cooperative", "website": "https://www.lreci.coop/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 22047263.742, "Residential-Customers": 12115.0, "Commercial-Sales-($)": 5742436.258, "Commercial-Customers": 2393.0, "Total-Customers": 14508.0, "cities-served": ["Calhoun Falls, SC", "Donalds, SC", "Due West, SC", "Parksville, SC", "Starr, SC", "Ware Shoals, SC"], "counties-served": [{"county": "McCormick County, SC", "population": 9526}, {"county": "Abbeville County, SC", "population": 24295}, {"county": "Greenwood County, SC", "population": 69351}, {"county": "Anderson County, SC", "population": 203718}], "states-served": [{"state": "South Carolina", "customers": 14508}]}, {"company": "Greenwood Electric Company", "company-type": "Municipal", "website": "https://www.greenwoodcpw.com/electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 9404000.0, "Residential-Customers": 11293.0, "Commercial-Sales-($)": 11931000.0, "Commercial-Customers": 2952.0, "Total-Customers": 14245.0, "cities-served": ["Greenwood"], "counties-served": [{"county": "Greenwood County, SC", "population": 69351}], "states-served": [{"state": "South Carolina", "customers": 14245}]}, {"company": "Newberry Electric Cooperative", "company-type": "Cooperative", "website": "https://www.nec.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 22201000.0, "Residential-Customers": 12447.0, "Commercial-Sales-($)": 4365000.0, "Commercial-Customers": 737.0, "Industrial-Sales-($)": 12853000.0, "Industrial-Customers": 21.0, "Total-Customers": 13205.0, "cities-served": ["Newberry, SC", "Prosperity, SC", "Silverstreet, SC"], "counties-served": [{"county": "Fairfield County, SC", "population": 20948}, {"county": "Newberry County, SC", "population": 37719}], "states-served": [{"state": "South Carolina", "customers": 13205}]}, {"company": "Coastal Electric Cooperative Walterboro", "company-type": "Cooperative", "website": "https://www.coastal.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 22506843.977, "Residential-Customers": 10621.0, "Commercial-Sales-($)": 4124107.225, "Commercial-Customers": 1172.0, "Industrial-Sales-($)": 560348.798, "Industrial-Customers": 4.0, "Total-Customers": 11797.0, "cities-served": ["Smoaks, SC", "Walterboro, SC"], "counties-served": [{"county": "Bamberg County, SC", "population": 13311}, {"county": "Colleton County, SC", "population": 38604}], "states-served": [{"state": "South Carolina", "customers": 11797}]}, {"company": "City of Camden Electric", "company-type": "Municipal", "website": "https://www.cityofcamden.org/services/public-works-utilities/electric-utility", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 12837109.327, "Residential-Customers": 9482.0, "Commercial-Sales-($)": 8522890.673, "Commercial-Customers": 1333.0, "Total-Customers": 10815.0, "cities-served": ["Camden"], "counties-served": [{"county": "Kershaw County, SC", "population": 65403}], "states-served": [{"state": "South Carolina", "customers": 10815}]}, {"company": "Seneca Light and Water", "company-type": "Municipal", "website": "http://www.senecalightandwater.com/Utilities/Electricity.aspx", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7224967.895, "Residential-Customers": 6512.0, "Commercial-Sales-($)": 7695637.102, "Commercial-Customers": 1128.0, "Industrial-Sales-($)": 437795.002, "Industrial-Customers": 6.0, "Total-Customers": 7646.0, "Total-Production-MWh": 1586.0, "Production-from-Non-Renewable-Energy-MWh": 1586.0, "cities-served": ["Seneca"], "counties-served": [{"county": "Oconee County, SC", "population": 78607}], "states-served": [{"state": "South Carolina", "customers": 7646}]}, {"company": "Union CIty Utilities", "company-type": "Municipal", "website": "http://www.cityofunion.net/page/140005136/140016447/Utilities-Department", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 8927827.848, "Residential-Customers": 5816.0, "Commercial-Sales-($)": 6469784.246, "Commercial-Customers": 1142.0, "Industrial-Sales-($)": 1240387.905, "Industrial-Customers": 12.0, "Total-Customers": 6970.0, "cities-served": ["Union"], "counties-served": [{"county": "Union County, SC", "population": 27244}], "states-served": [{"state": "South Carolina", "customers": 6970}]}, {"company": "Gaffney Electric", "company-type": "Municipal", "website": "https://www.gbpw.com/services/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 8049000.0, "Residential-Customers": 5554.0, "Commercial-Sales-($)": 10558000.0, "Commercial-Customers": 1148.0, "Industrial-Sales-($)": 4322000.0, "Industrial-Customers": 20.0, "Total-Customers": 6722.0, "cities-served": ["Gaffney", "East Gaffney CDP"], "counties-served": [{"county": "Cherokee County, SC", "population": 56216}], "states-served": [{"state": "South Carolina", "customers": 6722}]}, {"company": "Marlboro Electric Cooperative", "company-type": "Cooperative", "website": "https://www.marlboro.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7759000.0, "Residential-Customers": 5336.0, "Commercial-Sales-($)": 2626000.0, "Commercial-Customers": 1186.0, "Industrial-Sales-($)": 47745000.0, "Industrial-Customers": 6.0, "Total-Customers": 6528.0, "cities-served": ["Bennettsville", "Wallace CDP", "Little Rock CDP"], "counties-served": [{"county": "Marlboro County, SC", "population": 26667}, {"county": "Dillon County, SC", "population": 28292}], "states-served": [{"state": "South Carolina", "customers": 6528}]}, {"company": "Lockhart Power Company", "company-type": "Investor Owned", "website": "https://www.lockhartpower.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 8246627.0, "Residential-Customers": 4902.0, "Commercial-Sales-($)": 2567195.0, "Commercial-Customers": 1291.0, "Industrial-Sales-($)": 8752883.0, "Industrial-Customers": 9.0, "Total-Customers": 6202.0, "Total-Production-MWh": 105086.0, "Production-from-Renewable-Energy-MWh": 105163.0, "Production-from-Non-Renewable-Energy-MWh": -77.0, "cities-served": ["Carlisle, SC", "Central Pacolet, SC", "Jonesville, SC", "Lockhart, SC", "Pacolet, SC", "Union, SC"], "counties-served": [{"county": "Union County, SC", "population": 27244}, {"county": "Chester County, SC", "population": 32294}, {"county": "Cherokee County, SC", "population": 56216}, {"county": "York County, SC", "population": 282090}, {"county": "Spartanburg County, SC", "population": 327997}], "states-served": [{"state": "South Carolina", "customers": 6202}]}, {"company": "Laurens Commission of Public Works", "company-type": "Municipal", "website": "https://www.lcpw.com/electricity", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 6166334.812, "Residential-Customers": 4472.0, "Commercial-Sales-($)": 4668712.621, "Commercial-Customers": 913.0, "Industrial-Sales-($)": 2160952.567, "Industrial-Customers": 10.0, "Total-Customers": 5395.0, "cities-served": ["Laurens"], "counties-served": [{"county": "Laurens County, SC", "population": 67539}], "states-served": [{"state": "South Carolina", "customers": 5395}]}, {"company": "Georgetown, South Carolina Electric Utility", "company-type": "Municipal", "website": "https://www.georgetownsc.gov/governmental_services/departments/electric_utility_department/index.php", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 4336882.358, "Residential-Customers": 3904.0, "Commercial-Sales-($)": 6222117.642, "Commercial-Customers": 1166.0, "Total-Customers": 5070.0, "cities-served": ["Georgetown"], "counties-served": [{"county": "Georgetown County, SC", "population": 63404}], "states-served": [{"state": "South Carolina", "customers": 5070}]}, {"company": "City of Newberry Electric Utility", "company-type": "Municipal", "website": "https://www.cityofnewberry.com/city-services/utility-department", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 6257800.0, "Residential-Customers": 4058.0, "Commercial-Sales-($)": 8452500.0, "Commercial-Customers": 894.0, "Industrial-Sales-($)": 9514800.0, "Industrial-Customers": 15.0, "Total-Customers": 4967.0, "cities-served": ["Newberry"], "counties-served": [{"county": "Newberry County, SC", "population": 37719}], "states-served": [{"state": "South Carolina", "customers": 4967}]}, {"company": "City of Bennettsville Utilities", "company-type": "Municipal", "website": "http://bennettsvillesc.com/utilities/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 5287566.077, "Residential-Customers": 3885.0, "Commercial-Sales-($)": 3355433.923, "Commercial-Customers": 518.0, "Total-Customers": 4403.0, "cities-served": ["Bennettsville"], "counties-served": [{"county": "Marlboro County, SC", "population": 26667}], "states-served": [{"state": "South Carolina", "customers": 4403}]}, {"company": "Clinton Electric Company", "company-type": "Municipal", "website": "https://www.cityofclintonsc.com/index.asp?SEC=888BE284-085A-4E3E-87A2-82AC3EAA83F1", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 5706071.227, "Residential-Customers": 3468.0, "Commercial-Sales-($)": 5489384.978, "Commercial-Customers": 632.0, "Industrial-Sales-($)": 2363943.794, "Industrial-Customers": 1.0, "Total-Customers": 4101.0, "cities-served": ["Clinton"], "counties-served": [{"county": "Laurens County, SC", "population": 67539}], "states-served": [{"state": "South Carolina", "customers": 4101}]}, {"company": "Abbeville Public Utilities", "company-type": "Municipal", "website": "https://www.abbevilleutilities.com/electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 4295371.815, "Residential-Customers": 2983.0, "Commercial-Sales-($)": 2798628.185, "Commercial-Customers": 405.0, "Total-Customers": 3388.0, "Total-Production-MWh": 12.0, "Production-from-Renewable-Energy-MWh": 6.0, "Production-from-Non-Renewable-Energy-MWh": 6.0, "cities-served": ["Abbeville"], "counties-served": [{"county": "Abbeville County, SC", "population": 24295}], "states-served": [{"state": "South Carolina", "customers": 3388}]}, {"company": "Winnsboro, South Carolina Electric Utility", "company-type": "Municipal", "website": "https://www.townofwinnsboro.com/electricity", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 4531852.087, "Residential-Customers": 2608.0, "Commercial-Sales-($)": 2980819.419, "Commercial-Customers": 538.0, "Industrial-Sales-($)": 50328.494, "Industrial-Customers": 6.0, "Total-Customers": 3152.0, "cities-served": ["Winnsboro", "Winnsboro Mills CDP"], "counties-served": [{"county": "Fairfield County, SC", "population": 20948}], "states-served": [{"state": "South Carolina", "customers": 3152}]}, {"company": "Bamberg Board of Public Works", "company-type": "Municipal", "website": "http://www.bambergsc.com/bpw/index.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 1992214.24, "Residential-Customers": 1290.0, "Commercial-Sales-($)": 1905812.955, "Commercial-Customers": 578.0, "Industrial-Sales-($)": 757672.805, "Industrial-Customers": 2.0, "Total-Customers": 1870.0, "cities-served": ["Bamberg"], "counties-served": [{"county": "Bamberg County, SC", "population": 13311}], "states-served": [{"state": "South Carolina", "customers": 1870}]}, {"company": "Westminster Utility", "company-type": "Municipal", "website": "https://westminstersc.org/electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 1873505.311, "Residential-Customers": 1242.0, "Commercial-Sales-($)": 1806494.689, "Commercial-Customers": 255.0, "Total-Customers": 1497.0, "cities-served": ["Westminster"], "counties-served": [{"county": "Oconee County, SC", "population": 78607}], "states-served": [{"state": "South Carolina", "customers": 1497}]}, {"company": "CPW McCormick, SC", "company-type": "Municipal", "website": "https://www.mccormickcpw.com/electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 1398474.131, "Residential-Customers": 897.0, "Commercial-Sales-($)": 855525.869, "Commercial-Customers": 203.0, "Total-Customers": 1100.0, "cities-served": ["McCormick"], "counties-served": [{"county": "McCormick County, SC", "population": 9526}], "states-served": [{"state": "South Carolina", "customers": 1100}]}, {"company": "Prosperity, South Carolina Electric Utility", "company-type": "Municipal", "website": "https://www.prosperitysc.com/town-utilities", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 962938.42, "Residential-Customers": 679.0, "Commercial-Sales-($)": 502061.58, "Commercial-Customers": 139.0, "Total-Customers": 818.0, "cities-served": ["Prosperity"], "counties-served": [{"county": "Newberry County, SC", "population": 37719}], "states-served": [{"state": "South Carolina", "customers": 818}]}, {"company": "Due West, South Carolina Electric Utility", "company-type": "Municipal", "website": "http://www.duewestsc.com/wp-content/uploads/2015/06/public-utilities-home.pdf", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 469491.488, "Residential-Customers": 399.0, "Commercial-Sales-($)": 791508.512, "Commercial-Customers": 87.0, "Total-Customers": 486.0, "cities-served": ["Abbeville, SC", "Calhoun Falls, SC", "Donalds, SC", "Due West, SC", "Honea Path, SC", "Lowndesville, SC"], "counties-served": [{"county": "Abbeville County, SC", "population": 24295}], "states-served": [{"state": "South Carolina", "customers": 486}]}]}
+{
+ "electrical-providers": [
+  {
+   "company": "Dominion Energy",
+   "company-type": "Wholesale Power Marketer",
+   "website": "https://www.dominionenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5015875185.0,
+   "Residential-Customers": 3082314.0,
+   "Commercial-Sales-($)": 4526037964.0,
+   "Commercial-Customers": 389314.0,
+   "Industrial-Sales-($)": 875973592.0,
+   "Industrial-Customers": 1358.0,
+   "Total-Customers": 3472986.0,
+   "Total-Production-MWh": 112838037.0,
+   "Production-from-Renewable-Energy-MWh": 4668014.0,
+   "Production-from-Non-Renewable-Energy-MWh": 108170022.0,
+   "cities-served": [
+    "Ahoskie, NC",
+    "Aiken, SC",
+    "Alberta, VA",
+    "Alexandria, VA",
+    "Allendale, SC",
+    "Altavista, VA",
+    "Appomattox, VA",
+    "Arcadia Lakes, SC",
+    "Ashland, VA",
+    "Askewville, NC",
+    "Aulander, NC",
+    "Bamberg, SC",
+    "Barnwell, SC",
+    "Batesburg-Leesville, SC",
+    "Bear Grass, NC",
+    "Beaufort, SC",
+    "Bensville CDP, MD",
+    "Bethel, NC",
+    "Blackstone, VA",
+    "Blackville, SC",
+    "Bluffton, SC",
+    "Blythewood, SC",
+    "Bowling Green, VA",
+    "Bowman, SC",
+    "Boydton, VA",
+    "Boykins, VA",
+    "Branchville, SC",
+    "Branchville, VA",
+    "Bridgewater, VA",
+    "Broadway, VA",
+    "Brodnax, VA",
+    "Brookneal, VA",
+    "Brunson, SC",
+    "Bryans Road CDP, MD",
+    "Buchanan, VA",
+    "Buena Vista, VA",
+    "Burkeville, VA",
+    "Burnettown, SC",
+    "Cabin John CDP, MD",
+    "Calhoun Falls, SC",
+    "Cameron, SC",
+    "Capron, VA",
+    "Carlisle, SC",
+    "Cayce, SC",
+    "Chapin, SC",
+    "Charleston, SC",
+    "Charlotte Court House, VA",
+    "Charlotte Hall CDP, MD",
+    "Charlottesville, VA",
+    "Chase City, VA",
+    "Chatham, VA",
+    "Chesapeake, VA",
+    "Claremont, VA",
+    "Clarksville, VA",
+    "Clifton, VA",
+    "Clifton Forge, VA",
+    "Cofield, NC",
+    "Colerain, NC",
+    "Colonial Beach, VA",
+    "Colonial Heights, VA",
+    "Columbia, SC",
+    "Columbia, NC",
+    "Como, NC",
+    "Conetoe, NC",
+    "Conway, NC",
+    "Cope, SC",
+    "Cordova, SC",
+    "Cottageville, SC",
+    "Courtland, VA",
+    "Covington, VA",
+    "Craigsville, VA",
+    "Creswell, NC",
+    "Crewe, VA",
+    "Culpeper, VA",
+    "Dayton, VA",
+    "Dendron, VA",
+    "Denmark, SC",
+    "Dillwyn, VA",
+    "Drakes Branch, VA",
+    "Duck, NC",
+    "Dumfries, VA",
+    "Eastover, SC",
+    "Edenton, NC",
+    "Edgefield, SC",
+    "Edinburg, VA",
+    "Edisto Beach, SC",
+    "Ehrhardt, SC",
+    "Elgin, SC",
+    "Elizabeth City, NC",
+    "Elko, SC",
+    "Elkton, VA",
+    "Elloree, SC",
+    "Emporia, VA",
+    "Estill, SC",
+    "Eutawville, SC",
+    "Everetts, NC",
+    "Fairfax, VA",
+    "Fairfax, SC",
+    "Falls Church, VA",
+    "Farmville, VA",
+    "Folly Beach, SC",
+    "Forest Acres, SC",
+    "Franklin, VA",
+    "Fredericksburg, VA",
+    "Furman, SC",
+    "Garysburg, NC",
+    "Gaston, SC",
+    "Gaston, NC",
+    "Gatesville, NC",
+    "Gifford, SC",
+    "Gilbert, SC",
+    "Glasgow, VA",
+    "Goose Creek, SC",
+    "Gordonsville, VA",
+    "Goshen, VA",
+    "Govan, SC",
+    "Gretna, VA",
+    "Grottoes, VA",
+    "Halifax, VA",
+    "Halifax, NC",
+    "Hamilton, VA",
+    "Hampton, VA",
+    "Hampton, SC",
+    "Hanahan, SC",
+    "Hardeeville, SC",
+    "Harleyville, SC",
+    "Harrellsville, NC",
+    "Haymarket, VA",
+    "Herndon, VA",
+    "Hertford, NC",
+    "Hilda, SC",
+    "Hillsboro, VA",
+    "Hilton Head Island, SC",
+    "Holly Hill, SC",
+    "Hollywood, SC",
+    "Hopewell, VA",
+    "Hughesville CDP, MD",
+    "Hurt, VA",
+    "Indian Head, MD",
+    "Irmo, SC",
+    "Iron Gate, VA",
+    "Irvington, VA",
+    "Isle of Palms, SC",
+    "Ivor, VA",
+    "Jackson, SC",
+    "Jackson, NC",
+    "James Island, SC",
+    "Jamesville, NC",
+    "Jarratt, VA",
+    "Jenkinsville, SC",
+    "Johnston, SC",
+    "Kelford, NC",
+    "Kenbridge, VA",
+    "Keysville, VA",
+    "Kiawah Island, SC",
+    "Kill Devil Hills, NC",
+    "Kilmarnock, VA",
+    "Kitty Hawk, NC",
+    "Kline, SC",
+    "La Crosse, VA",
+    "La Plata, MD",
+    "Lasker, NC",
+    "Lawrenceville, VA",
+    "Leesburg, VA",
+    "Leggett, NC",
+    "Lewiston Woodville, NC",
+    "Lexington, SC",
+    "Lexington, VA",
+    "Lincolnville, SC",
+    "Little Mountain, SC",
+    "Livingston, SC",
+    "Lodge, SC",
+    "Louisa, VA",
+    "Lovettsville, VA",
+    "Luray, SC",
+    "Manassas, VA",
+    "Manassas Park, VA",
+    "Manteo, NC",
+    "McCormick, SC",
+    "McKenney, VA",
+    "Meggett, SC",
+    "Middleburg, VA",
+    "Moncks Corner, SC",
+    "Monetta, SC",
+    "Montross, VA",
+    "Mount Crawford, VA",
+    "Mount Jackson, VA",
+    "Mount Pleasant, SC",
+    "Murfreesboro, NC",
+    "Nags Head, NC",
+    "Neeses, SC",
+    "New Ellenton, SC",
+    "New Market, VA",
+    "Newport News, VA",
+    "Newsoms, VA",
+    "Norfolk, VA",
+    "North, SC",
+    "North Augusta, SC",
+    "North Charleston, SC",
+    "Norway, SC",
+    "Occoquan, VA",
+    "Olar, SC",
+    "Orange, VA",
+    "Orangeburg, SC",
+    "Pamplin City, VA",
+    "Parksville, SC",
+    "Parmele, NC",
+    "Peak, SC",
+    "Pelion, SC",
+    "Perry, SC",
+    "Petersburg, VA",
+    "Phenix, VA",
+    "Pine Ridge, SC",
+    "Plum Branch, SC",
+    "Plymouth, NC",
+    "Pomaria, SC",
+    "Poquoson, VA",
+    "Port Royal, SC",
+    "Port Tobacco Village, MD",
+    "Portsmouth, VA",
+    "Potomac Heights CDP, MD",
+    "Powellsville, NC",
+    "Princeville, NC",
+    "Purcellville, VA",
+    "Quantico, VA",
+    "Ravenel, SC",
+    "Reevesville, SC",
+    "Remington, VA",
+    "Rich Square, NC",
+    "Richmond, VA",
+    "Ridge Spring, SC",
+    "Ridgeland, SC",
+    "Ridgeville, SC",
+    "Ridgeway, SC",
+    "Roanoke Rapids, NC",
+    "Robersonville, NC",
+    "Rockville, SC",
+    "Rocky Mount, NC",
+    "Roper, NC",
+    "Round Hill, VA",
+    "Rowesville, SC",
+    "Roxobel, NC",
+    "Salley, SC",
+    "Saluda, SC",
+    "Santee, SC",
+    "Scotia, SC",
+    "Scotland Neck, NC",
+    "Scottsburg, VA",
+    "Seaboard, NC",
+    "Seabrook Island, SC",
+    "Severn, NC",
+    "Shenandoah, VA",
+    "Smithfield, VA",
+    "Smoaks, SC",
+    "Snelling, SC",
+    "South Boston, VA",
+    "South Congaree, SC",
+    "South Hill, VA",
+    "Southern Shores, NC",
+    "Speed, NC",
+    "Springdale, SC",
+    "Springfield, SC",
+    "St. George, SC",
+    "St. Matthews, SC",
+    "Stony Creek, VA",
+    "Suffolk, VA",
+    "Sullivan's Island, SC",
+    "Summerville, SC",
+    "Summit, SC",
+    "Surry, VA",
+    "Swansea, SC",
+    "Sycamore, SC",
+    "Tappahannock, VA",
+    "Tarboro, NC",
+    "The Plains, VA",
+    "Timberville, VA",
+    "Toms Brook, VA",
+    "Trenton, SC",
+    "Ulmer, SC",
+    "Urbanna, VA",
+    "Vance, SC",
+    "Varnville, SC",
+    "Victoria, VA",
+    "Vienna, VA",
+    "Virgilina, VA",
+    "Virginia Beach, VA",
+    "Wagener, SC",
+    "Wakefield, VA",
+    "Waldorf CDP, MD",
+    "Walterboro, SC",
+    "Ward, SC",
+    "Warrenton, VA",
+    "Warsaw, VA",
+    "Washington, NC",
+    "Washington Park, NC",
+    "Waverly, VA",
+    "Waynesboro, VA",
+    "Weldon, NC",
+    "West Columbia, SC",
+    "West Point, VA",
+    "Whitakers, NC",
+    "White Stone, VA",
+    "Williams, SC",
+    "Williamsburg, VA",
+    "Williamston, NC",
+    "Williston, SC",
+    "Windsor, VA",
+    "Windsor, SC",
+    "Winfall, NC",
+    "Winnsboro, SC",
+    "Winton, NC",
+    "Woodford, SC",
+    "Woodland, NC",
+    "Woodstock, VA",
+    "Yemassee, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Fairfax County, VA",
+     "population": 1150309
+    },
+    {
+     "county": "Prince William County, VA",
+     "population": 482204
+    },
+    {
+     "county": "Virginia Beach city, VA",
+     "population": 459470
+    },
+    {
+     "county": "Loudoun County, VA",
+     "population": 420959
+    },
+    {
+     "county": "Richland County, SC",
+     "population": 416147
+    },
+    {
+     "county": "Charleston County, SC",
+     "population": 408235
+    },
+    {
+     "county": "Chesterfield County, VA",
+     "population": 364548
+    },
+    {
+     "county": "Henrico County, VA",
+     "population": 334389
+    },
+    {
+     "county": "Lexington County, SC",
+     "population": 293991
+    },
+    {
+     "county": "Chesapeake city, VA",
+     "population": 249422
+    },
+    {
+     "county": "Arlington County, VA",
+     "population": 238643
+    },
+    {
+     "county": "Norfolk city, VA",
+     "population": 238005
+    },
+    {
+     "county": "Berkeley County, SC",
+     "population": 229861
+    },
+    {
+     "county": "Richmond city, VA",
+     "population": 226610
+    },
+    {
+     "county": "Beaufort County, SC",
+     "population": 187117
+    },
+    {
+     "county": "Newport News city, VA",
+     "population": 186247
+    },
+    {
+     "county": "Pitt County, NC",
+     "population": 170243
+    },
+    {
+     "county": "Aiken County, SC",
+     "population": 168808
+    },
+    {
+     "county": "Charles County, MD",
+     "population": 166617
+    },
+    {
+     "county": "Dorchester County, SC",
+     "population": 161540
+    },
+    {
+     "county": "Alexandria city, VA",
+     "population": 159467
+    },
+    {
+     "county": "Stafford County, VA",
+     "population": 156927
+    },
+    {
+     "county": "Spotsylvania County, VA",
+     "population": 140032
+    },
+    {
+     "county": "Hampton city, VA",
+     "population": 137148
+    },
+    {
+     "county": "Albemarle County, VA",
+     "population": 112395
+    },
+    {
+     "county": "Hanover County, VA",
+     "population": 109979
+    },
+    {
+     "county": "Sumter County, SC",
+     "population": 105556
+    },
+    {
+     "county": "Portsmouth city, VA",
+     "population": 97915
+    },
+    {
+     "county": "Nash County, NC",
+     "population": 94970
+    },
+    {
+     "county": "Suffolk city, VA",
+     "population": 94324
+    },
+    {
+     "county": "Orangeburg County, SC",
+     "population": 84223
+    },
+    {
+     "county": "Rockingham County, VA",
+     "population": 83757
+    },
+    {
+     "county": "James City County, VA",
+     "population": 78254
+    },
+    {
+     "county": "Augusta County, VA",
+     "population": 77487
+    },
+    {
+     "county": "Fauquier County, VA",
+     "population": 72972
+    },
+    {
+     "county": "York County, VA",
+     "population": 70045
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Pittsylvania County, VA",
+     "population": 60501
+    },
+    {
+     "county": "Campbell County, VA",
+     "population": 55696
+    },
+    {
+     "county": "Culpeper County, VA",
+     "population": 52552
+    },
+    {
+     "county": "Edgecombe County, NC",
+     "population": 48900
+    },
+    {
+     "county": "Halifax County, NC",
+     "population": 48622
+    },
+    {
+     "county": "Charlottesville city, VA",
+     "population": 46553
+    },
+    {
+     "county": "Beaufort County, NC",
+     "population": 44652
+    },
+    {
+     "county": "Shenandoah County, VA",
+     "population": 44186
+    },
+    {
+     "county": "Prince George County, VA",
+     "population": 43010
+    },
+    {
+     "county": "Manassas city, VA",
+     "population": 42772
+    },
+    {
+     "county": "Pasquotank County, NC",
+     "population": 40568
+    },
+    {
+     "county": "Gloucester County, VA",
+     "population": 38711
+    },
+    {
+     "county": "Isle of Wight County, VA",
+     "population": 38606
+    },
+    {
+     "county": "Colleton County, SC",
+     "population": 38604
+    },
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    },
+    {
+     "county": "Louisa County, VA",
+     "population": 37596
+    },
+    {
+     "county": "Dare County, NC",
+     "population": 36915
+    },
+    {
+     "county": "Orange County, VA",
+     "population": 36254
+    },
+    {
+     "county": "Halifax County, VA",
+     "population": 34022
+    },
+    {
+     "county": "Botetourt County, VA",
+     "population": 33596
+    },
+    {
+     "county": "Petersburg city, VA",
+     "population": 33458
+    },
+    {
+     "county": "Amherst County, VA",
+     "population": 31307
+    },
+    {
+     "county": "Clarendon County, SC",
+     "population": 31144
+    },
+    {
+     "county": "Caroline County, VA",
+     "population": 30887
+    },
+    {
+     "county": "Powhatan County, VA",
+     "population": 30333
+    },
+    {
+     "county": "Mecklenburg County, VA",
+     "population": 30319
+    },
+    {
+     "county": "Jasper County, SC",
+     "population": 28791
+    },
+    {
+     "county": "Currituck County, NC",
+     "population": 28100
+    },
+    {
+     "county": "Fredericksburg city, VA",
+     "population": 27982
+    },
+    {
+     "county": "Dinwiddie County, VA",
+     "population": 27947
+    },
+    {
+     "county": "Fluvanna County, VA",
+     "population": 27249
+    },
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    },
+    {
+     "county": "King George County, VA",
+     "population": 26723
+    },
+    {
+     "county": "Edgefield County, SC",
+     "population": 25657
+    },
+    {
+     "county": "Goochland County, VA",
+     "population": 24727
+    },
+    {
+     "county": "Abbeville County, SC",
+     "population": 24295
+    },
+    {
+     "county": "Fairfax city, VA",
+     "population": 24146
+    },
+    {
+     "county": "Hopewell city, VA",
+     "population": 23033
+    },
+    {
+     "county": "New Kent County, VA",
+     "population": 22945
+    },
+    {
+     "county": "Rockbridge County, VA",
+     "population": 22650
+    },
+    {
+     "county": "Waynesboro city, VA",
+     "population": 22196
+    },
+    {
+     "county": "Martin County, NC",
+     "population": 22031
+    },
+    {
+     "county": "Prince Edward County, VA",
+     "population": 21849
+    },
+    {
+     "county": "Hertford County, NC",
+     "population": 21552
+    },
+    {
+     "county": "Fairfield County, SC",
+     "population": 20948
+    },
+    {
+     "county": "Barnwell County, SC",
+     "population": 20589
+    },
+    {
+     "county": "Saluda County, SC",
+     "population": 18862
+    },
+    {
+     "county": "Hampton County, SC",
+     "population": 18561
+    },
+    {
+     "county": "Westmoreland County, VA",
+     "population": 18477
+    },
+    {
+     "county": "Colonial Heights city, VA",
+     "population": 18170
+    },
+    {
+     "county": "Southampton County, VA",
+     "population": 17996
+    },
+    {
+     "county": "Bertie County, NC",
+     "population": 17934
+    },
+    {
+     "county": "King William County, VA",
+     "population": 17810
+    },
+    {
+     "county": "Northampton County, NC",
+     "population": 17471
+    },
+    {
+     "county": "Manassas Park city, VA",
+     "population": 17219
+    },
+    {
+     "county": "Buckingham County, VA",
+     "population": 16824
+    },
+    {
+     "county": "Appomattox County, VA",
+     "population": 16119
+    },
+    {
+     "county": "Brunswick County, VA",
+     "population": 15849
+    },
+    {
+     "county": "Nottoway County, VA",
+     "population": 15642
+    },
+    {
+     "county": "Williamsburg city, VA",
+     "population": 15425
+    },
+    {
+     "county": "Alleghany County, VA",
+     "population": 15223
+    },
+    {
+     "county": "Falls Church city, VA",
+     "population": 14658
+    },
+    {
+     "county": "Calhoun County, SC",
+     "population": 14119
+    },
+    {
+     "county": "Chowan County, NC",
+     "population": 13708
+    },
+    {
+     "county": "Bamberg County, SC",
+     "population": 13311
+    },
+    {
+     "county": "Amelia County, VA",
+     "population": 13265
+    },
+    {
+     "county": "Perquimans County, NC",
+     "population": 13005
+    },
+    {
+     "county": "Poquoson city, VA",
+     "population": 12460
+    },
+    {
+     "county": "Lunenburg County, VA",
+     "population": 11936
+    },
+    {
+     "county": "Northumberland County, VA",
+     "population": 11839
+    },
+    {
+     "county": "Charlotte County, VA",
+     "population": 11529
+    },
+    {
+     "county": "Greensville County, VA",
+     "population": 11391
+    },
+    {
+     "county": "Washington County, NC",
+     "population": 11003
+    },
+    {
+     "county": "Lancaster County, VA",
+     "population": 10919
+    },
+    {
+     "county": "Sussex County, VA",
+     "population": 10829
+    },
+    {
+     "county": "Middlesex County, VA",
+     "population": 10625
+    },
+    {
+     "county": "Essex County, VA",
+     "population": 10599
+    },
+    {
+     "county": "Gates County, NC",
+     "population": 10478
+    },
+    {
+     "county": "Camden County, NC",
+     "population": 10355
+    },
+    {
+     "county": "Cumberland County, VA",
+     "population": 9675
+    },
+    {
+     "county": "McCormick County, SC",
+     "population": 9526
+    },
+    {
+     "county": "Richmond County, VA",
+     "population": 8923
+    },
+    {
+     "county": "Mathews County, VA",
+     "population": 8533
+    },
+    {
+     "county": "Franklin city, VA",
+     "population": 8180
+    },
+    {
+     "county": "Allendale County, SC",
+     "population": 8039
+    },
+    {
+     "county": "Lexington city, VA",
+     "population": 7320
+    },
+    {
+     "county": "Charles City County, VA",
+     "population": 6773
+    },
+    {
+     "county": "Buena Vista city, VA",
+     "population": 6641
+    },
+    {
+     "county": "King and Queen County, VA",
+     "population": 6608
+    },
+    {
+     "county": "Surry County, VA",
+     "population": 6561
+    },
+    {
+     "county": "Emporia city, VA",
+     "population": 5766
+    },
+    {
+     "county": "Covington city, VA",
+     "population": 5737
+    },
+    {
+     "county": "Hyde County, NC",
+     "population": 4589
+    },
+    {
+     "county": "Bath County, VA",
+     "population": 4209
+    },
+    {
+     "county": "Tyrrell County, NC",
+     "population": 3245
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Virginia",
+     "customers": 2581317
+    },
+    {
+     "state": "South Carolina",
+     "customers": 767061
+    },
+    {
+     "state": "North Carolina",
+     "customers": 124610
+    }
+   ]
+  },
+  {
+   "company": "Duke Energy Carolinas",
+   "company-type": "Investor Owned",
+   "website": "https://www.duke-energy.com/South-Carolina.asp",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3061847931.0,
+   "Residential-Customers": 2356964.0,
+   "Commercial-Sales-($)": 2230182703.0,
+   "Commercial-Customers": 414279.0,
+   "Industrial-Sales-($)": 1151389295.0,
+   "Industrial-Customers": 5938.0,
+   "Total-Customers": 2777181.0,
+   "Total-Production-MWh": 82707617.0,
+   "Production-from-Renewable-Energy-MWh": 1583794.0,
+   "Production-from-Non-Renewable-Energy-MWh": 81123823.0,
+   "cities-served": [
+    "Abbeville, SC",
+    "Alamance, NC",
+    "Albemarle, NC",
+    "Anderson, SC",
+    "Andrews, NC",
+    "Archdale, NC",
+    "Asheboro, NC",
+    "Badin, NC",
+    "Belmont, NC",
+    "Belton, SC",
+    "Belwood, NC",
+    "Bermuda Run, NC",
+    "Bessemer City, NC",
+    "Bethania, NC",
+    "Blacksburg, SC",
+    "Blowing Rock, NC",
+    "Boiling Springs, NC",
+    "Boonville, NC",
+    "Bostic, NC",
+    "Brevard, NC",
+    "Brookford, NC",
+    "Bryson City, NC",
+    "Burlington, NC",
+    "Butner, NC",
+    "Cajah's Mountain, NC",
+    "Campobello, SC",
+    "Carrboro, NC",
+    "Cary, NC",
+    "Casar, NC",
+    "Catawba, NC",
+    "Cedar Rock, NC",
+    "Central, SC",
+    "Central Pacolet, SC",
+    "Chapel Hill, NC",
+    "Charlotte, NC",
+    "Cherryville, NC",
+    "Chesnee, SC",
+    "Chester, SC",
+    "Chimney Rock Village, NC",
+    "China Grove, NC",
+    "Claremont, NC",
+    "Clemmons, NC",
+    "Clemson, SC",
+    "Cleveland, NC",
+    "Clinton, SC",
+    "Clover, SC",
+    "Columbus, NC",
+    "Concord, NC",
+    "Connelly Springs, NC",
+    "Conover, NC",
+    "Cooleemee, NC",
+    "Cornelius, NC",
+    "Cowpens, SC",
+    "Cramerton, NC",
+    "Creedmoor, NC",
+    "Cross Hill, SC",
+    "Dallas, NC",
+    "Danbury, NC",
+    "Davidson, NC",
+    "Dellview, NC",
+    "Denton, NC",
+    "Dillsboro, NC",
+    "Dobson, NC",
+    "Donalds, SC",
+    "Drexel, NC",
+    "Due West, SC",
+    "Duncan, SC",
+    "Durham, NC",
+    "Earl, NC",
+    "Easley, SC",
+    "East Bend, NC",
+    "East Spencer, NC",
+    "Eden, NC",
+    "Elkin, NC",
+    "Ellenboro, NC",
+    "Elon, NC",
+    "Fairview, NC",
+    "Faith, NC",
+    "Fallston, NC",
+    "Flat Rock, NC",
+    "Fletcher, NC",
+    "Fontana Dam, NC",
+    "Forest City, NC",
+    "Forest Hills, NC",
+    "Fort Lawn, SC",
+    "Fort Mill, SC",
+    "Fountain Inn, SC",
+    "Franklin, NC",
+    "Gaffney, SC",
+    "Gamewell, NC",
+    "Gastonia, NC",
+    "Gibsonville, NC",
+    "Glen Alpine, NC",
+    "Graham, NC",
+    "Granite Falls, NC",
+    "Granite Quarry, NC",
+    "Gray Court, SC",
+    "Great Falls, SC",
+    "Green Level, NC",
+    "Greensboro, NC",
+    "Greenville, SC",
+    "Greenwood, SC",
+    "Greer, SC",
+    "Grover, NC",
+    "Harmony, NC",
+    "Harrisburg, NC",
+    "Haw River, NC",
+    "Heath Springs, SC",
+    "Hemby Bridge, NC",
+    "Hendersonville, NC",
+    "Hickory, NC",
+    "Hickory Grove, SC",
+    "High Point, NC",
+    "High Shoals, NC",
+    "Highlands, NC",
+    "Hildebran, NC",
+    "Hillsborough, NC",
+    "Hodges, SC",
+    "Honea Path, SC",
+    "Hudson, NC",
+    "Huntersville, NC",
+    "Indian Trail, NC",
+    "Inman, SC",
+    "Iva, SC",
+    "Jamestown, NC",
+    "Jonesville, NC",
+    "Jonesville, SC",
+    "Kannapolis, NC",
+    "Kernersville, NC",
+    "Kershaw, SC",
+    "King, NC",
+    "Kings Mountain, NC",
+    "Kingstown, NC",
+    "Lake Lure, NC",
+    "Lake Park, NC",
+    "Lake Santeetlah, NC",
+    "Lancaster, SC",
+    "Landis, NC",
+    "Landrum, SC",
+    "Lattimore, NC",
+    "Laurel Park, NC",
+    "Laurens, SC",
+    "Lawndale, NC",
+    "Lenoir, NC",
+    "Lewisville, NC",
+    "Lexington, NC",
+    "Liberty, SC",
+    "Lincolnton, NC",
+    "Lockhart, SC",
+    "Locust, NC",
+    "Long View, NC",
+    "Love Valley, NC",
+    "Lowell, NC",
+    "Lowndesville, SC",
+    "Lowrys, SC",
+    "Lyman, SC",
+    "Madison, NC",
+    "Maiden, NC",
+    "Marion, NC",
+    "Marshville, NC",
+    "Marvin, NC",
+    "Matthews, NC",
+    "Mauldin, SC",
+    "Mayodan, NC",
+    "McAdenville, NC",
+    "McConnells, SC",
+    "Mebane, NC",
+    "Midland, NC",
+    "Midway, NC",
+    "Mills River, NC",
+    "Mineral Springs, NC",
+    "Mint Hill, NC",
+    "Misenheimer, NC",
+    "Mocksville, NC",
+    "Monroe, NC",
+    "Mooresboro, NC",
+    "Mooresville, NC",
+    "Morganton, NC",
+    "Morrisville, NC",
+    "Mount Airy, NC",
+    "Mount Holly, NC",
+    "Mount Pleasant, NC",
+    "Murphy, NC",
+    "New London, NC",
+    "Newberry, SC",
+    "Newton, NC",
+    "Ninety Six, SC",
+    "Norris, SC",
+    "North Wilkesboro, NC",
+    "Norwood, NC",
+    "Oak Ridge, NC",
+    "Oakboro, NC",
+    "Old Fort, NC",
+    "Ossipee, NC",
+    "Pacolet, SC",
+    "Patterson Springs, NC",
+    "Pelzer, SC",
+    "Pendleton, SC",
+    "Pickens, SC",
+    "Pilot Mountain, NC",
+    "Pineville, NC",
+    "Pleasant Garden, NC",
+    "Polkville, NC",
+    "Prosperity, SC",
+    "Randleman, NC",
+    "Ranlo, NC",
+    "Red Cross, NC",
+    "Reidsville, NC",
+    "Reidville, SC",
+    "Rhodhiss, NC",
+    "Richburg, SC",
+    "Richfield, NC",
+    "Robbinsville, NC",
+    "Rock Hill, SC",
+    "Rockwell, NC",
+    "Ronda, NC",
+    "Rosman, NC",
+    "Rural Hall, NC",
+    "Ruth, NC",
+    "Rutherford College, NC",
+    "Rutherfordton, NC",
+    "Salem, SC",
+    "Salisbury, NC",
+    "Saluda, NC",
+    "Sawmills, NC",
+    "Sedalia, NC",
+    "Seneca, SC",
+    "Sharon, SC",
+    "Shelby, NC",
+    "Silverstreet, SC",
+    "Simpsonville, SC",
+    "Six Mile, SC",
+    "Smyrna, SC",
+    "Spartanburg, SC",
+    "Spencer, NC",
+    "Spencer Mountain, NC",
+    "Spindale, NC",
+    "Stallings, NC",
+    "Stanfield, NC",
+    "Stanley, NC",
+    "Starr, SC",
+    "Statesville, NC",
+    "Stem, NC",
+    "Stokesdale, NC",
+    "Stoneville, NC",
+    "Summerfield, NC",
+    "Swepsonville, NC",
+    "Sylva, NC",
+    "Taylorsville, NC",
+    "Tega Cay, SC",
+    "Thomasville, NC",
+    "Tobaccoville, NC",
+    "Travelers Rest, SC",
+    "Trinity, NC",
+    "Troutman, NC",
+    "Troy, SC",
+    "Tryon, NC",
+    "Union, SC",
+    "Unionville, NC",
+    "Valdese, NC",
+    "Van Wyck, SC",
+    "Waco, NC",
+    "Walhalla, SC",
+    "Walkertown, NC",
+    "Wallburg, NC",
+    "Walnut Cove, NC",
+    "Ware Shoals, SC",
+    "Waterloo, SC",
+    "Waxhaw, NC",
+    "Webster, NC",
+    "Weddington, NC",
+    "Wellford, SC",
+    "Wentworth, NC",
+    "Wesley Chapel, NC",
+    "West Pelzer, SC",
+    "West Union, SC",
+    "Westminster, SC",
+    "Whitmire, SC",
+    "Whitsett, NC",
+    "Wilkesboro, NC",
+    "Williamston, SC",
+    "Wingate, NC",
+    "Winston-Salem, NC",
+    "Woodruff, SC",
+    "Yadkinville, NC",
+    "York, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Wake County, NC",
+     "population": 1129410
+    },
+    {
+     "county": "Mecklenburg County, NC",
+     "population": 1115482
+    },
+    {
+     "county": "Guilford County, NC",
+     "population": 541299
+    },
+    {
+     "county": "Greenville County, SC",
+     "population": 525534
+    },
+    {
+     "county": "Forsyth County, NC",
+     "population": 382590
+    },
+    {
+     "county": "Spartanburg County, SC",
+     "population": 327997
+    },
+    {
+     "county": "Durham County, NC",
+     "population": 324833
+    },
+    {
+     "county": "York County, SC",
+     "population": 282090
+    },
+    {
+     "county": "Union County, NC",
+     "population": 238267
+    },
+    {
+     "county": "Gaston County, NC",
+     "population": 227943
+    },
+    {
+     "county": "Cabarrus County, NC",
+     "population": 225804
+    },
+    {
+     "county": "Anderson County, SC",
+     "population": 203718
+    },
+    {
+     "county": "Iredell County, NC",
+     "population": 186693
+    },
+    {
+     "county": "Alamance County, NC",
+     "population": 171415
+    },
+    {
+     "county": "Davidson County, NC",
+     "population": 168930
+    },
+    {
+     "county": "Catawba County, NC",
+     "population": 160610
+    },
+    {
+     "county": "Orange County, NC",
+     "population": 148696
+    },
+    {
+     "county": "Rowan County, NC",
+     "population": 146875
+    },
+    {
+     "county": "Randolph County, NC",
+     "population": 144171
+    },
+    {
+     "county": "Pickens County, SC",
+     "population": 131404
+    },
+    {
+     "county": "Henderson County, NC",
+     "population": 116281
+    },
+    {
+     "county": "Cleveland County, NC",
+     "population": 99519
+    },
+    {
+     "county": "Lancaster County, SC",
+     "population": 96016
+    },
+    {
+     "county": "Rockingham County, NC",
+     "population": 91096
+    },
+    {
+     "county": "Burke County, NC",
+     "population": 87570
+    },
+    {
+     "county": "Lincoln County, NC",
+     "population": 86810
+    },
+    {
+     "county": "Caldwell County, NC",
+     "population": 80652
+    },
+    {
+     "county": "Oconee County, SC",
+     "population": 78607
+    },
+    {
+     "county": "Chatham County, NC",
+     "population": 76285
+    },
+    {
+     "county": "Surry County, NC",
+     "population": 71359
+    },
+    {
+     "county": "Greenwood County, SC",
+     "population": 69351
+    },
+    {
+     "county": "Laurens County, SC",
+     "population": 67539
+    },
+    {
+     "county": "Wilkes County, NC",
+     "population": 65969
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Rutherford County, NC",
+     "population": 64444
+    },
+    {
+     "county": "Stanly County, NC",
+     "population": 62504
+    },
+    {
+     "county": "Granville County, NC",
+     "population": 60992
+    },
+    {
+     "county": "Cherokee County, SC",
+     "population": 56216
+    },
+    {
+     "county": "McDowell County, NC",
+     "population": 44578
+    },
+    {
+     "county": "Stokes County, NC",
+     "population": 44520
+    },
+    {
+     "county": "Jackson County, NC",
+     "population": 43109
+    },
+    {
+     "county": "Davie County, NC",
+     "population": 42712
+    },
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    },
+    {
+     "county": "Yadkin County, NC",
+     "population": 37214
+    },
+    {
+     "county": "Macon County, NC",
+     "population": 37014
+    },
+    {
+     "county": "Alexander County, NC",
+     "population": 36444
+    },
+    {
+     "county": "Transylvania County, NC",
+     "population": 32986
+    },
+    {
+     "county": "Chester County, SC",
+     "population": 32294
+    },
+    {
+     "county": "Cherokee County, NC",
+     "population": 28774
+    },
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    },
+    {
+     "county": "Edgefield County, SC",
+     "population": 25657
+    },
+    {
+     "county": "Abbeville County, SC",
+     "population": 24295
+    },
+    {
+     "county": "Caswell County, NC",
+     "population": 22736
+    },
+    {
+     "county": "Fairfield County, SC",
+     "population": 20948
+    },
+    {
+     "county": "Polk County, NC",
+     "population": 19328
+    },
+    {
+     "county": "Saluda County, SC",
+     "population": 18862
+    },
+    {
+     "county": "Swain County, NC",
+     "population": 14117
+    },
+    {
+     "county": "Clay County, NC",
+     "population": 11089
+    },
+    {
+     "county": "Alleghany County, NC",
+     "population": 10888
+    },
+    {
+     "county": "McCormick County, SC",
+     "population": 9526
+    },
+    {
+     "county": "Graham County, NC",
+     "population": 8030
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Carolina",
+     "customers": 2137296
+    },
+    {
+     "state": "South Carolina",
+     "customers": 639886
+    }
+   ]
+  },
+  {
+   "company": "Duke Energy Progress",
+   "company-type": "Investor Owned",
+   "website": "https://www.duke-energy.com/home",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2191686913.0,
+   "Residential-Customers": 1401099.0,
+   "Commercial-Sales-($)": 1378263657.0,
+   "Commercial-Customers": 244534.0,
+   "Industrial-Sales-($)": 624685048.0,
+   "Industrial-Customers": 3472.0,
+   "Total-Customers": 1649105.0,
+   "Total-Production-MWh": 59096928.0,
+   "Production-from-Renewable-Energy-MWh": 1251000.0,
+   "Production-from-Non-Renewable-Energy-MWh": 57845928.0,
+   "cities-served": [
+    "Aberdeen, NC",
+    "Alliance, NC",
+    "Angier, NC",
+    "Ansonville, NC",
+    "Apex, NC",
+    "Arapahoe, NC",
+    "Archer Lodge, NC",
+    "Asheboro, NC",
+    "Asheville, NC",
+    "Atkinson, NC",
+    "Atlantic Beach, NC",
+    "Aurora, NC",
+    "Autryville, NC",
+    "Ayden, NC",
+    "Aynor, SC",
+    "Bailey, NC",
+    "Bakersville, NC",
+    "Bald Head Island, NC",
+    "Bayboro, NC",
+    "Beaufort, NC",
+    "Belville, NC",
+    "Bennettsville, SC",
+    "Benson, NC",
+    "Bethel, NC",
+    "Bethune, SC",
+    "Beulaville, NC",
+    "Biltmore Forest, NC",
+    "Biscoe, NC",
+    "Bishopville, SC",
+    "Black Creek, NC",
+    "Black Mountain, NC",
+    "Bladenboro, NC",
+    "Blenheim, SC",
+    "Boardman, NC",
+    "Bogue, NC",
+    "Boiling Spring Lakes, NC",
+    "Bolivia, NC",
+    "Bolton, NC",
+    "Bridgeton, NC",
+    "Broadway, NC",
+    "Brunswick, NC",
+    "Bunn, NC",
+    "Burgaw, NC",
+    "Calabash, NC",
+    "Calypso, NC",
+    "Camden, SC",
+    "Cameron, NC",
+    "Candor, NC",
+    "Canton, NC",
+    "Cape Carteret, NC",
+    "Carolina Beach, NC",
+    "Carolina Shores, NC",
+    "Carthage, NC",
+    "Cary, NC",
+    "Castalia, NC",
+    "Caswell Beach, NC",
+    "Cedar Point, NC",
+    "Centerville, NC",
+    "Cerro Gordo, NC",
+    "Chadbourn, NC",
+    "Cheraw, SC",
+    "Chesterfield, SC",
+    "Chocowinity, NC",
+    "Clarkton, NC",
+    "Clayton, NC",
+    "Clinton, NC",
+    "Clio, SC",
+    "Clyde, NC",
+    "Coats, NC",
+    "Conway, SC",
+    "Cove City, NC",
+    "Darlington, SC",
+    "Dillon, SC",
+    "Dobbins Heights, NC",
+    "Dortches, NC",
+    "Dover, NC",
+    "Dublin, NC",
+    "Dunn, NC",
+    "East Arcadia, NC",
+    "East Laurinburg, NC",
+    "Eastover, NC",
+    "Elizabethtown, NC",
+    "Ellerbe, NC",
+    "Elm City, NC",
+    "Enfield, NC",
+    "Erwin, NC",
+    "Eureka, NC",
+    "Fair Bluff, NC",
+    "Fairmont, NC",
+    "Faison, NC",
+    "Falcon, NC",
+    "Falkland, NC",
+    "Farmville, NC",
+    "Fayetteville, NC",
+    "Fletcher, NC",
+    "Florence, SC",
+    "Fountain, NC",
+    "Four Oaks, NC",
+    "Foxfire, NC",
+    "Franklinton, NC",
+    "Franklinville, NC",
+    "Fremont, NC",
+    "Fuquay-Varina, NC",
+    "Garland, NC",
+    "Garner, NC",
+    "Gibson, NC",
+    "Godwin, NC",
+    "Goldsboro, NC",
+    "Goldston, NC",
+    "Grantsboro, NC",
+    "Greenevers, NC",
+    "Greenville, NC",
+    "Grifton, NC",
+    "Grimesland, NC",
+    "Hamlet, NC",
+    "Harrells, NC",
+    "Hartsville, SC",
+    "Havelock, NC",
+    "Henderson, NC",
+    "Hobgood, NC",
+    "Hoffman, NC",
+    "Holden Beach, NC",
+    "Holly Ridge, NC",
+    "Holly Springs, NC",
+    "Hookerton, NC",
+    "Hope Mills, NC",
+    "Hot Springs, NC",
+    "Jacksonville, NC",
+    "Jefferson, SC",
+    "Kenansville, NC",
+    "Kenly, NC",
+    "Kinston, NC",
+    "Kittrell, NC",
+    "Knightdale, NC",
+    "Kure Beach, NC",
+    "La Grange, NC",
+    "Lake View, SC",
+    "Lake Waccamaw, NC",
+    "Lamar, SC",
+    "Latta, SC",
+    "Laurinburg, NC",
+    "Leland, NC",
+    "Liberty, NC",
+    "Lilesville, NC",
+    "Lillington, NC",
+    "Linden, NC",
+    "Littleton, NC",
+    "Loris, SC",
+    "Louisburg, NC",
+    "Lucama, NC",
+    "Lumber Bridge, NC",
+    "Lumberton, NC",
+    "Lynchburg, SC",
+    "Macclesfield, NC",
+    "Macon, NC",
+    "Maggie Valley, NC",
+    "Magnolia, NC",
+    "Manning, SC",
+    "Marietta, NC",
+    "Marion, SC",
+    "Mars Hill, NC",
+    "Marshall, NC",
+    "Maxton, NC",
+    "Mayesville, SC",
+    "Maysville, NC",
+    "McBee, SC",
+    "McColl, SC",
+    "McDonald, NC",
+    "McFarlan, NC",
+    "Mesic, NC",
+    "Micro, NC",
+    "Middleburg, NC",
+    "Middlesex, NC",
+    "Milton, NC",
+    "Minnesott Beach, NC",
+    "Momeyer, NC",
+    "Montreat, NC",
+    "Morehead City, NC",
+    "Morrisville, NC",
+    "Morven, NC",
+    "Mount Croghan, SC",
+    "Mount Gilead, NC",
+    "Mount Olive, NC",
+    "Mullins, SC",
+    "Myrtle Beach, SC",
+    "Nashville, NC",
+    "Navassa, NC",
+    "New Bern, NC",
+    "Newport, NC",
+    "Newton Grove, NC",
+    "Nichols, SC",
+    "Norlina, NC",
+    "Norman, NC",
+    "North Myrtle Beach, SC",
+    "Northwest, NC",
+    "Oak Island, NC",
+    "Ocean Isle Beach, NC",
+    "Olanta, SC",
+    "Oriental, NC",
+    "Orrum, NC",
+    "Oxford, NC",
+    "Pageland, SC",
+    "Parkton, NC",
+    "Patrick, SC",
+    "Paxville, SC",
+    "Peachland, NC",
+    "Peletier, NC",
+    "Pembroke, NC",
+    "Pikeville, NC",
+    "Pine Level, NC",
+    "Pinebluff, NC",
+    "Pinehurst, NC",
+    "Pinetops, NC",
+    "Pinewood, SC",
+    "Pink Hill, NC",
+    "Pittsboro, NC",
+    "Polkton, NC",
+    "Pollocksville, NC",
+    "Princeton, NC",
+    "Princeville, NC",
+    "Proctorville, NC",
+    "Quinby, SC",
+    "Raeford, NC",
+    "Raleigh, NC",
+    "Ramseur, NC",
+    "Raynham, NC",
+    "Red Oak, NC",
+    "Red Springs, NC",
+    "Rennert, NC",
+    "Richlands, NC",
+    "River Bend, NC",
+    "Roanoke Rapids, NC",
+    "Robbins, NC",
+    "Rockingham, NC",
+    "Rocky Mount, NC",
+    "Rolesville, NC",
+    "Rose Hill, NC",
+    "Roseboro, NC",
+    "Rowland, NC",
+    "Roxboro, NC",
+    "Ruby, SC",
+    "Salemburg, NC",
+    "Sandy Creek, NC",
+    "Sandyfield, NC",
+    "Sanford, NC",
+    "Saratoga, NC",
+    "Scotland Neck, NC",
+    "Seagrove, NC",
+    "Sellers, SC",
+    "Selma, NC",
+    "Seven Springs, NC",
+    "Shallotte, NC",
+    "Sharpsburg, NC",
+    "Siler City, NC",
+    "Simpson, NC",
+    "Sims, NC",
+    "Smithfield, NC",
+    "Snow Hill, NC",
+    "Society Hill, SC",
+    "Southern Pines, NC",
+    "Southport, NC",
+    "Spring Hope, NC",
+    "Spring Lake, NC",
+    "Spruce Pine, NC",
+    "St. Helena, NC",
+    "St. James, NC",
+    "St. Pauls, NC",
+    "Staley, NC",
+    "Stantonsburg, NC",
+    "Star, NC",
+    "Stedman, NC",
+    "Stem, NC",
+    "Stonewall, NC",
+    "Stovall, NC",
+    "Sumter, SC",
+    "Sunset Beach, NC",
+    "Surf City, NC",
+    "Surfside Beach, SC",
+    "Swansboro, NC",
+    "Tabor City, NC",
+    "Tar Heel, NC",
+    "Tarboro, NC",
+    "Tatum, SC",
+    "Taylortown, NC",
+    "Teachey, NC",
+    "Timmonsville, SC",
+    "Topsail Beach, NC",
+    "Trent Woods, NC",
+    "Trenton, NC",
+    "Troy, NC",
+    "Turbeville, SC",
+    "Turkey, NC",
+    "Vanceboro, NC",
+    "Vandemere, NC",
+    "Varnamtown, NC",
+    "Vass, NC",
+    "Virgilina, VA",
+    "Wade, NC",
+    "Wadesboro, NC",
+    "Wagram, NC",
+    "Wake Forest, NC",
+    "Wallace, NC",
+    "Walnut Creek, NC",
+    "Walstonburg, NC",
+    "Warrenton, NC",
+    "Warsaw, NC",
+    "Washington, NC",
+    "Watha, NC",
+    "Waynesville, NC",
+    "Weaverville, NC",
+    "Weldon, NC",
+    "Wendell, NC",
+    "Whispering Pines, NC",
+    "Whitakers, NC",
+    "White Lake, NC",
+    "Whiteville, NC",
+    "Wilmington, NC",
+    "Wilson, NC",
+    "Wilson's Mills, NC",
+    "Winterville, NC",
+    "Woodfin, NC",
+    "Wrightsville Beach, NC",
+    "Yanceyville, NC",
+    "Youngsville, NC",
+    "Zebulon, NC"
+   ],
+   "counties-served": [
+    {
+     "county": "Wake County, NC",
+     "population": 1129410
+    },
+    {
+     "county": "Richland County, SC",
+     "population": 416147
+    },
+    {
+     "county": "Horry County, SC",
+     "population": 351029
+    },
+    {
+     "county": "Cumberland County, NC",
+     "population": 334728
+    },
+    {
+     "county": "Durham County, NC",
+     "population": 324833
+    },
+    {
+     "county": "Buncombe County, NC",
+     "population": 269452
+    },
+    {
+     "county": "New Hanover County, NC",
+     "population": 225702
+    },
+    {
+     "county": "Johnston County, NC",
+     "population": 215999
+    },
+    {
+     "county": "Onslow County, NC",
+     "population": 204576
+    },
+    {
+     "county": "Alamance County, NC",
+     "population": 171415
+    },
+    {
+     "county": "Pitt County, NC",
+     "population": 170243
+    },
+    {
+     "county": "Davidson County, NC",
+     "population": 168930
+    },
+    {
+     "county": "Orange County, NC",
+     "population": 148696
+    },
+    {
+     "county": "Randolph County, NC",
+     "population": 144171
+    },
+    {
+     "county": "Florence County, SC",
+     "population": 137059
+    },
+    {
+     "county": "Brunswick County, NC",
+     "population": 136693
+    },
+    {
+     "county": "Harnett County, NC",
+     "population": 133568
+    },
+    {
+     "county": "Wayne County, NC",
+     "population": 117333
+    },
+    {
+     "county": "Robeson County, NC",
+     "population": 116530
+    },
+    {
+     "county": "Sumter County, SC",
+     "population": 105556
+    },
+    {
+     "county": "Craven County, NC",
+     "population": 100720
+    },
+    {
+     "county": "Moore County, NC",
+     "population": 99727
+    },
+    {
+     "county": "Nash County, NC",
+     "population": 94970
+    },
+    {
+     "county": "Wilson County, NC",
+     "population": 78784
+    },
+    {
+     "county": "Chatham County, NC",
+     "population": 76285
+    },
+    {
+     "county": "Franklin County, NC",
+     "population": 68573
+    },
+    {
+     "county": "Carteret County, NC",
+     "population": 67686
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Georgetown County, SC",
+     "population": 63404
+    },
+    {
+     "county": "Lee County, NC",
+     "population": 63285
+    },
+    {
+     "county": "Darlington County, SC",
+     "population": 62905
+    },
+    {
+     "county": "Haywood County, NC",
+     "population": 62089
+    },
+    {
+     "county": "Granville County, NC",
+     "population": 60992
+    },
+    {
+     "county": "Pender County, NC",
+     "population": 60203
+    },
+    {
+     "county": "Sampson County, NC",
+     "population": 59036
+    },
+    {
+     "county": "Lenoir County, NC",
+     "population": 55122
+    },
+    {
+     "county": "Hoke County, NC",
+     "population": 52082
+    },
+    {
+     "county": "Columbus County, NC",
+     "population": 50623
+    },
+    {
+     "county": "Edgecombe County, NC",
+     "population": 48900
+    },
+    {
+     "county": "Duplin County, NC",
+     "population": 48715
+    },
+    {
+     "county": "Halifax County, NC",
+     "population": 48622
+    },
+    {
+     "county": "Beaufort County, NC",
+     "population": 44652
+    },
+    {
+     "county": "Chesterfield County, SC",
+     "population": 43273
+    },
+    {
+     "county": "Jackson County, NC",
+     "population": 43109
+    },
+    {
+     "county": "Richmond County, NC",
+     "population": 42946
+    },
+    {
+     "county": "Vance County, NC",
+     "population": 42578
+    },
+    {
+     "county": "Person County, NC",
+     "population": 39097
+    },
+    {
+     "county": "Scotland County, NC",
+     "population": 34174
+    },
+    {
+     "county": "Clarendon County, SC",
+     "population": 31144
+    },
+    {
+     "county": "Bladen County, NC",
+     "population": 29606
+    },
+    {
+     "county": "Marion County, SC",
+     "population": 29183
+    },
+    {
+     "county": "Dillon County, SC",
+     "population": 28292
+    },
+    {
+     "county": "Marlboro County, SC",
+     "population": 26667
+    },
+    {
+     "county": "Montgomery County, NC",
+     "population": 25751
+    },
+    {
+     "county": "Caswell County, NC",
+     "population": 22736
+    },
+    {
+     "county": "Anson County, NC",
+     "population": 22055
+    },
+    {
+     "county": "Martin County, NC",
+     "population": 22031
+    },
+    {
+     "county": "Madison County, NC",
+     "population": 21193
+    },
+    {
+     "county": "Greene County, NC",
+     "population": 20451
+    },
+    {
+     "county": "Warren County, NC",
+     "population": 18642
+    },
+    {
+     "county": "Yancey County, NC",
+     "population": 18470
+    },
+    {
+     "county": "Avery County, NC",
+     "population": 17806
+    },
+    {
+     "county": "Northampton County, NC",
+     "population": 17471
+    },
+    {
+     "county": "Lee County, SC",
+     "population": 16531
+    },
+    {
+     "county": "Mitchell County, NC",
+     "population": 14903
+    },
+    {
+     "county": "Pamlico County, NC",
+     "population": 12276
+    },
+    {
+     "county": "Jones County, NC",
+     "population": 9172
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Carolina",
+     "customers": 1476694
+    },
+    {
+     "state": "South Carolina",
+     "customers": 172602
+    }
+   ]
+  },
+  {
+   "company": "Santee Cooper",
+   "company-type": "State",
+   "website": "https://www.santeecooper.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 223382385.0,
+   "Residential-Customers": 167253.0,
+   "Commercial-Sales-($)": 184249761.0,
+   "Commercial-Customers": 30763.0,
+   "Industrial-Sales-($)": 310056276.0,
+   "Industrial-Customers": 28.0,
+   "Total-Customers": 198044.0,
+   "Total-Production-MWh": 17845250.0,
+   "Production-from-Renewable-Energy-MWh": 301401.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17543849.0,
+   "cities-served": [
+    "Andrews, SC",
+    "Atlantic Beach, SC",
+    "Aynor, SC",
+    "Bonneau, SC",
+    "Briarcliffe Acres, SC",
+    "Charleston, SC",
+    "Conway, SC",
+    "Georgetown, SC",
+    "Goose Creek, SC",
+    "Hanahan, SC",
+    "Jamestown, SC",
+    "Loris, SC",
+    "Moncks Corner, SC",
+    "Myrtle Beach, SC",
+    "North Myrtle Beach, SC",
+    "Pawleys Island, SC",
+    "St. Stephen, SC",
+    "Summerville, SC",
+    "Surfside Beach, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Horry County, SC",
+     "population": 351029
+    },
+    {
+     "county": "Berkeley County, SC",
+     "population": 229861
+    },
+    {
+     "county": "Georgetown County, SC",
+     "population": 63404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 198045
+    }
+   ]
+  },
+  {
+   "company": "Berkeley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.berkeleyelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 190197000.0,
+   "Residential-Customers": 101410.0,
+   "Commercial-Sales-($)": 62521000.0,
+   "Commercial-Customers": 13467.0,
+   "Industrial-Sales-($)": 112375000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 114888.0,
+   "cities-served": [
+    "Awendaw, SC",
+    "Bonneau, SC",
+    "Charleston, SC",
+    "Folly Beach, SC",
+    "Goose Creek, SC",
+    "Hollywood, SC",
+    "Jamestown, SC",
+    "Kiawah Island, SC",
+    "McClellanville, SC",
+    "Moncks Corner, SC",
+    "Mount Pleasant, SC",
+    "Ravenel, SC",
+    "Rockville, SC",
+    "Seabrook Island, SC",
+    "St. Stephen, SC",
+    "Summerville, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Charleston County, SC",
+     "population": 408235
+    },
+    {
+     "county": "Berkeley County, SC",
+     "population": 229861
+    },
+    {
+     "county": "Dorchester County, SC",
+     "population": 161540
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 114887
+    }
+   ]
+  },
+  {
+   "company": "Horry Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.horryelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 133830000.0,
+   "Residential-Customers": 73288.0,
+   "Commercial-Sales-($)": 27155000.0,
+   "Commercial-Customers": 11208.0,
+   "Industrial-Sales-($)": 3082000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 84507.0,
+   "cities-served": [
+    "Aynor, SC",
+    "Conway, SC",
+    "Loris, SC",
+    "Myrtle Beach, SC",
+    "North Myrtle Beach, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Horry County, SC",
+     "population": 351029
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 84507
+    }
+   ]
+  },
+  {
+   "company": "Palmetto Electrictric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.palmetto.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 109182036.0,
+   "Residential-Customers": 65468.0,
+   "Commercial-Sales-($)": 50488001.0,
+   "Commercial-Customers": 11020.0,
+   "Industrial-Sales-($)": 7787273.0,
+   "Industrial-Customers": 28.0,
+   "Total-Customers": 76516.0,
+   "cities-served": [
+    "Bluffton, SC",
+    "Hardeeville, SC",
+    "Hilton Head Island, SC",
+    "Ridgeland, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Beaufort County, SC",
+     "population": 187117
+    },
+    {
+     "county": "Jasper County, SC",
+     "population": 28791
+    },
+    {
+     "county": "Hampton County, SC",
+     "population": 18561
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 76516
+    }
+   ]
+  },
+  {
+   "company": "Blue Ridge Electric Coop",
+   "company-type": "Cooperative",
+   "website": "http://www.blueridge.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 115116900.0,
+   "Residential-Customers": 62285.0,
+   "Commercial-Sales-($)": 21718000.0,
+   "Commercial-Customers": 5276.0,
+   "Industrial-Sales-($)": 9732000.0,
+   "Industrial-Customers": 28.0,
+   "Total-Customers": 67589.0,
+   "cities-served": [
+    "Central, SC",
+    "Clemson, SC",
+    "Easley, SC",
+    "Liberty, SC",
+    "Norris, SC",
+    "Pendleton, SC",
+    "Pickens, SC",
+    "Salem, SC",
+    "Seneca, SC",
+    "Six Mile, SC",
+    "Walhalla, SC",
+    "West Union, SC",
+    "Westminster, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Greenville County, SC",
+     "population": 525534
+    },
+    {
+     "county": "Anderson County, SC",
+     "population": 203718
+    },
+    {
+     "county": "Pickens County, SC",
+     "population": 131404
+    },
+    {
+     "county": "Oconee County, SC",
+     "population": 78607
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 67589
+    }
+   ]
+  },
+  {
+   "company": "York Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.yorkelectric.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 92945000.0,
+   "Residential-Customers": 59229.0,
+   "Commercial-Sales-($)": 25105000.0,
+   "Commercial-Customers": 5177.0,
+   "Industrial-Sales-($)": 6732000.0,
+   "Industrial-Customers": 27.0,
+   "Total-Customers": 64433.0,
+   "cities-served": [
+    "Clover, SC",
+    "Fort Mill, SC",
+    "Hickory Grove, SC",
+    "McConnells, SC",
+    "Rock Hill, SC",
+    "Tega Cay, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "York County, SC",
+     "population": 282090
+    },
+    {
+     "county": "Lancaster County, SC",
+     "population": 96016
+    },
+    {
+     "county": "Cherokee County, SC",
+     "population": 56216
+    },
+    {
+     "county": "Chester County, SC",
+     "population": 32294
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 64416
+    },
+    {
+     "state": "North Carolina",
+     "customers": 17
+    }
+   ]
+  },
+  {
+   "company": "Laurens Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.laurenselectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 96262000.0,
+   "Residential-Customers": 54515.0,
+   "Commercial-Sales-($)": 25508000.0,
+   "Commercial-Customers": 5753.0,
+   "Industrial-Sales-($)": 13453000.0,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 60308.0,
+   "cities-served": [
+    "Clinton, SC",
+    "Fountain Inn, SC",
+    "Gray Court, SC",
+    "Greer, SC",
+    "Mauldin, SC",
+    "Waterloo, SC",
+    "Woodruff, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Greenville County, SC",
+     "population": 525534
+    },
+    {
+     "county": "Spartanburg County, SC",
+     "population": 327997
+    },
+    {
+     "county": "Laurens County, SC",
+     "population": 67539
+    },
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    },
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 60308
+    }
+   ]
+  },
+  {
+   "company": "Mid Carolina Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mcecoop.com/default.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 97899000.0,
+   "Residential-Customers": 53605.0,
+   "Commercial-Sales-($)": 25064000.0,
+   "Commercial-Customers": 4172.0,
+   "Industrial-Sales-($)": 3090000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 57785.0,
+   "cities-served": [
+    "Chapin, SC",
+    "Gilbert, SC",
+    "Irmo, SC",
+    "Lexington, SC",
+    "Little Mountain, SC",
+    "South Congaree, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, SC",
+     "population": 416147
+    },
+    {
+     "county": "Lexington County, SC",
+     "population": 293991
+    },
+    {
+     "county": "Aiken County, SC",
+     "population": 168808
+    },
+    {
+     "county": "Saluda County, SC",
+     "population": 18862
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 57785
+    }
+   ]
+  },
+  {
+   "company": "Aiken Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.aikenco-op.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 83563100.0,
+   "Residential-Customers": 46101.0,
+   "Commercial-Sales-($)": 15287800.0,
+   "Commercial-Customers": 3190.0,
+   "Industrial-Sales-($)": 10963100.0,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 49307.0,
+   "cities-served": [
+    "Aiken, SC",
+    "Burnettown, SC",
+    "McCormick, SC",
+    "New Ellenton, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Lexington County, SC",
+     "population": 293991
+    },
+    {
+     "county": "Aiken County, SC",
+     "population": 168808
+    },
+    {
+     "county": "Orangeburg County, SC",
+     "population": 84223
+    },
+    {
+     "county": "Edgefield County, SC",
+     "population": 25657
+    },
+    {
+     "county": "Barnwell County, SC",
+     "population": 20589
+    },
+    {
+     "county": "Saluda County, SC",
+     "population": 18862
+    },
+    {
+     "county": "Calhoun County, SC",
+     "population": 14119
+    },
+    {
+     "county": "McCormick County, SC",
+     "population": 9526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 49307
+    }
+   ]
+  },
+  {
+   "company": "Santee Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.santee.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 73488000.0,
+   "Residential-Customers": 34251.0,
+   "Commercial-Sales-($)": 18501500.0,
+   "Commercial-Customers": 9397.0,
+   "Industrial-Sales-($)": 36953800.0,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 43664.0,
+   "cities-served": [
+    "Coward, SC",
+    "Georgetown, SC",
+    "Greeleyville, SC",
+    "Johnsonville, SC",
+    "Kingstree, SC",
+    "Lake City, SC",
+    "Pamplico, SC",
+    "Summerton, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Florence County, SC",
+     "population": 137059
+    },
+    {
+     "county": "Georgetown County, SC",
+     "population": 63404
+    },
+    {
+     "county": "Clarendon County, SC",
+     "population": 31144
+    },
+    {
+     "county": "Williamsburg County, SC",
+     "population": 31026
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 43664
+    }
+   ]
+  },
+  {
+   "company": "Rock Hill Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofrockhill.com/departments/utilities/more/utilities/electric-service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 49299000.0,
+   "Residential-Customers": 36183.0,
+   "Commercial-Sales-($)": 53910000.0,
+   "Commercial-Customers": 3743.0,
+   "Industrial-Sales-($)": 5862000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 39933.0,
+   "cities-served": [
+    "Rock Hill"
+   ],
+   "counties-served": [
+    {
+     "county": "York County, SC",
+     "population": 282090
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 39933
+    }
+   ]
+  },
+  {
+   "company": "Greer CPW",
+   "company-type": "Municipal",
+   "website": "https://www.greercpw.com/utilities/electricity/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 25814000.0,
+   "Residential-Customers": 18444.0,
+   "Commercial-Sales-($)": 19856000.0,
+   "Commercial-Customers": 15531.0,
+   "Total-Customers": 33975.0,
+   "cities-served": [
+    "Greer"
+   ],
+   "counties-served": [
+    {
+     "county": "Greenville County, SC",
+     "population": 525534
+    },
+    {
+     "county": "Spartanburg County, SC",
+     "population": 327997
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 33975
+    }
+   ]
+  },
+  {
+   "company": "Black River Electric Cooperative SC",
+   "company-type": "Cooperative",
+   "website": "https://blackriver.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 53482900.0,
+   "Residential-Customers": 29065.0,
+   "Commercial-Sales-($)": 13866700.0,
+   "Commercial-Customers": 4053.0,
+   "Industrial-Sales-($)": 8492200.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 33136.0,
+   "cities-served": [
+    "Mayesville, SC",
+    "Sumter, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumter County, SC",
+     "population": 105556
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Clarendon County, SC",
+     "population": 31144
+    },
+    {
+     "county": "Lee County, SC",
+     "population": 16531
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 33136
+    }
+   ]
+  },
+  {
+   "company": "Pee Dee Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.pdec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48736000.0,
+   "Residential-Customers": 28052.0,
+   "Commercial-Sales-($)": 7986000.0,
+   "Commercial-Customers": 2703.0,
+   "Industrial-Sales-($)": 14136000.0,
+   "Industrial-Customers": 30.0,
+   "Total-Customers": 30785.0,
+   "cities-served": [
+    "Darlington, SC",
+    "Florence, SC",
+    "Nichols, SC",
+    "Society Hill, SC",
+    "Timmonsville, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Florence County, SC",
+     "population": 137059
+    },
+    {
+     "county": "Darlington County, SC",
+     "population": 62905
+    },
+    {
+     "county": "Chesterfield County, SC",
+     "population": 43273
+    },
+    {
+     "county": "Marion County, SC",
+     "population": 29183
+    },
+    {
+     "county": "Dillon County, SC",
+     "population": 28292
+    },
+    {
+     "county": "Lee County, SC",
+     "population": 16531
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 30785
+    }
+   ]
+  },
+  {
+   "company": "Fairfield Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.fairfield.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 52140000.0,
+   "Residential-Customers": 28685.0,
+   "Commercial-Sales-($)": 9645000.0,
+   "Commercial-Customers": 1747.0,
+   "Industrial-Sales-($)": 9794000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 30450.0,
+   "cities-served": [
+    "Blythewood, SC",
+    "Columbia, SC",
+    "Elgin, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, SC",
+     "population": 416147
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Chester County, SC",
+     "population": 32294
+    },
+    {
+     "county": "Fairfield County, SC",
+     "population": 20948
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 30450
+    }
+   ]
+  },
+  {
+   "company": "Orangeburg Department of Public Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.orbgdpu.com/about-us/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33373600.0,
+   "Residential-Customers": 20614.0,
+   "Commercial-Sales-($)": 18524800.0,
+   "Commercial-Customers": 3754.0,
+   "Industrial-Sales-($)": 27261800.0,
+   "Industrial-Customers": 139.0,
+   "Total-Customers": 24507.0,
+   "Total-Production-MWh": 193.0,
+   "Production-from-Non-Renewable-Energy-MWh": 193.0,
+   "cities-served": [
+    "Cope, SC",
+    "Cordova, SC",
+    "Orangeburg, SC",
+    "Rowesville, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Orangeburg County, SC",
+     "population": 84223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 24507
+    }
+   ]
+  },
+  {
+   "company": "Broad River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.broadriverelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 39597700.0,
+   "Residential-Customers": 21475.0,
+   "Commercial-Sales-($)": 5475500.0,
+   "Commercial-Customers": 1397.0,
+   "Industrial-Sales-($)": 5462800.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 22879.0,
+   "cities-served": [
+    "Blacksburg, SC",
+    "Chesnee, SC",
+    "Jonesville, SC",
+    "Lyman, SC",
+    "Wellford, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Spartanburg County, SC",
+     "population": 327997
+    },
+    {
+     "county": "Cherokee County, SC",
+     "population": 56216
+    },
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    },
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 22436
+    },
+    {
+     "state": "North Carolina",
+     "customers": 443
+    }
+   ]
+  },
+  {
+   "company": "Lynches River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lynchesriver.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35947000.0,
+   "Residential-Customers": 20208.0,
+   "Commercial-Sales-($)": 8511000.0,
+   "Commercial-Customers": 1106.0,
+   "Industrial-Sales-($)": 6065000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 21324.0,
+   "cities-served": [
+    "Chesterfield, SC",
+    "Heath Springs, SC",
+    "Kershaw, SC",
+    "Mount Croghan, SC",
+    "Pageland, SC",
+    "Ruby, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Lancaster County, SC",
+     "population": 96016
+    },
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    },
+    {
+     "county": "Chesterfield County, SC",
+     "population": 43273
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 21324
+    }
+   ]
+  },
+  {
+   "company": "Edisto Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.edistoelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33438800.0,
+   "Residential-Customers": 15091.0,
+   "Commercial-Sales-($)": 8730600.0,
+   "Commercial-Customers": 5431.0,
+   "Industrial-Sales-($)": 6019700.0,
+   "Industrial-Customers": 28.0,
+   "Total-Customers": 20550.0,
+   "cities-served": [
+    "Bamberg, SC",
+    "Bowman, SC",
+    "Ehrhardt, SC",
+    "Ridgeville, SC",
+    "Ulmer, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Dorchester County, SC",
+     "population": 161540
+    },
+    {
+     "county": "Orangeburg County, SC",
+     "population": 84223
+    },
+    {
+     "county": "Barnwell County, SC",
+     "population": 20589
+    },
+    {
+     "county": "Hampton County, SC",
+     "population": 18561
+    },
+    {
+     "county": "Bamberg County, SC",
+     "population": 13311
+    },
+    {
+     "county": "Allendale County, SC",
+     "population": 8039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 20550
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.tri-countyelectric.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35839800.0,
+   "Residential-Customers": 17492.0,
+   "Commercial-Sales-($)": 5504600.0,
+   "Commercial-Customers": 527.0,
+   "Industrial-Sales-($)": 2017600.0,
+   "Industrial-Customers": 259.0,
+   "Total-Customers": 18278.0,
+   "cities-served": [
+    "Santee, SC",
+    "Vance, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, SC",
+     "population": 416147
+    },
+    {
+     "county": "Lexington County, SC",
+     "population": 293991
+    },
+    {
+     "county": "Orangeburg County, SC",
+     "population": 84223
+    },
+    {
+     "county": "Calhoun County, SC",
+     "population": 14119
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 18278
+    }
+   ]
+  },
+  {
+   "company": "Easley Combined Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.easleyutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20739000.0,
+   "Residential-Customers": 13578.0,
+   "Commercial-Sales-($)": 14135000.0,
+   "Commercial-Customers": 1619.0,
+   "Total-Customers": 15197.0,
+   "cities-served": [
+    "Easley",
+    "Powdersville CDP",
+    "Arial CDP",
+    "Dacusville CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Pickens County, SC",
+     "population": 131404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 15197
+    }
+   ]
+  },
+  {
+   "company": "Little River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lreci.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 22047263.742,
+   "Residential-Customers": 12115.0,
+   "Commercial-Sales-($)": 5742436.258,
+   "Commercial-Customers": 2393.0,
+   "Total-Customers": 14508.0,
+   "cities-served": [
+    "Calhoun Falls, SC",
+    "Donalds, SC",
+    "Due West, SC",
+    "Parksville, SC",
+    "Starr, SC",
+    "Ware Shoals, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Anderson County, SC",
+     "population": 203718
+    },
+    {
+     "county": "Greenwood County, SC",
+     "population": 69351
+    },
+    {
+     "county": "Abbeville County, SC",
+     "population": 24295
+    },
+    {
+     "county": "McCormick County, SC",
+     "population": 9526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 14508
+    }
+   ]
+  },
+  {
+   "company": "Greenwood Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.greenwoodcpw.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 9404000.0,
+   "Residential-Customers": 11293.0,
+   "Commercial-Sales-($)": 11931000.0,
+   "Commercial-Customers": 2952.0,
+   "Total-Customers": 14245.0,
+   "cities-served": [
+    "Greenwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Greenwood County, SC",
+     "population": 69351
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 14245
+    }
+   ]
+  },
+  {
+   "company": "Newberry Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.nec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22201000.0,
+   "Residential-Customers": 12447.0,
+   "Commercial-Sales-($)": 4365000.0,
+   "Commercial-Customers": 737.0,
+   "Industrial-Sales-($)": 12853000.0,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 13205.0,
+   "cities-served": [
+    "Newberry, SC",
+    "Prosperity, SC",
+    "Silverstreet, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    },
+    {
+     "county": "Fairfield County, SC",
+     "population": 20948
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 13205
+    }
+   ]
+  },
+  {
+   "company": "Coastal Electric Cooperative Walterboro",
+   "company-type": "Cooperative",
+   "website": "https://www.coastal.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22506843.977,
+   "Residential-Customers": 10621.0,
+   "Commercial-Sales-($)": 4124107.225,
+   "Commercial-Customers": 1172.0,
+   "Industrial-Sales-($)": 560348.798,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 11797.0,
+   "cities-served": [
+    "Smoaks, SC",
+    "Walterboro, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Colleton County, SC",
+     "population": 38604
+    },
+    {
+     "county": "Bamberg County, SC",
+     "population": 13311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 11797
+    }
+   ]
+  },
+  {
+   "company": "City of Camden Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcamden.org/services/public-works-utilities/electric-utility",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 12837109.327,
+   "Residential-Customers": 9482.0,
+   "Commercial-Sales-($)": 8522890.673,
+   "Commercial-Customers": 1333.0,
+   "Total-Customers": 10815.0,
+   "cities-served": [
+    "Camden"
+   ],
+   "counties-served": [
+    {
+     "county": "Kershaw County, SC",
+     "population": 65403
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 10815
+    }
+   ]
+  },
+  {
+   "company": "Seneca Light and Water",
+   "company-type": "Municipal",
+   "website": "http://www.senecalightandwater.com/Utilities/Electricity.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7224967.895,
+   "Residential-Customers": 6512.0,
+   "Commercial-Sales-($)": 7695637.102,
+   "Commercial-Customers": 1128.0,
+   "Industrial-Sales-($)": 437795.002,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 7646.0,
+   "Total-Production-MWh": 1586.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1586.0,
+   "cities-served": [
+    "Seneca"
+   ],
+   "counties-served": [
+    {
+     "county": "Oconee County, SC",
+     "population": 78607
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 7646
+    }
+   ]
+  },
+  {
+   "company": "Union CIty Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cityofunion.net/page/140005136/140016447/Utilities-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8927827.848,
+   "Residential-Customers": 5816.0,
+   "Commercial-Sales-($)": 6469784.246,
+   "Commercial-Customers": 1142.0,
+   "Industrial-Sales-($)": 1240387.905,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 6970.0,
+   "cities-served": [
+    "Union"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 6970
+    }
+   ]
+  },
+  {
+   "company": "Gaffney Electric",
+   "company-type": "Municipal",
+   "website": "https://www.gbpw.com/services/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8049000.0,
+   "Residential-Customers": 5554.0,
+   "Commercial-Sales-($)": 10558000.0,
+   "Commercial-Customers": 1148.0,
+   "Industrial-Sales-($)": 4322000.0,
+   "Industrial-Customers": 20.0,
+   "Total-Customers": 6722.0,
+   "cities-served": [
+    "Gaffney",
+    "East Gaffney CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Cherokee County, SC",
+     "population": 56216
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 6722
+    }
+   ]
+  },
+  {
+   "company": "Marlboro Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.marlboro.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7759000.0,
+   "Residential-Customers": 5336.0,
+   "Commercial-Sales-($)": 2626000.0,
+   "Commercial-Customers": 1186.0,
+   "Industrial-Sales-($)": 47745000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 6528.0,
+   "cities-served": [
+    "Bennettsville",
+    "Wallace CDP",
+    "Little Rock CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Dillon County, SC",
+     "population": 28292
+    },
+    {
+     "county": "Marlboro County, SC",
+     "population": 26667
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 6528
+    }
+   ]
+  },
+  {
+   "company": "Lockhart Power Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.lockhartpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8246627.0,
+   "Residential-Customers": 4902.0,
+   "Commercial-Sales-($)": 2567195.0,
+   "Commercial-Customers": 1291.0,
+   "Industrial-Sales-($)": 8752883.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 6202.0,
+   "Total-Production-MWh": 105086.0,
+   "Production-from-Renewable-Energy-MWh": 105163.0,
+   "Production-from-Non-Renewable-Energy-MWh": -77.0,
+   "cities-served": [
+    "Carlisle, SC",
+    "Central Pacolet, SC",
+    "Jonesville, SC",
+    "Lockhart, SC",
+    "Pacolet, SC",
+    "Union, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Spartanburg County, SC",
+     "population": 327997
+    },
+    {
+     "county": "York County, SC",
+     "population": 282090
+    },
+    {
+     "county": "Cherokee County, SC",
+     "population": 56216
+    },
+    {
+     "county": "Chester County, SC",
+     "population": 32294
+    },
+    {
+     "county": "Union County, SC",
+     "population": 27244
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 6202
+    }
+   ]
+  },
+  {
+   "company": "Laurens Commission of Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.lcpw.com/electricity",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6166334.812,
+   "Residential-Customers": 4472.0,
+   "Commercial-Sales-($)": 4668712.621,
+   "Commercial-Customers": 913.0,
+   "Industrial-Sales-($)": 2160952.567,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 5395.0,
+   "cities-served": [
+    "Laurens"
+   ],
+   "counties-served": [
+    {
+     "county": "Laurens County, SC",
+     "population": 67539
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 5395
+    }
+   ]
+  },
+  {
+   "company": "Georgetown, South Carolina Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.georgetownsc.gov/governmental_services/departments/electric_utility_department/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4336882.358,
+   "Residential-Customers": 3904.0,
+   "Commercial-Sales-($)": 6222117.642,
+   "Commercial-Customers": 1166.0,
+   "Total-Customers": 5070.0,
+   "cities-served": [
+    "Georgetown"
+   ],
+   "counties-served": [
+    {
+     "county": "Georgetown County, SC",
+     "population": 63404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 5070
+    }
+   ]
+  },
+  {
+   "company": "City of Newberry Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofnewberry.com/city-services/utility-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6257800.0,
+   "Residential-Customers": 4058.0,
+   "Commercial-Sales-($)": 8452500.0,
+   "Commercial-Customers": 894.0,
+   "Industrial-Sales-($)": 9514800.0,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 4967.0,
+   "cities-served": [
+    "Newberry"
+   ],
+   "counties-served": [
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 4967
+    }
+   ]
+  },
+  {
+   "company": "City of Bennettsville Utilities",
+   "company-type": "Municipal",
+   "website": "http://bennettsvillesc.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5287566.077,
+   "Residential-Customers": 3885.0,
+   "Commercial-Sales-($)": 3355433.923,
+   "Commercial-Customers": 518.0,
+   "Total-Customers": 4403.0,
+   "cities-served": [
+    "Bennettsville"
+   ],
+   "counties-served": [
+    {
+     "county": "Marlboro County, SC",
+     "population": 26667
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 4403
+    }
+   ]
+  },
+  {
+   "company": "Clinton Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.cityofclintonsc.com/index.asp?SEC=888BE284-085A-4E3E-87A2-82AC3EAA83F1",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5706071.227,
+   "Residential-Customers": 3468.0,
+   "Commercial-Sales-($)": 5489384.978,
+   "Commercial-Customers": 632.0,
+   "Industrial-Sales-($)": 2363943.794,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4101.0,
+   "cities-served": [
+    "Clinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Laurens County, SC",
+     "population": 67539
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 4101
+    }
+   ]
+  },
+  {
+   "company": "Abbeville Public Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.abbevilleutilities.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4295371.815,
+   "Residential-Customers": 2983.0,
+   "Commercial-Sales-($)": 2798628.185,
+   "Commercial-Customers": 405.0,
+   "Total-Customers": 3388.0,
+   "Total-Production-MWh": 12.0,
+   "Production-from-Renewable-Energy-MWh": 6.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6.0,
+   "cities-served": [
+    "Abbeville"
+   ],
+   "counties-served": [
+    {
+     "county": "Abbeville County, SC",
+     "population": 24295
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 3388
+    }
+   ]
+  },
+  {
+   "company": "Winnsboro, South Carolina Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townofwinnsboro.com/electricity",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4531852.087,
+   "Residential-Customers": 2608.0,
+   "Commercial-Sales-($)": 2980819.419,
+   "Commercial-Customers": 538.0,
+   "Industrial-Sales-($)": 50328.494,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 3152.0,
+   "cities-served": [
+    "Winnsboro",
+    "Winnsboro Mills CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Fairfield County, SC",
+     "population": 20948
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 3152
+    }
+   ]
+  },
+  {
+   "company": "Bamberg Board of Public Works",
+   "company-type": "Municipal",
+   "website": "http://www.bambergsc.com/bpw/index.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1992214.24,
+   "Residential-Customers": 1290.0,
+   "Commercial-Sales-($)": 1905812.955,
+   "Commercial-Customers": 578.0,
+   "Industrial-Sales-($)": 757672.805,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1870.0,
+   "cities-served": [
+    "Bamberg"
+   ],
+   "counties-served": [
+    {
+     "county": "Bamberg County, SC",
+     "population": 13311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 1870
+    }
+   ]
+  },
+  {
+   "company": "Westminster Utility",
+   "company-type": "Municipal",
+   "website": "https://westminstersc.org/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1873505.311,
+   "Residential-Customers": 1242.0,
+   "Commercial-Sales-($)": 1806494.689,
+   "Commercial-Customers": 255.0,
+   "Total-Customers": 1497.0,
+   "cities-served": [
+    "Westminster"
+   ],
+   "counties-served": [
+    {
+     "county": "Oconee County, SC",
+     "population": 78607
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 1497
+    }
+   ]
+  },
+  {
+   "company": "CPW McCormick, SC",
+   "company-type": "Municipal",
+   "website": "https://www.mccormickcpw.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1398474.131,
+   "Residential-Customers": 897.0,
+   "Commercial-Sales-($)": 855525.869,
+   "Commercial-Customers": 203.0,
+   "Total-Customers": 1100.0,
+   "cities-served": [
+    "McCormick"
+   ],
+   "counties-served": [
+    {
+     "county": "McCormick County, SC",
+     "population": 9526
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 1100
+    }
+   ]
+  },
+  {
+   "company": "Prosperity, South Carolina Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.prosperitysc.com/town-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 962938.42,
+   "Residential-Customers": 679.0,
+   "Commercial-Sales-($)": 502061.58,
+   "Commercial-Customers": 139.0,
+   "Total-Customers": 818.0,
+   "cities-served": [
+    "Prosperity"
+   ],
+   "counties-served": [
+    {
+     "county": "Newberry County, SC",
+     "population": 37719
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 818
+    }
+   ]
+  },
+  {
+   "company": "Due West, South Carolina Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.duewestsc.com/wp-content/uploads/2015/06/public-utilities-home.pdf",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 469491.488,
+   "Residential-Customers": 399.0,
+   "Commercial-Sales-($)": 791508.512,
+   "Commercial-Customers": 87.0,
+   "Total-Customers": 486.0,
+   "cities-served": [
+    "Abbeville, SC",
+    "Calhoun Falls, SC",
+    "Donalds, SC",
+    "Due West, SC",
+    "Honea Path, SC",
+    "Lowndesville, SC"
+   ],
+   "counties-served": [
+    {
+     "county": "Abbeville County, SC",
+     "population": 24295
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Carolina",
+     "customers": 486
+    }
+   ]
+  }
+ ]
+}

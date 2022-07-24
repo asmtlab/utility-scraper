@@ -1,0 +1,6268 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Oklahoma Gas & Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.oge.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1007264375.0,
+   "Residential-Customers": 747694.0,
+   "Commercial-Sales-($)": 809602176.0,
+   "Commercial-Customers": 120418.0,
+   "Industrial-Sales-($)": 452692878.0,
+   "Industrial-Customers": 9398.0,
+   "Total-Customers": 877510.0,
+   "Total-Production-MWh": 15893042.0,
+   "Production-from-Renewable-Energy-MWh": 1037682.0,
+   "Production-from-Non-Renewable-Energy-MWh": 14855360.0,
+   "cities-served": [
+    "Achille, OK",
+    "Ada, OK",
+    "Agra, OK",
+    "Aline, OK",
+    "Allen, OK",
+    "Alma, AR",
+    "Altus, AR",
+    "Alva, OK",
+    "Ames, OK",
+    "Amorita, OK",
+    "Arcadia, OK",
+    "Ardmore, OK",
+    "Arkoma, OK",
+    "Armstrong, OK",
+    "Arnett, OK",
+    "Asher, OK",
+    "Barling, AR",
+    "Bearden, OK",
+    "Beggs, OK",
+    "Bennington, OK",
+    "Bethany, OK",
+    "Bethel Acres, OK",
+    "Billings, OK",
+    "Bixby, OK",
+    "Blackwell, OK",
+    "Blanchard, OK",
+    "Bokchito, OK",
+    "Bokoshe, OK",
+    "Boley, OK",
+    "Bonanza, AR",
+    "Bowlegs, OK",
+    "Boynton, OK",
+    "Braggs, OK",
+    "Braman, OK",
+    "Branch, AR",
+    "Breckenridge, OK",
+    "Bristow, OK",
+    "Broken Arrow, OK",
+    "Bromide, OK",
+    "Brooksville, OK",
+    "Burlington, OK",
+    "Byars, OK",
+    "Byng, OK",
+    "Byron, OK",
+    "Caddo, OK",
+    "Calera, OK",
+    "Calumet, OK",
+    "Camargo, OK",
+    "Cameron, OK",
+    "Canton, OK",
+    "Capron, OK",
+    "Carlton Landing, OK",
+    "Carmen, OK",
+    "Carney, OK",
+    "Carrier, OK",
+    "Cashion, OK",
+    "Caulksville, AR",
+    "Cedar Valley, OK",
+    "Cedarville, AR",
+    "Central City, AR",
+    "Chandler, OK",
+    "Charleston, AR",
+    "Checotah, OK",
+    "Cherokee, OK",
+    "Chester, AR",
+    "Choctaw, OK",
+    "Cimarron City, OK",
+    "Clarksville, AR",
+    "Cleo Springs, OK",
+    "Cleveland, OK",
+    "Coal Hill, AR",
+    "Colbert, OK",
+    "Cole, OK",
+    "Cornish, OK",
+    "Council Hill, OK",
+    "Covington, OK",
+    "Cowlington, OK",
+    "Coyle, OK",
+    "Crescent, OK",
+    "Cromwell, OK",
+    "Cushing, OK",
+    "Dacoma, OK",
+    "Davenport, OK",
+    "Davis, OK",
+    "Deer Creek, OK",
+    "Del City, OK",
+    "Denning, AR",
+    "Depew, OK",
+    "Dibble, OK",
+    "Dickson, OK",
+    "Dougherty, OK",
+    "Douglas, OK",
+    "Dover, OK",
+    "Drummond, OK",
+    "Drumright, OK",
+    "Durant, OK",
+    "Dyer, AR",
+    "Earlsboro, OK",
+    "Edmond, OK",
+    "El Reno, OK",
+    "Elmore City, OK",
+    "Enid, OK",
+    "Erin Springs, OK",
+    "Etowah, OK",
+    "Eufaula, OK",
+    "Fairmont, OK",
+    "Fairview, OK",
+    "Fallis, OK",
+    "Fargo, OK",
+    "Fitzhugh, OK",
+    "Forest Park, OK",
+    "Fort Coffee, OK",
+    "Fort Gibson, OK",
+    "Fort Smith, AR",
+    "Foster, OK",
+    "Francis, OK",
+    "Gage, OK",
+    "Gans, OK",
+    "Garber, OK",
+    "Geary, OK",
+    "Gene Autry, OK",
+    "Glencoe, OK",
+    "Glenpool, OK",
+    "Goldsby, OK",
+    "Goltry, OK",
+    "Gore, OK",
+    "Greenfield, OK",
+    "Greenwood, AR",
+    "Guthrie, OK",
+    "Hallett, OK",
+    "Harrah, OK",
+    "Hartman, AR",
+    "Haskell, OK",
+    "Healdton, OK",
+    "Heavener, OK",
+    "Helena, OK",
+    "Hendrix, OK",
+    "Hennessey, OK",
+    "Hickory, OK",
+    "Hillsdale, OK",
+    "Hitchcock, OK",
+    "Holdenville, OK",
+    "Howe, OK",
+    "Hunter, OK",
+    "Jefferson, OK",
+    "Jenks, OK",
+    "Jennings, OK",
+    "Jet, OK",
+    "Johnson, OK",
+    "Jones, OK",
+    "Katie, OK",
+    "Kellyville, OK",
+    "Kemp, OK",
+    "Kendrick, OK",
+    "Kibler, AR",
+    "Kiefer, OK",
+    "Kildare, OK",
+    "Kingfisher, OK",
+    "Kingston, OK",
+    "Knoxville, AR",
+    "Konawa, OK",
+    "Kremlin, OK",
+    "Lahoma, OK",
+    "Lake Aluma, OK",
+    "Lamar, AR",
+    "Lambert, OK",
+    "Lamont, OK",
+    "Langston, OK",
+    "Lavaca, AR",
+    "Lawrence Creek, OK",
+    "Lexington, OK",
+    "Liberty, OK",
+    "Lima, OK",
+    "Lindsay, OK",
+    "Lone Grove, OK",
+    "Longdale, OK",
+    "Lotsee, OK",
+    "Loyal, OK",
+    "Luther, OK",
+    "Macomb, OK",
+    "Madill, OK",
+    "Manchester, OK",
+    "Mannford, OK",
+    "Mannsville, OK",
+    "Maramec, OK",
+    "Marietta, OK",
+    "Marland, OK",
+    "Marshall, OK",
+    "Maud, OK",
+    "Maysville, OK",
+    "McCurtain, OK",
+    "McLoud, OK",
+    "Mead, OK",
+    "Medford, OK",
+    "Meeker, OK",
+    "Meno, OK",
+    "Meridian, OK",
+    "Midwest City, OK",
+    "Milburn, OK",
+    "Mill Creek, OK",
+    "Moffett, OK",
+    "Moore, OK",
+    "Mooreland, OK",
+    "Morris, OK",
+    "Morrison, OK",
+    "Morrison Bluff, AR",
+    "Mounds, OK",
+    "Mountainburg, AR",
+    "Mulberry, AR",
+    "Muldrow, OK",
+    "Mulhall, OK",
+    "Muskogee, OK",
+    "Mustang, OK",
+    "Mutual, OK",
+    "Nash, OK",
+    "New Woodville, OK",
+    "Newcastle, OK",
+    "Newkirk, OK",
+    "Nichols Hills, OK",
+    "Nicoma Park, OK",
+    "Noble, OK",
+    "Norman, OK",
+    "North Enid, OK",
+    "Oak Grove, OK",
+    "Oakland, OK",
+    "Oakwood, OK",
+    "Oilton, OK",
+    "Okarche, OK",
+    "Okay, OK",
+    "Oklahoma City, OK",
+    "Oktaha, OK",
+    "Orlando, OK",
+    "Ozark, AR",
+    "Paden, OK",
+    "Panama, OK",
+    "Paoli, OK",
+    "Paradise Hill, OK",
+    "Paris, AR",
+    "Pauls Valley, OK",
+    "Perkins, OK",
+    "Perry, OK",
+    "Piedmont, OK",
+    "Pink, OK",
+    "Pocola, OK",
+    "Porum, OK",
+    "Poteau, OK",
+    "Prague, OK",
+    "Purcell, OK",
+    "Ratcliff, AR",
+    "Ratliff City, OK",
+    "Ravia, OK",
+    "Red Rock, OK",
+    "Renfrow, OK",
+    "Rentiesville, OK",
+    "Ringling, OK",
+    "Ringwood, OK",
+    "Ripley, OK",
+    "Rock Island, OK",
+    "Roff, OK",
+    "Roland, OK",
+    "Rosedale, OK",
+    "Rudy, AR",
+    "Sallisaw, OK",
+    "Sand Springs, OK",
+    "Sapulpa, OK",
+    "Sasakwa, OK",
+    "Scranton, AR",
+    "Seiling, OK",
+    "Seminole, OK",
+    "Shady Point, OK",
+    "Shamrock, OK",
+    "Sharon, OK",
+    "Shattuck, OK",
+    "Shawnee, OK",
+    "Silo, OK",
+    "Slaughterville, OK",
+    "Slick, OK",
+    "Smith Village, OK",
+    "Sparks, OK",
+    "Spaulding, OK",
+    "Spencer, OK",
+    "Spiro, OK",
+    "Springer, OK",
+    "St. Louis, OK",
+    "Stidham, OK",
+    "Stillwater, OK",
+    "Stonewall, OK",
+    "Stratford, OK",
+    "Stroud, OK",
+    "Subiaco, AR",
+    "Sulphur, OK",
+    "Summit, OK",
+    "Taft, OK",
+    "Taloga, OK",
+    "Tamaha, OK",
+    "Tatums, OK",
+    "Tecumseh, OK",
+    "Terlton, OK",
+    "Thackerville, OK",
+    "The Village, OK",
+    "Tishomingo, OK",
+    "Tonkawa, OK",
+    "Tribbey, OK",
+    "Tryon, OK",
+    "Tullahassee, OK",
+    "Tulsa, OK",
+    "Union City, OK",
+    "Valley Brook, OK",
+    "Van Buren, AR",
+    "Velma, OK",
+    "Vian, OK",
+    "Vici, OK",
+    "Wainwright, OK",
+    "Wakita, OK",
+    "Wanette, OK",
+    "Warner, OK",
+    "Warr Acres, OK",
+    "Warwick, OK",
+    "Washington, OK",
+    "Watonga, OK",
+    "Waukomis, OK",
+    "Wayne, OK",
+    "Waynoka, OK",
+    "Webbers Falls, OK",
+    "Wellston, OK",
+    "Westport, OK",
+    "Wewoka, OK",
+    "Whitefield, OK",
+    "Wiederkehr Village, AR",
+    "Wilson, OK",
+    "Winchester, OK",
+    "Wister, OK",
+    "Woodlawn Park, OK",
+    "Woodward, OK",
+    "Wynnewood, OK",
+    "Yeager, OK",
+    "Yukon, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Oklahoma County, OK",
+     "population": 796292
+    },
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Cleveland County, OK",
+     "population": 295528
+    },
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    },
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    },
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    },
+    {
+     "county": "Pottawatomie County, OK",
+     "population": 72454
+    },
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    },
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Logan County, OK",
+     "population": 49555
+    },
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Carter County, OK",
+     "population": 48003
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Bryan County, OK",
+     "population": 46067
+    },
+    {
+     "county": "Pittsburg County, OK",
+     "population": 43773
+    },
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    },
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Pontotoc County, OK",
+     "population": 38065
+    },
+    {
+     "county": "Okmulgee County, OK",
+     "population": 36706
+    },
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    },
+    {
+     "county": "Seminole County, OK",
+     "population": 23556
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Woodward County, OK",
+     "population": 20470
+    },
+    {
+     "county": "McIntosh County, OK",
+     "population": 18941
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Pawnee County, OK",
+     "population": 15553
+    },
+    {
+     "county": "Marshall County, OK",
+     "population": 15312
+    },
+    {
+     "county": "Kingfisher County, OK",
+     "population": 15184
+    },
+    {
+     "county": "Murray County, OK",
+     "population": 13904
+    },
+    {
+     "county": "Hughes County, OK",
+     "population": 13367
+    },
+    {
+     "county": "Haskell County, OK",
+     "population": 11561
+    },
+    {
+     "county": "Okfuskee County, OK",
+     "population": 11310
+    },
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Love County, OK",
+     "population": 10146
+    },
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    },
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    },
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    },
+    {
+     "county": "Coal County, OK",
+     "population": 5266
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    },
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    },
+    {
+     "county": "Ellis County, OK",
+     "population": 3749
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 808700
+    },
+    {
+     "state": "Arkansas",
+     "customers": 68810
+    }
+   ]
+  },
+  {
+   "company": "Public Service Company of Oklahoma",
+   "company-type": "Investor Owned",
+   "website": "https://www.psoklahoma.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 680456427.0,
+   "Residential-Customers": 488720.0,
+   "Commercial-Sales-($)": 486274973.0,
+   "Commercial-Customers": 74334.0,
+   "Industrial-Sales-($)": 296180855.0,
+   "Industrial-Customers": 6521.0,
+   "Total-Customers": 569575.0,
+   "Total-Production-MWh": 7075213.0,
+   "Production-from-Renewable-Energy-MWh": 966447.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6108766.0,
+   "cities-served": [
+    "Adair, OK",
+    "Addington, OK",
+    "Afton, OK",
+    "Albion, OK",
+    "Alderson, OK",
+    "Alex, OK",
+    "Allen, OK",
+    "Amber, OK",
+    "Anadarko, OK",
+    "Antlers, OK",
+    "Apache, OK",
+    "Arapaho, OK",
+    "Ashland, OK",
+    "Atoka, OK",
+    "Atwood, OK",
+    "Avant, OK",
+    "Barnsdall, OK",
+    "Bartlesville, OK",
+    "Bearden, OK",
+    "Beggs, OK",
+    "Bernice, OK",
+    "Bessie, OK",
+    "Big Cabin, OK",
+    "Binger, OK",
+    "Bixby, OK",
+    "Blair, OK",
+    "Blanchard, OK",
+    "Boley, OK",
+    "Boswell, OK",
+    "Bradley, OK",
+    "Bray, OK",
+    "Bridge Creek, OK",
+    "Bridgeport, OK",
+    "Broken Arrow, OK",
+    "Broken Bow, OK",
+    "Bromide, OK",
+    "Burns Flat, OK",
+    "Butler, OK",
+    "Cache, OK",
+    "Calvin, OK",
+    "Canadian, OK",
+    "Caney, OK",
+    "Canute, OK",
+    "Carnegie, OK",
+    "Carter, OK",
+    "Castle, OK",
+    "Catoosa, OK",
+    "Cement, OK",
+    "Centrahoma, OK",
+    "Chattanooga, OK",
+    "Chelsea, OK",
+    "Cheyenne, OK",
+    "Chickasha, OK",
+    "Chouteau, OK",
+    "Claremore, OK",
+    "Clayton, OK",
+    "Clearview, OK",
+    "Clinton, OK",
+    "Coalgate, OK",
+    "Colony, OK",
+    "Comanche, OK",
+    "Cooperton, OK",
+    "Copan, OK",
+    "Corn, OK",
+    "Coweta, OK",
+    "Crowder, OK",
+    "Custer City, OK",
+    "Cyril, OK",
+    "Davidson, OK",
+    "Delaware, OK",
+    "Devol, OK",
+    "Dewar, OK",
+    "Dewey, OK",
+    "Dibble, OK",
+    "Dill City, OK",
+    "Disney, OK",
+    "Duncan, OK",
+    "Dustin, OK",
+    "Eakly, OK",
+    "East Duke, OK",
+    "Eldorado, OK",
+    "Elgin, OK",
+    "Elk City, OK",
+    "Elmer, OK",
+    "Empire City, OK",
+    "Erick, OK",
+    "Erin Springs, OK",
+    "Fair Oaks, OK",
+    "Fanshawe, OK",
+    "Faxon, OK",
+    "Fletcher, OK",
+    "Fort Cobb, OK",
+    "Fort Towson, OK",
+    "Foss, OK",
+    "Foyil, OK",
+    "Friendship, OK",
+    "Garvin, OK",
+    "Geronimo, OK",
+    "Gerty, OK",
+    "Gotebo, OK",
+    "Gould, OK",
+    "Gracemont, OK",
+    "Grand Lake Towne, OK",
+    "Grandfield, OK",
+    "Granite, OK",
+    "Grayson, OK",
+    "Grove, OK",
+    "Haileyville, OK",
+    "Hammon, OK",
+    "Hanna, OK",
+    "Hartshorne, OK",
+    "Hastings, OK",
+    "Headrick, OK",
+    "Henryetta, OK",
+    "Hinton, OK",
+    "Hitchita, OK",
+    "Hobart, OK",
+    "Hoffman, OK",
+    "Hollis, OK",
+    "Hollister, OK",
+    "Hominy, OK",
+    "Hoot Owl, OK",
+    "Horntown, OK",
+    "Howe, OK",
+    "Hugo, OK",
+    "Hydro, OK",
+    "IXL, OK",
+    "Idabel, OK",
+    "Indianola, OK",
+    "Inola, OK",
+    "Jay, OK",
+    "Jenks, OK",
+    "Kaw City, OK",
+    "Keota, OK",
+    "Ketchum, OK",
+    "Kinta, OK",
+    "Kiowa, OK",
+    "Krebs, OK",
+    "Lamar, OK",
+    "Langley, OK",
+    "Lawton, OK",
+    "Le Flore, OK",
+    "Leedey, OK",
+    "Lehigh, OK",
+    "Lenapah, OK",
+    "Lindsay, OK",
+    "Locust Grove, OK",
+    "Lone Wolf, OK",
+    "Lookeba, OK",
+    "Lotsee, OK",
+    "Loveland, OK",
+    "Mangum, OK",
+    "Manitou, OK",
+    "Marlow, OK",
+    "Martha, OK",
+    "McAlester, OK",
+    "McCurtain, OK",
+    "Medicine Park, OK",
+    "Millerton, OK",
+    "Minco, OK",
+    "Morris, OK",
+    "Mountain Park, OK",
+    "Mountain View, OK",
+    "New Alluwe, OK",
+    "New Cordell, OK",
+    "Newcastle, OK",
+    "Ninnekah, OK",
+    "Norge, OK",
+    "Nowata, OK",
+    "Ochelata, OK",
+    "Okemah, OK",
+    "Okmulgee, OK",
+    "Olustee, OK",
+    "Oologah, OK",
+    "Osage, OK",
+    "Owasso, OK",
+    "Pensacola, OK",
+    "Phillips, OK",
+    "Pittsburg, OK",
+    "Pocasset, OK",
+    "Porter, OK",
+    "Poteau, OK",
+    "Prue, OK",
+    "Pryor Creek, OK",
+    "Quinton, OK",
+    "Ramona, OK",
+    "Rattan, OK",
+    "Red Oak, OK",
+    "Redbird, OK",
+    "Rocky, OK",
+    "Roosevelt, OK",
+    "Rush Springs, OK",
+    "Ryan, OK",
+    "Salina, OK",
+    "Sand Springs, OK",
+    "Sapulpa, OK",
+    "Savanna, OK",
+    "Sawyer, OK",
+    "Sayre, OK",
+    "Schulter, OK",
+    "Sentinel, OK",
+    "Shidler, OK",
+    "Skiatook, OK",
+    "Snyder, OK",
+    "Soper, OK",
+    "South Coffeyville, OK",
+    "Spavinaw, OK",
+    "Sperry, OK",
+    "Sportsmen Acres, OK",
+    "Sterling, OK",
+    "Stidham, OK",
+    "Stigler, OK",
+    "Strang, OK",
+    "Stringtown, OK",
+    "Strong City, OK",
+    "Stuart, OK",
+    "Sugden, OK",
+    "Talala, OK",
+    "Talihina, OK",
+    "Temple, OK",
+    "Terral, OK",
+    "Texola, OK",
+    "Thomas, OK",
+    "Tipton, OK",
+    "Tullahassee, OK",
+    "Tulsa, OK",
+    "Tushka, OK",
+    "Tuttle, OK",
+    "Union City, OK",
+    "Valley Park, OK",
+    "Valliant, OK",
+    "Vera, OK",
+    "Verden, OK",
+    "Verdigris, OK",
+    "Vinita, OK",
+    "Wagoner, OK",
+    "Walters, OK",
+    "Wann, OK",
+    "Wapanucka, OK",
+    "Waurika, OK",
+    "Weatherford, OK",
+    "Webb City, OK",
+    "Weleetka, OK",
+    "Westport, OK",
+    "Wetumka, OK",
+    "Whitefield, OK",
+    "Wilburton, OK",
+    "Willow, OK",
+    "Wister, OK",
+    "Wright City, OK",
+    "Wynona, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Comanche County, OK",
+     "population": 121125
+    },
+    {
+     "county": "Rogers County, OK",
+     "population": 95240
+    },
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    },
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    },
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Grady County, OK",
+     "population": 54795
+    },
+    {
+     "county": "Washington County, OK",
+     "population": 52455
+    },
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Bryan County, OK",
+     "population": 46067
+    },
+    {
+     "county": "Osage County, OK",
+     "population": 45818
+    },
+    {
+     "county": "Pittsburg County, OK",
+     "population": 43773
+    },
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    },
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Mayes County, OK",
+     "population": 39046
+    },
+    {
+     "county": "Pontotoc County, OK",
+     "population": 38065
+    },
+    {
+     "county": "Okmulgee County, OK",
+     "population": 36706
+    },
+    {
+     "county": "McCurtain County, OK",
+     "population": 30814
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Custer County, OK",
+     "population": 28513
+    },
+    {
+     "county": "Caddo County, OK",
+     "population": 26945
+    },
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    },
+    {
+     "county": "Jackson County, OK",
+     "population": 24785
+    },
+    {
+     "county": "Beckham County, OK",
+     "population": 22410
+    },
+    {
+     "county": "McIntosh County, OK",
+     "population": 18941
+    },
+    {
+     "county": "Pawnee County, OK",
+     "population": 15553
+    },
+    {
+     "county": "Choctaw County, OK",
+     "population": 14204
+    },
+    {
+     "county": "Atoka County, OK",
+     "population": 14143
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    },
+    {
+     "county": "Hughes County, OK",
+     "population": 13367
+    },
+    {
+     "county": "Haskell County, OK",
+     "population": 11561
+    },
+    {
+     "county": "Okfuskee County, OK",
+     "population": 11310
+    },
+    {
+     "county": "Washita County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Pushmataha County, OK",
+     "population": 10812
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Latimer County, OK",
+     "population": 9444
+    },
+    {
+     "county": "Nowata County, OK",
+     "population": 9320
+    },
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    },
+    {
+     "county": "Kiowa County, OK",
+     "population": 8509
+    },
+    {
+     "county": "Tillman County, OK",
+     "population": 6968
+    },
+    {
+     "county": "Cotton County, OK",
+     "population": 5527
+    },
+    {
+     "county": "Greer County, OK",
+     "population": 5491
+    },
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    },
+    {
+     "county": "Coal County, OK",
+     "population": 5266
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    },
+    {
+     "county": "Roger Mills County, OK",
+     "population": 3442
+    },
+    {
+     "county": "Harmon County, OK",
+     "population": 2488
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 569575
+    }
+   ]
+  },
+  {
+   "company": "Empire District Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.empiredistrict.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 263145083.0,
+   "Residential-Customers": 151567.0,
+   "Commercial-Sales-($)": 192645615.0,
+   "Commercial-Customers": 27707.0,
+   "Industrial-Sales-($)": 93240795.0,
+   "Industrial-Customers": 333.0,
+   "Total-Customers": 179607.0,
+   "Total-Production-MWh": 5924541.0,
+   "Production-from-Renewable-Energy-MWh": 1957971.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3966570.0,
+   "cities-served": [
+    "Adona, AR",
+    "Adrian, MO",
+    "Advance, MO",
+    "Afton, OK",
+    "Airport Drive, MO",
+    "Alba, MO",
+    "Aldrich, MO",
+    "Alexandria, MO",
+    "Allenville, IL",
+    "Allenville, MO",
+    "Alma, MO",
+    "Altamont, IL",
+    "Altamont, KS",
+    "Amazonia, MO",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Anderson, MO",
+    "Annada, MO",
+    "Annapolis, MO",
+    "Anniston, MO",
+    "Appleton City, MO",
+    "Arbela, MO",
+    "Arbyrd, MO",
+    "Arcadia, MO",
+    "Archie, MO",
+    "Arcola, MO",
+    "Arkoe, MO",
+    "Armstrong, MO",
+    "Arnold, MO",
+    "Arrow Point, MO",
+    "Arrow Rock, MO",
+    "Asbury, MO",
+    "Ash Grove, MO",
+    "Ashburn, MO",
+    "Assumption, IL",
+    "Athens, IL",
+    "Atlanta, IL",
+    "Atlanta, MO",
+    "Auburn, IL",
+    "Aullville, MO",
+    "Aurora, MO",
+    "Avilla, MO",
+    "Avoca, AR",
+    "Baker, MO",
+    "Baldwin Park, MO",
+    "Baring, MO",
+    "Barnard, MO",
+    "Bartlett, KS",
+    "Bates City, MO",
+    "Battlefield, MO",
+    "Baxter Springs, KS",
+    "Beaver, AR",
+    "Beecher City, IL",
+    "Bell City, MO",
+    "Bella Vista, AR",
+    "Belton, MO",
+    "Benton, MO",
+    "Bentonville, AR",
+    "Berger, MO",
+    "Bernice, OK",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Bevier, MO",
+    "Big Cabin, OK",
+    "Big Lake, MO",
+    "Bigelow, AR",
+    "Bigelow, MO",
+    "Billings, MO",
+    "Bingham, IL",
+    "Blackburn, MO",
+    "Blackwater, MO",
+    "Blairstown, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Blue Eye, MO",
+    "Bluejacket, OK",
+    "Bolckow, MO",
+    "Bolivar, MO",
+    "Boonville, MO",
+    "Bowling Green, MO",
+    "Bragg City, MO",
+    "Branson, MO",
+    "Branson West, MO",
+    "Brashear, MO",
+    "Brimson, MO",
+    "Broadwell, IL",
+    "Bronaugh, MO",
+    "Brooklyn Heights, MO",
+    "Brookport, IL",
+    "Browning, MO",
+    "Brownington, MO",
+    "Brownstown, IL",
+    "Brunswick, MO",
+    "Bryant, AR",
+    "Bucklin, MO",
+    "Buffalo, MO",
+    "Buffalo, IL",
+    "Bull Creek, MO",
+    "Bulpitt, IL",
+    "Bunceton, MO",
+    "Burgess, MO",
+    "Burlington Junction, MO",
+    "Butler, MO",
+    "Butler, IL",
+    "Butterfield, MO",
+    "Byrnes Mill, MO",
+    "Calhoun, MO",
+    "Callao, MO",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Cammack Village, AR",
+    "Campbell, MO",
+    "Canalou, MO",
+    "Canton, MO",
+    "Cantrall, IL",
+    "Cape Girardeau, MO",
+    "Cardwell, MO",
+    "Carl Junction, MO",
+    "Carlinville, IL",
+    "Carterville, MO",
+    "Carthage, MO",
+    "Caruthersville, MO",
+    "Carytown, MO",
+    "Cassville, MO",
+    "Catron, MO",
+    "Cave Springs, AR",
+    "Cedar Hill Lakes, MO",
+    "Centerton, AR",
+    "Centerview, MO",
+    "Chaffee, MO",
+    "Chain-O-Lakes, MO",
+    "Charleston, IL",
+    "Charleston, MO",
+    "Chatham, IL",
+    "Cherokee, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Clarksville, MO",
+    "Clarkton, MO",
+    "Clear Lake, IL",
+    "Clearmont, MO",
+    "Cleveland, MO",
+    "Clever, MO",
+    "Cliff Village, MO",
+    "Clinton, MO",
+    "Clinton, IL",
+    "Clyde, MO",
+    "Coalton, IL",
+    "Colcord, OK",
+    "Collins, MO",
+    "Columbus, KS",
+    "Commerce, OK",
+    "Commerce, MO",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Coney Island, MO",
+    "Conway, AR",
+    "Cooter, MO",
+    "Corder, MO",
+    "Corning, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Cowden, IL",
+    "Craig, MO",
+    "Crane, MO",
+    "Creighton, MO",
+    "Cross Timbers, MO",
+    "Crystal City, MO",
+    "Crystal Lakes, MO",
+    "Curryville, MO",
+    "Dadeville, MO",
+    "Dalton, MO",
+    "Dawson, IL",
+    "De Soto, MO",
+    "Dearborn, MO",
+    "Decatur, IL",
+    "Decatur, AR",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delta, MO",
+    "Dennis Acres, MO",
+    "Des Arc, MO",
+    "Dexter, MO",
+    "Diamond, MO",
+    "Diehlstadt, MO",
+    "Dieterich, IL",
+    "Diggins, MO",
+    "Disney, OK",
+    "Divernon, IL",
+    "Doniphan, MO",
+    "Donnellson, IA",
+    "Dover, MO",
+    "Downing, MO",
+    "Drexel, MO",
+    "Dudley, MO",
+    "Duenweg, MO",
+    "Duquesne, MO",
+    "Dutchtown, MO",
+    "East Gillespie, IL",
+    "East Lynne, MO",
+    "East Prairie, MO",
+    "Edgerton, MO",
+    "Edgewood, IL",
+    "Edina, MO",
+    "Edinburg, IL",
+    "Edna, KS",
+    "Effingham, IL",
+    "El Dorado Springs, MO",
+    "Elkhart, IL",
+    "Elmer, MO",
+    "Elmira, MO",
+    "Elmo, MO",
+    "Emerald Beach, MO",
+    "Emma, MO",
+    "Essex, MO",
+    "Ethel, MO",
+    "Eureka, MO",
+    "Eureka Springs, AR",
+    "Everton, MO",
+    "Ewing, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Exeter, MO",
+    "Fair Grove, MO",
+    "Fair Play, MO",
+    "Fairfax, MO",
+    "Fairland, OK",
+    "Fairview, MO",
+    "Farina, IL",
+    "Farley, MO",
+    "Farmersville, IL",
+    "Farmington, MO",
+    "Fayette, MO",
+    "Ferrelview, MO",
+    "Festus, MO",
+    "Fidelity, MO",
+    "Fillmore, IL",
+    "Fillmore, MO",
+    "Fisk, MO",
+    "Fleming, MO",
+    "Flemington, MO",
+    "Fordland, MO",
+    "Forest City, MO",
+    "Forsyth, IL",
+    "Forsyth, MO",
+    "Fort Madison, IA",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Fourche, AR",
+    "Frankford, MO",
+    "Franklin, IA",
+    "Franklin, MO",
+    "Freeman, MO",
+    "Freistatt, MO",
+    "Fremont Hills, MO",
+    "Galena, KS",
+    "Galena, MO",
+    "Galesburg, KS",
+    "Galt, MO",
+    "Garden City, MO",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gays, IL",
+    "Gentry, AR",
+    "Gerald, MO",
+    "Gerster, MO",
+    "Gibbs, MO",
+    "Gideon, MO",
+    "Gillespie, IL",
+    "Gilliam, MO",
+    "Ginger Blue, MO",
+    "Girard, IL",
+    "Glasgow, MO",
+    "Glenwood, MO",
+    "Golden City, MO",
+    "Goodman, MO",
+    "Goodnight, MO",
+    "Gordonville, MO",
+    "Graham, MO",
+    "Granby, MO",
+    "Grand Falls Plaza, MO",
+    "Grand Pass, MO",
+    "Grandview, IL",
+    "Granger, MO",
+    "Gravette, AR",
+    "Green Ridge, MO",
+    "Greencastle, MO",
+    "Greenfield, MO",
+    "Greentop, MO",
+    "Greenup, IL",
+    "Greenville, IL",
+    "Greenville, MO",
+    "Greenwood, MO",
+    "Grove, OK",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Hale, MO",
+    "Halfway, MO",
+    "Halltown, MO",
+    "Hamilton, IL",
+    "Hannibal, MO",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Harristown, IL",
+    "Hartsburg, IL",
+    "Harvel, IL",
+    "Harwood, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Haywood City, MO",
+    "Henrietta, MO",
+    "Herculaneum, MO",
+    "Hermitage, MO",
+    "Herrick, IL",
+    "Hidalgo, IL",
+    "Higginsville, MO",
+    "Highfill, AR",
+    "Highlandville, MO",
+    "Hillsboro, IL",
+    "Hillsboro, MO",
+    "Hoberg, MO",
+    "Holcomb, MO",
+    "Holden, MO",
+    "Holland, MO",
+    "Hollister, MO",
+    "Homestead, MO",
+    "Homestown, MO",
+    "Hopkins, MO",
+    "Hornersville, MO",
+    "Houston, AR",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howardville, MO",
+    "Hughesville, MO",
+    "Humansville, MO",
+    "Hume, MO",
+    "Hurdland, MO",
+    "Hurley, MO",
+    "Iatan, MO",
+    "Illiopolis, IL",
+    "Indian Point, MO",
+    "Iola, IL",
+    "Ironton, MO",
+    "Irving, IL",
+    "Jackson, MO",
+    "Jacksonville, AR",
+    "Jacksonville, MO",
+    "Jane, MO",
+    "Jasper, MO",
+    "Jay, OK",
+    "Jeisyville, IL",
+    "Jerico Springs, MO",
+    "Jewett, IL",
+    "Joplin, MO",
+    "Joppa, IL",
+    "Kahoka, MO",
+    "Kansas City, MO",
+    "Kelso, MO",
+    "Kennett, MO",
+    "Kenney, IL",
+    "Keokuk, IA",
+    "Ketchum, OK",
+    "Keytesville, MO",
+    "Kimberling City, MO",
+    "Kimmswick, MO",
+    "Kincaid, IL",
+    "Kingsville, MO",
+    "Kinmundy, IL",
+    "Kirbyville, MO",
+    "Kirksville, MO",
+    "Knob Noster, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Due, MO",
+    "La Grange, MO",
+    "La Monte, MO",
+    "La Plata, MO",
+    "La Russell, MO",
+    "Labette, KS",
+    "Laclede, MO",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Tekakwitha, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lambert, MO",
+    "Lanagan, MO",
+    "Lancaster, MO",
+    "Laredo, MO",
+    "Latham, IL",
+    "Lawson, MO",
+    "Leawood, MO",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Leland Grove, IL",
+    "Leonard, MO",
+    "Lerna, IL",
+    "Leslie, MO",
+    "Lewistown, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Lilbourn, MO",
+    "Lincoln, IL",
+    "Linneus, MO",
+    "Litchfield, IL",
+    "Little Flock, AR",
+    "Little Rock, AR",
+    "Livonia, MO",
+    "Loch Lloyd, MO",
+    "Lockwood, MO",
+    "Loma Linda, MO",
+    "Lone Jack, MO",
+    "Louisburg, MO",
+    "Louisiana, MO",
+    "Louisville, IL",
+    "Lowell, AR",
+    "Lowry City, MO",
+    "Ludlow, MO",
+    "Luray, MO",
+    "Macon, MO",
+    "Maitland, MO",
+    "Malden, MO",
+    "Malta Bend, MO",
+    "Marceline, MO",
+    "Marionville, MO",
+    "Maroa, IL",
+    "Marshall, MO",
+    "Marston, MO",
+    "Maryville, MO",
+    "Mason, IL",
+    "Matthews, MO",
+    "Mattoon, IL",
+    "Maumelle, AR",
+    "Mayflower, AR",
+    "Mayview, MO",
+    "McCord Bend, MO",
+    "McCune, KS",
+    "Meadville, MO",
+    "Mechanicsburg, IL",
+    "Memphis, MO",
+    "Mendon, MO",
+    "Merriam Woods, MO",
+    "Merwin, MO",
+    "Metropolis, IL",
+    "Metz, MO",
+    "Miami, OK",
+    "Miami, MO",
+    "Milford, MO",
+    "Mill Spring, MO",
+    "Millard, MO",
+    "Miller, MO",
+    "Milo, MO",
+    "Mindenmines, MO",
+    "Miner, MO",
+    "Modesto, IL",
+    "Monett, MO",
+    "Monticello, MO",
+    "Montrose, IA",
+    "Montrose, MO",
+    "Montrose, IL",
+    "Mooresville, MO",
+    "Morehouse, MO",
+    "Morley, MO",
+    "Morrisonville, IL",
+    "Morrisville, MO",
+    "Mound City, MO",
+    "Mound Valley, KS",
+    "Moundville, MO",
+    "Mount Auburn, IL",
+    "Mount Leonard, MO",
+    "Mount Pulaski, IL",
+    "Mount Vernon, MO",
+    "Napoleon, MO",
+    "Nauvoo, IL",
+    "Naylor, MO",
+    "Neck City, MO",
+    "Neelyville, MO",
+    "Nelson, MO",
+    "Neoga, IL",
+    "Neosho, MO",
+    "Nevada, MO",
+    "New Cambria, MO",
+    "New Franklin, MO",
+    "New Haven, MO",
+    "New Madrid, MO",
+    "Newark, MO",
+    "Newton, IL",
+    "Newtonia, MO",
+    "Niantic, IL",
+    "Nilwood, IL",
+    "Nixa, MO",
+    "Noel, MO",
+    "Nokomis, IL",
+    "North Lilbourn, MO",
+    "North Little Rock, AR",
+    "North Miami, OK",
+    "Northmoor, MO",
+    "Novelty, MO",
+    "Novinger, MO",
+    "Oak Ridge, MO",
+    "Oblong, IL",
+    "Oconee, IL",
+    "Odessa, MO",
+    "Ohlman, IL",
+    "Olympian Village, MO",
+    "Oppelo, AR",
+    "Oran, MO",
+    "Oreana, IL",
+    "Oregon, MO",
+    "Oronogo, MO",
+    "Orrick, MO",
+    "Osceola, MO",
+    "Osgood, MO",
+    "Oswego, KS",
+    "Otterville, MO",
+    "Owaneco, IL",
+    "Ozark, MO",
+    "Pacific, MO",
+    "Palmer, IL",
+    "Palmyra, MO",
+    "Palmyra, IL",
+    "Pana, IL",
+    "Parkdale, MO",
+    "Parkville, MO",
+    "Parkway, MO",
+    "Parma, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Pascola, MO",
+    "Passaic, MO",
+    "Patoka, IL",
+    "Pawnee, IL",
+    "Paynesville, MO",
+    "Pea Ridge, AR",
+    "Peaceful Village, MO",
+    "Peculiar, MO",
+    "Penermon, MO",
+    "Peoria, OK",
+    "Perry, AR",
+    "Perryville, AR",
+    "Pevely, MO",
+    "Pickering, MO",
+    "Piedmont, MO",
+    "Pierce City, MO",
+    "Pilot Grove, MO",
+    "Pilot Knob, MO",
+    "Pineville, MO",
+    "Pinhook, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hope, MO",
+    "Pocahontas, MO",
+    "Pontoosuc, IL",
+    "Poplar Bluff, MO",
+    "Portageville, MO",
+    "Prairie Home, MO",
+    "Preston, MO",
+    "Purcell, MO",
+    "Purdin, MO",
+    "Purdy, MO",
+    "Puxico, MO",
+    "Quapaw, OK",
+    "Queen City, MO",
+    "Quitman, MO",
+    "Qulin, MO",
+    "Ramsey, IL",
+    "Ravenwood, MO",
+    "Raymond, IL",
+    "Raymore, MO",
+    "Rea, MO",
+    "Redings Mill, MO",
+    "Reeds, MO",
+    "Reeds Spring, MO",
+    "Republic, MO",
+    "Revere, MO",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Ridgely, MO",
+    "Risco, MO",
+    "Ritchey, MO",
+    "Riverside, MO",
+    "Riverton, IL",
+    "Riverview Estates, MO",
+    "Rives, MO",
+    "Rochester, IL",
+    "Rock Port, MO",
+    "Rockaway Beach, MO",
+    "Rockville, MO",
+    "Rogers, AR",
+    "Rogersville, MO",
+    "Roscoe, MO",
+    "Rose Hill, IL",
+    "Roseland, KS",
+    "Rosendale, MO",
+    "Rothville, MO",
+    "Rutledge, MO",
+    "Saddlebrooke, MO",
+    "Saginaw, MO",
+    "Sarcoxie, MO",
+    "Savannah, MO",
+    "Scammon, KS",
+    "Schell City, MO",
+    "Schram City, IL",
+    "Scotsdale, MO",
+    "Scott City, MO",
+    "Sedalia, MO",
+    "Seligman, MO",
+    "Senath, MO",
+    "Seneca, MO",
+    "Shelbyville, IL",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sherman, IL",
+    "Sherwood, AR",
+    "Shoal Creek Drive, MO",
+    "Shoal Creek Estates, MO",
+    "Shumway, IL",
+    "Sibley, MO",
+    "Sigel, IL",
+    "Sikeston, MO",
+    "Siloam Springs, AR",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithboro, IL",
+    "Smithton, MO",
+    "Smithville, MO",
+    "South Gifford, MO",
+    "South Gorin, MO",
+    "South Greenfield, MO",
+    "Southern View, IL",
+    "Southwest City, MO",
+    "Sparta, MO",
+    "Spaulding, IL",
+    "Spickard, MO",
+    "Springfield, MO",
+    "Springfield, IL",
+    "Springtown, AR",
+    "St. Clair, MO",
+    "St. Elmo, IL",
+    "St. Joseph, MO",
+    "St. Peter, IL",
+    "Standard City, IL",
+    "Stark City, MO",
+    "Ste. Marie, IL",
+    "Steele, MO",
+    "Stella, MO",
+    "Stewardson, IL",
+    "Stockton, MO",
+    "Stotesbury, MO",
+    "Stotts City, MO",
+    "Strafford, MO",
+    "Strasburg, IL",
+    "Strasburg, MO",
+    "Sullivan, IL",
+    "Sulphur Springs, AR",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tallapoosa, MO",
+    "Taneyville, MO",
+    "Tarkio, MO",
+    "Tarrants, MO",
+    "Taylor Springs, IL",
+    "Taylorville, IL",
+    "Teutopolis, IL",
+    "Thayer, IL",
+    "Theodosia, MO",
+    "Tightwad, MO",
+    "Tindall, MO",
+    "Toledo, IL",
+    "Tovey, IL",
+    "Tower Hill, IL",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Triplett, MO",
+    "Umber View Heights, MO",
+    "Union, MO",
+    "Urbana, MO",
+    "Urich, MO",
+    "Utica, MO",
+    "Vandalia, IL",
+    "Vanduser, MO",
+    "Vernon, IL",
+    "Verona, MO",
+    "Viburnum, MO",
+    "Vilonia, AR",
+    "Vinita, OK",
+    "Virden, IL",
+    "Vista, MO",
+    "Waco, MO",
+    "Waggoner, IL",
+    "Walker, MO",
+    "Walnut Grove, MO",
+    "Wapella, IL",
+    "Wardell, MO",
+    "Warrensburg, MO",
+    "Warrensburg, IL",
+    "Washburn, MO",
+    "Washington, MO",
+    "Watson, IL",
+    "Watson, MO",
+    "Waverly, IL",
+    "Waverly, MO",
+    "Wayland, MO",
+    "Waynesville, IL",
+    "Weatherby Lake, MO",
+    "Weaubleau, MO",
+    "Webb City, MO",
+    "Weir, KS",
+    "Welch, OK",
+    "Wellington, MO",
+    "Wenonah, IL",
+    "Wentworth, MO",
+    "West Line, MO",
+    "West Mineral, KS",
+    "West Point, IA",
+    "Westboro, MO",
+    "Weston, MO",
+    "Wheatland, MO",
+    "Wheaton, MO",
+    "Wheeler, IL",
+    "Wheeling, MO",
+    "Whitewater, MO",
+    "Willard, MO",
+    "Williamsville, IL",
+    "Williamsville, MO",
+    "Willow Hill, IL",
+    "Wilson City, MO",
+    "Windsor, MO",
+    "Windsor, IL",
+    "Windsor Place, MO",
+    "Witt, IL",
+    "Wood Heights, MO",
+    "Wooldridge, MO",
+    "Worthington, MO",
+    "Wyaconda, MO",
+    "Wyandotte, OK",
+    "Wyatt, MO",
+    "Yale, IL"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    },
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Jefferson County, MO",
+     "population": 226739
+    },
+    {
+     "county": "Sangamon County, IL",
+     "population": 196343
+    },
+    {
+     "county": "McLean County, IL",
+     "population": 170954
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Macon County, IL",
+     "population": 103998
+    },
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "McCracken County, KY",
+     "population": 67875
+    },
+    {
+     "county": "Newton County, MO",
+     "population": 58648
+    },
+    {
+     "county": "Taney County, MO",
+     "population": 56066
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Coles County, IL",
+     "population": 46863
+    },
+    {
+     "county": "Macoupin County, IL",
+     "population": 44967
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    },
+    {
+     "county": "Marion County, IL",
+     "population": 37729
+    },
+    {
+     "county": "Effingham County, IL",
+     "population": 34668
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Christian County, IL",
+     "population": 34032
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Morgan County, IL",
+     "population": 32915
+    },
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Montgomery County, IL",
+     "population": 28288
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Logan County, IL",
+     "population": 27987
+    },
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, IL",
+     "population": 23768
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "McDonald County, MO",
+     "population": 23303
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Fayette County, IL",
+     "population": 21488
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Shelby County, IL",
+     "population": 20990
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Crawford County, IL",
+     "population": 18679
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    },
+    {
+     "county": "Bond County, IL",
+     "population": 16725
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Richland County, IL",
+     "population": 15813
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    },
+    {
+     "county": "De Witt County, IL",
+     "population": 15516
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Moultrie County, IL",
+     "population": 14526
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Massac County, IL",
+     "population": 14169
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    },
+    {
+     "county": "Johnson County, IL",
+     "population": 13308
+    },
+    {
+     "county": "Clay County, IL",
+     "population": 13288
+    },
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Menard County, IL",
+     "population": 12297
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Ripley County, MO",
+     "population": 10679
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Cumberland County, IL",
+     "population": 10450
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Jasper County, IL",
+     "population": 9287
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Pope County, IL",
+     "population": 3763
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    },
+    {
+     "county": "Hardin County, IL",
+     "population": 3649
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 159923
+    },
+    {
+     "state": "Kansas",
+     "customers": 9728
+    },
+    {
+     "state": "Arkansas",
+     "customers": 5192
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4764
+    }
+   ]
+  },
+  {
+   "company": "Ozark Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ozarksecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 101340000.0,
+   "Residential-Customers": 74518.0,
+   "Commercial-Sales-($)": 35055000.0,
+   "Commercial-Customers": 5690.0,
+   "Industrial-Sales-($)": 10273000.0,
+   "Industrial-Customers": 35.0,
+   "Total-Customers": 80243.0,
+   "cities-served": [
+    "Chester, AR",
+    "Elkins, AR",
+    "Elm Springs, AR",
+    "Farmington, AR",
+    "Fayetteville, AR",
+    "Goshen, AR",
+    "Greenland, AR",
+    "Hindsville, AR",
+    "Johnson, AR",
+    "Kansas, OK",
+    "Lincoln, AR",
+    "Marble City, OK",
+    "Prairie Grove, AR",
+    "Siloam Springs, AR",
+    "Springdale, AR",
+    "St. Paul, AR",
+    "Stilwell, OK",
+    "Tontitown, AR",
+    "Watts, OK",
+    "West Fork, AR",
+    "West Siloam Springs, OK",
+    "Westville, OK",
+    "Winslow, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Adair County, OK",
+     "population": 19495
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 68004
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 12239
+    }
+   ]
+  },
+  {
+   "company": "Arkansas Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.avecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 96974758.0,
+   "Residential-Customers": 56888.0,
+   "Commercial-Sales-($)": 23195710.0,
+   "Commercial-Customers": 4614.0,
+   "Industrial-Sales-($)": 19387288.0,
+   "Industrial-Customers": 45.0,
+   "Total-Customers": 61547.0,
+   "cities-served": [
+    "Alma, AR",
+    "Altus, AR",
+    "Barling, AR",
+    "Blue Mountain, AR",
+    "Bonanza, AR",
+    "Booneville, AR",
+    "Branch, AR",
+    "Caulksville, AR",
+    "Cedarville, AR",
+    "Central City, AR",
+    "Charleston, AR",
+    "Chester, AR",
+    "Clarksville, AR",
+    "Coal Hill, AR",
+    "Denning, AR",
+    "Dover, AR",
+    "Dyer, AR",
+    "Fort Coffee, OK",
+    "Fort Smith, AR",
+    "Greenwood, AR",
+    "Hackett, AR",
+    "Hartford, AR",
+    "Hartman, AR",
+    "Havana, AR",
+    "Huntington, AR",
+    "Kibler, AR",
+    "Knoxville, AR",
+    "Lamar, AR",
+    "Lavaca, AR",
+    "London, AR",
+    "Mansfield, AR",
+    "Midland, AR",
+    "Moffett, OK",
+    "Morrison Bluff, AR",
+    "Mountainburg, AR",
+    "Mulberry, AR",
+    "Muldrow, OK",
+    "Ozark, AR",
+    "Paris, AR",
+    "Pocola, OK",
+    "Ratcliff, AR",
+    "Rock Island, OK",
+    "Roland, OK",
+    "Rudy, AR",
+    "Scranton, AR",
+    "Spiro, OK",
+    "Subiaco, AR",
+    "Van Buren, AR",
+    "Waldron, AR",
+    "Wiederkehr Village, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Sebastian County, AR",
+     "population": 127799
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Crawford County, AR",
+     "population": 60133
+    },
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Johnson County, AR",
+     "population": 25749
+    },
+    {
+     "county": "Logan County, AR",
+     "population": 21131
+    },
+    {
+     "county": "Yell County, AR",
+     "population": 20263
+    },
+    {
+     "county": "Franklin County, AR",
+     "population": 17097
+    },
+    {
+     "county": "Scott County, AR",
+     "population": 9836
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 56849
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4698
+    }
+   ]
+  },
+  {
+   "company": "Oklahoma Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.okcoop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 103784000.0,
+   "Residential-Customers": 55154.0,
+   "Commercial-Sales-($)": 36336000.0,
+   "Commercial-Customers": 5329.0,
+   "Industrial-Sales-($)": 12103000.0,
+   "Industrial-Customers": 90.0,
+   "Total-Customers": 60573.0,
+   "cities-served": [
+    "Amber, OK",
+    "Blanchard, OK",
+    "Bridge Creek, OK",
+    "Chickasha, OK",
+    "Cole, OK",
+    "Dibble, OK",
+    "Etowah, OK",
+    "Goldsby, OK",
+    "Harrah, OK",
+    "Lexington, OK",
+    "Minco, OK",
+    "Moore, OK",
+    "Mustang, OK",
+    "Newcastle, OK",
+    "Ninnekah, OK",
+    "Noble, OK",
+    "Norge, OK",
+    "Norman, OK",
+    "Oklahoma City, OK",
+    "Pocasset, OK",
+    "Purcell, OK",
+    "Slaughterville, OK",
+    "Tribbey, OK",
+    "Tuttle, OK",
+    "Washington, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Oklahoma County, OK",
+     "population": 796292
+    },
+    {
+     "county": "Cleveland County, OK",
+     "population": 295528
+    },
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    },
+    {
+     "county": "Pottawatomie County, OK",
+     "population": 72454
+    },
+    {
+     "county": "Grady County, OK",
+     "population": 54795
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Caddo County, OK",
+     "population": 26945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 60574
+    }
+   ]
+  },
+  {
+   "company": "Edmond Electric",
+   "company-type": "Municipal",
+   "website": "https://www.edmondok.com/659/Utility-Customer-Service",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 54627000.0,
+   "Residential-Customers": 36547.0,
+   "Commercial-Sales-($)": 35929000.0,
+   "Commercial-Customers": 5385.0,
+   "Total-Customers": 41932.0,
+   "cities-served": [
+    "Arcadia, OK",
+    "Edmond, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Oklahoma County, OK",
+     "population": 796292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 41932
+    }
+   ]
+  },
+  {
+   "company": "Northeast Oklahoma Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.noec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 57829000.0,
+   "Residential-Customers": 36603.0,
+   "Commercial-Sales-($)": 18845000.0,
+   "Commercial-Customers": 3933.0,
+   "Industrial-Sales-($)": 2458000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 40547.0,
+   "cities-served": [
+    "Adair, OK",
+    "Afton, OK",
+    "Bernice, OK",
+    "Big Cabin, OK",
+    "Bluejacket, OK",
+    "Chelsea, OK",
+    "Chouteau, OK",
+    "Colcord, OK",
+    "Commerce, OK",
+    "Disney, OK",
+    "Fairland, OK",
+    "Foyil, OK",
+    "Grand Lake Towne, OK",
+    "Grove, OK",
+    "Hoot Owl, OK",
+    "Jay, OK",
+    "Kansas, OK",
+    "Ketchum, OK",
+    "Langley, OK",
+    "Miami, OK",
+    "North Miami, OK",
+    "Oaks, OK",
+    "Pensacola, OK",
+    "Peoria, OK",
+    "Pryor Creek, OK",
+    "Quapaw, OK",
+    "Salina, OK",
+    "Seneca, MO",
+    "Southwest City, MO",
+    "Spavinaw, OK",
+    "Sportsmen Acres, OK",
+    "Strang, OK",
+    "Vinita, OK",
+    "Welch, OK",
+    "West Siloam Springs, OK",
+    "Wyandotte, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Rogers County, OK",
+     "population": 95240
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Mayes County, OK",
+     "population": 39046
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 40547
+    }
+   ]
+  },
+  {
+   "company": "Verdigris Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.vvec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 58489000.0,
+   "Residential-Customers": 33939.0,
+   "Commercial-Sales-($)": 5723000.0,
+   "Commercial-Customers": 3507.0,
+   "Industrial-Sales-($)": 8909000.0,
+   "Industrial-Customers": 717.0,
+   "Total-Customers": 38163.0,
+   "cities-served": [
+    "Avant, OK",
+    "Barnsdall, OK",
+    "Bartlesville, OK",
+    "Claremore, OK",
+    "Collinsville, OK",
+    "Dewey, OK",
+    "Foyil, OK",
+    "Lenapah, OK",
+    "New Alluwe, OK",
+    "Oologah, OK",
+    "Owasso, OK",
+    "Pawhuska, OK",
+    "Prue, OK",
+    "Sand Springs, OK",
+    "Skiatook, OK",
+    "South Coffeyville, OK",
+    "Sperry, OK",
+    "Talala, OK",
+    "Tulsa, OK",
+    "Valley Park, OK",
+    "Vera, OK",
+    "Verdigris, OK",
+    "Wann, OK",
+    "Wynona, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Rogers County, OK",
+     "population": 95240
+    },
+    {
+     "county": "Washington County, OK",
+     "population": 52455
+    },
+    {
+     "county": "Osage County, OK",
+     "population": 45818
+    },
+    {
+     "county": "Nowata County, OK",
+     "population": 9320
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 38163
+    }
+   ]
+  },
+  {
+   "company": "East Central Oklahoma Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.ecoec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 46993000.0,
+   "Residential-Customers": 30994.0,
+   "Commercial-Sales-($)": 11348000.0,
+   "Commercial-Customers": 4104.0,
+   "Total-Customers": 35098.0,
+   "cities-served": [
+    "Bearden, OK",
+    "Beggs, OK",
+    "Bixby, OK",
+    "Boynton, OK",
+    "Bristow, OK",
+    "Castle, OK",
+    "Checotah, OK",
+    "Clearview, OK",
+    "Council Hill, OK",
+    "Cromwell, OK",
+    "Depew, OK",
+    "Dewar, OK",
+    "Drumright, OK",
+    "Eufaula, OK",
+    "Fort Gibson, OK",
+    "Glenpool, OK",
+    "Grayson, OK",
+    "Haskell, OK",
+    "Henryetta, OK",
+    "Hitchita, OK",
+    "Hoffman, OK",
+    "IXL, OK",
+    "Jenks, OK",
+    "Kellyville, OK",
+    "Kiefer, OK",
+    "Liberty, OK",
+    "Morris, OK",
+    "Mounds, OK",
+    "Muskogee, OK",
+    "Okemah, OK",
+    "Okmulgee, OK",
+    "Rentiesville, OK",
+    "Schulter, OK",
+    "Shamrock, OK",
+    "Slick, OK",
+    "Stidham, OK",
+    "Stroud, OK",
+    "Summit, OK",
+    "Taft, OK",
+    "Wainwright, OK",
+    "Weleetka, OK",
+    "Winchester, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    },
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    },
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Okmulgee County, OK",
+     "population": 36706
+    },
+    {
+     "county": "Seminole County, OK",
+     "population": 23556
+    },
+    {
+     "county": "McIntosh County, OK",
+     "population": 18941
+    },
+    {
+     "county": "Okfuskee County, OK",
+     "population": 11310
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 35098
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Cooperative (Oklahoma)",
+   "company-type": "Cooperative",
+   "website": "https://www.tcec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19503400.0,
+   "Residential-Customers": 14202.0,
+   "Commercial-Sales-($)": 35157600.0,
+   "Commercial-Customers": 9777.0,
+   "Industrial-Sales-($)": 28132200.0,
+   "Industrial-Customers": 2127.0,
+   "Total-Customers": 26106.0,
+   "cities-served": [
+    "Beaver, OK",
+    "Boise City, OK",
+    "Elkhart, KS",
+    "Forgan, OK",
+    "Goodwell, OK",
+    "Guymon, OK",
+    "Hardesty, OK",
+    "Hooker, OK",
+    "Keyes, OK",
+    "Optima, OK",
+    "Texhoma, OK",
+    "Texhoma, TX",
+    "Tyrone, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Texas County, OK",
+     "population": 21384
+    },
+    {
+     "county": "Hansford County, TX",
+     "population": 5285
+    },
+    {
+     "county": "Beaver County, OK",
+     "population": 5049
+    },
+    {
+     "county": "Baca County, CO",
+     "population": 3506
+    },
+    {
+     "county": "Sherman County, TX",
+     "population": 2782
+    },
+    {
+     "county": "Morton County, KS",
+     "population": 2701
+    },
+    {
+     "county": "Cimarron County, OK",
+     "population": 2296
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 24202
+    },
+    {
+     "state": "Kansas",
+     "customers": 1475
+    },
+    {
+     "state": "Texas",
+     "customers": 375
+    },
+    {
+     "state": "Colorado",
+     "customers": 48
+    },
+    {
+     "state": "New Mexico",
+     "customers": 6
+    }
+   ]
+  },
+  {
+   "company": "CKenergy Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://ckenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33546000.0,
+   "Residential-Customers": 21550.0,
+   "Commercial-Sales-($)": 19795000.0,
+   "Commercial-Customers": 4391.0,
+   "Industrial-Sales-($)": 14581000.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 25967.0,
+   "cities-served": [
+    "Anadarko, OK",
+    "Apache, OK",
+    "Arapaho, OK",
+    "Bessie, OK",
+    "Binger, OK",
+    "Bridgeport, OK",
+    "Burns Flat, OK",
+    "Butler, OK",
+    "Canute, OK",
+    "Carnegie, OK",
+    "Cement, OK",
+    "Clinton, OK",
+    "Colony, OK",
+    "Cooperton, OK",
+    "Corn, OK",
+    "Custer City, OK",
+    "Cyril, OK",
+    "Dill City, OK",
+    "Eakly, OK",
+    "El Reno, OK",
+    "Fletcher, OK",
+    "Fort Cobb, OK",
+    "Foss, OK",
+    "Geary, OK",
+    "Gotebo, OK",
+    "Gracemont, OK",
+    "Hammon, OK",
+    "Hinton, OK",
+    "Hobart, OK",
+    "Hydro, OK",
+    "Leedey, OK",
+    "Lone Wolf, OK",
+    "Lookeba, OK",
+    "Minco, OK",
+    "Mountain View, OK",
+    "New Cordell, OK",
+    "Oklahoma City, OK",
+    "Putnam, OK",
+    "Rocky, OK",
+    "Sentinel, OK",
+    "Thomas, OK",
+    "Union City, OK",
+    "Weatherford, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    },
+    {
+     "county": "Comanche County, OK",
+     "population": 121125
+    },
+    {
+     "county": "Grady County, OK",
+     "population": 54795
+    },
+    {
+     "county": "Custer County, OK",
+     "population": 28513
+    },
+    {
+     "county": "Caddo County, OK",
+     "population": 26945
+    },
+    {
+     "county": "Washita County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    },
+    {
+     "county": "Kiowa County, OK",
+     "population": 8509
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    },
+    {
+     "county": "Roger Mills County, OK",
+     "population": 3442
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 25967
+    }
+   ]
+  },
+  {
+   "company": "Canadian Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mycvec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35880100.0,
+   "Residential-Customers": 22877.0,
+   "Commercial-Sales-($)": 12285800.0,
+   "Commercial-Customers": 2539.0,
+   "Industrial-Sales-($)": 12914700.0,
+   "Industrial-Customers": 25.0,
+   "Total-Customers": 25441.0,
+   "cities-served": [
+    "Asher, OK",
+    "Bearden, OK",
+    "Bethel Acres, OK",
+    "Boley, OK",
+    "Bowlegs, OK",
+    "Brooksville, OK",
+    "Cromwell, OK",
+    "Dustin, OK",
+    "Earlsboro, OK",
+    "Eufaula, OK",
+    "Hanna, OK",
+    "Johnson, OK",
+    "Konawa, OK",
+    "Lamar, OK",
+    "Lima, OK",
+    "Macomb, OK",
+    "Maud, OK",
+    "McLoud, OK",
+    "Meeker, OK",
+    "Paden, OK",
+    "Pink, OK",
+    "Prague, OK",
+    "Sasakwa, OK",
+    "Seminole, OK",
+    "Shawnee, OK",
+    "Sparks, OK",
+    "St. Louis, OK",
+    "Tecumseh, OK",
+    "Tribbey, OK",
+    "Wanette, OK",
+    "Wetumka, OK",
+    "Wewoka, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawatomie County, OK",
+     "population": 72454
+    },
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    },
+    {
+     "county": "Seminole County, OK",
+     "population": 23556
+    },
+    {
+     "county": "McIntosh County, OK",
+     "population": 18941
+    },
+    {
+     "county": "Hughes County, OK",
+     "population": 13367
+    },
+    {
+     "county": "Okfuskee County, OK",
+     "population": 11310
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 25441
+    }
+   ]
+  },
+  {
+   "company": "Lake Region",
+   "company-type": "Cooperative",
+   "website": "https://www.lrecok.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 34297000.0,
+   "Residential-Customers": 23370.0,
+   "Commercial-Sales-($)": 3444000.0,
+   "Commercial-Customers": 1560.0,
+   "Industrial-Sales-($)": 4306000.0,
+   "Industrial-Customers": 145.0,
+   "Total-Customers": 25075.0,
+   "cities-served": [
+    "Coweta, OK",
+    "Fort Gibson, OK",
+    "Hulbert, OK",
+    "Inola, OK",
+    "Oaks, OK",
+    "Okay, OK",
+    "Porter, OK",
+    "Tahlequah, OK",
+    "Tullahassee, OK",
+    "Wagoner, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Rogers County, OK",
+     "population": 95240
+    },
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    },
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    },
+    {
+     "county": "Mayes County, OK",
+     "population": 39046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 25075
+    }
+   ]
+  },
+  {
+   "company": "Cotton Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.cottonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33134100.0,
+   "Residential-Customers": 18691.0,
+   "Commercial-Sales-($)": 15239600.0,
+   "Commercial-Customers": 3875.0,
+   "Industrial-Sales-($)": 16586700.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 22580.0,
+   "cities-served": [
+    "Addington, OK",
+    "Apache, OK",
+    "Bray, OK",
+    "Cache, OK",
+    "Central High, OK",
+    "Chattanooga, OK",
+    "Comanche, OK",
+    "Devol, OK",
+    "Duncan, OK",
+    "Elgin, OK",
+    "Empire City, OK",
+    "Faxon, OK",
+    "Fletcher, OK",
+    "Geronimo, OK",
+    "Grandfield, OK",
+    "Hastings, OK",
+    "Indiahoma, OK",
+    "Lawton, OK",
+    "Loco, OK",
+    "Loveland, OK",
+    "Marlow, OK",
+    "Medicine Park, OK",
+    "Randlett, OK",
+    "Ryan, OK",
+    "Sterling, OK",
+    "Sugden, OK",
+    "Temple, OK",
+    "Terral, OK",
+    "Velma, OK",
+    "Walters, OK",
+    "Waurika, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Comanche County, OK",
+     "population": 121125
+    },
+    {
+     "county": "Grady County, OK",
+     "population": 54795
+    },
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    },
+    {
+     "county": "Tillman County, OK",
+     "population": 6968
+    },
+    {
+     "county": "Cotton County, OK",
+     "population": 5527
+    },
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 22580
+    }
+   ]
+  },
+  {
+   "company": "Central Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mycentral.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33078400.0,
+   "Residential-Customers": 17846.0,
+   "Commercial-Sales-($)": 19387800.0,
+   "Commercial-Customers": 4464.0,
+   "Industrial-Sales-($)": 1343600.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 22319.0,
+   "cities-served": [
+    "Agra, OK",
+    "Arcadia, OK",
+    "Carney, OK",
+    "Chandler, OK",
+    "Coyle, OK",
+    "Crescent, OK",
+    "Cushing, OK",
+    "Davenport, OK",
+    "Edmond, OK",
+    "Fallis, OK",
+    "Glencoe, OK",
+    "Harrah, OK",
+    "Jones, OK",
+    "Kendrick, OK",
+    "Langston, OK",
+    "Luther, OK",
+    "Meridian, OK",
+    "Morrison, OK",
+    "Mulhall, OK",
+    "Oklahoma City, OK",
+    "Orlando, OK",
+    "Perkins, OK",
+    "Perry, OK",
+    "Ripley, OK",
+    "Stillwater, OK",
+    "Stroud, OK",
+    "Tryon, OK",
+    "Warwick, OK",
+    "Wellston, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Oklahoma County, OK",
+     "population": 796292
+    },
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    },
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Logan County, OK",
+     "population": 49555
+    },
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    },
+    {
+     "county": "Pawnee County, OK",
+     "population": 15553
+    },
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 22319
+    }
+   ]
+  },
+  {
+   "company": "Kiamichi Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kiamichielectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29193000.0,
+   "Residential-Customers": 19900.0,
+   "Commercial-Sales-($)": 8033000.0,
+   "Commercial-Customers": 2219.0,
+   "Industrial-Sales-($)": 1806000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 22123.0,
+   "cities-served": [
+    "Albion, OK",
+    "Cameron, OK",
+    "Canadian, OK",
+    "Carlton Landing, OK",
+    "Cowlington, OK",
+    "Crowder, OK",
+    "Fanshawe, OK",
+    "Hartshorne, OK",
+    "Howe, OK",
+    "Indianola, OK",
+    "Krebs, OK",
+    "Le Flore, OK",
+    "McAlester, OK",
+    "Pittsburg, OK",
+    "Poteau, OK",
+    "Rock Island, OK",
+    "Savanna, OK",
+    "Shady Point, OK",
+    "Spiro, OK",
+    "Wilburton, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Pittsburg County, OK",
+     "population": 43773
+    },
+    {
+     "county": "Atoka County, OK",
+     "population": 14143
+    },
+    {
+     "county": "Pushmataha County, OK",
+     "population": 10812
+    },
+    {
+     "county": "Latimer County, OK",
+     "population": 9444
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 22123
+    }
+   ]
+  },
+  {
+   "company": "People's Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.peopleselectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28103700.0,
+   "Residential-Customers": 14079.0,
+   "Commercial-Sales-($)": 18987200.0,
+   "Commercial-Customers": 7924.0,
+   "Industrial-Sales-($)": 18212400.0,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 22032.0,
+   "cities-served": [
+    "Ada, OK",
+    "Allen, OK",
+    "Ashland, OK",
+    "Atwood, OK",
+    "Byng, OK",
+    "Centrahoma, OK",
+    "Davis, OK",
+    "Fitzhugh, OK",
+    "Francis, OK",
+    "Gerty, OK",
+    "Hickory, OK",
+    "Horntown, OK",
+    "Lamar, OK",
+    "Mill Creek, OK",
+    "Roff, OK",
+    "Spaulding, OK",
+    "Stonewall, OK",
+    "Sulphur, OK",
+    "Tishomingo, OK",
+    "Tupelo, OK",
+    "Wynnewood, OK",
+    "Yeager, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Pittsburg County, OK",
+     "population": 43773
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Pontotoc County, OK",
+     "population": 38065
+    },
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    },
+    {
+     "county": "Seminole County, OK",
+     "population": 23556
+    },
+    {
+     "county": "Atoka County, OK",
+     "population": 14143
+    },
+    {
+     "county": "Murray County, OK",
+     "population": 13904
+    },
+    {
+     "county": "Hughes County, OK",
+     "population": 13367
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Coal County, OK",
+     "population": 5266
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 22032
+    }
+   ]
+  },
+  {
+   "company": "Stillwater Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.stillwater.org/page/home/government/utilities/utility-billing-services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 21955000.0,
+   "Residential-Customers": 19077.0,
+   "Commercial-Sales-($)": 16638000.0,
+   "Commercial-Customers": 2485.0,
+   "Industrial-Sales-($)": 4771000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 21567.0,
+   "Total-Production-MWh": 75947.0,
+   "Production-from-Non-Renewable-Energy-MWh": 75947.0,
+   "cities-served": [
+    "Stillwater"
+   ],
+   "counties-served": [
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 21567
+    }
+   ]
+  },
+  {
+   "company": "Indian Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.iecok.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24594600.0,
+   "Residential-Customers": 14319.0,
+   "Commercial-Sales-($)": 14711900.0,
+   "Commercial-Customers": 5390.0,
+   "Industrial-Sales-($)": 9154500.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 19720.0,
+   "cities-served": [
+    "Blackburn, OK",
+    "Burbank, OK",
+    "Cleveland, OK",
+    "Fairfax, OK",
+    "Hallett, OK",
+    "Hominy, OK",
+    "Jennings, OK",
+    "Lawrence Creek, OK",
+    "Lotsee, OK",
+    "Mannford, OK",
+    "Maramec, OK",
+    "Oak Grove, OK",
+    "Osage, OK",
+    "Pawnee, OK",
+    "Ralston, OK",
+    "Sand Springs, OK",
+    "Skedee, OK",
+    "Terlton, OK",
+    "Westport, OK",
+    "Yale, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    },
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    },
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    },
+    {
+     "county": "Osage County, OK",
+     "population": 45818
+    },
+    {
+     "county": "Pawnee County, OK",
+     "population": 15553
+    },
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 19720
+    }
+   ]
+  },
+  {
+   "company": "Choctaw Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.choctawelectric.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33531400.0,
+   "Residential-Customers": 19089.0,
+   "Commercial-Sales-($)": 7325600.0,
+   "Commercial-Customers": 310.0,
+   "Industrial-Sales-($)": 5697200.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 19401.0,
+   "cities-served": [
+    "Antlers, OK",
+    "Broken Bow, OK",
+    "Fort Towson, OK",
+    "Garvin, OK",
+    "Haworth, OK",
+    "Hugo, OK",
+    "Idabel, OK",
+    "Millerton, OK",
+    "Rattan, OK",
+    "Sawyer, OK",
+    "Soper, OK",
+    "Valliant, OK",
+    "Wright City, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    },
+    {
+     "county": "Bryan County, OK",
+     "population": 46067
+    },
+    {
+     "county": "McCurtain County, OK",
+     "population": 30814
+    },
+    {
+     "county": "Choctaw County, OK",
+     "population": 14204
+    },
+    {
+     "county": "Atoka County, OK",
+     "population": 14143
+    },
+    {
+     "county": "Pushmataha County, OK",
+     "population": 10812
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 19401
+    }
+   ]
+  },
+  {
+   "company": "Cookson Hills Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cooksonhills.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28939000.0,
+   "Residential-Customers": 16685.0,
+   "Commercial-Sales-($)": 3516000.0,
+   "Commercial-Customers": 1333.0,
+   "Industrial-Sales-($)": 1936000.0,
+   "Industrial-Customers": 74.0,
+   "Total-Customers": 18092.0,
+   "cities-served": [
+    "Braggs, OK",
+    "Gans, OK",
+    "Gore, OK",
+    "Keota, OK",
+    "Kinta, OK",
+    "Marble City, OK",
+    "McCurtain, OK",
+    "Moffett, OK",
+    "Muldrow, OK",
+    "Muskogee, OK",
+    "Oktaha, OK",
+    "Paradise Hill, OK",
+    "Porum, OK",
+    "Roland, OK",
+    "Sallisaw, OK",
+    "Stigler, OK",
+    "Summit, OK",
+    "Tamaha, OK",
+    "Vian, OK",
+    "Warner, OK",
+    "Webbers Falls, OK",
+    "Whitefield, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Muskogee County, OK",
+     "population": 66339
+    },
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    },
+    {
+     "county": "Haskell County, OK",
+     "population": 11561
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 18092
+    }
+   ]
+  },
+  {
+   "company": "Cimarron Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.cimarronelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19176000.0,
+   "Residential-Customers": 14012.0,
+   "Commercial-Sales-($)": 30444000.0,
+   "Commercial-Customers": 4008.0,
+   "Industrial-Sales-($)": 8578000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 18029.0,
+   "cities-served": [
+    "Calumet, OK",
+    "Canton, OK",
+    "Cashion, OK",
+    "Cedar Valley, OK",
+    "Cimarron City, OK",
+    "Crescent, OK",
+    "Dover, OK",
+    "El Reno, OK",
+    "Fairview, OK",
+    "Geary, OK",
+    "Greenfield, OK",
+    "Guthrie, OK",
+    "Hennessey, OK",
+    "Hitchcock, OK",
+    "Kingfisher, OK",
+    "Longdale, OK",
+    "Loyal, OK",
+    "Marshall, OK",
+    "Oakwood, OK",
+    "Okarche, OK",
+    "Okeene, OK",
+    "Piedmont, OK",
+    "Watonga, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    },
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Logan County, OK",
+     "population": 49555
+    },
+    {
+     "county": "Custer County, OK",
+     "population": 28513
+    },
+    {
+     "county": "Kingfisher County, OK",
+     "population": 15184
+    },
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 18029
+    }
+   ]
+  },
+  {
+   "company": "Red River Valley REA",
+   "company-type": "Cooperative",
+   "website": "https://www.rrvrea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20282000.0,
+   "Residential-Customers": 14825.0,
+   "Commercial-Sales-($)": 7825000.0,
+   "Commercial-Customers": 1772.0,
+   "Industrial-Sales-($)": 8715000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 16601.0,
+   "cities-served": [
+    "Ardmore, OK",
+    "Cornish, OK",
+    "Dickson, OK",
+    "Gene Autry, OK",
+    "Healdton, OK",
+    "Kingston, OK",
+    "Leon, OK",
+    "Lone Grove, OK",
+    "Madill, OK",
+    "Mannsville, OK",
+    "Marietta, OK",
+    "New Woodville, OK",
+    "Oakland, OK",
+    "Ravia, OK",
+    "Ringling, OK",
+    "Springer, OK",
+    "Thackerville, OK",
+    "Tishomingo, OK",
+    "Wilson, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Carter County, OK",
+     "population": 48003
+    },
+    {
+     "county": "Marshall County, OK",
+     "population": 15312
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Love County, OK",
+     "population": 10146
+    },
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 16601
+    }
+   ]
+  },
+  {
+   "company": "Ponca City Utility Authority",
+   "company-type": "Municipal",
+   "website": "http://www.poncacityok.gov/185/Ponca-City-Energy",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16949000.0,
+   "Residential-Customers": 13820.0,
+   "Commercial-Sales-($)": 11728000.0,
+   "Commercial-Customers": 2015.0,
+   "Industrial-Sales-($)": 6523000.0,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 15851.0,
+   "cities-served": [
+    "Ponca City"
+   ],
+   "counties-served": [
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 15851
+    }
+   ]
+  },
+  {
+   "company": "Southeastern Electric Coop Durant",
+   "company-type": "Cooperative",
+   "website": "https://www.se-coop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22330000.0,
+   "Residential-Customers": 14454.0,
+   "Commercial-Sales-($)": 2974000.0,
+   "Commercial-Customers": 1067.0,
+   "Industrial-Sales-($)": 8753000.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 15535.0,
+   "cities-served": [
+    "Achille, OK",
+    "Armstrong, OK",
+    "Atoka, OK",
+    "Bennington, OK",
+    "Bokchito, OK",
+    "Boswell, OK",
+    "Caddo, OK",
+    "Calera, OK",
+    "Caney, OK",
+    "Colbert, OK",
+    "Durant, OK",
+    "Hendrix, OK",
+    "Kemp, OK",
+    "Kenefic, OK",
+    "Lehigh, OK",
+    "Mead, OK",
+    "Milburn, OK",
+    "Silo, OK",
+    "Stringtown, OK",
+    "Tushka, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Bryan County, OK",
+     "population": 46067
+    },
+    {
+     "county": "Choctaw County, OK",
+     "population": 14204
+    },
+    {
+     "county": "Atoka County, OK",
+     "population": 14143
+    },
+    {
+     "county": "Johnston County, OK",
+     "population": 10272
+    },
+    {
+     "county": "Coal County, OK",
+     "population": 5266
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 15535
+    }
+   ]
+  },
+  {
+   "company": "Claremore Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.claremorecity.com/262/Utilities-Services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15745000.0,
+   "Residential-Customers": 11143.0,
+   "Commercial-Sales-($)": 4083000.0,
+   "Commercial-Customers": 1431.0,
+   "Industrial-Sales-($)": 5184000.0,
+   "Industrial-Customers": 145.0,
+   "Total-Customers": 12719.0,
+   "cities-served": [
+    "Claremore"
+   ],
+   "counties-served": [
+    {
+     "county": "Rogers County, OK",
+     "population": 95240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 12719
+    }
+   ]
+  },
+  {
+   "company": "Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.recok.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13320200.0,
+   "Residential-Customers": 8710.0,
+   "Commercial-Sales-($)": 15039000.0,
+   "Commercial-Customers": 3246.0,
+   "Industrial-Sales-($)": 9014300.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 11967.0,
+   "cities-served": [
+    "Alex, OK",
+    "Bradley, OK",
+    "Bray, OK",
+    "Dibble, OK",
+    "Duncan, OK",
+    "Elmore City, OK",
+    "Erin Springs, OK",
+    "Foster, OK",
+    "Katie, OK",
+    "Lindsay, OK",
+    "Maysville, OK",
+    "Paoli, OK",
+    "Pauls Valley, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Grady County, OK",
+     "population": 54795
+    },
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    },
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    },
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 11967
+    }
+   ]
+  },
+  {
+   "company": "Northwestern Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.nwecok.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14639000.0,
+   "Residential-Customers": 9596.0,
+   "Commercial-Sales-($)": 11700000.0,
+   "Commercial-Customers": 2242.0,
+   "Industrial-Sales-($)": 6045000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 11848.0,
+   "cities-served": [
+    "Arnett, OK",
+    "Buffalo, OK",
+    "Camargo, OK",
+    "Fargo, OK",
+    "Fort Supply, OK",
+    "Gage, OK",
+    "Gate, OK",
+    "Knowles, OK",
+    "Laverne, OK",
+    "May, OK",
+    "Mooreland, OK",
+    "Mutual, OK",
+    "Rosston, OK",
+    "Seiling, OK",
+    "Sharon, OK",
+    "Shattuck, OK",
+    "Taloga, OK",
+    "Vici, OK",
+    "Woodward, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodward County, OK",
+     "population": 20470
+    },
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Beaver County, OK",
+     "population": 5049
+    },
+    {
+     "county": "Dewey County, OK",
+     "population": 4484
+    },
+    {
+     "county": "Ellis County, OK",
+     "population": 3749
+    },
+    {
+     "county": "Harper County, OK",
+     "population": 3272
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 11848
+    }
+   ]
+  },
+  {
+   "company": "Tahlequah Public Works Authority",
+   "company-type": "Municipal",
+   "website": "https://www.tahlequahpwa.com/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5982109.598,
+   "Residential-Customers": 9346.0,
+   "Commercial-Sales-($)": 8225880.341,
+   "Commercial-Customers": 1654.0,
+   "Industrial-Sales-($)": 94010.061,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 11002.0,
+   "cities-served": [
+    "Tahlequah"
+   ],
+   "counties-served": [
+    {
+     "county": "Cherokee County, OK",
+     "population": 47078
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 11002
+    }
+   ]
+  },
+  {
+   "company": "City of Altus Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.altusok.gov/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13128747.554,
+   "Residential-Customers": 7705.0,
+   "Commercial-Sales-($)": 6466637.434,
+   "Commercial-Customers": 1183.0,
+   "Industrial-Sales-($)": 3562615.012,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 8890.0,
+   "cities-served": [
+    "Altus"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, OK",
+     "population": 24785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 8890
+    }
+   ]
+  },
+  {
+   "company": "Duncan Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cityofduncan.com/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9522438.83,
+   "Residential-Customers": 7301.0,
+   "Commercial-Sales-($)": 6127661.321,
+   "Commercial-Customers": 1441.0,
+   "Industrial-Sales-($)": 2698199.848,
+   "Industrial-Customers": 52.0,
+   "Total-Customers": 8794.0,
+   "cities-served": [
+    "Duncan"
+   ],
+   "counties-served": [
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 8794
+    }
+   ]
+  },
+  {
+   "company": "Alfalfa Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.aec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5103000.0,
+   "Residential-Customers": 2904.0,
+   "Commercial-Sales-($)": 6115000.0,
+   "Commercial-Customers": 5385.0,
+   "Industrial-Sales-($)": 30255000.0,
+   "Industrial-Customers": 231.0,
+   "Total-Customers": 8520.0,
+   "cities-served": [
+    "Aline, OK",
+    "Alva, OK",
+    "Ames, OK",
+    "Amorita, OK",
+    "Burlington, OK",
+    "Byron, OK",
+    "Capron, OK",
+    "Carmen, OK",
+    "Cherokee, OK",
+    "Cleo Springs, OK",
+    "Dacoma, OK",
+    "Freedom, OK",
+    "Goltry, OK",
+    "Hardtner, KS",
+    "Hazelton, KS",
+    "Helena, OK",
+    "Hillsdale, OK",
+    "Jefferson, OK",
+    "Jet, OK",
+    "Kiowa, KS",
+    "Lambert, OK",
+    "Manchester, OK",
+    "Meno, OK",
+    "Nash, OK",
+    "Pond Creek, OK",
+    "Ringwood, OK",
+    "Wakita, OK",
+    "Waldron, KS",
+    "Waynoka, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    },
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    },
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    },
+    {
+     "county": "Harper County, KS",
+     "population": 5485
+    },
+    {
+     "county": "Barber County, KS",
+     "population": 4228
+    },
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 7594
+    },
+    {
+     "state": "Kansas",
+     "customers": 926
+    }
+   ]
+  },
+  {
+   "company": "Southwest Rural Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.swre.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10555624.682,
+   "Residential-Customers": 6167.0,
+   "Commercial-Sales-($)": 4679362.955,
+   "Commercial-Customers": 1418.0,
+   "Industrial-Sales-($)": 2508012.363,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 7601.0,
+   "cities-served": [
+    "Altus, OK",
+    "Blair, OK",
+    "Chillicothe, TX",
+    "Cooperton, OK",
+    "Crowell, TX",
+    "Davidson, OK",
+    "Electra, TX",
+    "Elmer, OK",
+    "Frederick, OK",
+    "Friendship, OK",
+    "Headrick, OK",
+    "Hollister, OK",
+    "Manitou, OK",
+    "Martha, OK",
+    "Mountain Park, OK",
+    "Roosevelt, OK",
+    "Snyder, OK",
+    "Tipton, OK",
+    "Vernon, TX"
+   ],
+   "counties-served": [
+    {
+     "county": "Wichita County, TX",
+     "population": 129350
+    },
+    {
+     "county": "Jackson County, OK",
+     "population": 24785
+    },
+    {
+     "county": "Wilbarger County, TX",
+     "population": 12887
+    },
+    {
+     "county": "Archer County, TX",
+     "population": 8560
+    },
+    {
+     "county": "Kiowa County, OK",
+     "population": 8509
+    },
+    {
+     "county": "Tillman County, OK",
+     "population": 6968
+    },
+    {
+     "county": "Greer County, OK",
+     "population": 5491
+    },
+    {
+     "county": "Hardeman County, TX",
+     "population": 3549
+    },
+    {
+     "county": "Baylor County, TX",
+     "population": 3465
+    },
+    {
+     "county": "Foard County, TX",
+     "population": 1095
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 4321
+    },
+    {
+     "state": "Texas",
+     "customers": 3280
+    }
+   ]
+  },
+  {
+   "company": "City of Miami, OK Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.miamiokla.net/182/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5897164.615,
+   "Residential-Customers": 5624.0,
+   "Commercial-Sales-($)": 5314468.587,
+   "Commercial-Customers": 948.0,
+   "Industrial-Sales-($)": 4592366.798,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 6582.0,
+   "cities-served": [
+    "Miami"
+   ],
+   "counties-served": [
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 6582
+    }
+   ]
+  },
+  {
+   "company": "Northfork Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.nfecoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8601967.186,
+   "Residential-Customers": 5202.0,
+   "Commercial-Sales-($)": 5308175.35,
+   "Commercial-Customers": 1160.0,
+   "Industrial-Sales-($)": 4201657.464,
+   "Industrial-Customers": 125.0,
+   "Total-Customers": 6487.0,
+   "cities-served": [
+    "Canute, OK",
+    "Carter, OK",
+    "Cheyenne, OK",
+    "Elk City, OK",
+    "Erick, OK",
+    "Reydon, OK",
+    "Sayre, OK",
+    "Strong City, OK",
+    "Sweetwater, OK",
+    "Texola, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, OK",
+     "population": 28513
+    },
+    {
+     "county": "Beckham County, OK",
+     "population": 22410
+    },
+    {
+     "county": "Washita County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Greer County, OK",
+     "population": 5491
+    },
+    {
+     "county": "Wheeler County, TX",
+     "population": 4990
+    },
+    {
+     "county": "Roger Mills County, OK",
+     "population": 3442
+    },
+    {
+     "county": "Hemphill County, TX",
+     "population": 3382
+    },
+    {
+     "county": "Harmon County, OK",
+     "population": 2488
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 6487
+    }
+   ]
+  },
+  {
+   "company": "Kay Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kayelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6487000.0,
+   "Residential-Customers": 4272.0,
+   "Commercial-Sales-($)": 12596000.0,
+   "Commercial-Customers": 1503.0,
+   "Industrial-Sales-($)": 11730000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 5785.0,
+   "cities-served": [
+    "Billings, OK",
+    "Blackwell, OK",
+    "Braman, OK",
+    "Breckenridge, OK",
+    "Deer Creek, OK",
+    "Foraker, OK",
+    "Garber, OK",
+    "Grainola, OK",
+    "Hunnewell, KS",
+    "Hunter, OK",
+    "Kaw City, OK",
+    "Kildare, OK",
+    "Lamont, OK",
+    "Marland, OK",
+    "Newkirk, OK",
+    "Ponca City, OK",
+    "Red Rock, OK",
+    "Renfrow, OK",
+    "Shidler, OK",
+    "Tonkawa, OK",
+    "Webb City, OK"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, OK",
+     "population": 62846
+    },
+    {
+     "county": "Osage County, OK",
+     "population": 45818
+    },
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    },
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    },
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 5785
+    }
+   ]
+  },
+  {
+   "company": "Municipal Utility Board Pryor",
+   "company-type": "Municipal",
+   "website": "https://mubpryor.org/utilities-and-services/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3849536.274,
+   "Residential-Customers": 3853.0,
+   "Commercial-Sales-($)": 4401963.726,
+   "Commercial-Customers": 967.0,
+   "Total-Customers": 4820.0,
+   "cities-served": [
+    "Pryor Creek"
+   ],
+   "counties-served": [
+    {
+     "county": "Mayes County, OK",
+     "population": 39046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 4820
+    }
+   ]
+  },
+  {
+   "company": "City of Sallisaw Electric",
+   "company-type": "Municipal",
+   "website": "http://www.sallisawok.org/126/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4922134.173,
+   "Residential-Customers": 3595.0,
+   "Commercial-Sales-($)": 4196169.864,
+   "Commercial-Customers": 672.0,
+   "Industrial-Sales-($)": 957695.963,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4268.0,
+   "cities-served": [
+    "Sallisaw",
+    "Badger Lee CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Sequoyah County, OK",
+     "population": 39281
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 4268
+    }
+   ]
+  },
+  {
+   "company": "City of Skiatook Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofskiatook.com/198/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4081461.345,
+   "Residential-Customers": 3413.0,
+   "Commercial-Sales-($)": 2791948.354,
+   "Commercial-Customers": 563.0,
+   "Industrial-Sales-($)": 287390.3,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 3981.0,
+   "cities-served": [
+    "Skiatook"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 3981
+    }
+   ]
+  },
+  {
+   "company": "City of Cushing Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcushing.com/power-distribution",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3021387.05,
+   "Residential-Customers": 3189.0,
+   "Commercial-Sales-($)": 993268.243,
+   "Commercial-Customers": 649.0,
+   "Industrial-Sales-($)": 2952344.707,
+   "Industrial-Customers": 141.0,
+   "Total-Customers": 3979.0,
+   "Total-Production-MWh": 1964.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1964.0,
+   "cities-served": [
+    "Cushing"
+   ],
+   "counties-served": [
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 3979
+    }
+   ]
+  },
+  {
+   "company": "Wagoner Public Works Authority",
+   "company-type": "Municipal",
+   "website": "https://www.wagonerok.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3665315.346,
+   "Residential-Customers": 3244.0,
+   "Commercial-Sales-($)": 2643210.548,
+   "Commercial-Customers": 568.0,
+   "Industrial-Sales-($)": 686474.106,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 3822.0,
+   "cities-served": [
+    "Wagoner"
+   ],
+   "counties-served": [
+    {
+     "county": "Wagoner County, OK",
+     "population": 80981
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 3822
+    }
+   ]
+  },
+  {
+   "company": "Collinsville, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcollinsville.com/149/Collinsville-Energy",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3753402.915,
+   "Residential-Customers": 2985.0,
+   "Commercial-Sales-($)": 1702554.459,
+   "Commercial-Customers": 359.0,
+   "Industrial-Sales-($)": 752042.627,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 3349.0,
+   "cities-served": [
+    "Collinsville"
+   ],
+   "counties-served": [
+    {
+     "county": "Tulsa County, OK",
+     "population": 669279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 3349
+    }
+   ]
+  },
+  {
+   "company": "Blackwell Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofblackwell.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4323209.948,
+   "Residential-Customers": 2845.0,
+   "Commercial-Sales-($)": 1559686.951,
+   "Commercial-Customers": 356.0,
+   "Industrial-Sales-($)": 1008703.101,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 3222.0,
+   "cities-served": [
+    "Blackwell"
+   ],
+   "counties-served": [
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 3222
+    }
+   ]
+  },
+  {
+   "company": "Purcell Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofpurcell.com/226/Utility-Information",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2984278.194,
+   "Residential-Customers": 2376.0,
+   "Commercial-Sales-($)": 2975721.806,
+   "Commercial-Customers": 544.0,
+   "Total-Customers": 2920.0,
+   "cities-served": [
+    "Purcell"
+   ],
+   "counties-served": [
+    {
+     "county": "McClain County, OK",
+     "population": 41662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2920
+    }
+   ]
+  },
+  {
+   "company": "Anadarko, Oklahoma Electric Department",
+   "company-type": "Municipal",
+   "website": "http://www.cityofanadarko.org/departments/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2703811.613,
+   "Residential-Customers": 2207.0,
+   "Commercial-Sales-($)": 2632888.387,
+   "Commercial-Customers": 614.0,
+   "Total-Customers": 2821.0,
+   "cities-served": [
+    "Anadarko"
+   ],
+   "counties-served": [
+    {
+     "county": "Caddo County, OK",
+     "population": 26945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2821
+    }
+   ]
+  },
+  {
+   "company": "City of Perry Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofperryok.com/residents",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2816190.605,
+   "Residential-Customers": 2328.0,
+   "Commercial-Sales-($)": 2436886.422,
+   "Commercial-Customers": 459.0,
+   "Industrial-Sales-($)": 1786922.973,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2790.0,
+   "cities-served": [
+    "Perry"
+   ],
+   "counties-served": [
+    {
+     "county": "Noble County, OK",
+     "population": 10924
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2790
+    }
+   ]
+  },
+  {
+   "company": "Marlow Electric",
+   "company-type": "Municipal",
+   "website": "http://www.cityofmarlow.com/residents/marlow_electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1910649.551,
+   "Residential-Customers": 1969.0,
+   "Commercial-Sales-($)": 1062598.203,
+   "Commercial-Customers": 308.0,
+   "Industrial-Sales-($)": 316752.246,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 2294.0,
+   "cities-served": [
+    "Marlow"
+   ],
+   "counties-served": [
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2294
+    }
+   ]
+  },
+  {
+   "company": "Tecumseh Utility Authority",
+   "company-type": "Municipal",
+   "website": "https://www.tecumsehok.org/our-city/community/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2236400.892,
+   "Residential-Customers": 2007.0,
+   "Commercial-Sales-($)": 1093599.108,
+   "Commercial-Customers": 260.0,
+   "Total-Customers": 2267.0,
+   "cities-served": [
+    "Tecumseh"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawatomie County, OK",
+     "population": 72454
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2267
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Electric Cooperative (New Mexico)",
+   "company-type": "Cooperative",
+   "website": "https://www.swec-coop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2461700.0,
+   "Residential-Customers": 1439.0,
+   "Commercial-Sales-($)": 1119200.0,
+   "Commercial-Customers": 11.0,
+   "Industrial-Sales-($)": 23592300.0,
+   "Industrial-Customers": 806.0,
+   "Total-Customers": 2256.0,
+   "cities-served": [
+    "Aguilar, CO",
+    "Angel Fire, NM",
+    "Boise City, OK",
+    "Branson, CO",
+    "Channing, TX",
+    "Cimarron, NM",
+    "Clayton, NM",
+    "Cokedale, CO",
+    "Dalhart, TX",
+    "Des Moines, NM",
+    "Eagle Nest, NM",
+    "Folsom, NM",
+    "Grenville, NM",
+    "House, NM",
+    "Keyes, OK",
+    "Kim, CO",
+    "Logan, NM",
+    "Maxwell, NM",
+    "Mosquero, NM",
+    "Raton, NM",
+    "Roy, NM",
+    "San Jon, NM",
+    "Springer, NM",
+    "Starkville, CO",
+    "Texline, TX",
+    "Trinidad, CO",
+    "Tucumcari, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    },
+    {
+     "county": "Quay County, NM",
+     "population": 8746
+    },
+    {
+     "county": "Dallam County, TX",
+     "population": 7115
+    },
+    {
+     "county": "Hartley County, TX",
+     "population": 5382
+    },
+    {
+     "county": "Union County, NM",
+     "population": 4079
+    },
+    {
+     "county": "Cimarron County, OK",
+     "population": 2296
+    },
+    {
+     "county": "Harding County, NM",
+     "population": 657
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 2206
+    },
+    {
+     "state": "Texas",
+     "customers": 26
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 17
+    },
+    {
+     "state": "Colorado",
+     "customers": 7
+    }
+   ]
+  },
+  {
+   "company": "Kingfisher, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.kingfisher.org/city/city-services/departments/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2229905.139,
+   "Residential-Customers": 1828.0,
+   "Commercial-Sales-($)": 2934394.861,
+   "Commercial-Customers": 421.0,
+   "Total-Customers": 2249.0,
+   "Total-Production-MWh": 16.0,
+   "Production-from-Non-Renewable-Energy-MWh": 16.0,
+   "cities-served": [
+    "Kingfisher"
+   ],
+   "counties-served": [
+    {
+     "county": "Kingfisher County, OK",
+     "population": 15184
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2249
+    }
+   ]
+  },
+  {
+   "company": "Pawhuska, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pawhuska.org/departments#electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3355050.506,
+   "Residential-Customers": 1698.0,
+   "Commercial-Sales-($)": 2361849.494,
+   "Commercial-Customers": 412.0,
+   "Total-Customers": 2110.0,
+   "Total-Production-MWh": 302.0,
+   "Production-from-Non-Renewable-Energy-MWh": 302.0,
+   "cities-served": [
+    "Pawhuska"
+   ],
+   "counties-served": [
+    {
+     "county": "Osage County, OK",
+     "population": 45818
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2110
+    }
+   ]
+  },
+  {
+   "company": "Stilwell Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.stilwellutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1299135.6,
+   "Residential-Customers": 1517.0,
+   "Commercial-Sales-($)": 2199151.2,
+   "Commercial-Customers": 478.0,
+   "Industrial-Sales-($)": 1490713.2,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 2005.0,
+   "cities-served": [
+    "Stilwell",
+    "Marietta CDP",
+    "Zion CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, OK",
+     "population": 19495
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 2005
+    }
+   ]
+  },
+  {
+   "company": "Frederick, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.frederickok.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1962897.429,
+   "Residential-Customers": 1591.0,
+   "Commercial-Sales-($)": 620994.213,
+   "Commercial-Customers": 314.0,
+   "Industrial-Sales-($)": 2112008.359,
+   "Industrial-Customers": 61.0,
+   "Total-Customers": 1966.0,
+   "cities-served": [
+    "Frederick"
+   ],
+   "counties-served": [
+    {
+     "county": "Tillman County, OK",
+     "population": 6968
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1966
+    }
+   ]
+  },
+  {
+   "company": "Mangum, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmangum.com/utility-authority/page/mangum-electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1648487.886,
+   "Residential-Customers": 1336.0,
+   "Commercial-Sales-($)": 280678.692,
+   "Commercial-Customers": 290.0,
+   "Industrial-Sales-($)": 494933.423,
+   "Industrial-Customers": 38.0,
+   "Total-Customers": 1664.0,
+   "Total-Production-MWh": 163.0,
+   "Production-from-Non-Renewable-Energy-MWh": 163.0,
+   "cities-served": [
+    "Mangum"
+   ],
+   "counties-served": [
+    {
+     "county": "Greer County, OK",
+     "population": 5491
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1664
+    }
+   ]
+  },
+  {
+   "company": "Fairview, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.fairviewok.org/copy-of-public-works#Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1330715.518,
+   "Residential-Customers": 1373.0,
+   "Commercial-Sales-($)": 1230690.805,
+   "Commercial-Customers": 244.0,
+   "Industrial-Sales-($)": 66093.678,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1619.0,
+   "cities-served": [
+    "Fairview"
+   ],
+   "counties-served": [
+    {
+     "county": "Major County, OK",
+     "population": 7782
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1619
+    }
+   ]
+  },
+  {
+   "company": "Newkirk, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/cityofnewkirk/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1360275.946,
+   "Residential-Customers": 1339.0,
+   "Commercial-Sales-($)": 163861.624,
+   "Commercial-Customers": 170.0,
+   "Industrial-Sales-($)": 701462.431,
+   "Industrial-Customers": 48.0,
+   "Total-Customers": 1557.0,
+   "cities-served": [
+    "Newkirk"
+   ],
+   "counties-served": [
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1557
+    }
+   ]
+  },
+  {
+   "company": "Watonga Light",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwatonga.org/light-water/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1655444.427,
+   "Residential-Customers": 1311.0,
+   "Commercial-Sales-($)": 1439555.573,
+   "Commercial-Customers": 239.0,
+   "Total-Customers": 1550.0,
+   "cities-served": [
+    "Watonga"
+   ],
+   "counties-served": [
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1550
+    }
+   ]
+  },
+  {
+   "company": "Cordell, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofcordell.com/gas-and-electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1721147.531,
+   "Residential-Customers": 1271.0,
+   "Commercial-Sales-($)": 1060152.469,
+   "Commercial-Customers": 263.0,
+   "Total-Customers": 1534.0,
+   "cities-served": [
+    "New Cordell"
+   ],
+   "counties-served": [
+    {
+     "county": "Washita County, OK",
+     "population": 10924
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1534
+    }
+   ]
+  },
+  {
+   "company": "Lindsay Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityoflindsay.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1573190.547,
+   "Residential-Customers": 1207.0,
+   "Commercial-Sales-($)": 1111809.453,
+   "Commercial-Customers": 316.0,
+   "Total-Customers": 1523.0,
+   "cities-served": [
+    "Lindsay"
+   ],
+   "counties-served": [
+    {
+     "county": "Garvin County, OK",
+     "population": 25656
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1523
+    }
+   ]
+  },
+  {
+   "company": "Tonkawa, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoftonkawa.com/services1",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1483610.9,
+   "Residential-Customers": 1255.0,
+   "Commercial-Sales-($)": 1716611.961,
+   "Commercial-Customers": 243.0,
+   "Industrial-Sales-($)": 206777.139,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1499.0,
+   "cities-served": [
+    "Tonkawa"
+   ],
+   "counties-served": [
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1499
+    }
+   ]
+  },
+  {
+   "company": "Stroud Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofstroud.com/131/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1551666.667,
+   "Residential-Customers": 1175.0,
+   "Commercial-Sales-($)": 2299908.579,
+   "Commercial-Customers": 291.0,
+   "Industrial-Sales-($)": 138424.754,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1471.0,
+   "cities-served": [
+    "Stroud"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1471
+    }
+   ]
+  },
+  {
+   "company": "Prague Public Works Authority",
+   "company-type": "Municipal",
+   "website": "https://www.cityofpragueok.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1450989.187,
+   "Residential-Customers": 1101.0,
+   "Commercial-Sales-($)": 575357.584,
+   "Commercial-Customers": 171.0,
+   "Industrial-Sales-($)": 78253.229,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1273.0,
+   "cities-served": [
+    "Prague"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, OK",
+     "population": 33458
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1273
+    }
+   ]
+  },
+  {
+   "company": "Walters Public Works Authority",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1384136.022,
+   "Residential-Customers": 1070.0,
+   "Commercial-Sales-($)": 511863.978,
+   "Commercial-Customers": 146.0,
+   "Total-Customers": 1216.0,
+   "cities-served": [
+    "Walters"
+   ],
+   "counties-served": [
+    {
+     "county": "Cotton County, OK",
+     "population": 5527
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1216
+    }
+   ]
+  },
+  {
+   "company": "Mannford Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmannford.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1041339.617,
+   "Residential-Customers": 963.0,
+   "Commercial-Sales-($)": 1156938.737,
+   "Commercial-Customers": 181.0,
+   "Industrial-Sales-($)": 817721.646,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1146.0,
+   "cities-served": [
+    "Mannford"
+   ],
+   "counties-served": [
+    {
+     "county": "Creek County, OK",
+     "population": 71754
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1146
+    }
+   ]
+  },
+  {
+   "company": "Spiro, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1094787.35,
+   "Residential-Customers": 898.0,
+   "Commercial-Sales-($)": 685212.65,
+   "Commercial-Customers": 170.0,
+   "Total-Customers": 1068.0,
+   "cities-served": [
+    "Spiro"
+   ],
+   "counties-served": [
+    {
+     "county": "Le Flore County, OK",
+     "population": 48129
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 1068
+    }
+   ]
+  },
+  {
+   "company": "Lexington City Electric Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityoflexington.com/city-services/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 783661.125,
+   "Residential-Customers": 729.0,
+   "Commercial-Sales-($)": 246269.112,
+   "Commercial-Customers": 91.0,
+   "Industrial-Sales-($)": 105069.764,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 823.0,
+   "cities-served": [
+    "Lexington"
+   ],
+   "counties-served": [
+    {
+     "county": "Cleveland County, OK",
+     "population": 295528
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 823
+    }
+   ]
+  },
+  {
+   "company": "Comanche Electric",
+   "company-type": "Municipal",
+   "website": "https://cityofcomanche.com/water-and-electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 880603.725,
+   "Residential-Customers": 675.0,
+   "Commercial-Sales-($)": 490496.275,
+   "Commercial-Customers": 141.0,
+   "Total-Customers": 816.0,
+   "cities-served": [
+    "Comanche"
+   ],
+   "counties-served": [
+    {
+     "county": "Stephens County, OK",
+     "population": 42848
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 816
+    }
+   ]
+  },
+  {
+   "company": "Laverne, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Town-of-LaverneLaverne-Electric-112755715423089/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 738780.24,
+   "Residential-Customers": 720.0,
+   "Commercial-Sales-($)": 477919.76,
+   "Commercial-Customers": 15.0,
+   "Total-Customers": 735.0,
+   "Total-Production-MWh": 277.0,
+   "Production-from-Non-Renewable-Energy-MWh": 277.0,
+   "cities-served": [
+    "Laverne"
+   ],
+   "counties-served": [
+    {
+     "county": "Harper County, OK",
+     "population": 3272
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 735
+    }
+   ]
+  },
+  {
+   "company": "Waynoka, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.citywaynokaok.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 560267.802,
+   "Residential-Customers": 502.0,
+   "Commercial-Sales-($)": 422026.332,
+   "Commercial-Customers": 213.0,
+   "Industrial-Sales-($)": 9405.865,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 720.0,
+   "cities-served": [
+    "Waynoka"
+   ],
+   "counties-served": [
+    {
+     "county": "Woods County, OK",
+     "population": 8624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 720
+    }
+   ]
+  },
+  {
+   "company": "Mooreland, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.moorelandok.com/Utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 591706.729,
+   "Residential-Customers": 577.0,
+   "Commercial-Sales-($)": 328393.271,
+   "Commercial-Customers": 125.0,
+   "Total-Customers": 702.0,
+   "cities-served": [
+    "Mooreland"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodward County, OK",
+     "population": 20470
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 702
+    }
+   ]
+  },
+  {
+   "company": "Yale, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://yaleok.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 700593.214,
+   "Residential-Customers": 565.0,
+   "Commercial-Sales-($)": 459406.786,
+   "Commercial-Customers": 101.0,
+   "Total-Customers": 666.0,
+   "cities-served": [
+    "Yale"
+   ],
+   "counties-served": [
+    {
+     "county": "Payne County, OK",
+     "population": 81646
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 666
+    }
+   ]
+  },
+  {
+   "company": "Okeene Public Works Authority",
+   "company-type": "Municipal",
+   "website": "https://www.okeeneok.com/classes#ModernJazz",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 736537.736,
+   "Residential-Customers": 538.0,
+   "Commercial-Sales-($)": 319198.113,
+   "Commercial-Customers": 93.0,
+   "Industrial-Sales-($)": 762264.151,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 634.0,
+   "cities-served": [
+    "Okeene"
+   ],
+   "counties-served": [
+    {
+     "county": "Blaine County, OK",
+     "population": 8735
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 634
+    }
+   ]
+  },
+  {
+   "company": "Pond Creek, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pondcreekok.com/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 681352.941,
+   "Residential-Customers": 483.0,
+   "Commercial-Sales-($)": 275647.059,
+   "Commercial-Customers": 102.0,
+   "Total-Customers": 585.0,
+   "cities-served": [
+    "Pond Creek"
+   ],
+   "counties-served": [
+    {
+     "county": "Grant County, OK",
+     "population": 4169
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 585
+    }
+   ]
+  },
+  {
+   "company": "Geary, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofgeary.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 551122.924,
+   "Residential-Customers": 489.0,
+   "Commercial-Sales-($)": 247813.953,
+   "Commercial-Customers": 61.0,
+   "Industrial-Sales-($)": 65063.123,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 557.0,
+   "cities-served": [
+    "Geary"
+   ],
+   "counties-served": [
+    {
+     "county": "Canadian County, OK",
+     "population": 154405
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 557
+    }
+   ]
+  },
+  {
+   "company": "Granite, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.townofgranite.com/UtilityRates.html",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 723000.0,
+   "Residential-Customers": 542.0,
+   "Total-Customers": 542.0,
+   "cities-served": [
+    "Granite"
+   ],
+   "counties-served": [
+    {
+     "county": "Greer County, OK",
+     "population": 5491
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 542
+    }
+   ]
+  },
+  {
+   "company": "South Coffeyville, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.southcoffeyvilleok.gov/town-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 471641.922,
+   "Residential-Customers": 430.0,
+   "Commercial-Sales-($)": 213743.903,
+   "Commercial-Customers": 47.0,
+   "Industrial-Sales-($)": 86314.175,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 479.0,
+   "cities-served": [
+    "South Coffeyville"
+   ],
+   "counties-served": [
+    {
+     "county": "Nowata County, OK",
+     "population": 9320
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 479
+    }
+   ]
+  },
+  {
+   "company": "Ryan, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 580200.0,
+   "Residential-Customers": 404.0,
+   "Total-Customers": 404.0,
+   "cities-served": [
+    "Ryan"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, OK",
+     "population": 5337
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 404
+    }
+   ]
+  },
+  {
+   "company": "Copan Public Works Authority",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 376739.355,
+   "Residential-Customers": 371.0,
+   "Commercial-Sales-($)": 83060.645,
+   "Commercial-Customers": 27.0,
+   "Total-Customers": 398.0,
+   "cities-served": [
+    "Copan"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, OK",
+     "population": 52455
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 398
+    }
+   ]
+  },
+  {
+   "company": "Olustee, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 292197.26,
+   "Residential-Customers": 283.0,
+   "Commercial-Sales-($)": 71802.74,
+   "Commercial-Customers": 49.0,
+   "Total-Customers": 332.0,
+   "cities-served": [
+    "Olustee"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, OK",
+     "population": 24785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 332
+    }
+   ]
+  },
+  {
+   "company": "Eldorado, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 209458.144,
+   "Residential-Customers": 224.0,
+   "Commercial-Sales-($)": 54541.856,
+   "Commercial-Customers": 29.0,
+   "Total-Customers": 253.0,
+   "cities-served": [
+    "Eldorado"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, OK",
+     "population": 24785
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 253
+    }
+   ]
+  },
+  {
+   "company": "Fort Supply, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 312200.0,
+   "Residential-Customers": 202.0,
+   "Total-Customers": 202.0,
+   "cities-served": [
+    "Fort Supply"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodward County, OK",
+     "population": 20470
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 202
+    }
+   ]
+  },
+  {
+   "company": "Braman, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 163541.985,
+   "Residential-Customers": 166.0,
+   "Commercial-Sales-($)": 31458.015,
+   "Commercial-Customers": 3.0,
+   "Total-Customers": 169.0,
+   "cities-served": [
+    "Braman"
+   ],
+   "counties-served": [
+    {
+     "county": "Kay County, OK",
+     "population": 43700
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 169
+    }
+   ]
+  },
+  {
+   "company": "Goltry Public Works Authority",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 194541.667,
+   "Residential-Customers": 146.0,
+   "Commercial-Sales-($)": 35458.333,
+   "Commercial-Customers": 17.0,
+   "Total-Customers": 163.0,
+   "cities-served": [
+    "Goltry"
+   ],
+   "counties-served": [
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 163
+    }
+   ]
+  },
+  {
+   "company": "City of Orlando, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/pages/category/Government-Organization/Town-of-OrlandoOrlando-Public-Works-Authority-1411025092496257/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 112727.273,
+   "Residential-Customers": 101.0,
+   "Commercial-Sales-($)": 7272.727,
+   "Commercial-Customers": 7.0,
+   "Total-Customers": 108.0,
+   "cities-served": [
+    "Orlando"
+   ],
+   "counties-served": [
+    {
+     "county": "Logan County, OK",
+     "population": 49555
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 108
+    }
+   ]
+  },
+  {
+   "company": "Manitou, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 85066.667,
+   "Residential-Customers": 77.0,
+   "Commercial-Sales-($)": 134933.333,
+   "Commercial-Customers": 1.0,
+   "Total-Customers": 78.0,
+   "cities-served": [
+    "Manitou"
+   ],
+   "counties-served": [
+    {
+     "county": "Tillman County, OK",
+     "population": 6968
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 78
+    }
+   ]
+  },
+  {
+   "company": "Burlington, Oklahoma Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.okc.gov/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 104066.667,
+   "Residential-Customers": 56.0,
+   "Commercial-Sales-($)": 118933.333,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 76.0,
+   "cities-served": [
+    "Burlington"
+   ],
+   "counties-served": [
+    {
+     "county": "Alfalfa County, OK",
+     "population": 5699
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Oklahoma",
+     "customers": 76
+    }
+   ]
+  }
+ ]
+}

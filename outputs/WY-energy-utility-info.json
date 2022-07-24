@@ -1,0 +1,2840 @@
+{
+ "electrical-providers": [
+  {
+   "company": "PacifiCorp",
+   "company-type": "Investor Owned",
+   "website": "https://www.pacificorp.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1886521838.0,
+   "Residential-Customers": 1752587.0,
+   "Commercial-Sales-($)": 1572847130.0,
+   "Commercial-Customers": 226225.0,
+   "Industrial-Sales-($)": 1240293512.0,
+   "Industrial-Customers": 32989.0,
+   "Total-Customers": 2011801.0,
+   "Total-Production-MWh": 53156855.0,
+   "Production-from-Renewable-Energy-MWh": 9719336.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43437520.0,
+   "cities-served": [
+    "Adams, OR",
+    "Albany, OR",
+    "Alpine, UT",
+    "Alta, UT",
+    "Alturas, CA",
+    "Amalga, UT",
+    "American Fork, UT",
+    "Ammon, ID",
+    "Annabella, UT",
+    "Apple Valley, UT",
+    "Arco, ID",
+    "Arimo, ID",
+    "Arlington, OR",
+    "Ashland, OR",
+    "Ashton, ID",
+    "Astoria, OR",
+    "Athena, OR",
+    "Aumsville, OR",
+    "Aurora, UT",
+    "Bairoil, WY",
+    "Bancroft, ID",
+    "Bandon, OR",
+    "Bar Nunn, WY",
+    "Basalt, ID",
+    "Basin, WY",
+    "Bear River, WY",
+    "Bear River City, UT",
+    "Beaver, UT",
+    "Bend, OR",
+    "Big Piney, WY",
+    "Blanding, UT",
+    "Bloomington, ID",
+    "Bluffdale, UT",
+    "Bonanza, OR",
+    "Brian Head, UT",
+    "Brighton, UT",
+    "Brownsville, OR",
+    "Buffalo, WY",
+    "Butte Falls, OR",
+    "Byron, WY",
+    "Cannon Beach, OR",
+    "Canyonville, OR",
+    "Casper, WY",
+    "Castle Dale, UT",
+    "Castle Valley, UT",
+    "Cave Junction, OR",
+    "Cedar City, UT",
+    "Cedar Fort, UT",
+    "Cedar Highlands, UT",
+    "Cedar Hills, UT",
+    "Centerfield, UT",
+    "Centerville, UT",
+    "Central Point, OR",
+    "Central Valley, UT",
+    "Charleston, UT",
+    "Chiloquin, OR",
+    "Circleville, UT",
+    "Clarkston, UT",
+    "Clawson, UT",
+    "Clearfield, UT",
+    "Cleveland, UT",
+    "Clifton, ID",
+    "Clinton, UT",
+    "Coalville, UT",
+    "Coburg, OR",
+    "Cody, WY",
+    "Cokeville, WY",
+    "College Place, WA",
+    "Coos Bay, OR",
+    "Coquille, OR",
+    "Corinne, UT",
+    "Cornish, UT",
+    "Corvallis, OR",
+    "Cottage Grove, OR",
+    "Cottonwood Heights, UT",
+    "Cowley, WY",
+    "Crescent City, CA",
+    "Creswell, OR",
+    "Culver, OR",
+    "Dallas, OR",
+    "Daniel, UT",
+    "Dayton, WA",
+    "Dayton, ID",
+    "Deaver, WY",
+    "Delta, UT",
+    "Deweyville, UT",
+    "Diamondville, WY",
+    "Dorris, CA",
+    "Douglas, WY",
+    "Downey, ID",
+    "Draper, UT",
+    "Dubois, ID",
+    "Dunsmuir, CA",
+    "Eagle Mountain, UT",
+    "Eagle Point, OR",
+    "East Carbon, UT",
+    "East Thermopolis, WY",
+    "Echo, OR",
+    "Edgerton, WY",
+    "Elmo, UT",
+    "Elsinore, UT",
+    "Elwood, UT",
+    "Emery, UT",
+    "Enoch, UT",
+    "Enterprise, OR",
+    "Enterprise, UT",
+    "Ephraim, UT",
+    "Etna, CA",
+    "Eureka, UT",
+    "Evanston, WY",
+    "Evansville, WY",
+    "Fairfield, UT",
+    "Fairview, UT",
+    "Falls City, OR",
+    "Farmington, UT",
+    "Farr West, UT",
+    "Fayette, UT",
+    "Ferron, UT",
+    "Fielding, UT",
+    "Firth, ID",
+    "Fort Jones, CA",
+    "Fountain Green, UT",
+    "Francis, UT",
+    "Franklin, ID",
+    "Frannie, WY",
+    "Fruit Heights, UT",
+    "Garden City, UT",
+    "Garland, UT",
+    "Gates, OR",
+    "Gearhart, OR",
+    "Genola, UT",
+    "Georgetown, ID",
+    "Glendale, OR",
+    "Glendo, WY",
+    "Glenrock, WY",
+    "Glenwood, UT",
+    "Gold Hill, OR",
+    "Goshen, UT",
+    "Grace, ID",
+    "Grandview, WA",
+    "Granger, WA",
+    "Grants Pass, OR",
+    "Grantsville, UT",
+    "Grass Valley, OR",
+    "Green River, WY",
+    "Green River, UT",
+    "Greybull, WY",
+    "Guernsey, WY",
+    "Gunnison, UT",
+    "Halsey, OR",
+    "Hamer, ID",
+    "Hanna, WY",
+    "Harrah, WA",
+    "Harrisburg, OR",
+    "Harrisville, UT",
+    "Hartville, WY",
+    "Heber, UT",
+    "Helix, OR",
+    "Helper, UT",
+    "Henefer, UT",
+    "Hermiston, OR",
+    "Herriman, UT",
+    "Hideout, UT",
+    "Highland, UT",
+    "Hinckley, UT",
+    "Holden, UT",
+    "Holladay, UT",
+    "Honeyville, UT",
+    "Hood River, OR",
+    "Hooper, UT",
+    "Howell, UT",
+    "Huntington, UT",
+    "Huntsville, UT",
+    "Hurricane, UT",
+    "Hyde Park, UT",
+    "Hyrum, UT",
+    "Idaho Falls, ID",
+    "Ilwaco, WA",
+    "Independence, OR",
+    "Independence, UT",
+    "Iona, ID",
+    "Ivins, UT",
+    "Jacksonville, OR",
+    "Jefferson, OR",
+    "Joseph, OR",
+    "Joseph, UT",
+    "Junction, UT",
+    "Junction City, OR",
+    "Kamas, UT",
+    "Kanarraville, UT",
+    "Kemmerer, WY",
+    "Kingston, UT",
+    "Kirby, WY",
+    "Klamath Falls, OR",
+    "La Barge, WY",
+    "La Verkin, UT",
+    "Laketown, UT",
+    "Lakeview, OR",
+    "Lander, WY",
+    "Laramie, WY",
+    "Lava Hot Springs, ID",
+    "Layton, UT",
+    "Leamington, UT",
+    "Lebanon, OR",
+    "Leeds, UT",
+    "Lehi, UT",
+    "Levan, UT",
+    "Lewiston, UT",
+    "Lewisville, ID",
+    "Lincoln City, OR",
+    "Lindon, UT",
+    "Logan, UT",
+    "Lostine, OR",
+    "Lovell, WY",
+    "Lynndyl, UT",
+    "Lyons, OR",
+    "Mabton, WA",
+    "Madras, OR",
+    "Malad City, ID",
+    "Malin, OR",
+    "Manderson, WY",
+    "Manti, UT",
+    "Mantua, UT",
+    "Mapleton, UT",
+    "Marbleton, WY",
+    "Marriott-Slaterville, UT",
+    "Marysvale, UT",
+    "Mayfield, UT",
+    "Maywood Park, OR",
+    "McCammon, ID",
+    "Medford, OR",
+    "Menan, ID",
+    "Mendon, UT",
+    "Merrill, OR",
+    "Metolius, OR",
+    "Midvale, UT",
+    "Midway, UT",
+    "Midwest, WY",
+    "Milford, UT",
+    "Mill City, OR",
+    "Millcreek, UT",
+    "Millersburg, OR",
+    "Mills, WY",
+    "Millville, UT",
+    "Minersville, UT",
+    "Moab, UT",
+    "Mona, UT",
+    "Monroe, UT",
+    "Monroe, OR",
+    "Montague, CA",
+    "Montpelier, ID",
+    "Moro, OR",
+    "Moroni, UT",
+    "Mosier, OR",
+    "Mount Pleasant, UT",
+    "Mount Shasta, CA",
+    "Moxee, WA",
+    "Mud Lake, ID",
+    "Murray, UT",
+    "Myrtle Creek, OR",
+    "Myrtle Point, OR",
+    "Naches, WA",
+    "Naples, UT",
+    "Nephi, UT",
+    "New Harmony, UT",
+    "Newdale, ID",
+    "Newton, UT",
+    "Nibley, UT",
+    "North Bend, OR",
+    "North Logan, UT",
+    "North Ogden, UT",
+    "North Salt Lake, UT",
+    "Oak City, UT",
+    "Oakland, OR",
+    "Oakley, UT",
+    "Ogden, UT",
+    "Opal, WY",
+    "Ophir, UT",
+    "Orangeville, UT",
+    "Orem, UT",
+    "Oxford, ID",
+    "Panguitch, UT",
+    "Paradise, UT",
+    "Paragonah, UT",
+    "Paris, ID",
+    "Park City, UT",
+    "Parker, ID",
+    "Parowan, UT",
+    "Payson, UT",
+    "Pendleton, OR",
+    "Perry, UT",
+    "Philomath, OR",
+    "Phoenix, OR",
+    "Pilot Rock, OR",
+    "Pinedale, WY",
+    "Plain City, UT",
+    "Pleasant Grove, UT",
+    "Pleasant View, UT",
+    "Plymouth, UT",
+    "Pomeroy, WA",
+    "Portage, UT",
+    "Portland, OR",
+    "Powell, WY",
+    "Powers, OR",
+    "Prescott, WA",
+    "Preston, ID",
+    "Price, UT",
+    "Prineville, OR",
+    "Providence, UT",
+    "Provo, UT",
+    "Randolph, UT",
+    "Rawlins, WY",
+    "Redmond, OR",
+    "Redmond, UT",
+    "Rexburg, ID",
+    "Richfield, UT",
+    "Richmond, UT",
+    "Riddle, OR",
+    "Rigby, ID",
+    "Ririe, ID",
+    "River Heights, UT",
+    "Riverdale, UT",
+    "Riverton, UT",
+    "Riverton, WY",
+    "Roberts, ID",
+    "Rock Springs, WY",
+    "Rockville, UT",
+    "Rocky Ridge, UT",
+    "Rogue River, OR",
+    "Rolling Hills, WY",
+    "Roseburg, OR",
+    "Roy, UT",
+    "Rufus, OR",
+    "Rush Valley, UT",
+    "Salina, UT",
+    "Salt Lake City, UT",
+    "Sandy, UT",
+    "Santa Clara, UT",
+    "Santaquin, UT",
+    "Saratoga Springs, UT",
+    "Scio, OR",
+    "Scipio, UT",
+    "Scofield, UT",
+    "Seaside, OR",
+    "Selah, WA",
+    "Shady Cove, OR",
+    "Shelley, ID",
+    "Shoshoni, WY",
+    "Sigurd, UT",
+    "Sinclair, WY",
+    "Smithfield, UT",
+    "Snowville, UT",
+    "Soda Springs, ID",
+    "Sodaville, OR",
+    "South Jordan, UT",
+    "South Ogden, UT",
+    "South Salt Lake, UT",
+    "South Weber, UT",
+    "Spencer, ID",
+    "Spring City, UT",
+    "Springdale, UT",
+    "Springville, UT",
+    "St. Anthony, ID",
+    "St. Charles, ID",
+    "St. George, UT",
+    "Stanfield, OR",
+    "Stayton, OR",
+    "Sterling, UT",
+    "Stockton, UT",
+    "Sublimity, OR",
+    "Sugar City, ID",
+    "Sunnyside, WA",
+    "Sunset, UT",
+    "Superior, WY",
+    "Sutherlin, OR",
+    "Swan Valley, ID",
+    "Sweet Home, OR",
+    "Syracuse, UT",
+    "Talent, OR",
+    "Tangent, OR",
+    "Taylorsville, UT",
+    "Teton, ID",
+    "Thermopolis, WY",
+    "Tieton, WA",
+    "Tooele, UT",
+    "Toppenish, WA",
+    "Toquerville, UT",
+    "Tremonton, UT",
+    "Trenton, UT",
+    "Tulelake, CA",
+    "Ucon, ID",
+    "Uintah, UT",
+    "Umatilla, OR",
+    "Union Gap, WA",
+    "Veneta, OR",
+    "Vernal, UT",
+    "Vernon, UT",
+    "Vineyard, UT",
+    "Virgin, UT",
+    "Waitsburg, WA",
+    "Wales, UT",
+    "Walla Walla, WA",
+    "Wallowa, OR",
+    "Wallsburg, UT",
+    "Wamsutter, WY",
+    "Wapato, WA",
+    "Warrenton, OR",
+    "Wasco, OR",
+    "Washington, UT",
+    "Washington Terrace, UT",
+    "Waterloo, OR",
+    "Weed, CA",
+    "Wellington, UT",
+    "Wellsville, UT",
+    "West Bountiful, UT",
+    "West Haven, UT",
+    "West Jordan, UT",
+    "West Point, UT",
+    "West Valley City, UT",
+    "Weston, OR",
+    "Weston, ID",
+    "Willard, UT",
+    "Winston, OR",
+    "Woodruff, UT",
+    "Woods Cross, UT",
+    "Worland, WY",
+    "Yakima, WA",
+    "Yreka, CA",
+    "Zillah, WA"
+   ],
+   "counties-served": [
+    {
+     "county": "Salt Lake County, UT",
+     "population": 1185238
+    },
+    {
+     "county": "Multnomah County, OR",
+     "population": 815428
+    },
+    {
+     "county": "Utah County, UT",
+     "population": 659399
+    },
+    {
+     "county": "Lane County, OR",
+     "population": 382971
+    },
+    {
+     "county": "Davis County, UT",
+     "population": 362679
+    },
+    {
+     "county": "Marion County, OR",
+     "population": 345920
+    },
+    {
+     "county": "Weber County, UT",
+     "population": 262223
+    },
+    {
+     "county": "Yakima County, WA",
+     "population": 256728
+    },
+    {
+     "county": "Jackson County, OR",
+     "population": 223259
+    },
+    {
+     "county": "Deschutes County, OR",
+     "population": 198253
+    },
+    {
+     "county": "Shasta County, CA",
+     "population": 182155
+    },
+    {
+     "county": "Washington County, UT",
+     "population": 180279
+    },
+    {
+     "county": "Cache County, UT",
+     "population": 133154
+    },
+    {
+     "county": "Linn County, OR",
+     "population": 128610
+    },
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Douglas County, OR",
+     "population": 111201
+    },
+    {
+     "county": "Benton County, OR",
+     "population": 95184
+    },
+    {
+     "county": "Josephine County, OR",
+     "population": 88090
+    },
+    {
+     "county": "Polk County, OR",
+     "population": 87433
+    },
+    {
+     "county": "Bannock County, ID",
+     "population": 87018
+    },
+    {
+     "county": "Umatilla County, OR",
+     "population": 80075
+    },
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Tooele County, UT",
+     "population": 72698
+    },
+    {
+     "county": "Klamath County, OR",
+     "population": 69413
+    },
+    {
+     "county": "Coos County, OR",
+     "population": 64929
+    },
+    {
+     "county": "Walla Walla County, WA",
+     "population": 62584
+    },
+    {
+     "county": "Box Elder County, UT",
+     "population": 57666
+    },
+    {
+     "county": "Iron County, UT",
+     "population": 57289
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Lincoln County, OR",
+     "population": 50395
+    },
+    {
+     "county": "Bingham County, ID",
+     "population": 47992
+    },
+    {
+     "county": "Siskiyou County, CA",
+     "population": 44076
+    },
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Clatsop County, OR",
+     "population": 41072
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Uintah County, UT",
+     "population": 35620
+    },
+    {
+     "county": "Wasatch County, UT",
+     "population": 34788
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Sanpete County, UT",
+     "population": 28437
+    },
+    {
+     "county": "Del Norte County, CA",
+     "population": 27743
+    },
+    {
+     "county": "Wasco County, OR",
+     "population": 26670
+    },
+    {
+     "county": "Crook County, OR",
+     "population": 24738
+    },
+    {
+     "county": "Jefferson County, OR",
+     "population": 24502
+    },
+    {
+     "county": "Hood River County, OR",
+     "population": 23977
+    },
+    {
+     "county": "Sevier County, UT",
+     "population": 21522
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Carbon County, UT",
+     "population": 20412
+    },
+    {
+     "county": "Duchesne County, UT",
+     "population": 19596
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    },
+    {
+     "county": "Franklin County, ID",
+     "population": 14194
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Millard County, UT",
+     "population": 12975
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Morgan County, UT",
+     "population": 12295
+    },
+    {
+     "county": "Morrow County, OR",
+     "population": 12186
+    },
+    {
+     "county": "Juab County, UT",
+     "population": 11786
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Emery County, UT",
+     "population": 9825
+    },
+    {
+     "county": "Grand County, UT",
+     "population": 9669
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Modoc County, CA",
+     "population": 8700
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Lake County, OR",
+     "population": 8160
+    },
+    {
+     "county": "Lemhi County, ID",
+     "population": 7974
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Kane County, UT",
+     "population": 7667
+    },
+    {
+     "county": "Wallowa County, OR",
+     "population": 7391
+    },
+    {
+     "county": "Beaver County, UT",
+     "population": 7072
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    },
+    {
+     "county": "Garfield County, UT",
+     "population": 5083
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    },
+    {
+     "county": "Oneida County, ID",
+     "population": 4564
+    },
+    {
+     "county": "Columbia County, WA",
+     "population": 3952
+    },
+    {
+     "county": "Butte County, ID",
+     "population": 2574
+    },
+    {
+     "county": "Rich County, UT",
+     "population": 2510
+    },
+    {
+     "county": "Wayne County, UT",
+     "population": 2486
+    },
+    {
+     "county": "Garfield County, WA",
+     "population": 2286
+    },
+    {
+     "county": "Gilliam County, OR",
+     "population": 1995
+    },
+    {
+     "county": "Sherman County, OR",
+     "population": 1870
+    },
+    {
+     "county": "Piute County, UT",
+     "population": 1438
+    },
+    {
+     "county": "Clark County, ID",
+     "population": 790
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Utah",
+     "customers": 989777
+    },
+    {
+     "state": "Oregon",
+     "customers": 612085
+    },
+    {
+     "state": "Wyoming",
+     "customers": 143068
+    },
+    {
+     "state": "Washington",
+     "customers": 135069
+    },
+    {
+     "state": "Idaho",
+     "customers": 86004
+    },
+    {
+     "state": "California",
+     "customers": 45800
+    }
+   ]
+  },
+  {
+   "company": "NorthWestern Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.northwesternenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 399756709.0,
+   "Residential-Customers": 364076.0,
+   "Commercial-Sales-($)": 439275571.0,
+   "Commercial-Customers": 88742.0,
+   "Industrial-Sales-($)": 70438395.0,
+   "Industrial-Customers": 2051.0,
+   "Total-Customers": 454869.0,
+   "Total-Production-MWh": 4835625.0,
+   "Production-from-Renewable-Energy-MWh": 2369936.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2465689.0,
+   "cities-served": [
+    "Aberdeen, SD",
+    "Alberton, MT",
+    "Alpena, SD",
+    "Andover, SD",
+    "Armour, SD",
+    "Ashton, SD",
+    "Avon, SD",
+    "Bancroft, SD",
+    "Bearcreek, MT",
+    "Belgrade, MT",
+    "Belt, MT",
+    "Big Sandy, MT",
+    "Big Timber, MT",
+    "Billings, MT",
+    "Blunt, SD",
+    "Boulder, MT",
+    "Bozeman, MT",
+    "Bradley, SD",
+    "Brentford, SD",
+    "Bridger, MT",
+    "Bristol, SD",
+    "Broadland, SD",
+    "Broadview, MT",
+    "Browning, MT",
+    "Butler, SD",
+    "Butte-Silver Bow, MT",
+    "Cascade, MT",
+    "Cavour, SD",
+    "Chamberlain, SD",
+    "Chelsea, SD",
+    "Chester, MT",
+    "Chinook, MT",
+    "Choteau, MT",
+    "Claremont, SD",
+    "Clark, SD",
+    "Clinton, MN",
+    "Clyde Park, MT",
+    "Colstrip, MT",
+    "Columbia, SD",
+    "Columbia Falls, MT",
+    "Columbus, MT",
+    "Conde, SD",
+    "Conrad, MT",
+    "Corsica, SD",
+    "Cresbard, SD",
+    "Cut Bank, MT",
+    "Dante, SD",
+    "Darby, MT",
+    "Deer Lodge, MT",
+    "Delmont, SD",
+    "Denton, MT",
+    "Dillon, MT",
+    "Dimock, SD",
+    "Dodson, MT",
+    "Doland, SD",
+    "Drummond, MT",
+    "Dutton, MT",
+    "East Helena, MT",
+    "Ennis, MT",
+    "Ethan, SD",
+    "Fairfield, MT",
+    "Faulkton, SD",
+    "Florence, SD",
+    "Forsyth, MT",
+    "Fort Benton, MT",
+    "Fort Peck, MT",
+    "Frankfort, SD",
+    "Freeman, SD",
+    "Fromberg, MT",
+    "Garden City, SD",
+    "Geddes, SD",
+    "Geraldine, MT",
+    "Glasgow, MT",
+    "Goodwin, SD",
+    "Grass Range, MT",
+    "Great Falls, MT",
+    "Hamilton, MT",
+    "Hardin, MT",
+    "Harlem, MT",
+    "Harlowton, MT",
+    "Harrold, SD",
+    "Havre, MT",
+    "Hazel, SD",
+    "Helena, MT",
+    "Henry, SD",
+    "Highmore, SD",
+    "Hingham, MT",
+    "Hitchcock, SD",
+    "Hobson, MT",
+    "Hot Springs, MT",
+    "Huron, SD",
+    "Hysham, MT",
+    "Iroquois, SD",
+    "Joliet, MT",
+    "Jordan, MT",
+    "Judith Gap, MT",
+    "Kalispell, MT",
+    "Kevin, MT",
+    "Kimball, SD",
+    "Kranzburg, SD",
+    "Lake Andes, SD",
+    "Lane, SD",
+    "Laurel, MT",
+    "Lavina, MT",
+    "Lesterville, SD",
+    "Letcher, SD",
+    "Lewistown, MT",
+    "Libby, MT",
+    "Lily, SD",
+    "Lima, MT",
+    "Livingston, MT",
+    "Lodge Grass, MT",
+    "Malta, MT",
+    "Manhattan, MT",
+    "Mellette, SD",
+    "Melstone, MT",
+    "Menno, SD",
+    "Miles City, MT",
+    "Mission Hill, SD",
+    "Missoula, MT",
+    "Mitchell, SD",
+    "Moore, MT",
+    "Mount Vernon, SD",
+    "Naples, SD",
+    "Nashua, MT",
+    "Neihart, MT",
+    "Northville, SD",
+    "Olivet, SD",
+    "Opheim, MT",
+    "Orient, SD",
+    "Ortonville, MN",
+    "Parkston, SD",
+    "Philipsburg, MT",
+    "Pierpont, SD",
+    "Pinesdale, MT",
+    "Plains, MT",
+    "Platte, SD",
+    "Polson, MT",
+    "Ravinia, SD",
+    "Raymond, SD",
+    "Red Lodge, MT",
+    "Redfield, SD",
+    "Ree Heights, SD",
+    "Rockham, SD",
+    "Ronan, MT",
+    "Roundup, MT",
+    "Ryegate, MT",
+    "Saco, MT",
+    "Scotland, SD",
+    "Shelby, MT",
+    "Sheridan, MT",
+    "Springfield, SD",
+    "St. Lawrence, SD",
+    "Stanford, MT",
+    "Stevensville, MT",
+    "Stickney, SD",
+    "Stratford, SD",
+    "Sunburst, MT",
+    "Superior, MT",
+    "Thompson Falls, MT",
+    "Three Forks, MT",
+    "Townsend, MT",
+    "Tripp, SD",
+    "Tulare, SD",
+    "Turton, SD",
+    "Twin Bridges, MT",
+    "Tyndall, SD",
+    "Utica, SD",
+    "Valier, MT",
+    "Vienna, SD",
+    "Virgil, SD",
+    "Virginia City, MT",
+    "Wagner, SD",
+    "Walkerville, MT",
+    "Wallace, SD",
+    "Warner, SD",
+    "Webster, SD",
+    "Wessington, SD",
+    "West Yellowstone, MT",
+    "Westport, SD",
+    "White Lake, SD",
+    "White Sulphur Springs, MT",
+    "Whitefish, MT",
+    "Whitehall, MT",
+    "Willow Lake, SD",
+    "Winifred, MT",
+    "Wolf Point, MT",
+    "Wolsey, SD",
+    "Woonsocket, SD",
+    "Yale, SD",
+    "Yankton, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Yellowstone County, MT",
+     "population": 164731
+    },
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Missoula County, MT",
+     "population": 117922
+    },
+    {
+     "county": "Flathead County, MT",
+     "population": 104357
+    },
+    {
+     "county": "Cascade County, MT",
+     "population": 84414
+    },
+    {
+     "county": "Lewis and Clark County, MT",
+     "population": 70973
+    },
+    {
+     "county": "Ravalli County, MT",
+     "population": 44174
+    },
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    },
+    {
+     "county": "Silver Bow County, MT",
+     "population": 35133
+    },
+    {
+     "county": "Lake County, MT",
+     "population": 31134
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Codington County, SD",
+     "population": 28325
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Davison County, SD",
+     "population": 19956
+    },
+    {
+     "county": "Lincoln County, MT",
+     "population": 19677
+    },
+    {
+     "county": "Beadle County, SD",
+     "population": 19149
+    },
+    {
+     "county": "Hughes County, SD",
+     "population": 17765
+    },
+    {
+     "county": "Park County, MT",
+     "population": 17191
+    },
+    {
+     "county": "Hill County, MT",
+     "population": 16309
+    },
+    {
+     "county": "Glacier County, MT",
+     "population": 13778
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Sanders County, MT",
+     "population": 12400
+    },
+    {
+     "county": "Jefferson County, MT",
+     "population": 12085
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Fergus County, MT",
+     "population": 11446
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Carbon County, MT",
+     "population": 10473
+    },
+    {
+     "county": "Deer Lodge County, MT",
+     "population": 9421
+    },
+    {
+     "county": "Charles Mix County, SD",
+     "population": 9373
+    },
+    {
+     "county": "Beaverhead County, MT",
+     "population": 9371
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Madison County, MT",
+     "population": 8623
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Hutchinson County, SD",
+     "population": 7427
+    },
+    {
+     "county": "Blaine County, MT",
+     "population": 7044
+    },
+    {
+     "county": "Bon Homme County, SD",
+     "population": 7003
+    },
+    {
+     "county": "Powell County, MT",
+     "population": 6946
+    },
+    {
+     "county": "Broadwater County, MT",
+     "population": 6774
+    },
+    {
+     "county": "Spink County, SD",
+     "population": 6361
+    },
+    {
+     "county": "Teton County, MT",
+     "population": 6226
+    },
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    },
+    {
+     "county": "Pondera County, MT",
+     "population": 5898
+    },
+    {
+     "county": "Chouteau County, MT",
+     "population": 5895
+    },
+    {
+     "county": "Day County, SD",
+     "population": 5449
+    },
+    {
+     "county": "Brule County, SD",
+     "population": 5247
+    },
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    },
+    {
+     "county": "Big Stone County, MN",
+     "population": 5166
+    },
+    {
+     "county": "Toole County, MT",
+     "population": 4971
+    },
+    {
+     "county": "Musselshell County, MT",
+     "population": 4730
+    },
+    {
+     "county": "Mineral County, MT",
+     "population": 4535
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    },
+    {
+     "county": "Phillips County, MT",
+     "population": 4217
+    },
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "Clark County, SD",
+     "population": 3837
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    },
+    {
+     "county": "Granite County, MT",
+     "population": 3309
+    },
+    {
+     "county": "Hand County, SD",
+     "population": 3145
+    },
+    {
+     "county": "Douglas County, SD",
+     "population": 2835
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    },
+    {
+     "county": "Wheatland County, MT",
+     "population": 2069
+    },
+    {
+     "county": "Judith Basin County, MT",
+     "population": 2023
+    },
+    {
+     "county": "Liberty County, MT",
+     "population": 1959
+    },
+    {
+     "county": "Meagher County, MT",
+     "population": 1927
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    },
+    {
+     "county": "Jerauld County, SD",
+     "population": 1663
+    },
+    {
+     "county": "Daniels County, MT",
+     "population": 1661
+    },
+    {
+     "county": "Hyde County, SD",
+     "population": 1262
+    },
+    {
+     "county": "Garfield County, MT",
+     "population": 1173
+    },
+    {
+     "county": "Golden Valley County, MT",
+     "population": 823
+    },
+    {
+     "county": "Treasure County, MT",
+     "population": 762
+    },
+    {
+     "county": "Petroleum County, MT",
+     "population": 496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 390225
+    },
+    {
+     "state": "South Dakota",
+     "customers": 64091
+    },
+    {
+     "state": "Wyoming",
+     "customers": 554
+    }
+   ]
+  },
+  {
+   "company": "Black Hills Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.blackhillsenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 234077961.0,
+   "Residential-Customers": 186531.0,
+   "Commercial-Sales-($)": 281991703.0,
+   "Commercial-Customers": 31552.0,
+   "Industrial-Sales-($)": 141438502.0,
+   "Industrial-Customers": 77.0,
+   "Total-Customers": 218160.0,
+   "Total-Production-MWh": 4621438.0,
+   "Production-from-Renewable-Energy-MWh": 845265.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3776173.0,
+   "cities-served": [
+    "Belle Fourche, SD",
+    "Boone, CO",
+    "Box Elder, SD",
+    "Brookside, CO",
+    "Buffalo Chip, SD",
+    "Buffalo Gap, SD",
+    "Ca\u00f1on City, CO",
+    "Central City, SD",
+    "Cheraw, CO",
+    "Cheyenne, WY",
+    "Coal Creek, CO",
+    "Cripple Creek, CO",
+    "Crowley, CO",
+    "Custer, SD",
+    "Deadwood, SD",
+    "Edgemont, SD",
+    "Florence, CO",
+    "Fountain, CO",
+    "Fowler, CO",
+    "Fruitdale, SD",
+    "Green Mountain Falls, CO",
+    "Hill City, SD",
+    "Hot Springs, SD",
+    "Keystone, SD",
+    "La Junta, CO",
+    "Lead, SD",
+    "Manitou Springs, CO",
+    "Manzanola, CO",
+    "Monument, CO",
+    "Newcastle, WY",
+    "Newell, SD",
+    "Nisland, SD",
+    "Olney Springs, CO",
+    "Ordway, CO",
+    "Piedmont, SD",
+    "Pueblo, CO",
+    "Rapid City, SD",
+    "Rockvale, CO",
+    "Rocky Ford, CO",
+    "Silver Cliff, CO",
+    "Spearfish, SD",
+    "Sturgis, SD",
+    "Sugar City, CO",
+    "Summerset, SD",
+    "Swink, CO",
+    "Upton, WY",
+    "Victor, CO",
+    "Westcliffe, CO",
+    "Whitewood, SD",
+    "Williamsburg, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Pennington County, SD",
+     "population": 109222
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Lawrence County, SD",
+     "population": 25768
+    },
+    {
+     "county": "Teller County, CO",
+     "population": 24710
+    },
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    },
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Butte County, SD",
+     "population": 10243
+    },
+    {
+     "county": "Custer County, SD",
+     "population": 8318
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    },
+    {
+     "county": "Crowley County, CO",
+     "population": 5922
+    },
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    },
+    {
+     "county": "Custer County, CO",
+     "population": 4704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 99809
+    },
+    {
+     "state": "South Dakota",
+     "customers": 71792
+    },
+    {
+     "state": "Wyoming",
+     "customers": 46518
+    },
+    {
+     "state": "Montana",
+     "customers": 41
+    }
+   ]
+  },
+  {
+   "company": "Cheyenne Light Fuel & Power",
+   "company-type": "Investor Owned",
+   "website": "https://www.blackhillscorp.com/utilities-businesses/utility-services/cheyenne-light",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 41038438.0,
+   "Residential-Customers": 38655.0,
+   "Commercial-Sales-($)": 65831576.0,
+   "Commercial-Customers": 5222.0,
+   "Industrial-Sales-($)": 64808961.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 43881.0,
+   "Total-Production-MWh": 955758.0,
+   "Production-from-Renewable-Energy-MWh": 89996.0,
+   "Production-from-Non-Renewable-Energy-MWh": 865762.0,
+   "cities-served": [
+    "Cheyenne",
+    "Ranchettes CDP",
+    "South Greeley CDP",
+    "Fox Farm-College CDP",
+    "Warren AFB CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 43881
+    }
+   ]
+  },
+  {
+   "company": "Lower Valley Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.lvenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33489000.0,
+   "Residential-Customers": 22790.0,
+   "Commercial-Sales-($)": 16554000.0,
+   "Commercial-Customers": 6456.0,
+   "Industrial-Sales-($)": 4107000.0,
+   "Industrial-Customers": 290.0,
+   "Total-Customers": 29536.0,
+   "Total-Production-MWh": 14958.0,
+   "Production-from-Renewable-Energy-MWh": 14958.0,
+   "cities-served": [
+    "Afton, WY",
+    "Alpine, WY",
+    "Irwin, ID",
+    "Jackson, WY",
+    "Star Valley Ranch, WY",
+    "Swan Valley, ID",
+    "Thayne, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Sublette County, WY",
+     "population": 8728
+    },
+    {
+     "county": "Caribou County, ID",
+     "population": 7027
+    },
+    {
+     "county": "Bear Lake County, ID",
+     "population": 6372
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 27656
+    },
+    {
+     "state": "Idaho",
+     "customers": 1880
+    }
+   ]
+  },
+  {
+   "company": "Yampa Valley Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.yvea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 32364800.0,
+   "Residential-Customers": 22907.0,
+   "Commercial-Sales-($)": 14578500.0,
+   "Commercial-Customers": 4599.0,
+   "Industrial-Sales-($)": 12396800.0,
+   "Industrial-Customers": 73.0,
+   "Total-Customers": 27579.0,
+   "cities-served": [
+    "Baggs, WY",
+    "Craig, CO",
+    "Dixon, WY",
+    "Hayden, CO",
+    "Oak Creek, CO",
+    "Steamboat Springs, CO",
+    "Yampa, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "Eagle County, CO",
+     "population": 55731
+    },
+    {
+     "county": "Summit County, CO",
+     "population": 31055
+    },
+    {
+     "county": "Routt County, CO",
+     "population": 24829
+    },
+    {
+     "county": "Grand County, CO",
+     "population": 15717
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "Moffat County, CO",
+     "population": 13292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 26816
+    },
+    {
+     "state": "Wyoming",
+     "customers": 763
+    }
+   ]
+  },
+  {
+   "company": "Powder River Energy Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.precorp.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25414810.0,
+   "Residential-Customers": 15603.0,
+   "Commercial-Sales-($)": 56687530.0,
+   "Commercial-Customers": 7396.0,
+   "Industrial-Sales-($)": 82195240.0,
+   "Industrial-Customers": 3965.0,
+   "Total-Customers": 26964.0,
+   "cities-served": [
+    "Buffalo, WY",
+    "Clearmont, WY",
+    "Gillette, WY",
+    "Hulett, WY",
+    "Kaycee, WY",
+    "Moorcroft, WY",
+    "Newcastle, WY",
+    "Pine Haven, WY",
+    "Sundance, WY",
+    "Upton, WY",
+    "Wright, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, WY",
+     "population": 47026
+    },
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Crook County, WY",
+     "population": 7181
+    },
+    {
+     "county": "Weston County, WY",
+     "population": 6838
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 26787
+    },
+    {
+     "state": "Montana",
+     "customers": 177
+    }
+   ]
+  },
+  {
+   "company": "Fall River Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.fallriverelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20918000.0,
+   "Residential-Customers": 14816.0,
+   "Commercial-Sales-($)": 10618000.0,
+   "Commercial-Customers": 3131.0,
+   "Total-Customers": 17947.0,
+   "Total-Production-MWh": 40813.0,
+   "Production-from-Renewable-Energy-MWh": 40813.0,
+   "cities-served": [
+    "Ashton, ID",
+    "Driggs, ID",
+    "Drummond, ID",
+    "Island Park, ID",
+    "Menan, ID",
+    "Newdale, ID",
+    "Parker, ID",
+    "Rexburg, ID",
+    "Rigby, ID",
+    "Ririe, ID",
+    "St. Anthony, ID",
+    "Sugar City, ID",
+    "Teton, ID",
+    "Tetonia, ID",
+    "Victor, ID",
+    "Warm River, ID",
+    "West Yellowstone, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Bonneville County, ID",
+     "population": 123964
+    },
+    {
+     "county": "Gallatin County, MT",
+     "population": 118960
+    },
+    {
+     "county": "Madison County, ID",
+     "population": 52913
+    },
+    {
+     "county": "Jefferson County, ID",
+     "population": 30891
+    },
+    {
+     "county": "Teton County, WY",
+     "population": 23331
+    },
+    {
+     "county": "Fremont County, ID",
+     "population": 13388
+    },
+    {
+     "county": "Teton County, ID",
+     "population": 11630
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Idaho",
+     "customers": 15581
+    },
+    {
+     "state": "Montana",
+     "customers": 1999
+    },
+    {
+     "state": "Wyoming",
+     "customers": 367
+    }
+   ]
+  },
+  {
+   "company": "City of Gillette Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.gillettewy.gov/city-government/departments/utilities/electrical-services",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 15708693.0,
+   "Residential-Customers": 13241.0,
+   "Commercial-Sales-($)": 16168641.0,
+   "Commercial-Customers": 2663.0,
+   "Total-Customers": 15904.0,
+   "cities-served": [
+    "Gillette"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, WY",
+     "population": 47026
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 15904
+    }
+   ]
+  },
+  {
+   "company": "High Plains Power",
+   "company-type": "Cooperative",
+   "website": "https://www.highplainspower.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20284163.0,
+   "Residential-Customers": 12524.0,
+   "Commercial-Sales-($)": 5004437.0,
+   "Commercial-Customers": 412.0,
+   "Industrial-Sales-($)": 50530844.0,
+   "Industrial-Customers": 670.0,
+   "Total-Customers": 13606.0,
+   "cities-served": [
+    "Dubois, WY",
+    "Hudson, WY",
+    "Manderson, WY",
+    "Meeteetse, WY",
+    "Pavillion, WY",
+    "Riverton, WY",
+    "Shoshoni, WY",
+    "Thermopolis, WY",
+    "Worland, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Natrona County, WY",
+     "population": 79955
+    },
+    {
+     "county": "Fremont County, WY",
+     "population": 39234
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Johnson County, WY",
+     "population": 8447
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    },
+    {
+     "county": "Hot Springs County, WY",
+     "population": 4621
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 13605
+    }
+   ]
+  },
+  {
+   "company": "High West Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.highwestenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13097000.0,
+   "Residential-Customers": 7781.0,
+   "Commercial-Sales-($)": 1711000.0,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 38989000.0,
+   "Industrial-Customers": 2771.0,
+   "Total-Customers": 10651.0,
+   "cities-served": [
+    "Albin, WY",
+    "Burns, WY",
+    "Bushnell, NE",
+    "Cheyenne, WY",
+    "Dix, NE",
+    "Grover, CO",
+    "Kimball, NE",
+    "Peetz, CO",
+    "Pine Bluffs, WY",
+    "Potter, NE",
+    "Sidney, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Kimball County, NE",
+     "population": 3434
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 6669
+    },
+    {
+     "state": "Nebraska",
+     "customers": 2955
+    },
+    {
+     "state": "Colorado",
+     "customers": 1027
+    }
+   ]
+  },
+  {
+   "company": "City of Cody Utilties",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcody-wy.gov/252/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4500304.898,
+   "Residential-Customers": 6172.0,
+   "Commercial-Sales-($)": 7192695.102,
+   "Commercial-Customers": 1332.0,
+   "Total-Customers": 7504.0,
+   "cities-served": [
+    "Cody"
+   ],
+   "counties-served": [
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 7504
+    }
+   ]
+  },
+  {
+   "company": "Bridger Valley Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.bvea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8880945.85,
+   "Residential-Customers": 5930.0,
+   "Commercial-Sales-($)": 3335859.684,
+   "Commercial-Customers": 772.0,
+   "Industrial-Sales-($)": 421994.466,
+   "Industrial-Customers": 101.0,
+   "Total-Customers": 6803.0,
+   "cities-served": [
+    "Dutch John, UT",
+    "Granger, WY",
+    "Lyman, WY",
+    "Manila, UT",
+    "Mountain View, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Summit County, UT",
+     "population": 42357
+    },
+    {
+     "county": "Sweetwater County, WY",
+     "population": 42272
+    },
+    {
+     "county": "Uinta County, WY",
+     "population": 20450
+    },
+    {
+     "county": "Lincoln County, WY",
+     "population": 19581
+    },
+    {
+     "county": "Daggett County, UT",
+     "population": 935
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 4714
+    },
+    {
+     "state": "Utah",
+     "customers": 2089
+    }
+   ]
+  },
+  {
+   "company": "Beartooth Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.beartoothelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7601866.226,
+   "Residential-Customers": 5824.0,
+   "Commercial-Sales-($)": 1347499.084,
+   "Commercial-Customers": 572.0,
+   "Industrial-Sales-($)": 147978.695,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 6397.0,
+   "cities-served": [
+    "Bearcreek, MT",
+    "Bridger, MT",
+    "Columbus, MT",
+    "Fromberg, MT",
+    "Joliet, MT",
+    "Red Lodge, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Carbon County, MT",
+     "population": 10473
+    },
+    {
+     "county": "Stillwater County, MT",
+     "population": 8963
+    },
+    {
+     "county": "Sweet Grass County, MT",
+     "population": 3678
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5891
+    },
+    {
+     "state": "Wyoming",
+     "customers": 506
+    }
+   ]
+  },
+  {
+   "company": "Carbon Power & Light",
+   "company-type": "Cooperative",
+   "website": "http://www.carbonpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6401106.956,
+   "Residential-Customers": 5161.0,
+   "Commercial-Sales-($)": 5954045.818,
+   "Commercial-Customers": 1177.0,
+   "Industrial-Sales-($)": 2077847.226,
+   "Industrial-Customers": 56.0,
+   "Total-Customers": 6394.0,
+   "cities-served": [
+    "Elk Mountain, WY",
+    "Encampment, WY",
+    "Laramie, WY",
+    "Medicine Bow, WY",
+    "Riverside, WY",
+    "Rock River, WY",
+    "Saratoga, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Carbon County, WY",
+     "population": 14537
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 6394
+    }
+   ]
+  },
+  {
+   "company": "Wyrulec Company",
+   "company-type": "Cooperative",
+   "website": "https://www.wyrulec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3420746.132,
+   "Residential-Customers": 2548.0,
+   "Commercial-Sales-($)": 2159194.367,
+   "Commercial-Customers": 605.0,
+   "Industrial-Sales-($)": 14807059.5,
+   "Industrial-Customers": 2272.0,
+   "Total-Customers": 5425.0,
+   "cities-served": [
+    "Fort Laramie, WY",
+    "Hartville, WY",
+    "Henry, NE",
+    "La Grange, WY",
+    "Torrington, WY",
+    "Yoder, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 4914
+    },
+    {
+     "state": "Nebraska",
+     "customers": 511
+    }
+   ]
+  },
+  {
+   "company": "Big Horn County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.bhcec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4871104.655,
+   "Residential-Customers": 3334.0,
+   "Commercial-Sales-($)": 2236721.925,
+   "Commercial-Customers": 613.0,
+   "Industrial-Sales-($)": 224952.374,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 3950.0,
+   "cities-served": [
+    "Hardin, MT",
+    "Lodge Grass, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "Big Horn County, MT",
+     "population": 13124
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3650
+    },
+    {
+     "state": "Wyoming",
+     "customers": 300
+    }
+   ]
+  },
+  {
+   "company": "Torrington, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.torringtonwy.gov/182/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2385954.812,
+   "Residential-Customers": 3167.0,
+   "Commercial-Sales-($)": 3660517.244,
+   "Commercial-Customers": 713.0,
+   "Industrial-Sales-($)": 1721527.944,
+   "Industrial-Customers": 52.0,
+   "Total-Customers": 3932.0,
+   "cities-served": [
+    "Torrington"
+   ],
+   "counties-served": [
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 3932
+    }
+   ]
+  },
+  {
+   "company": "Big Horn Rural Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.bighornrea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 274684.908,
+   "Residential-Customers": 1988.0,
+   "Commercial-Sales-($)": 2166265.071,
+   "Commercial-Customers": 1871.0,
+   "Industrial-Sales-($)": 12161050.021,
+   "Industrial-Customers": 58.0,
+   "Total-Customers": 3917.0,
+   "cities-served": [
+    "Basin, WY",
+    "Burlington, WY",
+    "Byron, WY",
+    "Cowley, WY",
+    "Deaver, WY",
+    "Frannie, WY",
+    "Greybull, WY",
+    "Lovell, WY",
+    "Meeteetse, WY",
+    "Ten Sleep, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    },
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    },
+    {
+     "county": "Washakie County, WY",
+     "population": 7685
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 3850
+    },
+    {
+     "state": "Montana",
+     "customers": 67
+    }
+   ]
+  },
+  {
+   "company": "Wheatland Rural Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.wheatlandrea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4396635.656,
+   "Residential-Customers": 2095.0,
+   "Commercial-Sales-($)": 2071432.285,
+   "Commercial-Customers": 899.0,
+   "Industrial-Sales-($)": 9565932.059,
+   "Industrial-Customers": 476.0,
+   "Total-Customers": 3470.0,
+   "cities-served": [
+    "Chugwater, WY",
+    "Glendo, WY",
+    "Guernsey, WY",
+    "Wheatland, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Converse County, WY",
+     "population": 13751
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 3470
+    }
+   ]
+  },
+  {
+   "company": "Powell, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofpowell.com/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2973961.112,
+   "Residential-Customers": 2687.0,
+   "Commercial-Sales-($)": 1093824.7,
+   "Commercial-Customers": 583.0,
+   "Industrial-Sales-($)": 2526214.188,
+   "Industrial-Customers": 86.0,
+   "Total-Customers": 3356.0,
+   "cities-served": [
+    "Powell"
+   ],
+   "counties-served": [
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 3356
+    }
+   ]
+  },
+  {
+   "company": "Wheatland Electric",
+   "company-type": "Municipal",
+   "website": "https://www.townofwheatlandwy.org/departments/utilities/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1606187.454,
+   "Residential-Customers": 1949.0,
+   "Commercial-Sales-($)": 803093.727,
+   "Commercial-Customers": 339.0,
+   "Industrial-Sales-($)": 1754718.819,
+   "Industrial-Customers": 103.0,
+   "Total-Customers": 2391.0,
+   "cities-served": [
+    "Wheatland"
+   ],
+   "counties-served": [
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 2391
+    }
+   ]
+  },
+  {
+   "company": "Southeast Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.seecoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2451487.582,
+   "Residential-Customers": 2118.0,
+   "Commercial-Sales-($)": 177896.732,
+   "Commercial-Customers": 45.0,
+   "Industrial-Sales-($)": 4082875.817,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2166.0,
+   "cities-served": [
+    "Baker, MT",
+    "Ekalaka, MT",
+    "Plevna, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Crook County, WY",
+     "population": 7181
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Powder River County, MT",
+     "population": 1694
+    },
+    {
+     "county": "Carter County, MT",
+     "population": 1415
+    },
+    {
+     "county": "Harding County, SD",
+     "population": 1311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 2132
+    },
+    {
+     "state": "South Dakota",
+     "customers": 22
+    },
+    {
+     "state": "Wyoming",
+     "customers": 12
+    }
+   ]
+  },
+  {
+   "company": "Garland Light & Power Company",
+   "company-type": "Cooperative",
+   "website": "https://www.garlandpower.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3489830.733,
+   "Residential-Customers": 1965.0,
+   "Commercial-Sales-($)": 446517.258,
+   "Commercial-Customers": 44.0,
+   "Industrial-Sales-($)": 415652.009,
+   "Industrial-Customers": 96.0,
+   "Total-Customers": 2105.0,
+   "cities-served": [
+    "Powell",
+    "Ralston CDP",
+    "Garland CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 2105
+    }
+   ]
+  },
+  {
+   "company": "Lusk, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townoflusk.org/index.asp?SEC=6BC8D412-AEB1-4905-94E1-3F6A0522CAFC&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 746072.33,
+   "Residential-Customers": 949.0,
+   "Commercial-Sales-($)": 471176.744,
+   "Commercial-Customers": 200.0,
+   "Industrial-Sales-($)": 693050.926,
+   "Industrial-Customers": 25.0,
+   "Total-Customers": 1174.0,
+   "cities-served": [
+    "Lusk"
+   ],
+   "counties-served": [
+    {
+     "county": "Niobrara County, WY",
+     "population": 2467
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 1174
+    }
+   ]
+  },
+  {
+   "company": "Basin, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.thetownofbasin.com/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 722417.357,
+   "Residential-Customers": 641.0,
+   "Commercial-Sales-($)": 327732.544,
+   "Commercial-Customers": 135.0,
+   "Industrial-Sales-($)": 520250.099,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 785.0,
+   "cities-served": [
+    "Basin"
+   ],
+   "counties-served": [
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 785
+    }
+   ]
+  },
+  {
+   "company": "Pine Bluffs, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pinebluffswy.gov/index.asp?SEC=4BEF4B09-A95C-45E1-874F-43F8B5632130&DE=C4AB3F47-9075-4894-978C-9B05327E72C8&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 598496.975,
+   "Residential-Customers": 540.0,
+   "Commercial-Sales-($)": 163843.561,
+   "Commercial-Customers": 120.0,
+   "Industrial-Sales-($)": 427659.464,
+   "Industrial-Customers": 50.0,
+   "Total-Customers": 710.0,
+   "cities-served": [
+    "Pine Bluffs"
+   ],
+   "counties-served": [
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 710
+    }
+   ]
+  },
+  {
+   "company": "Guernsey, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.wmpa.org/members/guernsey/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 849856.44,
+   "Residential-Customers": 606.0,
+   "Commercial-Sales-($)": 764870.796,
+   "Commercial-Customers": 82.0,
+   "Industrial-Sales-($)": 202772.765,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 700.0,
+   "cities-served": [
+    "Guernsey"
+   ],
+   "counties-served": [
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 700
+    }
+   ]
+  },
+  {
+   "company": "Lingle, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.townoflingle.com/index.php/departments/maintenance",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 322896.686,
+   "Residential-Customers": 254.0,
+   "Commercial-Sales-($)": 231103.314,
+   "Commercial-Customers": 46.0,
+   "Total-Customers": 300.0,
+   "cities-served": [
+    "Lingle"
+   ],
+   "counties-served": [
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 300
+    }
+   ]
+  },
+  {
+   "company": "Fort Laramie, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.wmpa.org/publicpower/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 169000.0,
+   "Residential-Customers": 157.0,
+   "Total-Customers": 157.0,
+   "cities-served": [
+    "Fort Laramie"
+   ],
+   "counties-served": [
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 157
+    }
+   ]
+  },
+  {
+   "company": "Deaver, Wyoming Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 85400.0,
+   "Residential-Customers": 82.0,
+   "Total-Customers": 82.0,
+   "cities-served": [
+    "Deaver"
+   ],
+   "counties-served": [
+    {
+     "county": "Big Horn County, WY",
+     "population": 11521
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 82
+    }
+   ]
+  },
+  {
+   "company": "Willwood Light & Power Company",
+   "company-type": "Cooperative",
+   "website": "https://www.facebook.com/willwoodlightandpower/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 184100.0,
+   "Residential-Customers": 54.0,
+   "Total-Customers": 54.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Park County, WY",
+     "population": 29624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 54
+    }
+   ]
+  }
+ ]
+}

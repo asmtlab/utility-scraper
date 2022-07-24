@@ -1320,6 +1320,7 @@
   {
    "company": "McGrath Light & Power",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1379,6 +1380,7 @@
   {
    "company": "Kuiggluum Kallugvia",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1424,6 +1426,7 @@
   {
    "company": "Aniak Light & Power Company",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1483,6 +1486,7 @@
   {
    "company": "Middle Kuskokwim Electric",
    "company-type": "Cooperative",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1528,6 +1532,7 @@
   {
    "company": "Tenakee Springs, Alaska Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1556,6 +1561,7 @@
   {
    "company": "Tanana Power Co Inc",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1584,6 +1590,7 @@
   {
    "company": "Tuntutuliak Community Services Association",
    "company-type": "Cooperative",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1606,31 +1613,6 @@
     {
      "state": "Alaska",
      "customers": 140
-    }
-   ]
-  },
-  {
-   "company": "Napakiak Ircinraq Power",
-   "company-type": "Investor Owned",
-   "service-types": [
-    "Residential"
-   ],
-   "Residential-Sales-($)": 572100.0,
-   "Residential-Customers": 135.0,
-   "Total-Customers": 135.0,
-   "cities-served": [
-    "Napakiak"
-   ],
-   "counties-served": [
-    {
-     "county": "Bethel Census Area, AK",
-     "population": 18666
-    }
-   ],
-   "states-served": [
-    {
-     "state": "Alaska",
-     "customers": 135
     }
    ]
   },
@@ -1681,6 +1663,32 @@
    ]
   },
   {
+   "company": "Napakiak Ircinraq Power",
+   "company-type": "Investor Owned",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 572100.0,
+   "Residential-Customers": 135.0,
+   "Total-Customers": 135.0,
+   "cities-served": [
+    "Napakiak"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 135
+    }
+   ]
+  },
+  {
    "company": "Chignik, Alaska Electric Utility",
    "company-type": "Municipal",
    "website": "https://www.chigniklagoon.net/chignik-lagoon-utilities.html",
@@ -1711,36 +1719,9 @@
    ]
   },
   {
-   "company": "Kwig Power Company",
-   "company-type": "Political Subdivision",
-   "service-types": [
-    "Residential",
-    "Commercial"
-   ],
-   "Residential-Sales-($)": 335813.953,
-   "Residential-Customers": 107.0,
-   "Commercial-Sales-($)": 329186.047,
-   "Commercial-Customers": 20.0,
-   "Total-Customers": 127.0,
-   "cities-served": [
-    "Kwigillingok CDP"
-   ],
-   "counties-served": [
-    {
-     "county": "Bethel Census Area, AK",
-     "population": 18666
-    }
-   ],
-   "states-served": [
-    {
-     "state": "Alaska",
-     "customers": 127
-    }
-   ]
-  },
-  {
    "company": "G & K Inc",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial",
@@ -1771,8 +1752,38 @@
    ]
   },
   {
+   "company": "Kwig Power Company",
+   "company-type": "Political Subdivision",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 335813.953,
+   "Residential-Customers": 107.0,
+   "Commercial-Sales-($)": 329186.047,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 127.0,
+   "cities-served": [
+    "Kwigillingok CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Bethel Census Area, AK",
+     "population": 18666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 127
+    }
+   ]
+  },
+  {
    "company": "Ouzinkie, Alaska Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1801,6 +1812,7 @@
   {
    "company": "White Mountain, Alaska Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1829,6 +1841,7 @@
   {
    "company": "Pelican Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -1857,6 +1870,7 @@
   {
    "company": "Larsen Bay, Alaska Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial",
@@ -1912,35 +1926,6 @@
    ]
   },
   {
-   "company": "Elfin Cove, Alaska Electric Utility",
-   "company-type": "Municipal",
-   "service-types": [
-    "Residential",
-    "Commercial"
-   ],
-   "Residential-Sales-($)": 71910.112,
-   "Residential-Customers": 47.0,
-   "Commercial-Sales-($)": 88089.888,
-   "Commercial-Customers": 32.0,
-   "Total-Customers": 79.0,
-   "cities-served": [
-    "Pelican",
-    "Elfin Cove CDP"
-   ],
-   "counties-served": [
-    {
-     "county": "Hoonah-Angoon Census Area, AK",
-     "population": 2365
-    }
-   ],
-   "states-served": [
-    {
-     "state": "Alaska",
-     "customers": 79
-    }
-   ]
-  },
-  {
    "company": "Kokhanok Village Council",
    "company-type": "Political Subdivision",
    "website": "https://www.kokhanok.com/",
@@ -1970,8 +1955,39 @@
    ]
   },
   {
+   "company": "Elfin Cove, Alaska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 71910.112,
+   "Residential-Customers": 47.0,
+   "Commercial-Sales-($)": 88089.888,
+   "Commercial-Customers": 32.0,
+   "Total-Customers": 79.0,
+   "cities-served": [
+    "Pelican",
+    "Elfin Cove CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Hoonah-Angoon Census Area, AK",
+     "population": 2365
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Alaska",
+     "customers": 79
+    }
+   ]
+  },
+  {
    "company": "Chitina Electric",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -2000,6 +2016,7 @@
   {
    "company": "Ipnatchiaq Electric Company",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -2028,6 +2045,7 @@
   {
    "company": "Hughes Power & Light",
    "company-type": "Investor Owned",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -2056,6 +2074,7 @@
   {
    "company": "Tatitlek Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -2113,6 +2132,7 @@
   {
    "company": "Pedro Bay Village Council (Utility Company)",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"

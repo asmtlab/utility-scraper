@@ -1,0 +1,6007 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Omaha Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.oppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 441113000.0,
+   "Residential-Customers": 347710.0,
+   "Commercial-Sales-($)": 328416000.0,
+   "Commercial-Customers": 49070.0,
+   "Industrial-Sales-($)": 270659000.0,
+   "Industrial-Customers": 139.0,
+   "Total-Customers": 396919.0,
+   "Total-Production-MWh": 9274822.0,
+   "Production-from-Renewable-Energy-MWh": 49877.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9224945.0,
+   "cities-served": [
+    "Alvo, NE",
+    "Arlington, NE",
+    "Ashland, NE",
+    "Auburn, NE",
+    "Avoca, NE",
+    "Bellevue, NE",
+    "Bennington, NE",
+    "Blair, NE",
+    "Carter Lake, IA",
+    "Cedar Bluffs, NE",
+    "Cedar Creek, NE",
+    "Ceresco, NE",
+    "Colon, NE",
+    "Cook, NE",
+    "Eagle, NE",
+    "Elk Creek, NE",
+    "Elmwood, NE",
+    "Fort Calhoun, NE",
+    "Fremont, NE",
+    "Gretna, NE",
+    "Herman, NE",
+    "Hooper, NE",
+    "Inglewood, NE",
+    "Ithaca, NE",
+    "Kennard, NE",
+    "La Vista, NE",
+    "Leshara, NE",
+    "Louisville, NE",
+    "Manley, NE",
+    "Mead, NE",
+    "Memphis, NE",
+    "Morse Bluff, NE",
+    "Murdock, NE",
+    "Nebraska City, NE",
+    "Nickerson, NE",
+    "North Bend, NE",
+    "Omaha, NE",
+    "Papillion, NE",
+    "Peru, NE",
+    "Preston, NE",
+    "Ralston, NE",
+    "Rogers, NE",
+    "Rulo, NE",
+    "Salem, NE",
+    "South Bend, NE",
+    "Springfield, NE",
+    "Syracuse, NE",
+    "Valley, NE",
+    "Wahoo, NE",
+    "Washington, NE",
+    "Waterloo, NE",
+    "Weeping Water, NE",
+    "Weston, NE",
+    "Winslow, NE",
+    "Yutan, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, NE",
+     "population": 584526
+    },
+    {
+     "county": "Sarpy County, NE",
+     "population": 190604
+    },
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    },
+    {
+     "county": "Cass County, NE",
+     "population": 26598
+    },
+    {
+     "county": "Saunders County, NE",
+     "population": 22278
+    },
+    {
+     "county": "Washington County, NE",
+     "population": 20865
+    },
+    {
+     "county": "Otoe County, NE",
+     "population": 15912
+    },
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    },
+    {
+     "county": "Richardson County, NE",
+     "population": 7871
+    },
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    },
+    {
+     "county": "Johnson County, NE",
+     "population": 5290
+    },
+    {
+     "county": "Pawnee County, NE",
+     "population": 2544
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 396919
+    }
+   ]
+  },
+  {
+   "company": "Lincoln Electric System",
+   "company-type": "Municipal",
+   "website": "https://www.les.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 128617269.0,
+   "Residential-Customers": 128669.0,
+   "Commercial-Sales-($)": 113902354.0,
+   "Commercial-Customers": 17392.0,
+   "Industrial-Sales-($)": 32518588.0,
+   "Industrial-Customers": 233.0,
+   "Total-Customers": 146294.0,
+   "Total-Production-MWh": 1471097.0,
+   "Production-from-Renewable-Energy-MWh": 30052.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1441045.0,
+   "cities-served": [
+    "Lincoln, NE",
+    "Waverly, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Lancaster County, NE",
+     "population": 322608
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 146295
+    }
+   ]
+  },
+  {
+   "company": "Nebraska Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.nppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 88758886.0,
+   "Residential-Customers": 73502.0,
+   "Commercial-Sales-($)": 89732583.0,
+   "Commercial-Customers": 19550.0,
+   "Industrial-Sales-($)": 80635198.0,
+   "Industrial-Customers": 60.0,
+   "Total-Customers": 93112.0,
+   "Total-Production-MWh": 15653802.0,
+   "Production-from-Renewable-Energy-MWh": 151455.0,
+   "Production-from-Non-Renewable-Energy-MWh": 15502347.0,
+   "cities-served": [
+    "Ainsworth, NE",
+    "Alma, NE",
+    "Anoka, NE",
+    "Ashton, NE",
+    "Atkinson, NE",
+    "Aurora, NE",
+    "Barada, NE",
+    "Bassett, NE",
+    "Big Springs, NE",
+    "Bloomfield, NE",
+    "Bristow, NE",
+    "Broadwater, NE",
+    "Brule, NE",
+    "Butte, NE",
+    "Chadron, NE",
+    "Clinton, NE",
+    "Crab Orchard, NE",
+    "Craig, NE",
+    "Crawford, NE",
+    "Creighton, NE",
+    "Dakota City, NE",
+    "Dawson, NE",
+    "Du Bois, NE",
+    "Elm Creek, NE",
+    "Elsie, NE",
+    "Emmet, NE",
+    "Geneva, NE",
+    "Gibbon, NE",
+    "Gordon, NE",
+    "Hartington, NE",
+    "Hay Springs, NE",
+    "Homer, NE",
+    "Humboldt, NE",
+    "Inman, NE",
+    "Kearney, NE",
+    "Lewellen, NE",
+    "Lewiston, NE",
+    "Long Pine, NE",
+    "Loup City, NE",
+    "Lynch, NE",
+    "Madrid, NE",
+    "McCook, NE",
+    "McGrew, NE",
+    "Meadow Grove, NE",
+    "Melbeta, NE",
+    "Merriman, NE",
+    "Milford, NE",
+    "Minatare, NE",
+    "Murray, NE",
+    "Nehawka, NE",
+    "Norfolk, NE",
+    "O'Neill, NE",
+    "Oakdale, NE",
+    "Oakland, NE",
+    "Ogallala, NE",
+    "Oshkosh, NE",
+    "Pawnee City, NE",
+    "Plattsmouth, NE",
+    "Ravenna, NE",
+    "Rushville, NE",
+    "Shelton, NE",
+    "Shubert, NE",
+    "South Sioux City, NE",
+    "Steinauer, NE",
+    "Stella, NE",
+    "Sterling, NE",
+    "Table Rock, NE",
+    "Tekamah, NE",
+    "Terrytown, NE",
+    "Tilden, NE",
+    "Union, NE",
+    "Venango, NE",
+    "Verdon, NE",
+    "Whitney, NE",
+    "Winnebago, NE",
+    "York, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Buffalo County, NE",
+     "population": 50084
+    },
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    },
+    {
+     "county": "Cass County, NE",
+     "population": 26598
+    },
+    {
+     "county": "Dakota County, NE",
+     "population": 21582
+    },
+    {
+     "county": "York County, NE",
+     "population": 14125
+    },
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    },
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    },
+    {
+     "county": "Keith County, NE",
+     "population": 8335
+    },
+    {
+     "county": "Dawes County, NE",
+     "population": 8199
+    },
+    {
+     "county": "Richardson County, NE",
+     "population": 7871
+    },
+    {
+     "county": "Burt County, NE",
+     "population": 6722
+    },
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    },
+    {
+     "county": "Johnson County, NE",
+     "population": 5290
+    },
+    {
+     "county": "Sheridan County, NE",
+     "population": 5127
+    },
+    {
+     "county": "Pawnee County, NE",
+     "population": 2544
+    },
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    },
+    {
+     "county": "Boyd County, NE",
+     "population": 1810
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 91794
+    },
+    {
+     "state": "South Dakota",
+     "customers": 1317
+    }
+   ]
+  },
+  {
+   "company": "Southern Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.southernpd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22494720.0,
+   "Residential-Customers": 15180.0,
+   "Commercial-Sales-($)": 4411536.0,
+   "Commercial-Customers": 2715.0,
+   "Industrial-Sales-($)": 47582620.0,
+   "Industrial-Customers": 9621.0,
+   "Total-Customers": 27516.0,
+   "cities-served": [
+    "Alda, NE",
+    "Aurora, NE",
+    "Axtell, NE",
+    "Ayr, NE",
+    "Bertrand, NE",
+    "Bloomington, NE",
+    "Cairo, NE",
+    "Central City, NE",
+    "Chapman, NE",
+    "Doniphan, NE",
+    "Funk, NE",
+    "Giltner, NE",
+    "Hampton, NE",
+    "Hastings, NE",
+    "Heartwell, NE",
+    "Hildreth, NE",
+    "Holdrege, NE",
+    "Holstein, NE",
+    "Hordville, NE",
+    "Juniata, NE",
+    "Kenesaw, NE",
+    "Loomis, NE",
+    "Marquette, NE",
+    "Minden, NE",
+    "Naponee, NE",
+    "Norman, NE",
+    "Palmer, NE",
+    "Phillips, NE",
+    "Prosser, NE",
+    "Riverton, NE",
+    "Roseland, NE",
+    "Stockham, NE",
+    "Trumbull, NE",
+    "Upland, NE",
+    "Wood River, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Hall County, NE",
+     "population": 62895
+    },
+    {
+     "county": "Buffalo County, NE",
+     "population": 50084
+    },
+    {
+     "county": "Adams County, NE",
+     "population": 31205
+    },
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    },
+    {
+     "county": "Phelps County, NE",
+     "population": 8968
+    },
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    },
+    {
+     "county": "Kearney County, NE",
+     "population": 6688
+    },
+    {
+     "county": "Howard County, NE",
+     "population": 6475
+    },
+    {
+     "county": "Clay County, NE",
+     "population": 6104
+    },
+    {
+     "county": "Webster County, NE",
+     "population": 3395
+    },
+    {
+     "county": "Nance County, NE",
+     "population": 3380
+    },
+    {
+     "county": "Harlan County, NE",
+     "population": 3073
+    },
+    {
+     "county": "Franklin County, NE",
+     "population": 2889
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 27515
+    }
+   ]
+  },
+  {
+   "company": "Grand Island Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.giud.com/home-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20616229.0,
+   "Residential-Customers": 21899.0,
+   "Commercial-Sales-($)": 18529428.0,
+   "Commercial-Customers": 4517.0,
+   "Industrial-Sales-($)": 22683175.0,
+   "Industrial-Customers": 97.0,
+   "Total-Customers": 26513.0,
+   "Total-Production-MWh": 431774.0,
+   "Production-from-Non-Renewable-Energy-MWh": 431774.0,
+   "cities-served": [
+    "Grand Island"
+   ],
+   "counties-served": [
+    {
+     "county": "Hall County, NE",
+     "population": 62895
+    },
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 26513
+    }
+   ]
+  },
+  {
+   "company": "Norris Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.norrisppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 27739000.0,
+   "Residential-Customers": 16446.0,
+   "Commercial-Sales-($)": 9745000.0,
+   "Commercial-Customers": 5611.0,
+   "Industrial-Sales-($)": 39643000.0,
+   "Industrial-Customers": 2772.0,
+   "Total-Customers": 24829.0,
+   "cities-served": [
+    "Adams, NE",
+    "Alexandria, NE",
+    "Barneston, NE",
+    "Beaver Crossing, NE",
+    "Bee, NE",
+    "Belvidere, NE",
+    "Blue Springs, NE",
+    "Bruning, NE",
+    "Byron, NE",
+    "Carleton, NE",
+    "Clatonia, NE",
+    "Cordova, NE",
+    "Cortland, NE",
+    "Crete, NE",
+    "Davey, NE",
+    "Daykin, NE",
+    "Denton, NE",
+    "Diller, NE",
+    "Filley, NE",
+    "Firth, NE",
+    "Garland, NE",
+    "Goehner, NE",
+    "Hallam, NE",
+    "Liberty, NE",
+    "Malcolm, NE",
+    "Odell, NE",
+    "Panama, NE",
+    "Pickrell, NE",
+    "Pleasant Dale, NE",
+    "Plymouth, NE",
+    "Raymond, NE",
+    "Roca, NE",
+    "Sprague, NE",
+    "Staplehurst, NE",
+    "Swanton, NE",
+    "Tobias, NE",
+    "Utica, NE",
+    "Virginia, NE",
+    "Western, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Lancaster County, NE",
+     "population": 322608
+    },
+    {
+     "county": "Gage County, NE",
+     "population": 21704
+    },
+    {
+     "county": "Seward County, NE",
+     "population": 17609
+    },
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    },
+    {
+     "county": "York County, NE",
+     "population": 14125
+    },
+    {
+     "county": "Jefferson County, NE",
+     "population": 7240
+    },
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 24829
+    }
+   ]
+  },
+  {
+   "company": "Dawson Public Power",
+   "company-type": "Political Subdivision",
+   "website": "http://dawsonpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28086373.0,
+   "Residential-Customers": 15882.0,
+   "Commercial-Sales-($)": 7411964.0,
+   "Commercial-Customers": 1527.0,
+   "Industrial-Sales-($)": 18297757.0,
+   "Industrial-Customers": 5790.0,
+   "Total-Customers": 23199.0,
+   "cities-served": [
+    "Amherst, NE",
+    "Brady, NE",
+    "Cozad, NE",
+    "Eddyville, NE",
+    "Elwood, NE",
+    "Eustis, NE",
+    "Farnam, NE",
+    "Gothenburg, NE",
+    "Hershey, NE",
+    "Kearney, NE",
+    "Lexington, NE",
+    "Maxwell, NE",
+    "Miller, NE",
+    "Overton, NE",
+    "Pleasanton, NE",
+    "Ravenna, NE",
+    "Riverdale, NE",
+    "Smithfield, NE",
+    "Sumner, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Buffalo County, NE",
+     "population": 50084
+    },
+    {
+     "county": "Lincoln County, NE",
+     "population": 34676
+    },
+    {
+     "county": "Dawson County, NE",
+     "population": 24111
+    },
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    },
+    {
+     "county": "Phelps County, NE",
+     "population": 8968
+    },
+    {
+     "county": "Sherman County, NE",
+     "population": 2959
+    },
+    {
+     "county": "Frontier County, NE",
+     "population": 2519
+    },
+    {
+     "county": "Gosper County, NE",
+     "population": 1893
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 23200
+    }
+   ]
+  },
+  {
+   "company": "Loup Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.loup.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24079000.0,
+   "Residential-Customers": 15932.0,
+   "Commercial-Sales-($)": 19641000.0,
+   "Commercial-Customers": 3781.0,
+   "Industrial-Sales-($)": 40913000.0,
+   "Industrial-Customers": 588.0,
+   "Total-Customers": 20301.0,
+   "Total-Production-MWh": 146382.0,
+   "Production-from-Renewable-Energy-MWh": 146382.0,
+   "cities-served": [
+    "Albion, NE",
+    "Belgrade, NE",
+    "Cedar Rapids, NE",
+    "Clarkson, NE",
+    "Columbus, NE",
+    "Cornlea, NE",
+    "Creston, NE",
+    "Duncan, NE",
+    "Fullerton, NE",
+    "Genoa, NE",
+    "Howells, NE",
+    "Humphrey, NE",
+    "Leigh, NE",
+    "Lindsay, NE",
+    "Monroe, NE",
+    "Newman Grove, NE",
+    "Petersburg, NE",
+    "Platte Center, NE",
+    "Primrose, NE",
+    "Richland, NE",
+    "St. Edward, NE",
+    "Tarnov, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Platte County, NE",
+     "population": 34296
+    },
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    },
+    {
+     "county": "Boone County, NE",
+     "population": 5379
+    },
+    {
+     "county": "Nance County, NE",
+     "population": 3380
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 20301
+    }
+   ]
+  },
+  {
+   "company": "Fremont Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.fremontne.gov/255/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15559808.0,
+   "Residential-Customers": 13456.0,
+   "Commercial-Sales-($)": 5620738.0,
+   "Commercial-Customers": 1918.0,
+   "Industrial-Sales-($)": 21353343.0,
+   "Industrial-Customers": 545.0,
+   "Total-Customers": 15919.0,
+   "Total-Production-MWh": 603706.0,
+   "Production-from-Renewable-Energy-MWh": 204002.0,
+   "Production-from-Non-Renewable-Energy-MWh": 399704.0,
+   "cities-served": [
+    "Fremont, NE",
+    "Inglewood, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 15918
+    }
+   ]
+  },
+  {
+   "company": "Hastings Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhastings.org/departments/utilities/service-types/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11218786.0,
+   "Residential-Customers": 11358.0,
+   "Commercial-Sales-($)": 9887866.0,
+   "Commercial-Customers": 2289.0,
+   "Industrial-Sales-($)": 13808216.0,
+   "Industrial-Customers": 129.0,
+   "Total-Customers": 13776.0,
+   "Total-Production-MWh": 585167.0,
+   "Production-from-Renewable-Energy-MWh": 3497.0,
+   "Production-from-Non-Renewable-Energy-MWh": 581670.0,
+   "cities-served": [
+    "Hastings, NE",
+    "Juniata, NE",
+    "Trumbull, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Adams County, NE",
+     "population": 31205
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 13776
+    }
+   ]
+  },
+  {
+   "company": "North Platte Municipal Light and Water",
+   "company-type": "Municipal",
+   "website": "https://www.ci.north-platte.ne.us/utilities/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12562000.0,
+   "Residential-Customers": 11483.0,
+   "Commercial-Sales-($)": 12353000.0,
+   "Commercial-Customers": 2096.0,
+   "Industrial-Sales-($)": 1920000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 13583.0,
+   "cities-served": [
+    "North Platte"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NE",
+     "population": 34676
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 13583
+    }
+   ]
+  },
+  {
+   "company": "Custer Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.custerpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10284072.565,
+   "Residential-Customers": 4652.0,
+   "Commercial-Sales-($)": 6553066.441,
+   "Commercial-Customers": 1195.0,
+   "Industrial-Sales-($)": 11256860.994,
+   "Industrial-Customers": 4965.0,
+   "Total-Customers": 10812.0,
+   "cities-served": [
+    "Anselmo, NE",
+    "Ansley, NE",
+    "Berwyn, NE",
+    "Brewster, NE",
+    "Dunning, NE",
+    "Gandy, NE",
+    "Halsey, NE",
+    "Hazard, NE",
+    "Litchfield, NE",
+    "Mason City, NE",
+    "Merna, NE",
+    "Oconto, NE",
+    "Sargent, NE",
+    "Stapleton, NE",
+    "Taylor, NE",
+    "Thedford, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NE",
+     "population": 34676
+    },
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    },
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Sherman County, NE",
+     "population": 2959
+    },
+    {
+     "county": "Brown County, NE",
+     "population": 2903
+    },
+    {
+     "county": "Logan County, NE",
+     "population": 716
+    },
+    {
+     "county": "Hooker County, NE",
+     "population": 711
+    },
+    {
+     "county": "Thomas County, NE",
+     "population": 669
+    },
+    {
+     "county": "Loup County, NE",
+     "population": 607
+    },
+    {
+     "county": "Blaine County, NE",
+     "population": 431
+    },
+    {
+     "county": "McPherson County, NE",
+     "population": 399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 10812
+    }
+   ]
+  },
+  {
+   "company": "High West Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.highwestenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13097000.0,
+   "Residential-Customers": 7781.0,
+   "Commercial-Sales-($)": 1711000.0,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 38989000.0,
+   "Industrial-Customers": 2771.0,
+   "Total-Customers": 10651.0,
+   "cities-served": [
+    "Albin, WY",
+    "Burns, WY",
+    "Bushnell, NE",
+    "Cheyenne, WY",
+    "Dix, NE",
+    "Grover, CO",
+    "Kimball, NE",
+    "Peetz, CO",
+    "Pine Bluffs, WY",
+    "Potter, NE",
+    "Sidney, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Larimer County, CO",
+     "population": 359066
+    },
+    {
+     "county": "Weld County, CO",
+     "population": 328981
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Albany County, WY",
+     "population": 37066
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Kimball County, NE",
+     "population": 3434
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 6669
+    },
+    {
+     "state": "Nebraska",
+     "customers": 2955
+    },
+    {
+     "state": "Colorado",
+     "customers": 1027
+    }
+   ]
+  },
+  {
+   "company": "Highline Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.hea.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8178000.0,
+   "Residential-Customers": 5724.0,
+   "Commercial-Sales-($)": 8244400.0,
+   "Commercial-Customers": 1521.0,
+   "Industrial-Sales-($)": 37993500.0,
+   "Industrial-Customers": 3142.0,
+   "Total-Customers": 10387.0,
+   "cities-served": [
+    "Chappell, NE",
+    "Crook, CO",
+    "Haxtun, CO",
+    "Holyoke, CO",
+    "Iliff, CO",
+    "Imperial, NE",
+    "Julesburg, CO",
+    "Lamar, NE",
+    "Merino, CO",
+    "Ovid, CO",
+    "Paoli, CO",
+    "Sedgwick, CO",
+    "Sterling, CO",
+    "Venango, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Morgan County, CO",
+     "population": 29111
+    },
+    {
+     "county": "Logan County, CO",
+     "population": 21528
+    },
+    {
+     "county": "Yuma County, CO",
+     "population": 9988
+    },
+    {
+     "county": "Washington County, CO",
+     "population": 4817
+    },
+    {
+     "county": "Phillips County, CO",
+     "population": 4530
+    },
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    },
+    {
+     "county": "Perkins County, NE",
+     "population": 2858
+    },
+    {
+     "county": "Sedgwick County, CO",
+     "population": 2404
+    },
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    },
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 8403
+    },
+    {
+     "state": "Nebraska",
+     "customers": 1984
+    }
+   ]
+  },
+  {
+   "company": "Cornhusker Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.cornhusker-power.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13846436.0,
+   "Residential-Customers": 7236.0,
+   "Commercial-Sales-($)": 6819074.0,
+   "Commercial-Customers": 548.0,
+   "Industrial-Sales-($)": 16839893.0,
+   "Industrial-Customers": 2409.0,
+   "Total-Customers": 10193.0,
+   "cities-served": [
+    "Albion, NE",
+    "Richland, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Platte County, NE",
+     "population": 34296
+    },
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    },
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    },
+    {
+     "county": "Boone County, NE",
+     "population": 5379
+    },
+    {
+     "county": "Nance County, NE",
+     "population": 3380
+    },
+    {
+     "county": "Greeley County, NE",
+     "population": 2188
+    },
+    {
+     "county": "Wheeler County, NE",
+     "population": 774
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 10193
+    }
+   ]
+  },
+  {
+   "company": "Elkhorn Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "http://www.erppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11242000.0,
+   "Residential-Customers": 6068.0,
+   "Commercial-Sales-($)": 3532000.0,
+   "Commercial-Customers": 794.0,
+   "Industrial-Sales-($)": 16264000.0,
+   "Industrial-Customers": 3009.0,
+   "Total-Customers": 9871.0,
+   "cities-served": [
+    "Battle Creek, NE",
+    "Clearwater, NE",
+    "Elgin, NE",
+    "Ewing, NE",
+    "Hadar, NE",
+    "Neligh, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    },
+    {
+     "county": "Platte County, NE",
+     "population": 34296
+    },
+    {
+     "county": "Holt County, NE",
+     "population": 10127
+    },
+    {
+     "county": "Pierce County, NE",
+     "population": 7317
+    },
+    {
+     "county": "Antelope County, NE",
+     "population": 6295
+    },
+    {
+     "county": "Stanton County, NE",
+     "population": 5842
+    },
+    {
+     "county": "Boone County, NE",
+     "population": 5379
+    },
+    {
+     "county": "Wheeler County, NE",
+     "population": 774
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 9871
+    }
+   ]
+  },
+  {
+   "company": "Northeast Nebraska Public Power",
+   "company-type": "Political Subdivision",
+   "website": "https://northeastpow.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11952000.0,
+   "Residential-Customers": 6744.0,
+   "Commercial-Sales-($)": 14254000.0,
+   "Commercial-Customers": 967.0,
+   "Industrial-Sales-($)": 3008000.0,
+   "Industrial-Customers": 692.0,
+   "Total-Customers": 8403.0,
+   "cities-served": [
+    "Allen, NE",
+    "Carroll, NE",
+    "Concord, NE",
+    "Dixon, NE",
+    "Foster, NE",
+    "Hoskins, NE",
+    "Hubbard, NE",
+    "Jackson, NE",
+    "Martinsburg, NE",
+    "Maskell, NE",
+    "McLean, NE",
+    "Newcastle, NE",
+    "Obert, NE",
+    "Osmond, NE",
+    "Pierce, NE",
+    "Ponca, NE",
+    "Sholes, NE",
+    "Thurston, NE",
+    "Wakefield, NE",
+    "Waterbury, NE",
+    "Wayne, NE",
+    "Winside, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Dakota County, NE",
+     "population": 21582
+    },
+    {
+     "county": "Wayne County, NE",
+     "population": 9697
+    },
+    {
+     "county": "Cedar County, NE",
+     "population": 8380
+    },
+    {
+     "county": "Pierce County, NE",
+     "population": 7317
+    },
+    {
+     "county": "Thurston County, NE",
+     "population": 6773
+    },
+    {
+     "county": "Stanton County, NE",
+     "population": 5842
+    },
+    {
+     "county": "Dixon County, NE",
+     "population": 5606
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 8403
+    }
+   ]
+  },
+  {
+   "company": "South Central Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.southcentralppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6711623.703,
+   "Residential-Customers": 3750.0,
+   "Commercial-Sales-($)": 4247921.842,
+   "Commercial-Customers": 1268.0,
+   "Industrial-Sales-($)": 6994354.456,
+   "Industrial-Customers": 3262.0,
+   "Total-Customers": 8280.0,
+   "cities-served": [
+    "Bladen, NE",
+    "Blue Hill, NE",
+    "Clay Center, NE",
+    "Cowles, NE",
+    "Deweese, NE",
+    "Fairfield, NE",
+    "Glenvil, NE",
+    "Guide Rock, NE",
+    "Hardy, NE",
+    "Harvard, NE",
+    "Lawrence, NE",
+    "Nora, NE",
+    "Oak, NE",
+    "Ong, NE",
+    "Ruskin, NE",
+    "Saronville, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Adams County, NE",
+     "population": 31205
+    },
+    {
+     "county": "Clay County, NE",
+     "population": 6104
+    },
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    },
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    },
+    {
+     "county": "Nuckolls County, NE",
+     "population": 4095
+    },
+    {
+     "county": "Webster County, NE",
+     "population": 3395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 8280
+    }
+   ]
+  },
+  {
+   "company": "Perennial Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.perennialpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7777000.0,
+   "Residential-Customers": 3494.0,
+   "Commercial-Sales-($)": 2029000.0,
+   "Commercial-Customers": 1312.0,
+   "Industrial-Sales-($)": 19186000.0,
+   "Industrial-Customers": 2790.0,
+   "Total-Customers": 7596.0,
+   "cities-served": [
+    "Benedict, NE",
+    "Exeter, NE",
+    "Fairmont, NE",
+    "Geneva, NE",
+    "Grafton, NE",
+    "Gresham, NE",
+    "Henderson, NE",
+    "Lushton, NE",
+    "McCool Junction, NE",
+    "Milligan, NE",
+    "Ohiowa, NE",
+    "Strang, NE",
+    "Thayer, NE",
+    "Waco, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "York County, NE",
+     "population": 14125
+    },
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    },
+    {
+     "county": "Clay County, NE",
+     "population": 6104
+    },
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 7596
+    }
+   ]
+  },
+  {
+   "company": "Cedar-Knox Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "http://www.cedarknoxppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8461000.0,
+   "Residential-Customers": 5506.0,
+   "Commercial-Sales-($)": 9744000.0,
+   "Commercial-Customers": 729.0,
+   "Industrial-Sales-($)": 5037000.0,
+   "Industrial-Customers": 1240.0,
+   "Total-Customers": 7475.0,
+   "cities-served": [
+    "Belden, NE",
+    "Bloomfield, NE",
+    "Coleridge, NE",
+    "Crofton, NE",
+    "Fordyce, NE",
+    "Laurel, NE",
+    "St. Helena, NE",
+    "Wausa, NE",
+    "Wynot, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Knox County, NE",
+     "population": 8391
+    },
+    {
+     "county": "Cedar County, NE",
+     "population": 8380
+    },
+    {
+     "county": "Pierce County, NE",
+     "population": 7317
+    },
+    {
+     "county": "Dixon County, NE",
+     "population": 5606
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 7475
+    }
+   ]
+  },
+  {
+   "company": "Beatrice Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.beatrice.ne.gov/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6580642.006,
+   "Residential-Customers": 5828.0,
+   "Commercial-Sales-($)": 2449327.471,
+   "Commercial-Customers": 886.0,
+   "Industrial-Sales-($)": 6079030.523,
+   "Industrial-Customers": 122.0,
+   "Total-Customers": 6836.0,
+   "cities-served": [
+    "Beatrice"
+   ],
+   "counties-served": [
+    {
+     "county": "Gage County, NE",
+     "population": 21704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6836
+    }
+   ]
+  },
+  {
+   "company": "LaCreek Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.lacreek.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6321863.868,
+   "Residential-Customers": 4583.0,
+   "Commercial-Sales-($)": 2390266.624,
+   "Commercial-Customers": 620.0,
+   "Industrial-Sales-($)": 5484969.508,
+   "Industrial-Customers": 1564.0,
+   "Total-Customers": 6767.0,
+   "cities-served": [
+    "Batesland, SD",
+    "Martin, SD",
+    "Merriman, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Todd County, SD",
+     "population": 9319
+    },
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Bennett County, SD",
+     "population": 3381
+    },
+    {
+     "county": "Jackson County, SD",
+     "population": 2806
+    },
+    {
+     "county": "Mellette County, SD",
+     "population": 1918
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6516
+    },
+    {
+     "state": "Nebraska",
+     "customers": 251
+    }
+   ]
+  },
+  {
+   "company": "North Central Public Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.ncppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6419240.206,
+   "Residential-Customers": 4115.0,
+   "Commercial-Sales-($)": 4596679.881,
+   "Commercial-Customers": 1361.0,
+   "Industrial-Sales-($)": 6304079.913,
+   "Industrial-Customers": 1215.0,
+   "Total-Customers": 6691.0,
+   "cities-served": [
+    "Bazile Mills, NE",
+    "Brunswick, NE",
+    "Center, NE",
+    "Niobrara, NE",
+    "Orchard, NE",
+    "Page, NE",
+    "Royal, NE",
+    "Santee, NE",
+    "Verdigre, NE",
+    "Winnetoon, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Holt County, NE",
+     "population": 10127
+    },
+    {
+     "county": "Knox County, NE",
+     "population": 8391
+    },
+    {
+     "county": "Pierce County, NE",
+     "population": 7317
+    },
+    {
+     "county": "Antelope County, NE",
+     "population": 6295
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6691
+    }
+   ]
+  },
+  {
+   "company": "Midwest Electric Cooperative Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.midwestecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4150086.0,
+   "Residential-Customers": 2979.0,
+   "Commercial-Sales-($)": 4792922.0,
+   "Commercial-Customers": 1490.0,
+   "Industrial-Sales-($)": 26096913.0,
+   "Industrial-Customers": 2177.0,
+   "Total-Customers": 6646.0,
+   "cities-served": [
+    "Madrid, NE",
+    "Paxton, NE",
+    "Wallace, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NE",
+     "population": 34676
+    },
+    {
+     "county": "Keith County, NE",
+     "population": 8335
+    },
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    },
+    {
+     "county": "Perkins County, NE",
+     "population": 2858
+    },
+    {
+     "county": "Hayes County, NE",
+     "population": 856
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6668
+    }
+   ]
+  },
+  {
+   "company": "Twin Valleys PPD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.twinvalleysppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5319273.983,
+   "Residential-Customers": 4141.0,
+   "Commercial-Sales-($)": 4199196.55,
+   "Commercial-Customers": 1157.0,
+   "Industrial-Sales-($)": 4494529.467,
+   "Industrial-Customers": 1278.0,
+   "Total-Customers": 6576.0,
+   "cities-served": [
+    "Bartley, NE",
+    "Cambridge, NE",
+    "Danbury, NE",
+    "Edison, NE",
+    "Hendley, NE",
+    "Holbrook, NE",
+    "Huntley, NE",
+    "Lebanon, NE",
+    "Orleans, NE",
+    "Ragan, NE",
+    "Republican City, NE",
+    "Stamford, NE",
+    "Wilsonville, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    },
+    {
+     "county": "Phelps County, NE",
+     "population": 8968
+    },
+    {
+     "county": "Furnas County, NE",
+     "population": 4636
+    },
+    {
+     "county": "Harlan County, NE",
+     "population": 3073
+    },
+    {
+     "county": "Frontier County, NE",
+     "population": 2519
+    },
+    {
+     "county": "Gosper County, NE",
+     "population": 1893
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6576
+    }
+   ]
+  },
+  {
+   "company": "Butler Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.butlerppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8251714.213,
+   "Residential-Customers": 4665.0,
+   "Commercial-Sales-($)": 2712538.458,
+   "Commercial-Customers": 568.0,
+   "Industrial-Sales-($)": 10097747.33,
+   "Industrial-Customers": 1126.0,
+   "Total-Customers": 6359.0,
+   "cities-served": [
+    "Abie, NE",
+    "Bellwood, NE",
+    "Bruno, NE",
+    "David City, NE",
+    "Dwight, NE",
+    "Garrison, NE",
+    "Linwood, NE",
+    "Malmo, NE",
+    "Octavia, NE",
+    "Rising City, NE",
+    "Surprise, NE",
+    "Ulysses, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Saunders County, NE",
+     "population": 22278
+    },
+    {
+     "county": "Butler County, NE",
+     "population": 8369
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6359
+    }
+   ]
+  },
+  {
+   "company": "Nebraska City Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.nebraskacityutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6031773.69,
+   "Residential-Customers": 5241.0,
+   "Commercial-Sales-($)": 3341727.757,
+   "Commercial-Customers": 1009.0,
+   "Industrial-Sales-($)": 4753498.553,
+   "Industrial-Customers": 36.0,
+   "Total-Customers": 6286.0,
+   "Total-Production-MWh": 40127.0,
+   "Production-from-Non-Renewable-Energy-MWh": 40127.0,
+   "cities-served": [
+    "Nebraska City"
+   ],
+   "counties-served": [
+    {
+     "county": "Otoe County, NE",
+     "population": 15912
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6286
+    }
+   ]
+  },
+  {
+   "company": "Niobrara Valley Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.nvemc.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7018480.55,
+   "Residential-Customers": 4936.0,
+   "Commercial-Sales-($)": 142021.018,
+   "Commercial-Customers": 72.0,
+   "Industrial-Sales-($)": 7579298.431,
+   "Industrial-Customers": 1271.0,
+   "Total-Customers": 6279.0,
+   "cities-served": [
+    "Atkinson, NE",
+    "Chambers, NE",
+    "Gross, NE",
+    "Monowi, NE",
+    "Naper, NE",
+    "Spencer, NE",
+    "Stuart, NE",
+    "Verdel, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Holt County, NE",
+     "population": 10127
+    },
+    {
+     "county": "Knox County, NE",
+     "population": 8391
+    },
+    {
+     "county": "Garfield County, NE",
+     "population": 1813
+    },
+    {
+     "county": "Boyd County, NE",
+     "population": 1810
+    },
+    {
+     "county": "Wheeler County, NE",
+     "population": 774
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6279
+    }
+   ]
+  },
+  {
+   "company": "Southwest Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.swppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3419100.0,
+   "Residential-Customers": 2176.0,
+   "Commercial-Sales-($)": 5313500.0,
+   "Commercial-Customers": 2656.0,
+   "Industrial-Sales-($)": 13487400.0,
+   "Industrial-Customers": 1364.0,
+   "Total-Customers": 6196.0,
+   "cities-served": [
+    "Benkelman, NE",
+    "Culbertson, NE",
+    "Haigler, NE",
+    "Hamlet, NE",
+    "Hayes Center, NE",
+    "Imperial, NE",
+    "Palisade, NE",
+    "Wauneta, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    },
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    },
+    {
+     "county": "Hitchcock County, NE",
+     "population": 2616
+    },
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    },
+    {
+     "county": "Hayes County, NE",
+     "population": 856
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 6196
+    }
+   ]
+  },
+  {
+   "company": "South Sioux City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.southsiouxcity.org/department/division.php?structureid=59",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 6270800.0,
+   "Residential-Customers": 4787.0,
+   "Commercial-Sales-($)": 13425500.0,
+   "Commercial-Customers": 970.0,
+   "Total-Customers": 5757.0,
+   "cities-served": [
+    "South Sioux City"
+   ],
+   "counties-served": [
+    {
+     "county": "Dakota County, NE",
+     "population": 21582
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5757
+    }
+   ]
+  },
+  {
+   "company": "Loup Valleys Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.facebook.com/Loup-Valleys-Rural-Public-Power-District-395992683902660/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5880596.866,
+   "Residential-Customers": 2892.0,
+   "Commercial-Sales-($)": 2892920.299,
+   "Commercial-Customers": 517.0,
+   "Industrial-Sales-($)": 6524482.836,
+   "Industrial-Customers": 2301.0,
+   "Total-Customers": 5710.0,
+   "cities-served": [
+    "Arcadia, NE",
+    "Ashton, NE",
+    "Bartlett, NE",
+    "Comstock, NE",
+    "Elyria, NE",
+    "Ericson, NE",
+    "Loup City, NE",
+    "North Loup, NE",
+    "Ord, NE",
+    "Rockville, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Valley County, NE",
+     "population": 4059
+    },
+    {
+     "county": "Sherman County, NE",
+     "population": 2959
+    },
+    {
+     "county": "Greeley County, NE",
+     "population": 2188
+    },
+    {
+     "county": "Garfield County, NE",
+     "population": 1813
+    },
+    {
+     "county": "Wheeler County, NE",
+     "population": 774
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5710
+    }
+   ]
+  },
+  {
+   "company": "Howard Greeley Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.howardgreeleyrppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7462245.847,
+   "Residential-Customers": 3824.0,
+   "Commercial-Sales-($)": 1544604.651,
+   "Commercial-Customers": 569.0,
+   "Industrial-Sales-($)": 3069149.502,
+   "Industrial-Customers": 1280.0,
+   "Total-Customers": 5673.0,
+   "cities-served": [
+    "Cotesfield, NE",
+    "Cushing, NE",
+    "Dannebrog, NE",
+    "Elba, NE",
+    "Farwell, NE",
+    "Greeley Center, NE",
+    "Howard City, NE",
+    "Scotia, NE",
+    "Wolbach, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Hall County, NE",
+     "population": 62895
+    },
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    },
+    {
+     "county": "Howard County, NE",
+     "population": 6475
+    },
+    {
+     "county": "Greeley County, NE",
+     "population": 2188
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5673
+    }
+   ]
+  },
+  {
+   "company": "Wyrulec Company",
+   "company-type": "Cooperative",
+   "website": "https://www.wyrulec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3420746.132,
+   "Residential-Customers": 2548.0,
+   "Commercial-Sales-($)": 2159194.367,
+   "Commercial-Customers": 605.0,
+   "Industrial-Sales-($)": 14807059.5,
+   "Industrial-Customers": 2272.0,
+   "Total-Customers": 5425.0,
+   "cities-served": [
+    "Fort Laramie, WY",
+    "Hartville, WY",
+    "Henry, NE",
+    "La Grange, WY",
+    "Torrington, WY",
+    "Yoder, WY"
+   ],
+   "counties-served": [
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Goshen County, WY",
+     "population": 12498
+    },
+    {
+     "county": "Platte County, WY",
+     "population": 8605
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 4914
+    },
+    {
+     "state": "Nebraska",
+     "customers": 511
+    }
+   ]
+  },
+  {
+   "company": "Alliance, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofalliance.net/126/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5183769.655,
+   "Residential-Customers": 4193.0,
+   "Commercial-Sales-($)": 5086109.015,
+   "Commercial-Customers": 1045.0,
+   "Industrial-Sales-($)": 3009621.33,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 5247.0,
+   "cities-served": [
+    "Alliance"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Butte County, NE",
+     "population": 10842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5247
+    }
+   ]
+  },
+  {
+   "company": "Wheat Belt PPD",
+   "company-type": "Political Subdivision",
+   "website": "https://www.wheatbelt.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5180304.236,
+   "Residential-Customers": 3261.0,
+   "Commercial-Sales-($)": 4681663.617,
+   "Commercial-Customers": 760.0,
+   "Industrial-Sales-($)": 10490832.147,
+   "Industrial-Customers": 1021.0,
+   "Total-Customers": 5042.0,
+   "cities-served": [
+    "Bridgeport, NE",
+    "Dalton, NE",
+    "Gurley, NE",
+    "Potter, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    },
+    {
+     "county": "Keith County, NE",
+     "population": 8335
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Garden County, NE",
+     "population": 1874
+    },
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    },
+    {
+     "county": "Arthur County, NE",
+     "population": 434
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5042
+    }
+   ]
+  },
+  {
+   "company": "McCook Public Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.mppdonline.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5521822.035,
+   "Residential-Customers": 3747.0,
+   "Commercial-Sales-($)": 2317129.395,
+   "Commercial-Customers": 350.0,
+   "Industrial-Sales-($)": 9302448.57,
+   "Industrial-Customers": 945.0,
+   "Total-Customers": 5042.0,
+   "cities-served": [
+    "Curtis, NE",
+    "McCook, NE",
+    "Moorefield, NE",
+    "Stockville, NE",
+    "Wellfleet, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, NE",
+     "population": 34676
+    },
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    },
+    {
+     "county": "Hitchcock County, NE",
+     "population": 2616
+    },
+    {
+     "county": "Frontier County, NE",
+     "population": 2519
+    },
+    {
+     "county": "Hayes County, NE",
+     "population": 856
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5042
+    }
+   ]
+  },
+  {
+   "company": "Polk County Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.pcrppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5281741.9,
+   "Residential-Customers": 3038.0,
+   "Commercial-Sales-($)": 2569741.86,
+   "Commercial-Customers": 597.0,
+   "Industrial-Sales-($)": 4199816.24,
+   "Industrial-Customers": 1387.0,
+   "Total-Customers": 5022.0,
+   "cities-served": [
+    "Clarks, NE",
+    "Osceola, NE",
+    "Shelby, NE",
+    "Silver Creek, NE",
+    "Stromsburg, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "York County, NE",
+     "population": 14125
+    },
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    },
+    {
+     "county": "Polk County, NE",
+     "population": 5214
+    },
+    {
+     "county": "Nance County, NE",
+     "population": 3380
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 5022
+    }
+   ]
+  },
+  {
+   "company": "Sidney Electric",
+   "company-type": "Municipal",
+   "website": "https://cityofsidney.org/89/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3538648.406,
+   "Residential-Customers": 4183.0,
+   "Commercial-Sales-($)": 1889456.996,
+   "Commercial-Customers": 709.0,
+   "Industrial-Sales-($)": 4189894.598,
+   "Industrial-Customers": 66.0,
+   "Total-Customers": 4958.0,
+   "Total-Production-MWh": 1.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1.0,
+   "cities-served": [
+    "Sidney"
+   ],
+   "counties-served": [
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 4958
+    }
+   ]
+  },
+  {
+   "company": "KBR Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.kbrpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5576463.07,
+   "Residential-Customers": 3327.0,
+   "Commercial-Sales-($)": 3443490.295,
+   "Commercial-Customers": 729.0,
+   "Industrial-Sales-($)": 3859046.635,
+   "Industrial-Customers": 787.0,
+   "Total-Customers": 4843.0,
+   "cities-served": [
+    "Ainsworth, NE",
+    "Burton, NE",
+    "Crookston, NE",
+    "Johnstown, NE",
+    "Newport, NE",
+    "Springview, NE",
+    "Wood Lake, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Brown County, NE",
+     "population": 2903
+    },
+    {
+     "county": "Rock County, NE",
+     "population": 1262
+    },
+    {
+     "county": "Keya Paha County, NE",
+     "population": 769
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 4843
+    }
+   ]
+  },
+  {
+   "company": "Lexington, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityoflex.com/utilities-2/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5362000.0,
+   "Residential-Customers": 3589.0,
+   "Commercial-Sales-($)": 4101200.0,
+   "Commercial-Customers": 805.0,
+   "Industrial-Sales-($)": 8056900.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 4401.0,
+   "cities-served": [
+    "Lexington"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawson County, NE",
+     "population": 24111
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 4401
+    }
+   ]
+  },
+  {
+   "company": "Burt County Public Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.burtcoppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9464090.36,
+   "Residential-Customers": 3436.0,
+   "Commercial-Sales-($)": 3169204.65,
+   "Commercial-Customers": 327.0,
+   "Industrial-Sales-($)": 1553104.99,
+   "Industrial-Customers": 488.0,
+   "Total-Customers": 4251.0,
+   "cities-served": [
+    "Craig, NE",
+    "Decatur, NE",
+    "Lyons, NE",
+    "Oakland, NE",
+    "Rosalie, NE",
+    "Scribner, NE",
+    "Tekamah, NE",
+    "Uehling, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    },
+    {
+     "county": "Washington County, NE",
+     "population": 20865
+    },
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    },
+    {
+     "county": "Thurston County, NE",
+     "population": 6773
+    },
+    {
+     "county": "Burt County, NE",
+     "population": 6722
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 4251
+    }
+   ]
+  },
+  {
+   "company": "City of Gering Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.gering.org/departments-services/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4907472.604,
+   "Residential-Customers": 3500.0,
+   "Commercial-Sales-($)": 2080998.066,
+   "Commercial-Customers": 498.0,
+   "Industrial-Sales-($)": 2226529.33,
+   "Industrial-Customers": 36.0,
+   "Total-Customers": 4034.0,
+   "cities-served": [
+    "Gering, NE",
+    "Terrytown, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 4034
+    }
+   ]
+  },
+  {
+   "company": "Cuming County Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://ccppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5418117.641,
+   "Residential-Customers": 2787.0,
+   "Commercial-Sales-($)": 2126675.37,
+   "Commercial-Customers": 345.0,
+   "Industrial-Sales-($)": 3316606.989,
+   "Industrial-Customers": 725.0,
+   "Total-Customers": 3857.0,
+   "cities-served": [
+    "Bancroft, NE",
+    "Beemer, NE",
+    "Dodge, NE",
+    "Snyder, NE",
+    "West Point, NE",
+    "Wisner, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    },
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    },
+    {
+     "county": "Wayne County, NE",
+     "population": 9697
+    },
+    {
+     "county": "Cuming County, NE",
+     "population": 9013
+    },
+    {
+     "county": "Thurston County, NE",
+     "population": 6773
+    },
+    {
+     "county": "Stanton County, NE",
+     "population": 5842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3857
+    }
+   ]
+  },
+  {
+   "company": "Panhandle Rural Electric Membership Association",
+   "company-type": "Cooperative",
+   "website": "https://www.prema.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5633419.458,
+   "Residential-Customers": 1681.0,
+   "Commercial-Sales-($)": 2881480.47,
+   "Commercial-Customers": 1250.0,
+   "Industrial-Sales-($)": 6743200.073,
+   "Industrial-Customers": 851.0,
+   "Total-Customers": 3782.0,
+   "cities-served": [
+    "Arthur, NE",
+    "Hyannis, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Butte County, NE",
+     "population": 10842
+    },
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Sheridan County, NE",
+     "population": 5127
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Garden County, NE",
+     "population": 1874
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    },
+    {
+     "county": "Hooker County, NE",
+     "population": 711
+    },
+    {
+     "county": "Grant County, NE",
+     "population": 611
+    },
+    {
+     "county": "Arthur County, NE",
+     "population": 434
+    },
+    {
+     "county": "McPherson County, NE",
+     "population": 399
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3782
+    }
+   ]
+  },
+  {
+   "company": "Seward Electric",
+   "company-type": "Municipal",
+   "website": "http://www.cityofsewardne.gov/locations/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3609862.737,
+   "Residential-Customers": 2918.0,
+   "Commercial-Sales-($)": 3763145.595,
+   "Commercial-Customers": 586.0,
+   "Industrial-Sales-($)": 2504991.668,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 3510.0,
+   "cities-served": [
+    "Seward"
+   ],
+   "counties-served": [
+    {
+     "county": "Seward County, NE",
+     "population": 17609
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3510
+    }
+   ]
+  },
+  {
+   "company": "Broken Bow, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofbrokenbow.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2709032.003,
+   "Residential-Customers": 2443.0,
+   "Commercial-Sales-($)": 2502092.058,
+   "Commercial-Customers": 975.0,
+   "Industrial-Sales-($)": 4311875.938,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 3429.0,
+   "Total-Production-MWh": 152.0,
+   "Production-from-Non-Renewable-Energy-MWh": 152.0,
+   "cities-served": [
+    "Broken Bow"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3429
+    }
+   ]
+  },
+  {
+   "company": "Roosevelt Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.rooseveltppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4519126.609,
+   "Residential-Customers": 2091.0,
+   "Commercial-Sales-($)": 902931.33,
+   "Commercial-Customers": 567.0,
+   "Industrial-Sales-($)": 2909942.06,
+   "Industrial-Customers": 714.0,
+   "Total-Customers": 3372.0,
+   "cities-served": [
+    "Henry"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3372
+    }
+   ]
+  },
+  {
+   "company": "Northwest Rural Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.nrppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4806183.895,
+   "Residential-Customers": 1997.0,
+   "Commercial-Sales-($)": 1029343.733,
+   "Commercial-Customers": 667.0,
+   "Industrial-Sales-($)": 5906472.372,
+   "Industrial-Customers": 654.0,
+   "Total-Customers": 3318.0,
+   "cities-served": [
+    "Chadron, NE",
+    "Clinton, NE",
+    "Gordon, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Butte County, NE",
+     "population": 10842
+    },
+    {
+     "county": "Dawes County, NE",
+     "population": 8199
+    },
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Sheridan County, NE",
+     "population": 5127
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3318
+    }
+   ]
+  },
+  {
+   "company": "Holdrege, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofholdrege.org/utilities-2/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2776529.151,
+   "Residential-Customers": 2611.0,
+   "Commercial-Sales-($)": 3670335.195,
+   "Commercial-Customers": 692.0,
+   "Industrial-Sales-($)": 2343135.654,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 3304.0,
+   "cities-served": [
+    "Holdrege"
+   ],
+   "counties-served": [
+    {
+     "county": "Phelps County, NE",
+     "population": 8968
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3304
+    }
+   ]
+  },
+  {
+   "company": "Fairbury Light",
+   "company-type": "Municipal",
+   "website": "https://www.fairburyne.org/163/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4179519.347,
+   "Residential-Customers": 2717.0,
+   "Commercial-Sales-($)": 3326859.222,
+   "Commercial-Customers": 552.0,
+   "Industrial-Sales-($)": 2113621.431,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 3278.0,
+   "cities-served": [
+    "Fairbury, NE",
+    "Jansen, NE",
+    "Steele City, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, NE",
+     "population": 7240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3278
+    }
+   ]
+  },
+  {
+   "company": "Chimney Rock Public Power",
+   "company-type": "Political Subdivision",
+   "website": "http://www.crppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3717521.412,
+   "Residential-Customers": 1967.0,
+   "Commercial-Sales-($)": 1163881.292,
+   "Commercial-Customers": 318.0,
+   "Industrial-Sales-($)": 2523597.295,
+   "Industrial-Customers": 955.0,
+   "Total-Customers": 3240.0,
+   "cities-served": [
+    "Bridgeport, NE",
+    "Minatare, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Box Butte County, NE",
+     "population": 10842
+    },
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    },
+    {
+     "county": "Banner County, NE",
+     "population": 674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3240
+    }
+   ]
+  },
+  {
+   "company": "Crete Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.crete.ne.gov/vnews/display.v/SEC/Public%20Works%7CElectric%20Department%20%26%20Power%20Plant",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2936427.791,
+   "Residential-Customers": 2487.0,
+   "Commercial-Sales-($)": 2726269.794,
+   "Commercial-Customers": 707.0,
+   "Industrial-Sales-($)": 5271302.416,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 3197.0,
+   "Total-Production-MWh": 167.0,
+   "Production-from-Non-Renewable-Energy-MWh": 167.0,
+   "cities-served": [
+    "Crete"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 3197
+    }
+   ]
+  },
+  {
+   "company": "Niobrara Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.niobrara-electric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6604862.464,
+   "Residential-Customers": 1881.0,
+   "Commercial-Sales-($)": 2866577.364,
+   "Commercial-Customers": 997.0,
+   "Industrial-Sales-($)": 2229560.172,
+   "Industrial-Customers": 159.0,
+   "Total-Customers": 3037.0,
+   "cities-served": [
+    "Harrison"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawes County, NE",
+     "population": 8199
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 2102
+    },
+    {
+     "state": "Nebraska",
+     "customers": 920
+    },
+    {
+     "state": "South Dakota",
+     "customers": 15
+    }
+   ]
+  },
+  {
+   "company": "Stanton County Public Power",
+   "company-type": "Political Subdivision",
+   "website": "https://www.scppd.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3455170.877,
+   "Residential-Customers": 1791.0,
+   "Commercial-Sales-($)": 1909473.787,
+   "Commercial-Customers": 328.0,
+   "Industrial-Sales-($)": 7826355.336,
+   "Industrial-Customers": 590.0,
+   "Total-Customers": 2709.0,
+   "cities-served": [
+    "Pilger, NE",
+    "Stanton, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    },
+    {
+     "county": "Wayne County, NE",
+     "population": 9697
+    },
+    {
+     "county": "Stanton County, NE",
+     "population": 5842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2709
+    }
+   ]
+  },
+  {
+   "company": "Schuyler, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://schuylernebraska.net/government/city-of-schuyler/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2998507.412,
+   "Residential-Customers": 2222.0,
+   "Commercial-Sales-($)": 1313929.289,
+   "Commercial-Customers": 345.0,
+   "Industrial-Sales-($)": 7908563.299,
+   "Industrial-Customers": 128.0,
+   "Total-Customers": 2695.0,
+   "cities-served": [
+    "Schuyler"
+   ],
+   "counties-served": [
+    {
+     "county": "Colfax County, NE",
+     "population": 10582
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2695
+    }
+   ]
+  },
+  {
+   "company": "Auburn Board of Public Works",
+   "company-type": "Municipal",
+   "website": "https://auburnbpw.com/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2704891.203,
+   "Residential-Customers": 1843.0,
+   "Commercial-Sales-($)": 2980968.942,
+   "Commercial-Customers": 835.0,
+   "Industrial-Sales-($)": 324139.855,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2679.0,
+   "Total-Production-MWh": 377.0,
+   "Production-from-Non-Renewable-Energy-MWh": 377.0,
+   "cities-served": [
+    "Auburn"
+   ],
+   "counties-served": [
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2679
+    }
+   ]
+  },
+  {
+   "company": "Falls City Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.fallscitynebraska.org/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2546741.122,
+   "Residential-Customers": 2106.0,
+   "Commercial-Sales-($)": 2886504.718,
+   "Commercial-Customers": 531.0,
+   "Industrial-Sales-($)": 340754.16,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 2644.0,
+   "Total-Production-MWh": 463.0,
+   "Production-from-Non-Renewable-Energy-MWh": 463.0,
+   "cities-served": [
+    "Falls City"
+   ],
+   "counties-served": [
+    {
+     "county": "Richardson County, NE",
+     "population": 7871
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2644
+    }
+   ]
+  },
+  {
+   "company": "City of Wayne, NE Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwayne.org/86/Public-Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2664116.695,
+   "Residential-Customers": 2132.0,
+   "Commercial-Sales-($)": 5067883.305,
+   "Commercial-Customers": 499.0,
+   "Total-Customers": 2631.0,
+   "Total-Production-MWh": 961.0,
+   "Production-from-Non-Renewable-Energy-MWh": 961.0,
+   "cities-served": [
+    "Wayne"
+   ],
+   "counties-served": [
+    {
+     "county": "Wayne County, NE",
+     "population": 9697
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2631
+    }
+   ]
+  },
+  {
+   "company": "Wahoo, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.wahoo.ne.us/vnews/display.v/SEC/Wahoo%20Utilities%7CRate%20Information%3E%3EElectric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2037446.023,
+   "Residential-Customers": 1919.0,
+   "Commercial-Sales-($)": 2298166.636,
+   "Commercial-Customers": 494.0,
+   "Industrial-Sales-($)": 1119387.341,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2416.0,
+   "Total-Production-MWh": 281.0,
+   "Production-from-Non-Renewable-Energy-MWh": 281.0,
+   "cities-served": [
+    "Wahoo"
+   ],
+   "counties-served": [
+    {
+     "county": "Saunders County, NE",
+     "population": 22278
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2416
+    }
+   ]
+  },
+  {
+   "company": "Valentine, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://visitvalentine.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2145833.962,
+   "Residential-Customers": 1658.0,
+   "Commercial-Sales-($)": 2219166.038,
+   "Commercial-Customers": 518.0,
+   "Total-Customers": 2176.0,
+   "cities-served": [
+    "Valentine"
+   ],
+   "counties-served": [
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2176
+    }
+   ]
+  },
+  {
+   "company": "Cozad Board of Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.cozadne.net/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2194852.562,
+   "Residential-Customers": 1715.0,
+   "Commercial-Sales-($)": 2133797.322,
+   "Commercial-Customers": 362.0,
+   "Industrial-Sales-($)": 399750.116,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2078.0,
+   "cities-served": [
+    "Cozad"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawson County, NE",
+     "population": 24111
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 2078
+    }
+   ]
+  },
+  {
+   "company": "West Point Water and Light",
+   "company-type": "Municipal",
+   "website": "http://ci.west-point.ne.us/utilities2.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2262460.718,
+   "Residential-Customers": 1499.0,
+   "Commercial-Sales-($)": 1069767.012,
+   "Commercial-Customers": 340.0,
+   "Industrial-Sales-($)": 3430772.27,
+   "Industrial-Customers": 78.0,
+   "Total-Customers": 1917.0,
+   "Total-Production-MWh": 161.0,
+   "Production-from-Non-Renewable-Energy-MWh": 161.0,
+   "cities-served": [
+    "West Point"
+   ],
+   "counties-served": [
+    {
+     "county": "Cuming County, NE",
+     "population": 9013
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1917
+    }
+   ]
+  },
+  {
+   "company": "Kimball Electric",
+   "company-type": "Municipal",
+   "website": "https://kimballne.org/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1437040.085,
+   "Residential-Customers": 1474.0,
+   "Commercial-Sales-($)": 1071898.269,
+   "Commercial-Customers": 432.0,
+   "Industrial-Sales-($)": 590061.646,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 1916.0,
+   "Total-Production-MWh": 368.0,
+   "Production-from-Non-Renewable-Energy-MWh": 368.0,
+   "cities-served": [
+    "Kimball"
+   ],
+   "counties-served": [
+    {
+     "county": "Kimball County, NE",
+     "population": 3434
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1916
+    }
+   ]
+  },
+  {
+   "company": "Gothenburg, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://ci.gothenburg.ne.us/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1812222.039,
+   "Residential-Customers": 1497.0,
+   "Commercial-Sales-($)": 1226175.194,
+   "Commercial-Customers": 370.0,
+   "Industrial-Sales-($)": 2037102.767,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 1884.0,
+   "cities-served": [
+    "Gothenburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawson County, NE",
+     "population": 24111
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1884
+    }
+   ]
+  },
+  {
+   "company": "Central City Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cc-ne.com/utilities/electric-department/p/item/8948/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1867498.733,
+   "Residential-Customers": 1415.0,
+   "Commercial-Sales-($)": 1041412.278,
+   "Commercial-Customers": 291.0,
+   "Industrial-Sales-($)": 664088.989,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 1716.0,
+   "cities-served": [
+    "Central City"
+   ],
+   "counties-served": [
+    {
+     "county": "Merrick County, NE",
+     "population": 7668
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1716
+    }
+   ]
+  },
+  {
+   "company": "Minden, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mindennebraska.org/92/Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2003688.599,
+   "Residential-Customers": 1382.0,
+   "Commercial-Sales-($)": 1414311.401,
+   "Commercial-Customers": 259.0,
+   "Total-Customers": 1641.0,
+   "cities-served": [
+    "Minden"
+   ],
+   "counties-served": [
+    {
+     "county": "Kearney County, NE",
+     "population": 6688
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1641
+    }
+   ]
+  },
+  {
+   "company": "David City, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.davidcityne.com/vnews/display.v/SEC/David%20City%20Utilities%7CElectric%20Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1705442.893,
+   "Residential-Customers": 1239.0,
+   "Commercial-Sales-($)": 688883.955,
+   "Commercial-Customers": 244.0,
+   "Industrial-Sales-($)": 1791673.152,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 1515.0,
+   "Total-Production-MWh": 316.0,
+   "Production-from-Non-Renewable-Energy-MWh": 316.0,
+   "cities-served": [
+    "David City"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, NE",
+     "population": 8369
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1515
+    }
+   ]
+  },
+  {
+   "company": "Ord, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.ordnebraska.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1489814.815,
+   "Residential-Customers": 1127.0,
+   "Commercial-Sales-($)": 1728185.185,
+   "Commercial-Customers": 320.0,
+   "Total-Customers": 1447.0,
+   "Total-Production-MWh": 310.0,
+   "Production-from-Non-Renewable-Energy-MWh": 310.0,
+   "cities-served": [
+    "Ord"
+   ],
+   "counties-served": [
+    {
+     "county": "Valley County, NE",
+     "population": 4059
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1447
+    }
+   ]
+  },
+  {
+   "company": "City of Mitchell Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.mitchellcity.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 638385.905,
+   "Residential-Customers": 763.0,
+   "Commercial-Sales-($)": 529118.608,
+   "Commercial-Customers": 573.0,
+   "Industrial-Sales-($)": 373495.488,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 1343.0,
+   "cities-served": [
+    "Mitchell"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1343
+    }
+   ]
+  },
+  {
+   "company": "City of Superior Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofsuperior.org/live-here/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1060825.318,
+   "Residential-Customers": 1026.0,
+   "Commercial-Sales-($)": 976680.81,
+   "Commercial-Customers": 278.0,
+   "Industrial-Sales-($)": 476493.872,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1308.0,
+   "cities-served": [
+    "Superior"
+   ],
+   "counties-served": [
+    {
+     "county": "Nuckolls County, NE",
+     "population": 4095
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1308
+    }
+   ]
+  },
+  {
+   "company": "St Paul, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.stpaulnebraska.com/city-departments/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1179174.905,
+   "Residential-Customers": 956.0,
+   "Commercial-Sales-($)": 518447.148,
+   "Commercial-Customers": 267.0,
+   "Industrial-Sales-($)": 865377.947,
+   "Industrial-Customers": 24.0,
+   "Total-Customers": 1247.0,
+   "cities-served": [
+    "St. Paul"
+   ],
+   "counties-served": [
+    {
+     "county": "Howard County, NE",
+     "population": 6475
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1247
+    }
+   ]
+  },
+  {
+   "company": "Pierce County Utilities",
+   "company-type": "Municipal",
+   "website": "https://piercenebraska.com/government/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1189500.0,
+   "Residential-Customers": 982.0,
+   "Commercial-Sales-($)": 672906.25,
+   "Commercial-Customers": 234.0,
+   "Industrial-Sales-($)": 28593.75,
+   "Industrial-Customers": 25.0,
+   "Total-Customers": 1241.0,
+   "cities-served": [
+    "Pierce"
+   ],
+   "counties-served": [
+    {
+     "county": "Pierce County, NE",
+     "population": 7317
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1241
+    }
+   ]
+  },
+  {
+   "company": "Syracuse Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.syracusene.com/utilites/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1058097.146,
+   "Residential-Customers": 974.0,
+   "Commercial-Sales-($)": 445718.578,
+   "Commercial-Customers": 225.0,
+   "Industrial-Sales-($)": 431184.276,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 1216.0,
+   "cities-served": [
+    "Syracuse"
+   ],
+   "counties-served": [
+    {
+     "county": "Otoe County, NE",
+     "population": 15912
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1216
+    }
+   ]
+  },
+  {
+   "company": "Hickman, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.hickman.ne.gov/vnews/display.v/SEC/City%20Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1233432.65,
+   "Residential-Customers": 1110.0,
+   "Commercial-Sales-($)": 187792.899,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 96674.451,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 1212.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Lancaster County, NE",
+     "population": 322608
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1212
+    }
+   ]
+  },
+  {
+   "company": "Morrill Electric",
+   "company-type": "Municipal",
+   "website": "https://www.villageofmorrill.com/vnews/display.v/ART/56e302258396d",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 963585.733,
+   "Residential-Customers": 652.0,
+   "Commercial-Sales-($)": 798656.639,
+   "Commercial-Customers": 489.0,
+   "Industrial-Sales-($)": 563757.628,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1147.0,
+   "cities-served": [
+    "Morrill"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1147
+    }
+   ]
+  },
+  {
+   "company": "Neligh, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.neligh.org/vnews/display.v/SEC/Work%7CUtility%20Information",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 981241.986,
+   "Residential-Customers": 826.0,
+   "Commercial-Sales-($)": 884758.014,
+   "Commercial-Customers": 300.0,
+   "Total-Customers": 1126.0,
+   "cities-served": [
+    "Neligh"
+   ],
+   "counties-served": [
+    {
+     "county": "Antelope County, NE",
+     "population": 6295
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1126
+    }
+   ]
+  },
+  {
+   "company": "Tecumseh, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.tecumsehne.com/city-utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1082237.503,
+   "Residential-Customers": 805.0,
+   "Commercial-Sales-($)": 986151.47,
+   "Commercial-Customers": 225.0,
+   "Industrial-Sales-($)": 912411.027,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1035.0,
+   "cities-served": [
+    "Cook, NE",
+    "Tecumseh, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Johnson County, NE",
+     "population": 5290
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1035
+    }
+   ]
+  },
+  {
+   "company": "Madison, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.madison-ne.com/c/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 822354.02,
+   "Residential-Customers": 855.0,
+   "Commercial-Sales-($)": 259035.86,
+   "Commercial-Customers": 147.0,
+   "Industrial-Sales-($)": 5826610.12,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 1017.0,
+   "Total-Production-MWh": 73.0,
+   "Production-from-Non-Renewable-Energy-MWh": 73.0,
+   "cities-served": [
+    "Madison"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1017
+    }
+   ]
+  },
+  {
+   "company": "Wilber, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityofwilber.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 888687.21,
+   "Residential-Customers": 848.0,
+   "Commercial-Sales-($)": 547941.948,
+   "Commercial-Customers": 151.0,
+   "Industrial-Sales-($)": 45170.842,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 1007.0,
+   "Total-Production-MWh": 20.0,
+   "Production-from-Non-Renewable-Energy-MWh": 20.0,
+   "cities-served": [
+    "Wilber"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 1007
+    }
+   ]
+  },
+  {
+   "company": "Hebron, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.hebronnebraska.us/252/City-Water-Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 829527.163,
+   "Residential-Customers": 728.0,
+   "Commercial-Sales-($)": 895472.837,
+   "Commercial-Customers": 223.0,
+   "Total-Customers": 951.0,
+   "cities-served": [
+    "Hebron"
+   ],
+   "counties-served": [
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 951
+    }
+   ]
+  },
+  {
+   "company": "Sutton Electric",
+   "company-type": "Municipal",
+   "website": "http://www.cityofsutton.org/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 834558.343,
+   "Residential-Customers": 698.0,
+   "Commercial-Sales-($)": 728867.561,
+   "Commercial-Customers": 218.0,
+   "Industrial-Sales-($)": 145574.096,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 919.0,
+   "cities-served": [
+    "Sutton"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, NE",
+     "population": 6104
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 919
+    }
+   ]
+  },
+  {
+   "company": "Bridgeport, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbport.com/copy-of-utility-rates",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 919439.623,
+   "Residential-Customers": 709.0,
+   "Commercial-Sales-($)": 930060.377,
+   "Commercial-Customers": 196.0,
+   "Total-Customers": 905.0,
+   "cities-served": [
+    "Bridgeport"
+   ],
+   "counties-served": [
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 905
+    }
+   ]
+  },
+  {
+   "company": "Imperial, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.imperial-ne.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1407727.396,
+   "Residential-Customers": 677.0,
+   "Commercial-Sales-($)": 1734086.343,
+   "Commercial-Customers": 206.0,
+   "Industrial-Sales-($)": 446186.261,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 896.0,
+   "cities-served": [
+    "Imperial"
+   ],
+   "counties-served": [
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 896
+    }
+   ]
+  },
+  {
+   "company": "Wymore, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwymore.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 786476.339,
+   "Residential-Customers": 746.0,
+   "Commercial-Sales-($)": 331223.661,
+   "Commercial-Customers": 120.0,
+   "Total-Customers": 866.0,
+   "cities-served": [
+    "Blue Springs, NE",
+    "Wymore, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Gage County, NE",
+     "population": 21704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 866
+    }
+   ]
+  },
+  {
+   "company": "Grant, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.grantnebraska.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 876336.844,
+   "Residential-Customers": 594.0,
+   "Commercial-Sales-($)": 845487.451,
+   "Commercial-Customers": 192.0,
+   "Industrial-Sales-($)": 352675.705,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 800.0,
+   "cities-served": [
+    "Grant"
+   ],
+   "counties-served": [
+    {
+     "county": "Perkins County, NE",
+     "population": 2858
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 800
+    }
+   ]
+  },
+  {
+   "company": "Red Cloud, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.visitredcloud.com/government/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 867316.699,
+   "Residential-Customers": 597.0,
+   "Commercial-Sales-($)": 701683.301,
+   "Commercial-Customers": 187.0,
+   "Total-Customers": 784.0,
+   "Total-Production-MWh": 99.0,
+   "Production-from-Non-Renewable-Energy-MWh": 99.0,
+   "cities-served": [
+    "Red Cloud"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, NE",
+     "population": 3395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 784
+    }
+   ]
+  },
+  {
+   "company": "Chappell, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.chappellne.org/city-of-chappell-directory",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 462974.891,
+   "Residential-Customers": 498.0,
+   "Commercial-Sales-($)": 490025.109,
+   "Commercial-Customers": 278.0,
+   "Total-Customers": 776.0,
+   "Total-Production-MWh": 5.0,
+   "Production-from-Non-Renewable-Energy-MWh": 5.0,
+   "cities-served": [
+    "Chappell"
+   ],
+   "counties-served": [
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 776
+    }
+   ]
+  },
+  {
+   "company": "Arapahoe, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.arapahoenebraska.com/vnews/display.v/SEC/City%20Resources%7CUtilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 798530.475,
+   "Residential-Customers": 538.0,
+   "Commercial-Sales-($)": 631740.561,
+   "Commercial-Customers": 159.0,
+   "Industrial-Sales-($)": 53728.964,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 723.0,
+   "cities-served": [
+    "Arapahoe"
+   ],
+   "counties-served": [
+    {
+     "county": "Furnas County, NE",
+     "population": 4636
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 723
+    }
+   ]
+  },
+  {
+   "company": "Wisner Electric",
+   "company-type": "Municipal",
+   "website": "https://www.ci.wisner.ne.us/2146/Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 877085.133,
+   "Residential-Customers": 589.0,
+   "Commercial-Sales-($)": 693914.867,
+   "Commercial-Customers": 126.0,
+   "Total-Customers": 715.0,
+   "Total-Production-MWh": 161.0,
+   "Production-from-Non-Renewable-Energy-MWh": 161.0,
+   "cities-served": [
+    "Wisner"
+   ],
+   "counties-served": [
+    {
+     "county": "Cuming County, NE",
+     "population": 9013
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 715
+    }
+   ]
+  },
+  {
+   "company": "Curtis, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.curtisnebraska.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 557932.102,
+   "Residential-Customers": 527.0,
+   "Commercial-Sales-($)": 286570.578,
+   "Commercial-Customers": 167.0,
+   "Industrial-Sales-($)": 499497.32,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 710.0,
+   "Total-Production-MWh": 80.0,
+   "Production-from-Non-Renewable-Energy-MWh": 80.0,
+   "cities-served": [
+    "Curtis, NE",
+    "Maywood, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Frontier County, NE",
+     "population": 2519
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 710
+    }
+   ]
+  },
+  {
+   "company": "Wood River, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.woodriverne.com/relocation/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 765723.03,
+   "Residential-Customers": 614.0,
+   "Commercial-Sales-($)": 191430.757,
+   "Commercial-Customers": 76.0,
+   "Industrial-Sales-($)": 293846.213,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 696.0,
+   "cities-served": [
+    "Wood River"
+   ],
+   "counties-served": [
+    {
+     "county": "Hall County, NE",
+     "population": 62895
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 696
+    }
+   ]
+  },
+  {
+   "company": "Benkelman, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.benkelmanusa.com/newresidents",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 636898.424,
+   "Residential-Customers": 527.0,
+   "Commercial-Sales-($)": 581185.639,
+   "Commercial-Customers": 167.0,
+   "Industrial-Sales-($)": 227915.937,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 695.0,
+   "cities-served": [
+    "Benkelman"
+   ],
+   "counties-served": [
+    {
+     "county": "Dundy County, NE",
+     "population": 1654
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 695
+    }
+   ]
+  },
+  {
+   "company": "Burwell, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://burwellchamber.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 982885.906,
+   "Residential-Customers": 553.0,
+   "Commercial-Sales-($)": 714295.302,
+   "Commercial-Customers": 140.0,
+   "Industrial-Sales-($)": 42818.792,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 694.0,
+   "Total-Production-MWh": 83.0,
+   "Production-from-Non-Renewable-Energy-MWh": 83.0,
+   "cities-served": [
+    "Burwell"
+   ],
+   "counties-served": [
+    {
+     "county": "Garfield County, NE",
+     "population": 1813
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 694
+    }
+   ]
+  },
+  {
+   "company": "Wakefield, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://wakefieldne.com/local-government/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 500332.44,
+   "Residential-Customers": 575.0,
+   "Commercial-Sales-($)": 373396.247,
+   "Commercial-Customers": 110.0,
+   "Industrial-Sales-($)": 2582271.314,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 686.0,
+   "Total-Production-MWh": 28.0,
+   "Production-from-Non-Renewable-Energy-MWh": 28.0,
+   "cities-served": [
+    "Wakefield"
+   ],
+   "counties-served": [
+    {
+     "county": "Dixon County, NE",
+     "population": 5606
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 686
+    }
+   ]
+  },
+  {
+   "company": "Stromsburg, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.stromsburgnebraska.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 721166.927,
+   "Residential-Customers": 536.0,
+   "Commercial-Sales-($)": 696833.073,
+   "Commercial-Customers": 137.0,
+   "Total-Customers": 673.0,
+   "cities-served": [
+    "Stromsburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, NE",
+     "population": 5214
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 673
+    }
+   ]
+  },
+  {
+   "company": "Friend, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoffriend.org/vnews/display.v/SEC/City%20Utilities%7CElectricity%2C%20Gas%2C%20Refuse%2C%20Water%20%26%20Sewer",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 669614.694,
+   "Residential-Customers": 492.0,
+   "Commercial-Sales-($)": 524385.306,
+   "Commercial-Customers": 156.0,
+   "Total-Customers": 648.0,
+   "cities-served": [
+    "Friend"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 648
+    }
+   ]
+  },
+  {
+   "company": "Pender, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 742060.332,
+   "Residential-Customers": 469.0,
+   "Commercial-Sales-($)": 1290939.668,
+   "Commercial-Customers": 164.0,
+   "Total-Customers": 633.0,
+   "Total-Production-MWh": 48.0,
+   "Production-from-Non-Renewable-Energy-MWh": 48.0,
+   "cities-served": [
+    "Pender"
+   ],
+   "counties-served": [
+    {
+     "county": "Thurston County, NE",
+     "population": 6773
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 633
+    }
+   ]
+  },
+  {
+   "company": "Bayard, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbayard.net/vnews/display.v/ART/5f720ee9ac33f",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 753361.772,
+   "Residential-Customers": 530.0,
+   "Commercial-Sales-($)": 403550.451,
+   "Commercial-Customers": 94.0,
+   "Industrial-Sales-($)": 79087.777,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 629.0,
+   "cities-served": [
+    "Bayard"
+   ],
+   "counties-served": [
+    {
+     "county": "Morrill County, NE",
+     "population": 4555
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 629
+    }
+   ]
+  },
+  {
+   "company": "Laurel, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://laurelne.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 917498.045,
+   "Residential-Customers": 498.0,
+   "Commercial-Sales-($)": 352501.955,
+   "Commercial-Customers": 123.0,
+   "Total-Customers": 621.0,
+   "Total-Production-MWh": 9.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9.0,
+   "cities-served": [
+    "Laurel"
+   ],
+   "counties-served": [
+    {
+     "county": "Cedar County, NE",
+     "population": 8380
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 621
+    }
+   ]
+  },
+  {
+   "company": "Cambridge Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cambridgene.org/city_government/electric_water_sewer",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 651632.986,
+   "Residential-Customers": 475.0,
+   "Commercial-Sales-($)": 701604.841,
+   "Commercial-Customers": 138.0,
+   "Industrial-Sales-($)": 2197762.173,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 614.0,
+   "Total-Production-MWh": 100.0,
+   "Production-from-Non-Renewable-Energy-MWh": 100.0,
+   "cities-served": [
+    "Cambridge"
+   ],
+   "counties-served": [
+    {
+     "county": "Furnas County, NE",
+     "population": 4636
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 614
+    }
+   ]
+  },
+  {
+   "company": "Franklin, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.franklinnebraska.com/resources/city-government",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 584755.184,
+   "Residential-Customers": 437.0,
+   "Commercial-Sales-($)": 395965.886,
+   "Commercial-Customers": 147.0,
+   "Industrial-Sales-($)": 312878.93,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 591.0,
+   "Total-Production-MWh": 100.0,
+   "Production-from-Non-Renewable-Energy-MWh": 100.0,
+   "cities-served": [
+    "Franklin"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, NE",
+     "population": 2889
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 591
+    }
+   ]
+  },
+  {
+   "company": "Battle Creek, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.battlecreekne.com/services/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 666795.789,
+   "Residential-Customers": 489.0,
+   "Commercial-Sales-($)": 398049.925,
+   "Commercial-Customers": 94.0,
+   "Industrial-Sales-($)": 16354.286,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 585.0,
+   "cities-served": [
+    "Battle Creek"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 585
+    }
+   ]
+  },
+  {
+   "company": "Randolph, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://randolphne.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 514080.0,
+   "Residential-Customers": 443.0,
+   "Commercial-Sales-($)": 424523.077,
+   "Commercial-Customers": 117.0,
+   "Industrial-Sales-($)": 6396.923,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 562.0,
+   "cities-served": [
+    "Randolph"
+   ],
+   "counties-served": [
+    {
+     "county": "Cedar County, NE",
+     "population": 8380
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 562
+    }
+   ]
+  },
+  {
+   "company": "Lyons, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://lyonscity.nebraska.gov/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 444349.885,
+   "Residential-Customers": 434.0,
+   "Commercial-Sales-($)": 372650.115,
+   "Commercial-Customers": 127.0,
+   "Total-Customers": 561.0,
+   "cities-served": [
+    "Lyons"
+   ],
+   "counties-served": [
+    {
+     "county": "Burt County, NE",
+     "population": 6722
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 561
+    }
+   ]
+  },
+  {
+   "company": "Scribner, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.scribner-ne.gov/city-departments-scribner/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 605875.329,
+   "Residential-Customers": 433.0,
+   "Commercial-Sales-($)": 481124.671,
+   "Commercial-Customers": 111.0,
+   "Total-Customers": 544.0,
+   "cities-served": [
+    "Scribner"
+   ],
+   "counties-served": [
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 544
+    }
+   ]
+  },
+  {
+   "company": "Deshler, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.deshlerchamber.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 528498.832,
+   "Residential-Customers": 393.0,
+   "Commercial-Sales-($)": 336501.168,
+   "Commercial-Customers": 108.0,
+   "Total-Customers": 501.0,
+   "cities-served": [
+    "Deshler"
+   ],
+   "counties-served": [
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 501
+    }
+   ]
+  },
+  {
+   "company": "Arnold, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.arnoldne.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 498844.444,
+   "Residential-Customers": 337.0,
+   "Commercial-Sales-($)": 421155.556,
+   "Commercial-Customers": 148.0,
+   "Total-Customers": 485.0,
+   "cities-served": [
+    "Arnold"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 485
+    }
+   ]
+  },
+  {
+   "company": "Oxford, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.villageofoxfordne.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 550014.72,
+   "Residential-Customers": 376.0,
+   "Commercial-Sales-($)": 434985.28,
+   "Commercial-Customers": 97.0,
+   "Total-Customers": 473.0,
+   "Total-Production-MWh": 43.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43.0,
+   "cities-served": [
+    "Oxford"
+   ],
+   "counties-served": [
+    {
+     "county": "Furnas County, NE",
+     "population": 4636
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 473
+    }
+   ]
+  },
+  {
+   "company": "Sargent, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.sargentne.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 380023.229,
+   "Residential-Customers": 249.0,
+   "Commercial-Sales-($)": 419976.771,
+   "Commercial-Customers": 214.0,
+   "Total-Customers": 463.0,
+   "Total-Production-MWh": 43.0,
+   "Production-from-Non-Renewable-Energy-MWh": 43.0,
+   "cities-served": [
+    "Sargent"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 463
+    }
+   ]
+  },
+  {
+   "company": "Callaway, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.villageofcallaway.com/village-of-callaway",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 569500.543,
+   "Residential-Customers": 388.0,
+   "Commercial-Sales-($)": 389199.457,
+   "Commercial-Customers": 74.0,
+   "Total-Customers": 462.0,
+   "cities-served": [
+    "Callaway"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 462
+    }
+   ]
+  },
+  {
+   "company": "Hemingford, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ci.hemingford.ne.us/utilities/utility-information/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 451789.944,
+   "Residential-Customers": 314.0,
+   "Commercial-Sales-($)": 332084.916,
+   "Commercial-Customers": 139.0,
+   "Industrial-Sales-($)": 80125.14,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 459.0,
+   "cities-served": [
+    "Hemingford"
+   ],
+   "counties-served": [
+    {
+     "county": "Box Butte County, NE",
+     "population": 10842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 459
+    }
+   ]
+  },
+  {
+   "company": "Blue Hill, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.bluehillne.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 394046.897,
+   "Residential-Customers": 334.0,
+   "Commercial-Sales-($)": 239983.448,
+   "Commercial-Customers": 104.0,
+   "Industrial-Sales-($)": 81969.655,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 442.0,
+   "Total-Production-MWh": 8.0,
+   "Production-from-Non-Renewable-Energy-MWh": 8.0,
+   "cities-served": [
+    "Blue Hill"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, NE",
+     "population": 3395
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 442
+    }
+   ]
+  },
+  {
+   "company": "Wauneta, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.wauneta.com/index.php/village-of-wauneta-government/village-office",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 410390.072,
+   "Residential-Customers": 318.0,
+   "Commercial-Sales-($)": 339652.269,
+   "Commercial-Customers": 121.0,
+   "Industrial-Sales-($)": 8957.659,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 441.0,
+   "cities-served": [
+    "Wauneta"
+   ],
+   "counties-served": [
+    {
+     "county": "Chase County, NE",
+     "population": 3893
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 441
+    }
+   ]
+  },
+  {
+   "company": "Emerson, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 480864.407,
+   "Residential-Customers": 370.0,
+   "Commercial-Sales-($)": 98135.593,
+   "Commercial-Customers": 65.0,
+   "Total-Customers": 435.0,
+   "Total-Production-MWh": 39.0,
+   "Production-from-Non-Renewable-Energy-MWh": 39.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Facts",
+    "Energy Makeup",
+    "Coverage Map",
+    "State Coverage",
+    "Power Plants",
+    "Fuel Makeup",
+    "Reviews",
+    "FAQ"
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 435
+    }
+   ]
+  },
+  {
+   "company": "Trenton, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.villageoftrenton.net/business/business.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 388926.014,
+   "Residential-Customers": 309.0,
+   "Commercial-Sales-($)": 251073.986,
+   "Commercial-Customers": 110.0,
+   "Total-Customers": 419.0,
+   "cities-served": [
+    "Trenton"
+   ],
+   "counties-served": [
+    {
+     "county": "Hitchcock County, NE",
+     "population": 2616
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 419
+    }
+   ]
+  },
+  {
+   "company": "Stuart, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://web.facebook.com/stuartne",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 523990.93,
+   "Residential-Customers": 240.0,
+   "Commercial-Sales-($)": 324009.07,
+   "Commercial-Customers": 157.0,
+   "Total-Customers": 397.0,
+   "Total-Production-MWh": 27.0,
+   "Production-from-Non-Renewable-Energy-MWh": 27.0,
+   "cities-served": [
+    "Stuart"
+   ],
+   "counties-served": [
+    {
+     "county": "Holt County, NE",
+     "population": 10127
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 397
+    }
+   ]
+  },
+  {
+   "company": "Fairmont, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.fairmont-nebraska.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 394666.667,
+   "Residential-Customers": 295.0,
+   "Commercial-Sales-($)": 117333.333,
+   "Commercial-Customers": 91.0,
+   "Total-Customers": 386.0,
+   "cities-served": [
+    "Fairmont"
+   ],
+   "counties-served": [
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 386
+    }
+   ]
+  },
+  {
+   "company": "Mullen, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.mullennebraska.org/home",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 391386.555,
+   "Residential-Customers": 310.0,
+   "Commercial-Sales-($)": 183613.445,
+   "Commercial-Customers": 74.0,
+   "Total-Customers": 384.0,
+   "cities-served": [
+    "Mullen"
+   ],
+   "counties-served": [
+    {
+     "county": "Hooker County, NE",
+     "population": 711
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 384
+    }
+   ]
+  },
+  {
+   "company": "Spalding, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 409389.612,
+   "Residential-Customers": 247.0,
+   "Commercial-Sales-($)": 294510.388,
+   "Commercial-Customers": 122.0,
+   "Total-Customers": 369.0,
+   "Total-Production-MWh": 5.0,
+   "Production-from-Non-Renewable-Energy-MWh": 5.0,
+   "cities-served": [
+    "Spalding"
+   ],
+   "counties-served": [
+    {
+     "county": "Greeley County, NE",
+     "population": 2188
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 369
+    }
+   ]
+  },
+  {
+   "company": "Indianola, Nebraska Electric Utilty",
+   "company-type": "Municipal",
+   "website": "http://www.indianolane.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 330446.014,
+   "Residential-Customers": 318.0,
+   "Commercial-Sales-($)": 184953.986,
+   "Commercial-Customers": 39.0,
+   "Total-Customers": 357.0,
+   "cities-served": [
+    "Indianola"
+   ],
+   "counties-served": [
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 357
+    }
+   ]
+  },
+  {
+   "company": "Ansley, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ansleyne.com/government/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 358961.538,
+   "Residential-Customers": 260.0,
+   "Commercial-Sales-($)": 253038.462,
+   "Commercial-Customers": 82.0,
+   "Total-Customers": 342.0,
+   "Total-Production-MWh": 18.0,
+   "Production-from-Non-Renewable-Energy-MWh": 18.0,
+   "cities-served": [
+    "Ansley"
+   ],
+   "counties-served": [
+    {
+     "county": "Custer County, NE",
+     "population": 10545
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 342
+    }
+   ]
+  },
+  {
+   "company": "Dorchester Electric",
+   "company-type": "Municipal",
+   "website": "https://www.dorchesterne.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 376230.737,
+   "Residential-Customers": 234.0,
+   "Commercial-Sales-($)": 398869.263,
+   "Commercial-Customers": 101.0,
+   "Total-Customers": 335.0,
+   "cities-served": [
+    "Dorchester"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 335
+    }
+   ]
+  },
+  {
+   "company": "Nelson, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofnelson.com/our_community.asp",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 325846.154,
+   "Residential-Customers": 252.0,
+   "Commercial-Sales-($)": 178153.846,
+   "Commercial-Customers": 80.0,
+   "Total-Customers": 332.0,
+   "cities-served": [
+    "Nelson"
+   ],
+   "counties-served": [
+    {
+     "county": "Nuckolls County, NE",
+     "population": 4095
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 332
+    }
+   ]
+  },
+  {
+   "company": "Spencer, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 421996.346,
+   "Residential-Customers": 253.0,
+   "Commercial-Sales-($)": 234603.654,
+   "Commercial-Customers": 62.0,
+   "Total-Customers": 315.0,
+   "cities-served": [
+    "Spencer"
+   ],
+   "counties-served": [
+    {
+     "county": "Boyd County, NE",
+     "population": 1810
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 315
+    }
+   ]
+  },
+  {
+   "company": "De Witt, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://dewitt.ne.gov/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 429201.967,
+   "Residential-Customers": 277.0,
+   "Commercial-Sales-($)": 115510.82,
+   "Commercial-Customers": 35.0,
+   "Industrial-Sales-($)": 146087.213,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 313.0,
+   "cities-served": [
+    "De Witt"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, NE",
+     "population": 14292
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 313
+    }
+   ]
+  },
+  {
+   "company": "Greenwood Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.greenwoodnebraska.com/index.php/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 324722.814,
+   "Residential-Customers": 276.0,
+   "Commercial-Sales-($)": 57950.533,
+   "Commercial-Customers": 26.0,
+   "Industrial-Sales-($)": 85926.652,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 311.0,
+   "cities-served": [
+    "Greenwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, NE",
+     "population": 26598
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 311
+    }
+   ]
+  },
+  {
+   "company": "Beaver City, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/City-of-Beaver-City-Nebraska-341066336290767/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 711881.919,
+   "Residential-Customers": 277.0,
+   "Commercial-Sales-($)": 68118.081,
+   "Commercial-Customers": 26.0,
+   "Total-Customers": 303.0,
+   "cities-served": [
+    "Beaver City"
+   ],
+   "counties-served": [
+    {
+     "county": "Furnas County, NE",
+     "population": 4636
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 303
+    }
+   ]
+  },
+  {
+   "company": "Hampton Municipal Power",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Village-of-Hampton-926190457479656/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 276443.493,
+   "Residential-Customers": 213.0,
+   "Commercial-Sales-($)": 274556.507,
+   "Commercial-Customers": 62.0,
+   "Total-Customers": 275.0,
+   "cities-served": [
+    "Hampton"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 275
+    }
+   ]
+  },
+  {
+   "company": "Stratton, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.strattonnebraska.com/vnews/display.v/SEC/Utilities%7CBilling%20Information",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 262442.431,
+   "Residential-Customers": 198.0,
+   "Commercial-Sales-($)": 140561.702,
+   "Commercial-Customers": 65.0,
+   "Industrial-Sales-($)": 9895.867,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 268.0,
+   "cities-served": [
+    "Stratton"
+   ],
+   "counties-served": [
+    {
+     "county": "Hitchcock County, NE",
+     "population": 2616
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 268
+    }
+   ]
+  },
+  {
+   "company": "Winside, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 205536.723,
+   "Residential-Customers": 199.0,
+   "Commercial-Sales-($)": 134463.277,
+   "Commercial-Customers": 54.0,
+   "Total-Customers": 253.0,
+   "cities-served": [
+    "Winside"
+   ],
+   "counties-served": [
+    {
+     "county": "Wayne County, NE",
+     "population": 9697
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 253
+    }
+   ]
+  },
+  {
+   "company": "Walthill, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://walthill.nebraska.gov/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 294632.479,
+   "Residential-Customers": 196.0,
+   "Commercial-Sales-($)": 143514.53,
+   "Commercial-Customers": 41.0,
+   "Industrial-Sales-($)": 117852.991,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 245.0,
+   "cities-served": [
+    "Walthill"
+   ],
+   "counties-served": [
+    {
+     "county": "Thurston County, NE",
+     "population": 6773
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 245
+    }
+   ]
+  },
+  {
+   "company": "Lyman, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 229698.957,
+   "Residential-Customers": 206.0,
+   "Commercial-Sales-($)": 83618.48,
+   "Commercial-Customers": 31.0,
+   "Industrial-Sales-($)": 362682.563,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 245.0,
+   "cities-served": [
+    "Lyman"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 245
+    }
+   ]
+  },
+  {
+   "company": "Hildreth, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.villageofhildreth.com/cms/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 155400.0,
+   "Residential-Customers": 245.0,
+   "Total-Customers": 245.0,
+   "cities-served": [
+    "Hildreth"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, NE",
+     "population": 2889
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 245
+    }
+   ]
+  },
+  {
+   "company": "Shickley, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.biglittletown.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 246170.063,
+   "Residential-Customers": 182.0,
+   "Commercial-Sales-($)": 156529.937,
+   "Commercial-Customers": 62.0,
+   "Total-Customers": 244.0,
+   "cities-served": [
+    "Shickley"
+   ],
+   "counties-served": [
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 244
+    }
+   ]
+  },
+  {
+   "company": "Lodgepole, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.lodgepolene.com/government/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 221544.337,
+   "Residential-Customers": 185.0,
+   "Commercial-Sales-($)": 68255.663,
+   "Commercial-Customers": 53.0,
+   "Total-Customers": 238.0,
+   "cities-served": [
+    "Lodgepole"
+   ],
+   "counties-served": [
+    {
+     "county": "Cheyenne County, NE",
+     "population": 9468
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 238
+    }
+   ]
+  },
+  {
+   "company": "Campbell, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.campbellne.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 189280.0,
+   "Residential-Customers": 170.0,
+   "Commercial-Sales-($)": 69680.0,
+   "Commercial-Customers": 66.0,
+   "Industrial-Sales-($)": 1040.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 237.0,
+   "cities-served": [
+    "Campbell"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, NE",
+     "population": 2889
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 237
+    }
+   ]
+  },
+  {
+   "company": "Giltner, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://giltnerne.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 329898.844,
+   "Residential-Customers": 192.0,
+   "Commercial-Sales-($)": 226471.098,
+   "Commercial-Customers": 35.0,
+   "Industrial-Sales-($)": 60630.058,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 234.0,
+   "cities-served": [
+    "Giltner"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 234
+    }
+   ]
+  },
+  {
+   "company": "Polk, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://polkcounty.nebraska.gov/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 254000.0,
+   "Residential-Customers": 180.0,
+   "Commercial-Sales-($)": 129000.0,
+   "Commercial-Customers": 52.0,
+   "Industrial-Sales-($)": 94000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 234.0,
+   "cities-served": [
+    "Polk"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, NE",
+     "population": 5214
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 234
+    }
+   ]
+  },
+  {
+   "company": "Davenport, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ci.davenport.ne.us/comm.asp",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 215400.0,
+   "Residential-Customers": 170.0,
+   "Commercial-Sales-($)": 143600.0,
+   "Commercial-Customers": 58.0,
+   "Total-Customers": 228.0,
+   "cities-served": [
+    "Davenport"
+   ],
+   "counties-served": [
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 228
+    }
+   ]
+  },
+  {
+   "company": "Brainard, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.brainardnebraska.com/our-community/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 201906.745,
+   "Residential-Customers": 188.0,
+   "Commercial-Sales-($)": 68593.255,
+   "Commercial-Customers": 36.0,
+   "Total-Customers": 224.0,
+   "cities-served": [
+    "Brainard"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, NE",
+     "population": 8369
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 224
+    }
+   ]
+  },
+  {
+   "company": "Snyder, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 205373.234,
+   "Residential-Customers": 153.0,
+   "Commercial-Sales-($)": 91342.754,
+   "Commercial-Customers": 48.0,
+   "Industrial-Sales-($)": 415284.012,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 210.0,
+   "cities-served": [
+    "Snyder"
+   ],
+   "counties-served": [
+    {
+     "county": "Dodge County, NE",
+     "population": 37167
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 210
+    }
+   ]
+  },
+  {
+   "company": "Bradshaw, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 92160.718,
+   "Residential-Customers": 171.0,
+   "Commercial-Sales-($)": 53639.282,
+   "Commercial-Customers": 39.0,
+   "Total-Customers": 210.0,
+   "cities-served": [
+    "Bradshaw"
+   ],
+   "counties-served": [
+    {
+     "county": "York County, NE",
+     "population": 14125
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 210
+    }
+   ]
+  },
+  {
+   "company": "Wilcox, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 309148.957,
+   "Residential-Customers": 174.0,
+   "Commercial-Sales-($)": 131151.043,
+   "Commercial-Customers": 35.0,
+   "Total-Customers": 209.0,
+   "cities-served": [
+    "Wilcox"
+   ],
+   "counties-served": [
+    {
+     "county": "Kearney County, NE",
+     "population": 6688
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 209
+    }
+   ]
+  },
+  {
+   "company": "Bartley Municipal Power",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 206903.64,
+   "Residential-Customers": 195.0,
+   "Commercial-Sales-($)": 4232.12,
+   "Commercial-Customers": 6.0,
+   "Industrial-Sales-($)": 447664.24,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 207.0,
+   "cities-served": [
+    "Bartley"
+   ],
+   "counties-served": [
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 207
+    }
+   ]
+  },
+  {
+   "company": "Prague, Nebraska Electric Utilit",
+   "company-type": "Municipal",
+   "website": "http://www.villageofprague.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 244504.301,
+   "Residential-Customers": 169.0,
+   "Commercial-Sales-($)": 58495.699,
+   "Commercial-Customers": 26.0,
+   "Total-Customers": 195.0,
+   "cities-served": [
+    "Prague"
+   ],
+   "counties-served": [
+    {
+     "county": "Saunders County, NE",
+     "population": 22278
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 195
+    }
+   ]
+  },
+  {
+   "company": "Chester, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.chesternebraska.com/about-chester/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 165391.459,
+   "Residential-Customers": 125.0,
+   "Commercial-Sales-($)": 109608.541,
+   "Commercial-Customers": 61.0,
+   "Total-Customers": 186.0,
+   "cities-served": [
+    "Chester"
+   ],
+   "counties-served": [
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 186
+    }
+   ]
+  },
+  {
+   "company": "Village of Endicott, Nebraska (Utility Company)",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 97440.0,
+   "Residential-Customers": 79.0,
+   "Commercial-Sales-($)": 14560.0,
+   "Commercial-Customers": 6.0,
+   "Total-Customers": 85.0,
+   "cities-served": [
+    "Endicott"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, NE",
+     "population": 7240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 85
+    }
+   ]
+  },
+  {
+   "company": "Hubbell, Nebraska Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23982.143,
+   "Residential-Customers": 34.0,
+   "Commercial-Sales-($)": 15517.857,
+   "Commercial-Customers": 11.0,
+   "Industrial-Sales-($)": 39500.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 50.0,
+   "cities-served": [
+    "Hubbell"
+   ],
+   "counties-served": [
+    {
+     "county": "Thayer County, NE",
+     "population": 5034
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 50
+    }
+   ]
+  },
+  {
+   "company": "Village of Reynolds, Nebraska (Utility Company)",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 40245.872,
+   "Residential-Customers": 37.0,
+   "Commercial-Sales-($)": 5488.073,
+   "Commercial-Customers": 4.0,
+   "Industrial-Sales-($)": 53966.055,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 42.0,
+   "cities-served": [
+    "Reynolds"
+   ],
+   "counties-served": [
+    {
+     "county": "Jefferson County, NE",
+     "population": 7240
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 42
+    }
+   ]
+  }
+ ]
+}

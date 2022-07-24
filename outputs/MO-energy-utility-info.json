@@ -1,0 +1,8424 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Evergy",
+   "company-type": "Investor Owned",
+   "website": "https://www.evergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1964720159.0,
+   "Residential-Customers": 1433156.0,
+   "Commercial-Sales-($)": 1761212787.0,
+   "Commercial-Customers": 200149.0,
+   "Industrial-Sales-($)": 609662061.0,
+   "Industrial-Customers": 6396.0,
+   "Total-Customers": 1639701.0,
+   "Total-Production-MWh": 36043192.0,
+   "Production-from-Renewable-Energy-MWh": 1581647.0,
+   "Production-from-Non-Renewable-Energy-MWh": 34461545.0,
+   "cities-served": [
+    "Abilene, KS",
+    "Admire, KS",
+    "Adrian, MO",
+    "Agency, MO",
+    "Allen, KS",
+    "Allendale, MO",
+    "Alma, KS",
+    "Alma, MO",
+    "Alta Vista, KS",
+    "Altamont, KS",
+    "Altoona, KS",
+    "Amazonia, MO",
+    "Americus, KS",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Andale, KS",
+    "Andover, KS",
+    "Appleton City, MO",
+    "Arcadia, KS",
+    "Archie, MO",
+    "Arkansas City, KS",
+    "Arkoe, MO",
+    "Arma, KS",
+    "Armstrong, MO",
+    "Arrow Rock, MO",
+    "Assaria, KS",
+    "Atchison, KS",
+    "Atlanta, KS",
+    "Auburn, KS",
+    "Augusta, KS",
+    "Aullville, MO",
+    "Avondale, MO",
+    "Axtell, KS",
+    "Baldwin City, KS",
+    "Baldwin Park, MO",
+    "Barnard, MO",
+    "Barnard, KS",
+    "Barnes, KS",
+    "Bartlett, KS",
+    "Basehor, KS",
+    "Bassett, KS",
+    "Bates City, MO",
+    "Beattie, KS",
+    "Bel Aire, KS",
+    "Belle Plaine, KS",
+    "Belton, MO",
+    "Belvue, KS",
+    "Benedict, KS",
+    "Bennington, KS",
+    "Bentley, KS",
+    "Benton, KS",
+    "Bern, KS",
+    "Bethany, MO",
+    "Beverly, KS",
+    "Big Lake, MO",
+    "Bigelow, MO",
+    "Birmingham, MO",
+    "Blackburn, MO",
+    "Blairstown, MO",
+    "Blue Mound, KS",
+    "Blue Rapids, KS",
+    "Blue Springs, MO",
+    "Blythedale, MO",
+    "Bogard, MO",
+    "Bolckow, MO",
+    "Bonner Springs, KS",
+    "Bosworth, MO",
+    "Brimson, MO",
+    "Bronaugh, MO",
+    "Bronson, KS",
+    "Brookville, KS",
+    "Brownington, MO",
+    "Brunswick, MO",
+    "Buckner, MO",
+    "Buffalo, KS",
+    "Buhler, KS",
+    "Burden, KS",
+    "Burgess, MO",
+    "Burlingame, KS",
+    "Burlington, KS",
+    "Burlington Junction, MO",
+    "Burns, KS",
+    "Burrton, KS",
+    "Bushong, KS",
+    "Butler, MO",
+    "Cainsville, MO",
+    "Calhoun, MO",
+    "Cambridge, KS",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Caney, KS",
+    "Canton, KS",
+    "Carbondale, KS",
+    "Carlton, KS",
+    "Carrollton, MO",
+    "Cassoday, KS",
+    "Cedar Point, KS",
+    "Centerview, MO",
+    "Centralia, KS",
+    "Chanute, KS",
+    "Chapman, KS",
+    "Cheney, KS",
+    "Cherokee, KS",
+    "Cherryvale, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Circleville, KS",
+    "Clarksdale, MO",
+    "Clay Center, KS",
+    "Claycomo, MO",
+    "Clearmont, MO",
+    "Clearwater, KS",
+    "Cleveland, MO",
+    "Clifton, KS",
+    "Climax, KS",
+    "Clinton, MO",
+    "Clyde, MO",
+    "Coffeyville, KS",
+    "Cole Camp, MO",
+    "Colony, KS",
+    "Colwich, KS",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Conway Springs, KS",
+    "Corder, MO",
+    "Corning, KS",
+    "Corning, MO",
+    "Cosby, MO",
+    "Cottonwood Falls, KS",
+    "Council Grove, KS",
+    "Country Club, MO",
+    "Coyville, KS",
+    "Craig, MO",
+    "Creighton, MO",
+    "Culver, KS",
+    "Dalton, MO",
+    "De Kalb, MO",
+    "De Soto, KS",
+    "De Witt, MO",
+    "Dearborn, MO",
+    "Dearing, KS",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delia, KS",
+    "Delphos, KS",
+    "Denison, KS",
+    "Denton, KS",
+    "Denver, MO",
+    "Derby, KS",
+    "Douglass, KS",
+    "Dover, MO",
+    "Drexel, MO",
+    "Dunlap, KS",
+    "Durham, KS",
+    "Dwight, KS",
+    "Eagleville, MO",
+    "Earlton, KS",
+    "East Lynne, MO",
+    "Eastborough, KS",
+    "Easton, MO",
+    "Easton, KS",
+    "Edgerton, KS",
+    "Edgerton, MO",
+    "Edna, KS",
+    "Edwardsville, KS",
+    "Effingham, KS",
+    "El Dorado, KS",
+    "El Dorado Springs, MO",
+    "Elbing, KS",
+    "Elk City, KS",
+    "Elk Falls, KS",
+    "Elmdale, KS",
+    "Elmo, MO",
+    "Elsmore, KS",
+    "Elwood, KS",
+    "Emma, MO",
+    "Emmett, KS",
+    "Emporia, KS",
+    "Enterprise, KS",
+    "Erie, KS",
+    "Eskridge, KS",
+    "Eudora, KS",
+    "Eureka, KS",
+    "Everest, KS",
+    "Fairfax, MO",
+    "Fairview, KS",
+    "Fairway, KS",
+    "Fall River, KS",
+    "Farley, MO",
+    "Ferrelview, MO",
+    "Fillmore, MO",
+    "Fleming, MO",
+    "Florence, KS",
+    "Fontana, KS",
+    "Forest City, MO",
+    "Fort Scott, KS",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Frankfort, KS",
+    "Fredonia, KS",
+    "Freeman, MO",
+    "Frontenac, KS",
+    "Fulton, KS",
+    "Galesburg, KS",
+    "Gallatin, MO",
+    "Galt, MO",
+    "Galva, KS",
+    "Garden City, MO",
+    "Garden Plain, KS",
+    "Gardner, KS",
+    "Garnett, KS",
+    "Gas, KS",
+    "Gentry, MO",
+    "Geuda Springs, KS",
+    "Gilliam, MO",
+    "Gilman City, MO",
+    "Girard, KS",
+    "Gladstone, MO",
+    "Glasgow, MO",
+    "Glenaire, MO",
+    "Goddard, KS",
+    "Goessel, KS",
+    "Goff, KS",
+    "Gower, MO",
+    "Graham, MO",
+    "Grain Valley, MO",
+    "Grand Pass, MO",
+    "Grandview, MO",
+    "Grandview Plaza, KS",
+    "Grant City, MO",
+    "Greeley, KS",
+    "Green Ridge, MO",
+    "Greenwood, MO",
+    "Grenola, KS",
+    "Gridley, KS",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Gypsum, KS",
+    "Halstead, KS",
+    "Hamilton, KS",
+    "Hamlin, KS",
+    "Hanover, KS",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Hartford, KS",
+    "Harveyville, KS",
+    "Harwood, MO",
+    "Havana, KS",
+    "Haven, KS",
+    "Havensville, KS",
+    "Haysville, KS",
+    "Henrietta, MO",
+    "Hepler, KS",
+    "Herington, KS",
+    "Hesston, KS",
+    "Hiawatha, KS",
+    "Higginsville, MO",
+    "Highland, KS",
+    "Hillsboro, KS",
+    "Holden, MO",
+    "Holton, KS",
+    "Hope, KS",
+    "Hopkins, MO",
+    "Horton, KS",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howard, KS",
+    "Hoyt, KS",
+    "Hughesville, MO",
+    "Humboldt, KS",
+    "Hume, MO",
+    "Huron, KS",
+    "Hutchinson, KS",
+    "Iatan, MO",
+    "Independence, MO",
+    "Independence, KS",
+    "Inman, KS",
+    "Iola, KS",
+    "Ionia, MO",
+    "Irena, MO",
+    "Jamesport, MO",
+    "Jerico Springs, MO",
+    "Junction City, KS",
+    "Kansas City, MO",
+    "Kansas City, KS",
+    "Kearney, MO",
+    "Kechi, KS",
+    "Keytesville, MO",
+    "Kincaid, KS",
+    "King City, MO",
+    "Kingsville, MO",
+    "Knob Noster, MO",
+    "La Cygne, KS",
+    "La Due, MO",
+    "La Harpe, KS",
+    "La Monte, MO",
+    "Labette, KS",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Lotawana, MO",
+    "Lake Quivira, KS",
+    "Lake Tapawingo, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lancaster, KS",
+    "Lane, KS",
+    "Lansing, KS",
+    "Laredo, MO",
+    "Latham, KS",
+    "Latimer, KS",
+    "Lawrence, KS",
+    "LeRoy, KS",
+    "Leavenworth, KS",
+    "Leawood, KS",
+    "Lebo, KS",
+    "Lecompton, KS",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Lehigh, KS",
+    "Lenexa, KS",
+    "Leon, KS",
+    "Leona, KS",
+    "Leonardville, KS",
+    "Levasy, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Liberty, MO",
+    "Liberty, KS",
+    "Lincoln, MO",
+    "Lincolnville, KS",
+    "Lindsborg, KS",
+    "Linn Valley, KS",
+    "Linwood, KS",
+    "Loch Lloyd, MO",
+    "Lock Springs, MO",
+    "Lone Elm, KS",
+    "Lone Jack, MO",
+    "Longford, KS",
+    "Longton, KS",
+    "Lost Springs, KS",
+    "Louisburg, KS",
+    "Louisville, KS",
+    "Lowry City, MO",
+    "Lyndon, KS",
+    "Madison, KS",
+    "Maitland, MO",
+    "Maize, KS",
+    "Malta Bend, MO",
+    "Manchester, KS",
+    "Manhattan, KS",
+    "Maple Hill, KS",
+    "Mapleton, KS",
+    "Marion, KS",
+    "Marquette, KS",
+    "Marshall, MO",
+    "Marysville, KS",
+    "Maryville, MO",
+    "Matfield Green, KS",
+    "Mayetta, KS",
+    "Mayview, MO",
+    "McCune, KS",
+    "McFarland, KS",
+    "McLouth, KS",
+    "McPherson, KS",
+    "Melvern, KS",
+    "Mendon, MO",
+    "Meriden, KS",
+    "Merriam, KS",
+    "Merwin, MO",
+    "Metz, MO",
+    "Miami, MO",
+    "Milan, KS",
+    "Mildred, KS",
+    "Milford, KS",
+    "Milford, MO",
+    "Milo, MO",
+    "Miltonvale, KS",
+    "Minneapolis, KS",
+    "Mission, KS",
+    "Mission Hills, KS",
+    "Mission Woods, KS",
+    "Missouri City, MO",
+    "Moline, KS",
+    "Montrose, MO",
+    "Moran, KS",
+    "Morganville, KS",
+    "Morrill, KS",
+    "Mound City, MO",
+    "Mound City, KS",
+    "Mound Valley, KS",
+    "Moundridge, KS",
+    "Moundville, MO",
+    "Mount Hope, KS",
+    "Mount Leonard, MO",
+    "Mount Moriah, MO",
+    "Mulberry, KS",
+    "Mulvane, KS",
+    "Muscotah, KS",
+    "Napoleon, MO",
+    "Neodesha, KS",
+    "Neosho Falls, KS",
+    "Neosho Rapids, KS",
+    "Netawaka, KS",
+    "Nevada, MO",
+    "New Albany, KS",
+    "New Cambria, KS",
+    "New Hampton, MO",
+    "New Strawn, KS",
+    "Newton, KS",
+    "Nickerson, KS",
+    "Norborne, MO",
+    "North Kansas City, MO",
+    "North Newton, KS",
+    "Northmoor, MO",
+    "Nortonville, KS",
+    "Oak Grove, MO",
+    "Oak Hill, KS",
+    "Oaks, MO",
+    "Oakview, MO",
+    "Oakwood, MO",
+    "Oakwood Park, MO",
+    "Odessa, MO",
+    "Ogden, KS",
+    "Oketo, KS",
+    "Olathe, KS",
+    "Olivet, KS",
+    "Olpe, KS",
+    "Olsburg, KS",
+    "Onaga, KS",
+    "Oneida, KS",
+    "Oregon, MO",
+    "Orrick, MO",
+    "Osage City, KS",
+    "Osawatomie, KS",
+    "Osceola, MO",
+    "Oskaloosa, KS",
+    "Oswego, KS",
+    "Ottawa, KS",
+    "Overbrook, KS",
+    "Overland Park, KS",
+    "Oxford, KS",
+    "Ozawkie, KS",
+    "Paola, KS",
+    "Park City, KS",
+    "Parker, KS",
+    "Parkerfield, KS",
+    "Parkerville, KS",
+    "Parkville, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Partridge, KS",
+    "Passaic, MO",
+    "Paxico, KS",
+    "Peabody, KS",
+    "Peculiar, MO",
+    "Perry, KS",
+    "Pickering, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hill, MO",
+    "Pleasant Valley, MO",
+    "Pleasanton, KS",
+    "Pomona, KS",
+    "Potwin, KS",
+    "Powhattan, KS",
+    "Prairie Village, KS",
+    "Prescott, KS",
+    "Pretty Prairie, KS",
+    "Princeton, MO",
+    "Princeton, KS",
+    "Quenemo, KS",
+    "Quitman, MO",
+    "Ramona, KS",
+    "Randolph, KS",
+    "Randolph, MO",
+    "Rantoul, KS",
+    "Ravenwood, MO",
+    "Raymore, MO",
+    "Raytown, MO",
+    "Rea, MO",
+    "Reading, KS",
+    "Redfield, KS",
+    "Reserve, KS",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Richmond, KS",
+    "Ridgely, MO",
+    "Ridgeway, MO",
+    "Riley, KS",
+    "River Bend, MO",
+    "Riverside, MO",
+    "Riverview Estates, MO",
+    "Robinson, KS",
+    "Rock Port, MO",
+    "Rockville, MO",
+    "Roeland Park, KS",
+    "Roscoe, MO",
+    "Rose Hill, KS",
+    "Rosendale, MO",
+    "Rossville, KS",
+    "Rushville, MO",
+    "Sabetha, KS",
+    "Salina, KS",
+    "Salisbury, MO",
+    "Savannah, MO",
+    "Savonburg, KS",
+    "Schell City, MO",
+    "Scranton, KS",
+    "Sedalia, MO",
+    "Sedgwick, KS",
+    "Seneca, KS",
+    "Severance, KS",
+    "Severy, KS",
+    "Shawnee, KS",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sibley, MO",
+    "Silver Lake, KS",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithville, MO",
+    "Smolan, KS",
+    "Soldier, KS",
+    "Solomon, KS",
+    "South Hutchinson, KS",
+    "Spickard, MO",
+    "Spring Hill, KS",
+    "St. George, KS",
+    "St. Joseph, MO",
+    "St. Marys, KS",
+    "St. Paul, KS",
+    "Stark, KS",
+    "Stewartsville, MO",
+    "Stotesbury, MO",
+    "Strasburg, MO",
+    "Strong City, KS",
+    "Sugar Creek, MO",
+    "Summerfield, KS",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tampa, KS",
+    "Tarkio, MO",
+    "Tescott, KS",
+    "Thayer, KS",
+    "The Highlands, KS",
+    "Tightwad, MO",
+    "Tina, MO",
+    "Tindall, MO",
+    "Tonganoxie, KS",
+    "Topeka, KS",
+    "Toronto, KS",
+    "Towanda, KS",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Trimble, MO",
+    "Triplett, MO",
+    "Troy, KS",
+    "Tyro, KS",
+    "Udall, KS",
+    "Union Star, MO",
+    "Uniontown, KS",
+    "Unity Village, MO",
+    "Urich, MO",
+    "Valley Center, KS",
+    "Valley Falls, KS",
+    "Vermillion, KS",
+    "Vining, KS",
+    "Viola, KS",
+    "Virgil, KS",
+    "Wakefield, KS",
+    "Walker, MO",
+    "Walnut, KS",
+    "Walton, KS",
+    "Wamego, KS",
+    "Warrensburg, MO",
+    "Warsaw, MO",
+    "Waterville, KS",
+    "Wathena, KS",
+    "Watson, MO",
+    "Waverly, MO",
+    "Waverly, KS",
+    "Weatherby Lake, MO",
+    "Weir, KS",
+    "Wellington, KS",
+    "Wellington, MO",
+    "Wellsville, KS",
+    "West Line, MO",
+    "Westboro, MO",
+    "Westmoreland, KS",
+    "Weston, MO",
+    "Westphalia, KS",
+    "Westwood, KS",
+    "Westwood Hills, KS",
+    "Wetmore, KS",
+    "Wheaton, KS",
+    "White City, KS",
+    "White Cloud, KS",
+    "Whitewater, KS",
+    "Whiting, KS",
+    "Wichita, KS",
+    "Willard, KS",
+    "Williamsburg, KS",
+    "Willis, KS",
+    "Willowbrook, KS",
+    "Wilsey, KS",
+    "Winchester, KS",
+    "Windom, KS",
+    "Windsor, MO",
+    "Winfield, KS",
+    "Woodbine, KS",
+    "Worth, MO",
+    "Yates Center, KS"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Johnson County, KS",
+     "population": 609863
+    },
+    {
+     "county": "Sedgwick County, KS",
+     "population": 523824
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Shawnee County, KS",
+     "population": 178909
+    },
+    {
+     "county": "Wyandotte County, KS",
+     "population": 169245
+    },
+    {
+     "county": "Douglas County, KS",
+     "population": 118785
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Leavenworth County, KS",
+     "population": 81881
+    },
+    {
+     "county": "Riley County, KS",
+     "population": 71959
+    },
+    {
+     "county": "Butler County, KS",
+     "population": 67380
+    },
+    {
+     "county": "Reno County, KS",
+     "population": 61898
+    },
+    {
+     "county": "Saline County, KS",
+     "population": 54303
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Geary County, KS",
+     "population": 36739
+    },
+    {
+     "county": "Cowley County, KS",
+     "population": 34549
+    },
+    {
+     "county": "Miami County, KS",
+     "population": 34191
+    },
+    {
+     "county": "Harvey County, KS",
+     "population": 34024
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Lyon County, KS",
+     "population": 32179
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "McPherson County, KS",
+     "population": 30223
+    },
+    {
+     "county": "Franklin County, KS",
+     "population": 25996
+    },
+    {
+     "county": "Pottawatomie County, KS",
+     "population": 25348
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Sumner County, KS",
+     "population": 22382
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Dickinson County, KS",
+     "population": 18402
+    },
+    {
+     "county": "Jefferson County, KS",
+     "population": 18368
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Atchison County, KS",
+     "population": 16348
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Osage County, KS",
+     "population": 15766
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Bourbon County, KS",
+     "population": 14360
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Jackson County, KS",
+     "population": 13232
+    },
+    {
+     "county": "Allen County, KS",
+     "population": 12526
+    },
+    {
+     "county": "Marion County, KS",
+     "population": 11823
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "DeKalb County, MO",
+     "population": 11029
+    },
+    {
+     "county": "Nemaha County, KS",
+     "population": 10273
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Marshall County, KS",
+     "population": 10038
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Linn County, KS",
+     "population": 9591
+    },
+    {
+     "county": "Brown County, KS",
+     "population": 9508
+    },
+    {
+     "county": "Rice County, KS",
+     "population": 9427
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Cloud County, KS",
+     "population": 9032
+    },
+    {
+     "county": "Wilson County, KS",
+     "population": 8624
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Coffey County, KS",
+     "population": 8360
+    },
+    {
+     "county": "Harrison County, MO",
+     "population": 8157
+    },
+    {
+     "county": "Clay County, KS",
+     "population": 8117
+    },
+    {
+     "county": "Anderson County, KS",
+     "population": 7836
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    },
+    {
+     "county": "Kingman County, KS",
+     "population": 7470
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    },
+    {
+     "county": "Wabaunsee County, KS",
+     "population": 6877
+    },
+    {
+     "county": "Ellsworth County, KS",
+     "population": 6376
+    },
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    },
+    {
+     "county": "Greenwood County, KS",
+     "population": 6016
+    },
+    {
+     "county": "Ottawa County, KS",
+     "population": 5735
+    },
+    {
+     "county": "Washington County, KS",
+     "population": 5530
+    },
+    {
+     "county": "Morris County, KS",
+     "population": 5386
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Mercer County, MO",
+     "population": 3538
+    },
+    {
+     "county": "Chautauqua County, KS",
+     "population": 3379
+    },
+    {
+     "county": "Woodson County, KS",
+     "population": 3115
+    },
+    {
+     "county": "Lincoln County, KS",
+     "population": 2939
+    },
+    {
+     "county": "Chase County, KS",
+     "population": 2572
+    },
+    {
+     "county": "Elk County, KS",
+     "population": 2483
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Kansas",
+     "customers": 1000766
+    },
+    {
+     "state": "Missouri",
+     "customers": 638935
+    }
+   ]
+  },
+  {
+   "company": "Ameren Missouri",
+   "company-type": "Investor Owned",
+   "website": "https://www.ameren.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1465405335.0,
+   "Residential-Customers": 1078930.0,
+   "Commercial-Sales-($)": 1165026463.0,
+   "Commercial-Customers": 163571.0,
+   "Industrial-Sales-($)": 284864463.0,
+   "Industrial-Customers": 3662.0,
+   "Total-Customers": 1246163.0,
+   "Total-Production-MWh": 39399123.0,
+   "Production-from-Renewable-Energy-MWh": 3500112.0,
+   "Production-from-Non-Renewable-Energy-MWh": 35899011.0,
+   "cities-served": [
+    "Advance, MO",
+    "Alexandria, MO",
+    "Allenville, MO",
+    "Amity, MO",
+    "Annada, MO",
+    "Anniston, MO",
+    "Arcadia, MO",
+    "Arnold, MO",
+    "Ashburn, MO",
+    "Ashland, MO",
+    "Atlanta, MO",
+    "Augusta, MO",
+    "Auxvasse, MO",
+    "Bagnell, MO",
+    "Baker, MO",
+    "Ballwin, MO",
+    "Baring, MO",
+    "Barnett, MO",
+    "Bel-Nor, MO",
+    "Bel-Ridge, MO",
+    "Bell City, MO",
+    "Bella Villa, MO",
+    "Belle, MO",
+    "Bellerive Acres, MO",
+    "Bellflower, MO",
+    "Benton, MO",
+    "Benton City, MO",
+    "Berger, MO",
+    "Berkeley, MO",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Bethel, MO",
+    "Beverly Hills, MO",
+    "Bevier, MO",
+    "Bismarck, MO",
+    "Black Jack, MO",
+    "Bland, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Boonville, MO",
+    "Bowling Green, MO",
+    "Bragg City, MO",
+    "Brashear, MO",
+    "Breckenridge Hills, MO",
+    "Brentwood, MO",
+    "Bridgeton, MO",
+    "Bucklin, MO",
+    "Byrnes Mill, MO",
+    "Cairo, MO",
+    "Caledonia, MO",
+    "California, MO",
+    "Callao, MO",
+    "Calverton Park, MO",
+    "Camden Point, MO",
+    "Cameron, MO",
+    "Canalou, MO",
+    "Canton, MO",
+    "Cape Girardeau, MO",
+    "Caruthersville, MO",
+    "Catron, MO",
+    "Cave, MO",
+    "Cedar Hill Lakes, MO",
+    "Center, MO",
+    "Centertown, MO",
+    "Centralia, MO",
+    "Chaffee, MO",
+    "Chain of Rocks, MO",
+    "Chamois, MO",
+    "Champ, MO",
+    "Charlack, MO",
+    "Charleston, MO",
+    "Chesterfield, MO",
+    "Clarence, MO",
+    "Clark, MO",
+    "Clarksburg, MO",
+    "Clarksdale, MO",
+    "Clarkson Valley, MO",
+    "Clarksville, MO",
+    "Clarkton, MO",
+    "Clayton, MO",
+    "Columbia, MO",
+    "Commerce, MO",
+    "Cool Valley, MO",
+    "Cooter, MO",
+    "Cosby, MO",
+    "Cottleville, MO",
+    "Country Club Hills, MO",
+    "Country Life Acres, MO",
+    "Cowgill, MO",
+    "Crestwood, MO",
+    "Creve Coeur, MO",
+    "Crystal City, MO",
+    "Crystal Lake Park, MO",
+    "Crystal Lakes, MO",
+    "Curryville, MO",
+    "Dardenne Prairie, MO",
+    "De Soto, MO",
+    "Dearborn, MO",
+    "Dellwood, MO",
+    "Delta, MO",
+    "Des Peres, MO",
+    "Desloge, MO",
+    "Dexter, MO",
+    "Diehlstadt, MO",
+    "Downing, MO",
+    "Dudley, MO",
+    "Dutchtown, MO",
+    "East Prairie, MO",
+    "Easton, MO",
+    "Edgerton, MO",
+    "Edina, MO",
+    "Edmundson, MO",
+    "Eldon, MO",
+    "Ellisville, MO",
+    "Elmer, MO",
+    "Elmira, MO",
+    "Elsberry, MO",
+    "Eolia, MO",
+    "Essex, MO",
+    "Ethel, MO",
+    "Eureka, MO",
+    "Ewing, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Farber, MO",
+    "Farmington, MO",
+    "Fenton, MO",
+    "Ferguson, MO",
+    "Ferrelview, MO",
+    "Festus, MO",
+    "Fisk, MO",
+    "Flint Hill, MO",
+    "Flordell Hills, MO",
+    "Florissant, MO",
+    "Foley, MO",
+    "Foristell, MO",
+    "Fountain N' Lakes, MO",
+    "Frankford, MO",
+    "Frontenac, MO",
+    "Fulton, MO",
+    "Gasconade, MO",
+    "Gerald, MO",
+    "Gibbs, MO",
+    "Gideon, MO",
+    "Gladstone, MO",
+    "Glen Echo Park, MO",
+    "Glendale, MO",
+    "Glenwood, MO",
+    "Gordonville, MO",
+    "Gower, MO",
+    "Grantwood Village, MO",
+    "Green Park, MO",
+    "Greencastle, MO",
+    "Greendale, MO",
+    "Greentop, MO",
+    "Hallsville, MO",
+    "Hanley Hills, MO",
+    "Hartsburg, MO",
+    "Hawk Point, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Haywood City, MO",
+    "Hazelwood, MO",
+    "Herculaneum, MO",
+    "Hermann, MO",
+    "High Hill, MO",
+    "Hillsboro, MO",
+    "Hillsdale, MO",
+    "Holcomb, MO",
+    "Holland, MO",
+    "Holliday, MO",
+    "Holt, MO",
+    "Holts Summit, MO",
+    "Homestead, MO",
+    "Homestown, MO",
+    "Howardville, MO",
+    "Huntleigh, MO",
+    "Huntsdale, MO",
+    "Hurdland, MO",
+    "Iberia, MO",
+    "Innsbrook, MO",
+    "Iron Mountain Lake, MO",
+    "Irondale, MO",
+    "Ironton, MO",
+    "Jackson, MO",
+    "Jacksonville, MO",
+    "Jamestown, MO",
+    "Jefferson City, MO",
+    "Jennings, MO",
+    "Jonesburg, MO",
+    "Josephville, MO",
+    "Kahoka, MO",
+    "Kansas City, MO",
+    "Kearney, MO",
+    "Kelso, MO",
+    "Kennett, MO",
+    "Keokuk, IA",
+    "Kimmswick, MO",
+    "Kingdom City, MO",
+    "Kingston, MO",
+    "Kinloch, MO",
+    "Kirksville, MO",
+    "Kirkwood, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Grange, MO",
+    "La Plata, MO",
+    "Laddonia, MO",
+    "Ladue, MO",
+    "Lake Ozark, MO",
+    "Lake St. Louis, MO",
+    "Lake Tekakwitha, MO",
+    "Lake Waukomis, MO",
+    "Lakeshire, MO",
+    "Lambert, MO",
+    "Lancaster, MO",
+    "Lathrop, MO",
+    "Lawson, MO",
+    "Leadington, MO",
+    "Leadwood, MO",
+    "Leonard, MO",
+    "Leslie, MO",
+    "Lewistown, MO",
+    "Liberty, MO",
+    "Lilbourn, MO",
+    "Linn, MO",
+    "Livonia, MO",
+    "Lohman, MO",
+    "Louisiana, MO",
+    "Lupus, MO",
+    "Luray, MO",
+    "Macon, MO",
+    "Madison, MO",
+    "Malden, MO",
+    "Manchester, MO",
+    "Maplewood, MO",
+    "Marlborough, MO",
+    "Marston, MO",
+    "Marthasville, MO",
+    "Martinsburg, MO",
+    "Maryland Heights, MO",
+    "Matthews, MO",
+    "Maysville, MO",
+    "McBaine, MO",
+    "McFall, MO",
+    "McKittrick, MO",
+    "Memphis, MO",
+    "Mexico, MO",
+    "Middletown, MO",
+    "Millard, MO",
+    "Miner, MO",
+    "Mineral Point, MO",
+    "Moberly, MO",
+    "Mokane, MO",
+    "Moline Acres, MO",
+    "Montgomery City, MO",
+    "Monticello, MO",
+    "Montrose, IA",
+    "Morehouse, MO",
+    "Morley, MO",
+    "Morrison, MO",
+    "Mosby, MO",
+    "Moscow Mills, MO",
+    "New Bloomfield, MO",
+    "New Cambria, MO",
+    "New Florence, MO",
+    "New Haven, MO",
+    "New London, MO",
+    "New Madrid, MO",
+    "New Melle, MO",
+    "Newark, MO",
+    "Normandy, MO",
+    "North Lilbourn, MO",
+    "Northwoods, MO",
+    "Norwood Court, MO",
+    "Novelty, MO",
+    "Novinger, MO",
+    "O'Fallon, MO",
+    "Oakland, MO",
+    "Old Monroe, MO",
+    "Olean, MO",
+    "Olivette, MO",
+    "Oran, MO",
+    "Osage Beach, MO",
+    "Osborn, MO",
+    "Overland, MO",
+    "Owensville, MO",
+    "Pacific, MO",
+    "Pagedale, MO",
+    "Park Hills, MO",
+    "Parkdale, MO",
+    "Parkville, MO",
+    "Parkway, MO",
+    "Parma, MO",
+    "Pasadena Hills, MO",
+    "Pasadena Park, MO",
+    "Pascola, MO",
+    "Pattonsburg, MO",
+    "Paynesville, MO",
+    "Peaceful Village, MO",
+    "Pendleton, MO",
+    "Penermon, MO",
+    "Perry, MO",
+    "Pevely, MO",
+    "Pierpont, MO",
+    "Piggott, AR",
+    "Pilot Knob, MO",
+    "Pine Lawn, MO",
+    "Pinhook, MO",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Plattsburg, MO",
+    "Polo, MO",
+    "Poplar Bluff, MO",
+    "Portage Des Sioux, MO",
+    "Portageville, MO",
+    "Potosi, MO",
+    "Prairie Home, MO",
+    "Prathersville, MO",
+    "Queen City, MO",
+    "Renick, MO",
+    "Revere, MO",
+    "Rhineland, MO",
+    "Richmond Heights, MO",
+    "Ridgely, MO",
+    "Risco, MO",
+    "Riverview, MO",
+    "Rives, MO",
+    "Rocheport, MO",
+    "Rock Hill, MO",
+    "Rosebud, MO",
+    "Rush Hill, MO",
+    "Russellville, MO",
+    "Rutledge, MO",
+    "Scotsdale, MO",
+    "Scott City, MO",
+    "Shelbina, MO",
+    "Shelbyville, MO",
+    "Shrewsbury, MO",
+    "Sikeston, MO",
+    "Silex, MO",
+    "Smithville, MO",
+    "South Gifford, MO",
+    "South Gorin, MO",
+    "St. Ann, MO",
+    "St. Charles, MO",
+    "St. Clair, MO",
+    "St. Elizabeth, MO",
+    "St. John, MO",
+    "St. Louis, MO",
+    "St. Martins, MO",
+    "St. Paul, MO",
+    "St. Peters, MO",
+    "St. Thomas, MO",
+    "Steele, MO",
+    "Stewartsville, MO",
+    "Sturgeon, MO",
+    "Sunset Hills, MO",
+    "Sycamore Hills, MO",
+    "Tallapoosa, MO",
+    "Taos, MO",
+    "Tarrants, MO",
+    "Three Creeks, MO",
+    "Tipton, MO",
+    "Town and Country, MO",
+    "Trimble, MO",
+    "Troy, MO",
+    "Truesdale, MO",
+    "Truxton, MO",
+    "Turney, MO",
+    "Tuscumbia, MO",
+    "Twin Oaks, MO",
+    "Union, MO",
+    "Union Star, MO",
+    "University City, MO",
+    "Uplands Park, MO",
+    "Valley Park, MO",
+    "Vandalia, MO",
+    "Vandiver, MO",
+    "Vanduser, MO",
+    "Velda City, MO",
+    "Velda Village Hills, MO",
+    "Versailles, MO",
+    "Viburnum, MO",
+    "Vinita Park, MO",
+    "Wardell, MO",
+    "Wardsville, MO",
+    "Warrenton, MO",
+    "Warson Woods, MO",
+    "Washington, MO",
+    "Wayland, MO",
+    "Weatherby Lake, MO",
+    "Webster Groves, MO",
+    "Weldon Spring, MO",
+    "Weldon Spring Heights, MO",
+    "Wellston, MO",
+    "Wellsville, MO",
+    "Wentzville, MO",
+    "West Alton, MO",
+    "Westphalia, MO",
+    "Westwood, MO",
+    "Whiteside, MO",
+    "Whitewater, MO",
+    "Wilbur Park, MO",
+    "Wildwood, MO",
+    "Wilson City, MO",
+    "Winchester, MO",
+    "Windsor Place, MO",
+    "Winfield, MO",
+    "Wood Heights, MO",
+    "Woodson Terrace, MO",
+    "Wooldridge, MO",
+    "Worthington, MO",
+    "Wright City, MO",
+    "Wyaconda, MO",
+    "Wyatt, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    },
+    {
+     "county": "St. Charles County, MO",
+     "population": 405262
+    },
+    {
+     "county": "St. Louis city, MO",
+     "population": 301578
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Jefferson County, MO",
+     "population": 226739
+    },
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Cole County, MO",
+     "population": 77279
+    },
+    {
+     "county": "St. Francois County, MO",
+     "population": 66922
+    },
+    {
+     "county": "Lincoln County, MO",
+     "population": 59574
+    },
+    {
+     "county": "Callaway County, MO",
+     "population": 44283
+    },
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Dyer County, TN",
+     "population": 36801
+    },
+    {
+     "county": "Warren County, MO",
+     "population": 35532
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Audrain County, MO",
+     "population": 24962
+    },
+    {
+     "county": "Miller County, MO",
+     "population": 24722
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Washington County, MO",
+     "population": 23514
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    },
+    {
+     "county": "Moniteau County, MO",
+     "population": 15473
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Clay County, AR",
+     "population": 14552
+    },
+    {
+     "county": "Osage County, MO",
+     "population": 13274
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Montgomery County, MO",
+     "population": 11322
+    },
+    {
+     "county": "DeKalb County, MO",
+     "population": 11029
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Caldwell County, MO",
+     "population": 8815
+    },
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    },
+    {
+     "county": "Maries County, MO",
+     "population": 8432
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Lake County, TN",
+     "population": 7005
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Fulton County, KY",
+     "population": 6515
+    },
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Carlisle County, KY",
+     "population": 4826
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Hickman County, KY",
+     "population": 4521
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1246164
+    }
+   ]
+  },
+  {
+   "company": "Empire District Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.empiredistrict.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 263145083.0,
+   "Residential-Customers": 151567.0,
+   "Commercial-Sales-($)": 192645615.0,
+   "Commercial-Customers": 27707.0,
+   "Industrial-Sales-($)": 93240795.0,
+   "Industrial-Customers": 333.0,
+   "Total-Customers": 179607.0,
+   "Total-Production-MWh": 5924541.0,
+   "Production-from-Renewable-Energy-MWh": 1957971.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3966570.0,
+   "cities-served": [
+    "Adona, AR",
+    "Adrian, MO",
+    "Advance, MO",
+    "Afton, OK",
+    "Airport Drive, MO",
+    "Alba, MO",
+    "Aldrich, MO",
+    "Alexandria, MO",
+    "Allenville, IL",
+    "Allenville, MO",
+    "Alma, MO",
+    "Altamont, IL",
+    "Altamont, KS",
+    "Amazonia, MO",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Anderson, MO",
+    "Annada, MO",
+    "Annapolis, MO",
+    "Anniston, MO",
+    "Appleton City, MO",
+    "Arbela, MO",
+    "Arbyrd, MO",
+    "Arcadia, MO",
+    "Archie, MO",
+    "Arcola, MO",
+    "Arkoe, MO",
+    "Armstrong, MO",
+    "Arnold, MO",
+    "Arrow Point, MO",
+    "Arrow Rock, MO",
+    "Asbury, MO",
+    "Ash Grove, MO",
+    "Ashburn, MO",
+    "Assumption, IL",
+    "Athens, IL",
+    "Atlanta, IL",
+    "Atlanta, MO",
+    "Auburn, IL",
+    "Aullville, MO",
+    "Aurora, MO",
+    "Avilla, MO",
+    "Avoca, AR",
+    "Baker, MO",
+    "Baldwin Park, MO",
+    "Baring, MO",
+    "Barnard, MO",
+    "Bartlett, KS",
+    "Bates City, MO",
+    "Battlefield, MO",
+    "Baxter Springs, KS",
+    "Beaver, AR",
+    "Beecher City, IL",
+    "Bell City, MO",
+    "Bella Vista, AR",
+    "Belton, MO",
+    "Benton, MO",
+    "Bentonville, AR",
+    "Berger, MO",
+    "Bernice, OK",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Bevier, MO",
+    "Big Cabin, OK",
+    "Big Lake, MO",
+    "Bigelow, AR",
+    "Bigelow, MO",
+    "Billings, MO",
+    "Bingham, IL",
+    "Blackburn, MO",
+    "Blackwater, MO",
+    "Blairstown, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Blue Eye, MO",
+    "Bluejacket, OK",
+    "Bolckow, MO",
+    "Bolivar, MO",
+    "Boonville, MO",
+    "Bowling Green, MO",
+    "Bragg City, MO",
+    "Branson, MO",
+    "Branson West, MO",
+    "Brashear, MO",
+    "Brimson, MO",
+    "Broadwell, IL",
+    "Bronaugh, MO",
+    "Brooklyn Heights, MO",
+    "Brookport, IL",
+    "Browning, MO",
+    "Brownington, MO",
+    "Brownstown, IL",
+    "Brunswick, MO",
+    "Bryant, AR",
+    "Bucklin, MO",
+    "Buffalo, MO",
+    "Buffalo, IL",
+    "Bull Creek, MO",
+    "Bulpitt, IL",
+    "Bunceton, MO",
+    "Burgess, MO",
+    "Burlington Junction, MO",
+    "Butler, MO",
+    "Butler, IL",
+    "Butterfield, MO",
+    "Byrnes Mill, MO",
+    "Calhoun, MO",
+    "Callao, MO",
+    "Camden, MO",
+    "Camden Point, MO",
+    "Cammack Village, AR",
+    "Campbell, MO",
+    "Canalou, MO",
+    "Canton, MO",
+    "Cantrall, IL",
+    "Cape Girardeau, MO",
+    "Cardwell, MO",
+    "Carl Junction, MO",
+    "Carlinville, IL",
+    "Carterville, MO",
+    "Carthage, MO",
+    "Caruthersville, MO",
+    "Carytown, MO",
+    "Cassville, MO",
+    "Catron, MO",
+    "Cave Springs, AR",
+    "Cedar Hill Lakes, MO",
+    "Centerton, AR",
+    "Centerview, MO",
+    "Chaffee, MO",
+    "Chain-O-Lakes, MO",
+    "Charleston, IL",
+    "Charleston, MO",
+    "Chatham, IL",
+    "Cherokee, KS",
+    "Chetopa, KS",
+    "Chilhowee, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Clarksville, MO",
+    "Clarkton, MO",
+    "Clear Lake, IL",
+    "Clearmont, MO",
+    "Cleveland, MO",
+    "Clever, MO",
+    "Cliff Village, MO",
+    "Clinton, MO",
+    "Clinton, IL",
+    "Clyde, MO",
+    "Coalton, IL",
+    "Colcord, OK",
+    "Collins, MO",
+    "Columbus, KS",
+    "Commerce, OK",
+    "Commerce, MO",
+    "Conception Junction, MO",
+    "Concordia, MO",
+    "Coney Island, MO",
+    "Conway, AR",
+    "Cooter, MO",
+    "Corder, MO",
+    "Corning, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Cowden, IL",
+    "Craig, MO",
+    "Crane, MO",
+    "Creighton, MO",
+    "Cross Timbers, MO",
+    "Crystal City, MO",
+    "Crystal Lakes, MO",
+    "Curryville, MO",
+    "Dadeville, MO",
+    "Dalton, MO",
+    "Dawson, IL",
+    "De Soto, MO",
+    "Dearborn, MO",
+    "Decatur, IL",
+    "Decatur, AR",
+    "Deepwater, MO",
+    "Deerfield, MO",
+    "Delta, MO",
+    "Dennis Acres, MO",
+    "Des Arc, MO",
+    "Dexter, MO",
+    "Diamond, MO",
+    "Diehlstadt, MO",
+    "Dieterich, IL",
+    "Diggins, MO",
+    "Disney, OK",
+    "Divernon, IL",
+    "Doniphan, MO",
+    "Donnellson, IA",
+    "Dover, MO",
+    "Downing, MO",
+    "Drexel, MO",
+    "Dudley, MO",
+    "Duenweg, MO",
+    "Duquesne, MO",
+    "Dutchtown, MO",
+    "East Gillespie, IL",
+    "East Lynne, MO",
+    "East Prairie, MO",
+    "Edgerton, MO",
+    "Edgewood, IL",
+    "Edina, MO",
+    "Edinburg, IL",
+    "Edna, KS",
+    "Effingham, IL",
+    "El Dorado Springs, MO",
+    "Elkhart, IL",
+    "Elmer, MO",
+    "Elmira, MO",
+    "Elmo, MO",
+    "Emerald Beach, MO",
+    "Emma, MO",
+    "Essex, MO",
+    "Ethel, MO",
+    "Eureka, MO",
+    "Eureka Springs, AR",
+    "Everton, MO",
+    "Ewing, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Exeter, MO",
+    "Fair Grove, MO",
+    "Fair Play, MO",
+    "Fairfax, MO",
+    "Fairland, OK",
+    "Fairview, MO",
+    "Farina, IL",
+    "Farley, MO",
+    "Farmersville, IL",
+    "Farmington, MO",
+    "Fayette, MO",
+    "Ferrelview, MO",
+    "Festus, MO",
+    "Fidelity, MO",
+    "Fillmore, IL",
+    "Fillmore, MO",
+    "Fisk, MO",
+    "Fleming, MO",
+    "Flemington, MO",
+    "Fordland, MO",
+    "Forest City, MO",
+    "Forsyth, IL",
+    "Forsyth, MO",
+    "Fort Madison, IA",
+    "Fortescue, MO",
+    "Foster, MO",
+    "Fourche, AR",
+    "Frankford, MO",
+    "Franklin, IA",
+    "Franklin, MO",
+    "Freeman, MO",
+    "Freistatt, MO",
+    "Fremont Hills, MO",
+    "Galena, KS",
+    "Galena, MO",
+    "Galesburg, KS",
+    "Galt, MO",
+    "Garden City, MO",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gays, IL",
+    "Gentry, AR",
+    "Gerald, MO",
+    "Gerster, MO",
+    "Gibbs, MO",
+    "Gideon, MO",
+    "Gillespie, IL",
+    "Gilliam, MO",
+    "Ginger Blue, MO",
+    "Girard, IL",
+    "Glasgow, MO",
+    "Glenwood, MO",
+    "Golden City, MO",
+    "Goodman, MO",
+    "Goodnight, MO",
+    "Gordonville, MO",
+    "Graham, MO",
+    "Granby, MO",
+    "Grand Falls Plaza, MO",
+    "Grand Pass, MO",
+    "Grandview, IL",
+    "Granger, MO",
+    "Gravette, AR",
+    "Green Ridge, MO",
+    "Greencastle, MO",
+    "Greenfield, MO",
+    "Greentop, MO",
+    "Greenup, IL",
+    "Greenville, IL",
+    "Greenville, MO",
+    "Greenwood, MO",
+    "Grove, OK",
+    "Guilford, MO",
+    "Gunn City, MO",
+    "Hale, MO",
+    "Halfway, MO",
+    "Halltown, MO",
+    "Hamilton, IL",
+    "Hannibal, MO",
+    "Hardin, MO",
+    "Harrisonville, MO",
+    "Harristown, IL",
+    "Hartsburg, IL",
+    "Harvel, IL",
+    "Harwood, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Haywood City, MO",
+    "Henrietta, MO",
+    "Herculaneum, MO",
+    "Hermitage, MO",
+    "Herrick, IL",
+    "Hidalgo, IL",
+    "Higginsville, MO",
+    "Highfill, AR",
+    "Highlandville, MO",
+    "Hillsboro, IL",
+    "Hillsboro, MO",
+    "Hoberg, MO",
+    "Holcomb, MO",
+    "Holden, MO",
+    "Holland, MO",
+    "Hollister, MO",
+    "Homestead, MO",
+    "Homestown, MO",
+    "Hopkins, MO",
+    "Hornersville, MO",
+    "Houston, AR",
+    "Houston Lake, MO",
+    "Houstonia, MO",
+    "Howardville, MO",
+    "Hughesville, MO",
+    "Humansville, MO",
+    "Hume, MO",
+    "Hurdland, MO",
+    "Hurley, MO",
+    "Iatan, MO",
+    "Illiopolis, IL",
+    "Indian Point, MO",
+    "Iola, IL",
+    "Ironton, MO",
+    "Irving, IL",
+    "Jackson, MO",
+    "Jacksonville, AR",
+    "Jacksonville, MO",
+    "Jane, MO",
+    "Jasper, MO",
+    "Jay, OK",
+    "Jeisyville, IL",
+    "Jerico Springs, MO",
+    "Jewett, IL",
+    "Joplin, MO",
+    "Joppa, IL",
+    "Kahoka, MO",
+    "Kansas City, MO",
+    "Kelso, MO",
+    "Kennett, MO",
+    "Kenney, IL",
+    "Keokuk, IA",
+    "Ketchum, OK",
+    "Keytesville, MO",
+    "Kimberling City, MO",
+    "Kimmswick, MO",
+    "Kincaid, IL",
+    "Kingsville, MO",
+    "Kinmundy, IL",
+    "Kirbyville, MO",
+    "Kirksville, MO",
+    "Knob Noster, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Due, MO",
+    "La Grange, MO",
+    "La Monte, MO",
+    "La Plata, MO",
+    "La Russell, MO",
+    "Labette, KS",
+    "Laclede, MO",
+    "Lake Annette, MO",
+    "Lake Lafayette, MO",
+    "Lake Tekakwitha, MO",
+    "Lake Waukomis, MO",
+    "Lake Winnebago, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Lambert, MO",
+    "Lanagan, MO",
+    "Lancaster, MO",
+    "Laredo, MO",
+    "Latham, IL",
+    "Lawson, MO",
+    "Leawood, MO",
+    "Lee's Summit, MO",
+    "Leeton, MO",
+    "Leland Grove, IL",
+    "Leonard, MO",
+    "Lerna, IL",
+    "Leslie, MO",
+    "Lewistown, MO",
+    "Lexington, MO",
+    "Liberal, MO",
+    "Lilbourn, MO",
+    "Lincoln, IL",
+    "Linneus, MO",
+    "Litchfield, IL",
+    "Little Flock, AR",
+    "Little Rock, AR",
+    "Livonia, MO",
+    "Loch Lloyd, MO",
+    "Lockwood, MO",
+    "Loma Linda, MO",
+    "Lone Jack, MO",
+    "Louisburg, MO",
+    "Louisiana, MO",
+    "Louisville, IL",
+    "Lowell, AR",
+    "Lowry City, MO",
+    "Ludlow, MO",
+    "Luray, MO",
+    "Macon, MO",
+    "Maitland, MO",
+    "Malden, MO",
+    "Malta Bend, MO",
+    "Marceline, MO",
+    "Marionville, MO",
+    "Maroa, IL",
+    "Marshall, MO",
+    "Marston, MO",
+    "Maryville, MO",
+    "Mason, IL",
+    "Matthews, MO",
+    "Mattoon, IL",
+    "Maumelle, AR",
+    "Mayflower, AR",
+    "Mayview, MO",
+    "McCord Bend, MO",
+    "McCune, KS",
+    "Meadville, MO",
+    "Mechanicsburg, IL",
+    "Memphis, MO",
+    "Mendon, MO",
+    "Merriam Woods, MO",
+    "Merwin, MO",
+    "Metropolis, IL",
+    "Metz, MO",
+    "Miami, OK",
+    "Miami, MO",
+    "Milford, MO",
+    "Mill Spring, MO",
+    "Millard, MO",
+    "Miller, MO",
+    "Milo, MO",
+    "Mindenmines, MO",
+    "Miner, MO",
+    "Modesto, IL",
+    "Monett, MO",
+    "Monticello, MO",
+    "Montrose, IA",
+    "Montrose, MO",
+    "Montrose, IL",
+    "Mooresville, MO",
+    "Morehouse, MO",
+    "Morley, MO",
+    "Morrisonville, IL",
+    "Morrisville, MO",
+    "Mound City, MO",
+    "Mound Valley, KS",
+    "Moundville, MO",
+    "Mount Auburn, IL",
+    "Mount Leonard, MO",
+    "Mount Pulaski, IL",
+    "Mount Vernon, MO",
+    "Napoleon, MO",
+    "Nauvoo, IL",
+    "Naylor, MO",
+    "Neck City, MO",
+    "Neelyville, MO",
+    "Nelson, MO",
+    "Neoga, IL",
+    "Neosho, MO",
+    "Nevada, MO",
+    "New Cambria, MO",
+    "New Franklin, MO",
+    "New Haven, MO",
+    "New Madrid, MO",
+    "Newark, MO",
+    "Newton, IL",
+    "Newtonia, MO",
+    "Niantic, IL",
+    "Nilwood, IL",
+    "Nixa, MO",
+    "Noel, MO",
+    "Nokomis, IL",
+    "North Lilbourn, MO",
+    "North Little Rock, AR",
+    "North Miami, OK",
+    "Northmoor, MO",
+    "Novelty, MO",
+    "Novinger, MO",
+    "Oak Ridge, MO",
+    "Oblong, IL",
+    "Oconee, IL",
+    "Odessa, MO",
+    "Ohlman, IL",
+    "Olympian Village, MO",
+    "Oppelo, AR",
+    "Oran, MO",
+    "Oreana, IL",
+    "Oregon, MO",
+    "Oronogo, MO",
+    "Orrick, MO",
+    "Osceola, MO",
+    "Osgood, MO",
+    "Oswego, KS",
+    "Otterville, MO",
+    "Owaneco, IL",
+    "Ozark, MO",
+    "Pacific, MO",
+    "Palmer, IL",
+    "Palmyra, MO",
+    "Palmyra, IL",
+    "Pana, IL",
+    "Parkdale, MO",
+    "Parkville, MO",
+    "Parkway, MO",
+    "Parma, MO",
+    "Parnell, MO",
+    "Parsons, KS",
+    "Pascola, MO",
+    "Passaic, MO",
+    "Patoka, IL",
+    "Pawnee, IL",
+    "Paynesville, MO",
+    "Pea Ridge, AR",
+    "Peaceful Village, MO",
+    "Peculiar, MO",
+    "Penermon, MO",
+    "Peoria, OK",
+    "Perry, AR",
+    "Perryville, AR",
+    "Pevely, MO",
+    "Pickering, MO",
+    "Piedmont, MO",
+    "Pierce City, MO",
+    "Pilot Grove, MO",
+    "Pilot Knob, MO",
+    "Pineville, MO",
+    "Pinhook, MO",
+    "Pittsburg, KS",
+    "Platte City, MO",
+    "Platte Woods, MO",
+    "Pleasant Hope, MO",
+    "Pocahontas, MO",
+    "Pontoosuc, IL",
+    "Poplar Bluff, MO",
+    "Portageville, MO",
+    "Prairie Home, MO",
+    "Preston, MO",
+    "Purcell, MO",
+    "Purdin, MO",
+    "Purdy, MO",
+    "Puxico, MO",
+    "Quapaw, OK",
+    "Queen City, MO",
+    "Quitman, MO",
+    "Qulin, MO",
+    "Ramsey, IL",
+    "Ravenwood, MO",
+    "Raymond, IL",
+    "Raymore, MO",
+    "Rea, MO",
+    "Redings Mill, MO",
+    "Reeds, MO",
+    "Reeds Spring, MO",
+    "Republic, MO",
+    "Revere, MO",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Richmond, MO",
+    "Ridgely, MO",
+    "Risco, MO",
+    "Ritchey, MO",
+    "Riverside, MO",
+    "Riverton, IL",
+    "Riverview Estates, MO",
+    "Rives, MO",
+    "Rochester, IL",
+    "Rock Port, MO",
+    "Rockaway Beach, MO",
+    "Rockville, MO",
+    "Rogers, AR",
+    "Rogersville, MO",
+    "Roscoe, MO",
+    "Rose Hill, IL",
+    "Roseland, KS",
+    "Rosendale, MO",
+    "Rothville, MO",
+    "Rutledge, MO",
+    "Saddlebrooke, MO",
+    "Saginaw, MO",
+    "Sarcoxie, MO",
+    "Savannah, MO",
+    "Scammon, KS",
+    "Schell City, MO",
+    "Schram City, IL",
+    "Scotsdale, MO",
+    "Scott City, MO",
+    "Sedalia, MO",
+    "Seligman, MO",
+    "Senath, MO",
+    "Seneca, MO",
+    "Shelbyville, IL",
+    "Sheldon, MO",
+    "Sheridan, MO",
+    "Sherman, IL",
+    "Sherwood, AR",
+    "Shoal Creek Drive, MO",
+    "Shoal Creek Estates, MO",
+    "Shumway, IL",
+    "Sibley, MO",
+    "Sigel, IL",
+    "Sikeston, MO",
+    "Siloam Springs, AR",
+    "Skidmore, MO",
+    "Slater, MO",
+    "Smithboro, IL",
+    "Smithton, MO",
+    "Smithville, MO",
+    "South Gifford, MO",
+    "South Gorin, MO",
+    "South Greenfield, MO",
+    "Southern View, IL",
+    "Southwest City, MO",
+    "Sparta, MO",
+    "Spaulding, IL",
+    "Spickard, MO",
+    "Springfield, MO",
+    "Springfield, IL",
+    "Springtown, AR",
+    "St. Clair, MO",
+    "St. Elmo, IL",
+    "St. Joseph, MO",
+    "St. Peter, IL",
+    "Standard City, IL",
+    "Stark City, MO",
+    "Ste. Marie, IL",
+    "Steele, MO",
+    "Stella, MO",
+    "Stewardson, IL",
+    "Stockton, MO",
+    "Stotesbury, MO",
+    "Stotts City, MO",
+    "Strafford, MO",
+    "Strasburg, IL",
+    "Strasburg, MO",
+    "Sullivan, IL",
+    "Sulphur Springs, AR",
+    "Sumner, MO",
+    "Sweet Springs, MO",
+    "Tallapoosa, MO",
+    "Taneyville, MO",
+    "Tarkio, MO",
+    "Tarrants, MO",
+    "Taylor Springs, IL",
+    "Taylorville, IL",
+    "Teutopolis, IL",
+    "Thayer, IL",
+    "Theodosia, MO",
+    "Tightwad, MO",
+    "Tindall, MO",
+    "Toledo, IL",
+    "Tovey, IL",
+    "Tower Hill, IL",
+    "Tracy, MO",
+    "Trenton, MO",
+    "Triplett, MO",
+    "Umber View Heights, MO",
+    "Union, MO",
+    "Urbana, MO",
+    "Urich, MO",
+    "Utica, MO",
+    "Vandalia, IL",
+    "Vanduser, MO",
+    "Vernon, IL",
+    "Verona, MO",
+    "Viburnum, MO",
+    "Vilonia, AR",
+    "Vinita, OK",
+    "Virden, IL",
+    "Vista, MO",
+    "Waco, MO",
+    "Waggoner, IL",
+    "Walker, MO",
+    "Walnut Grove, MO",
+    "Wapella, IL",
+    "Wardell, MO",
+    "Warrensburg, MO",
+    "Warrensburg, IL",
+    "Washburn, MO",
+    "Washington, MO",
+    "Watson, IL",
+    "Watson, MO",
+    "Waverly, IL",
+    "Waverly, MO",
+    "Wayland, MO",
+    "Waynesville, IL",
+    "Weatherby Lake, MO",
+    "Weaubleau, MO",
+    "Webb City, MO",
+    "Weir, KS",
+    "Welch, OK",
+    "Wellington, MO",
+    "Wenonah, IL",
+    "Wentworth, MO",
+    "West Line, MO",
+    "West Mineral, KS",
+    "West Point, IA",
+    "Westboro, MO",
+    "Weston, MO",
+    "Wheatland, MO",
+    "Wheaton, MO",
+    "Wheeler, IL",
+    "Wheeling, MO",
+    "Whitewater, MO",
+    "Willard, MO",
+    "Williamsville, IL",
+    "Williamsville, MO",
+    "Willow Hill, IL",
+    "Wilson City, MO",
+    "Windsor, MO",
+    "Windsor, IL",
+    "Windsor Place, MO",
+    "Witt, IL",
+    "Wood Heights, MO",
+    "Wooldridge, MO",
+    "Worthington, MO",
+    "Wyaconda, MO",
+    "Wyandotte, OK",
+    "Wyatt, MO",
+    "Yale, IL"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    },
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Pulaski County, AR",
+     "population": 399125
+    },
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Jefferson County, MO",
+     "population": 226739
+    },
+    {
+     "county": "Sangamon County, IL",
+     "population": 196343
+    },
+    {
+     "county": "McLean County, IL",
+     "population": 170954
+    },
+    {
+     "county": "Faulkner County, AR",
+     "population": 123498
+    },
+    {
+     "county": "Saline County, AR",
+     "population": 123416
+    },
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Macon County, IL",
+     "population": 103998
+    },
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Lonoke County, AR",
+     "population": 74015
+    },
+    {
+     "county": "McCracken County, KY",
+     "population": 67875
+    },
+    {
+     "county": "Newton County, MO",
+     "population": 58648
+    },
+    {
+     "county": "Taney County, MO",
+     "population": 56066
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Coles County, IL",
+     "population": 46863
+    },
+    {
+     "county": "Macoupin County, IL",
+     "population": 44967
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Delaware County, OK",
+     "population": 40397
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Crawford County, KS",
+     "population": 38972
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    },
+    {
+     "county": "Marion County, IL",
+     "population": 37729
+    },
+    {
+     "county": "Effingham County, IL",
+     "population": 34668
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Christian County, IL",
+     "population": 34032
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Morgan County, IL",
+     "population": 32915
+    },
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Montgomery County, KS",
+     "population": 31486
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Ottawa County, OK",
+     "population": 30285
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Montgomery County, IL",
+     "population": 28288
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Logan County, IL",
+     "population": 27987
+    },
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Saline County, IL",
+     "population": 23768
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "McDonald County, MO",
+     "population": 23303
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Fayette County, IL",
+     "population": 21488
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Shelby County, IL",
+     "population": 20990
+    },
+    {
+     "county": "Conway County, AR",
+     "population": 20715
+    },
+    {
+     "county": "Labette County, KS",
+     "population": 20184
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cherokee County, KS",
+     "population": 19362
+    },
+    {
+     "county": "Crawford County, IL",
+     "population": 18679
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    },
+    {
+     "county": "Bond County, IL",
+     "population": 16725
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "Neosho County, KS",
+     "population": 15904
+    },
+    {
+     "county": "Richland County, IL",
+     "population": 15813
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    },
+    {
+     "county": "De Witt County, IL",
+     "population": 15516
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Moultrie County, IL",
+     "population": 14526
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Massac County, IL",
+     "population": 14169
+    },
+    {
+     "county": "Craig County, OK",
+     "population": 14107
+    },
+    {
+     "county": "Johnson County, IL",
+     "population": 13308
+    },
+    {
+     "county": "Clay County, IL",
+     "population": 13288
+    },
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Menard County, IL",
+     "population": 12297
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Ripley County, MO",
+     "population": 10679
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Cumberland County, IL",
+     "population": 10450
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Perry County, AR",
+     "population": 10019
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Jasper County, IL",
+     "population": 9287
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Pope County, IL",
+     "population": 3763
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    },
+    {
+     "county": "Hardin County, IL",
+     "population": 3649
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 159923
+    },
+    {
+     "state": "Kansas",
+     "customers": 9728
+    },
+    {
+     "state": "Arkansas",
+     "customers": 5192
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 4764
+    }
+   ]
+  },
+  {
+   "company": "City Utilities Springfield MO",
+   "company-type": "Municipal",
+   "website": "http://www.cityutilities.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 105219963.0,
+   "Residential-Customers": 102594.0,
+   "Commercial-Sales-($)": 123000823.0,
+   "Commercial-Customers": 15865.0,
+   "Industrial-Sales-($)": 30000759.0,
+   "Industrial-Customers": 242.0,
+   "Total-Customers": 118701.0,
+   "Total-Production-MWh": 2730070.0,
+   "Production-from-Renewable-Energy-MWh": 12573.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2717497.0,
+   "cities-served": [
+    "Springfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 118701
+    }
+   ]
+  },
+  {
+   "company": "Carroll Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.carrollecc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 154249283.0,
+   "Residential-Customers": 102298.0,
+   "Commercial-Sales-($)": 38435127.0,
+   "Commercial-Customers": 7096.0,
+   "Industrial-Sales-($)": 25898811.0,
+   "Industrial-Customers": 47.0,
+   "Total-Customers": 109441.0,
+   "cities-served": [
+    "Alpena, AR",
+    "Arrow Point, MO",
+    "Avoca, AR",
+    "Beaver, AR",
+    "Bella Vista, AR",
+    "Bentonville, AR",
+    "Berryville, AR",
+    "Bethel Heights, AR",
+    "Blue Eye, MO",
+    "Blue Eye, AR",
+    "Cave Springs, AR",
+    "Centerton, AR",
+    "Chain-O-Lakes, MO",
+    "Coney Island, MO",
+    "Decatur, AR",
+    "Elm Springs, AR",
+    "Emerald Beach, MO",
+    "Eureka Springs, AR",
+    "Garfield, AR",
+    "Gateway, AR",
+    "Gentry, AR",
+    "Gravette, AR",
+    "Green Forest, AR",
+    "Highfill, AR",
+    "Hindsville, AR",
+    "Huntsville, AR",
+    "Jasper, AR",
+    "Little Flock, AR",
+    "Lowell, AR",
+    "Oak Grove, AR",
+    "Pea Ridge, AR",
+    "Rogers, AR",
+    "Siloam Springs, AR",
+    "Springdale, AR",
+    "Springtown, AR",
+    "Sulphur Springs, AR",
+    "Tontitown, AR"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, AR",
+     "population": 284333
+    },
+    {
+     "county": "Washington County, AR",
+     "population": 245871
+    },
+    {
+     "county": "Pope County, AR",
+     "population": 63381
+    },
+    {
+     "county": "Boone County, AR",
+     "population": 37373
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Carroll County, AR",
+     "population": 28260
+    },
+    {
+     "county": "Madison County, AR",
+     "population": 16521
+    },
+    {
+     "county": "Newton County, AR",
+     "population": 7225
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arkansas",
+     "customers": 96875
+    },
+    {
+     "state": "Missouri",
+     "customers": 12566
+    }
+   ]
+  },
+  {
+   "company": "Cuivre River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.cuivre.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 101160287.0,
+   "Residential-Customers": 68525.0,
+   "Commercial-Sales-($)": 4338878.0,
+   "Commercial-Customers": 1247.0,
+   "Industrial-Sales-($)": 18093652.0,
+   "Industrial-Customers": 257.0,
+   "Total-Customers": 70029.0,
+   "cities-served": [
+    "Annada, MO",
+    "Augusta, MO",
+    "Bowling Green, MO",
+    "Cave, MO",
+    "Chain of Rocks, MO",
+    "Clarksville, MO",
+    "Cottleville, MO",
+    "Dardenne Prairie, MO",
+    "Elsberry, MO",
+    "Eolia, MO",
+    "Flint Hill, MO",
+    "Foley, MO",
+    "Foristell, MO",
+    "Fountain N' Lakes, MO",
+    "Hawk Point, MO",
+    "High Hill, MO",
+    "Innsbrook, MO",
+    "Jonesburg, MO",
+    "Josephville, MO",
+    "Lake St. Louis, MO",
+    "Louisiana, MO",
+    "Marthasville, MO",
+    "Maryland Heights, MO",
+    "Moscow Mills, MO",
+    "New Melle, MO",
+    "O'Fallon, MO",
+    "Old Monroe, MO",
+    "Paynesville, MO",
+    "Pendleton, MO",
+    "Silex, MO",
+    "St. Charles, MO",
+    "St. Paul, MO",
+    "St. Peters, MO",
+    "Tarrants, MO",
+    "Three Creeks, MO",
+    "Troy, MO",
+    "Truesdale, MO",
+    "Truxton, MO",
+    "Warrenton, MO",
+    "Weldon Spring, MO",
+    "Weldon Spring Heights, MO",
+    "Wentzville, MO",
+    "Whiteside, MO",
+    "Winfield, MO",
+    "Wright City, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Charles County, MO",
+     "population": 405262
+    },
+    {
+     "county": "Lincoln County, MO",
+     "population": 59574
+    },
+    {
+     "county": "Warren County, MO",
+     "population": 35532
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Montgomery County, MO",
+     "population": 11322
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 70030
+    }
+   ]
+  },
+  {
+   "company": "Independence Power and Light",
+   "company-type": "Municipal",
+   "website": "https://www.ci.independence.mo.us/pl/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 71252968.0,
+   "Residential-Customers": 54484.0,
+   "Commercial-Sales-($)": 50318766.0,
+   "Commercial-Customers": 5221.0,
+   "Industrial-Sales-($)": 3650629.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 59718.0,
+   "Total-Production-MWh": 231098.0,
+   "Production-from-Non-Renewable-Energy-MWh": 231098.0,
+   "cities-served": [
+    "Independence"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 59717
+    }
+   ]
+  },
+  {
+   "company": "Columbia MO Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.como.gov/utilities/water-and-light/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 51753000.0,
+   "Residential-Customers": 44367.0,
+   "Commercial-Sales-($)": 44653000.0,
+   "Commercial-Customers": 6910.0,
+   "Industrial-Sales-($)": 21507000.0,
+   "Industrial-Customers": 30.0,
+   "Total-Customers": 51307.0,
+   "Total-Production-MWh": 65139.0,
+   "Production-from-Renewable-Energy-MWh": 18733.0,
+   "Production-from-Non-Renewable-Energy-MWh": 46406.0,
+   "cities-served": [
+    "Columbia"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 51307
+    }
+   ]
+  },
+  {
+   "company": "White River Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.whiteriver.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 62504000.0,
+   "Residential-Customers": 37545.0,
+   "Commercial-Sales-($)": 25841000.0,
+   "Commercial-Customers": 7698.0,
+   "Industrial-Sales-($)": 4494000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 45252.0,
+   "cities-served": [
+    "Ava, MO",
+    "Branson, MO",
+    "Branson West, MO",
+    "Bull Creek, MO",
+    "Coney Island, MO",
+    "Forsyth, MO",
+    "Gainesville, MO",
+    "Highlandville, MO",
+    "Hollister, MO",
+    "Indian Point, MO",
+    "Kimberling City, MO",
+    "Kirbyville, MO",
+    "Merriam Woods, MO",
+    "Nixa, MO",
+    "Ozark, MO",
+    "Reeds Spring, MO",
+    "Rockaway Beach, MO",
+    "Saddlebrooke, MO",
+    "Sparta, MO",
+    "Taneyville, MO",
+    "Theodosia, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Taney County, MO",
+     "population": 56066
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 45252
+    }
+   ]
+  },
+  {
+   "company": "Southwest Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.swec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 54300000.0,
+   "Residential-Customers": 39423.0,
+   "Commercial-Sales-($)": 8603000.0,
+   "Commercial-Customers": 3024.0,
+   "Total-Customers": 42447.0,
+   "cities-served": [
+    "Bolivar, MO",
+    "Buffalo, MO",
+    "Collins, MO",
+    "Conway, MO",
+    "Cross Timbers, MO",
+    "Fair Grove, MO",
+    "Fair Play, MO",
+    "Flemington, MO",
+    "Friedenswald, MO",
+    "Gerster, MO",
+    "Goodnight, MO",
+    "Halfway, MO",
+    "Hermitage, MO",
+    "Humansville, MO",
+    "Louisburg, MO",
+    "Morrisville, MO",
+    "Pleasant Hope, MO",
+    "Preston, MO",
+    "Springfield, MO",
+    "Strafford, MO",
+    "Urbana, MO",
+    "Warsaw, MO",
+    "Weaubleau, MO",
+    "Wheatland, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Laclede County, MO",
+     "population": 36039
+    },
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 42447
+    }
+   ]
+  },
+  {
+   "company": "Ozark Border Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.ozarkborder.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 52870000.0,
+   "Residential-Customers": 32848.0,
+   "Commercial-Sales-($)": 14113000.0,
+   "Commercial-Customers": 7318.0,
+   "Industrial-Sales-($)": 1840000.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 40179.0,
+   "cities-served": [
+    "Advance, MO",
+    "Campbell, MO",
+    "Clarkton, MO",
+    "Dexter, MO",
+    "Doniphan, MO",
+    "Dudley, MO",
+    "Ellsinore, MO",
+    "Fisk, MO",
+    "Gideon, MO",
+    "Grandin, MO",
+    "Holcomb, MO",
+    "Malden, MO",
+    "Naylor, MO",
+    "Neelyville, MO",
+    "Poplar Bluff, MO",
+    "Puxico, MO",
+    "Qulin, MO",
+    "Van Buren, MO",
+    "Williamsville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Ripley County, MO",
+     "population": 10679
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Shannon County, MO",
+     "population": 7031
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 40179
+    }
+   ]
+  },
+  {
+   "company": "Laclede Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.lacledeelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 52816000.0,
+   "Residential-Customers": 33800.0,
+   "Commercial-Sales-($)": 11198000.0,
+   "Commercial-Customers": 3718.0,
+   "Industrial-Sales-($)": 1675000.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 37531.0,
+   "cities-served": [
+    "Camdenton, MO",
+    "Conway, MO",
+    "Evergreen, MO",
+    "Friedenswald, MO",
+    "Hartville, MO",
+    "Lebanon, MO",
+    "Linn Creek, MO",
+    "Osage Beach, MO",
+    "Phillipsburg, MO",
+    "Richland, MO",
+    "St. Robert, MO",
+    "Stoutland, MO",
+    "Waynesville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    },
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    },
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Laclede County, MO",
+     "population": 36039
+    },
+    {
+     "county": "Miller County, MO",
+     "population": 24722
+    },
+    {
+     "county": "Wright County, MO",
+     "population": 18188
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 37531
+    }
+   ]
+  },
+  {
+   "company": "Boone Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.booneelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 49019000.0,
+   "Residential-Customers": 32128.0,
+   "Commercial-Sales-($)": 8053000.0,
+   "Commercial-Customers": 1168.0,
+   "Industrial-Sales-($)": 4407000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 33303.0,
+   "cities-served": [
+    "Ashland, MO",
+    "Centralia, MO",
+    "Clark, MO",
+    "Columbia, MO",
+    "Hallsville, MO",
+    "Harrisburg, MO",
+    "Hartsburg, MO",
+    "Huntsdale, MO",
+    "McBaine, MO",
+    "Moberly, MO",
+    "Pierpont, MO",
+    "Renick, MO",
+    "Rocheport, MO",
+    "Sturgeon, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    },
+    {
+     "county": "Audrain County, MO",
+     "population": 24962
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 33303
+    }
+   ]
+  },
+  {
+   "company": "CoMo Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.co-mo.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 45438000.0,
+   "Residential-Customers": 29647.0,
+   "Commercial-Sales-($)": 6635000.0,
+   "Commercial-Customers": 2241.0,
+   "Industrial-Sales-($)": 909000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 31889.0,
+   "cities-served": [
+    "Barnett, MO",
+    "Blackwater, MO",
+    "Boonville, MO",
+    "Bunceton, MO",
+    "California, MO",
+    "Clarksburg, MO",
+    "Cole Camp, MO",
+    "Gravois Mills, MO",
+    "Jamestown, MO",
+    "Lake Ozark, MO",
+    "Lakeside, MO",
+    "Laurie, MO",
+    "Lincoln, MO",
+    "Linn Creek, MO",
+    "Lupus, MO",
+    "Osage Beach, MO",
+    "Otterville, MO",
+    "Pilot Grove, MO",
+    "Prairie Home, MO",
+    "Stover, MO",
+    "Sunrise Beach, MO",
+    "Syracuse, MO",
+    "Tipton, MO",
+    "Warsaw, MO",
+    "Windsor Place, MO",
+    "Wooldridge, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Camden County, MO",
+     "population": 42745
+    },
+    {
+     "county": "Miller County, MO",
+     "population": 24722
+    },
+    {
+     "county": "Morgan County, MO",
+     "population": 21006
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Cooper County, MO",
+     "population": 17103
+    },
+    {
+     "county": "Moniteau County, MO",
+     "population": 15473
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 31889
+    }
+   ]
+  },
+  {
+   "company": "Intercounty Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ieca.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48185600.0,
+   "Residential-Customers": 28626.0,
+   "Commercial-Sales-($)": 7636900.0,
+   "Commercial-Customers": 2031.0,
+   "Industrial-Sales-($)": 2704200.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 30666.0,
+   "cities-served": [
+    "Cabool, MO",
+    "Edgar Springs, MO",
+    "Houston, MO",
+    "Licking, MO",
+    "Raymondville, MO",
+    "Rolla, MO",
+    "Salem, MO",
+    "St. James, MO",
+    "Summersville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    },
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    },
+    {
+     "county": "Texas County, MO",
+     "population": 24487
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Maries County, MO",
+     "population": 8432
+    },
+    {
+     "county": "Shannon County, MO",
+     "population": 7031
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 30666
+    }
+   ]
+  },
+  {
+   "company": "Citizens Electric Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.cecmo.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 41016000.0,
+   "Residential-Customers": 24836.0,
+   "Commercial-Sales-($)": 12415000.0,
+   "Commercial-Customers": 2717.0,
+   "Industrial-Sales-($)": 58815000.0,
+   "Industrial-Customers": 107.0,
+   "Total-Customers": 27660.0,
+   "cities-served": [
+    "Altenburg, MO",
+    "Bloomsdale, MO",
+    "Frohna, MO",
+    "Jackson, MO",
+    "Lithium, MO",
+    "Longtown, MO",
+    "Oak Ridge, MO",
+    "Old Appleton, MO",
+    "Perryville, MO",
+    "Pocahontas, MO",
+    "St. Mary, MO",
+    "Ste. Genevieve, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "St. Francois County, MO",
+     "population": 66922
+    },
+    {
+     "county": "Perry County, MO",
+     "population": 18956
+    },
+    {
+     "county": "Ste. Genevieve County, MO",
+     "population": 18479
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 27660
+    }
+   ]
+  },
+  {
+   "company": "Platte-Clay Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.pcec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 39176000.0,
+   "Residential-Customers": 22209.0,
+   "Commercial-Sales-($)": 6538000.0,
+   "Commercial-Customers": 3009.0,
+   "Industrial-Sales-($)": 7407000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 25226.0,
+   "cities-served": [
+    "Camden, MO",
+    "Camden Point, MO",
+    "Cameron, MO",
+    "Crystal Lakes, MO",
+    "De Kalb, MO",
+    "Dearborn, MO",
+    "Edgerton, MO",
+    "Elmira, MO",
+    "Excelsior Estates, MO",
+    "Excelsior Springs, MO",
+    "Farley, MO",
+    "Ferrelview, MO",
+    "Fleming, MO",
+    "Holt, MO",
+    "Homestead, MO",
+    "Iatan, MO",
+    "Kansas City, MO",
+    "Kearney, MO",
+    "Lathrop, MO",
+    "Lawson, MO",
+    "Liberty, MO",
+    "Mosby, MO",
+    "Orrick, MO",
+    "Parkville, MO",
+    "Platte City, MO",
+    "Plattsburg, MO",
+    "Polo, MO",
+    "Prathersville, MO",
+    "Richmond, MO",
+    "Ridgely, MO",
+    "Smithville, MO",
+    "Tracy, MO",
+    "Trimble, MO",
+    "Weston, MO",
+    "Wood Heights, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, MO",
+     "population": 253335
+    },
+    {
+     "county": "Platte County, MO",
+     "population": 106718
+    },
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Caldwell County, MO",
+     "population": 8815
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 25226
+    }
+   ]
+  },
+  {
+   "company": "Black River Electric Cooperative MO",
+   "company-type": "Cooperative",
+   "website": "https://www.brec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 30474000.0,
+   "Residential-Customers": 20937.0,
+   "Commercial-Sales-($)": 13701000.0,
+   "Commercial-Customers": 3809.0,
+   "Industrial-Sales-($)": 1802000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 24748.0,
+   "cities-served": [
+    "Advance, MO",
+    "Annapolis, MO",
+    "Arcadia, MO",
+    "Bunker, MO",
+    "Caledonia, MO",
+    "Centerville, MO",
+    "Cobalt, MO",
+    "Des Arc, MO",
+    "Ellington, MO",
+    "Fredericktown, MO",
+    "Glen Allen, MO",
+    "Greenville, MO",
+    "Iron Mountain Lake, MO",
+    "Irondale, MO",
+    "Ironton, MO",
+    "Junction City, MO",
+    "Marble Hill, MO",
+    "Marquand, MO",
+    "Mill Spring, MO",
+    "Piedmont, MO",
+    "Pilot Knob, MO",
+    "Sedgewickville, MO",
+    "Viburnum, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "St. Francois County, MO",
+     "population": 66922
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "Washington County, MO",
+     "population": 23514
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Perry County, MO",
+     "population": 18956
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    },
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    },
+    {
+     "county": "Wayne County, MO",
+     "population": 10974
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Iron County, MO",
+     "population": 9537
+    },
+    {
+     "county": "Shannon County, MO",
+     "population": 7031
+    },
+    {
+     "county": "Reynolds County, MO",
+     "population": 6096
+    },
+    {
+     "county": "Carter County, MO",
+     "population": 5202
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 24748
+    }
+   ]
+  },
+  {
+   "company": "Howell-Oregon Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.hoecoop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33699900.0,
+   "Residential-Customers": 22173.0,
+   "Commercial-Sales-($)": 5535700.0,
+   "Commercial-Customers": 2380.0,
+   "Industrial-Sales-($)": 4225700.0,
+   "Industrial-Customers": 116.0,
+   "Total-Customers": 24669.0,
+   "cities-served": [
+    "Alton, MO",
+    "Bakersfield, MO",
+    "Birch Tree, MO",
+    "Brandsville, MO",
+    "Eminence, MO",
+    "Koshkonong, MO",
+    "Mountain View, MO",
+    "Thayer, MO",
+    "West Plains, MO",
+    "Willow Springs, MO",
+    "Winona, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Howell County, MO",
+     "population": 39750
+    },
+    {
+     "county": "Texas County, MO",
+     "population": 24487
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    },
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    },
+    {
+     "county": "Ozark County, MO",
+     "population": 8553
+    },
+    {
+     "county": "Shannon County, MO",
+     "population": 7031
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 24669
+    }
+   ]
+  },
+  {
+   "company": "Three Rivers Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.threeriverselectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 32054000.0,
+   "Residential-Customers": 21533.0,
+   "Commercial-Sales-($)": 6106000.0,
+   "Commercial-Customers": 1769.0,
+   "Industrial-Sales-($)": 2389000.0,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 23314.0,
+   "cities-served": [
+    "Argyle, MO",
+    "Belle, MO",
+    "Berger, MO",
+    "Bland, MO",
+    "Chamois, MO",
+    "Eldon, MO",
+    "Freeburg, MO",
+    "Gasconade, MO",
+    "Gerald, MO",
+    "Hermann, MO",
+    "Jefferson City, MO",
+    "Leslie, MO",
+    "Linn, MO",
+    "Lohman, MO",
+    "Meta, MO",
+    "Morrison, MO",
+    "New Haven, MO",
+    "Olean, MO",
+    "Owensville, MO",
+    "Rosebud, MO",
+    "Russellville, MO",
+    "St. Elizabeth, MO",
+    "St. Martins, MO",
+    "St. Thomas, MO",
+    "Taos, MO",
+    "Vienna, MO",
+    "Wardsville, MO",
+    "Westphalia, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Cole County, MO",
+     "population": 77279
+    },
+    {
+     "county": "Miller County, MO",
+     "population": 24722
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Osage County, MO",
+     "population": 13274
+    },
+    {
+     "county": "Maries County, MO",
+     "population": 8432
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 23314
+    }
+   ]
+  },
+  {
+   "company": "Crawford Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.crawfordelec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29396900.0,
+   "Residential-Customers": 18812.0,
+   "Commercial-Sales-($)": 3932900.0,
+   "Commercial-Customers": 1607.0,
+   "Industrial-Sales-($)": 286500.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 20422.0,
+   "cities-served": [
+    "Bourbon, MO",
+    "Charmwood, MO",
+    "Cuba, MO",
+    "Gerald, MO",
+    "Leasburg, MO",
+    "Leslie, MO",
+    "Miramiguoa Park, MO",
+    "Oak Grove Village, MO",
+    "Rosebud, MO",
+    "St. Clair, MO",
+    "St. Cloud, MO",
+    "Steelville, MO",
+    "Sullivan, MO",
+    "West Sullivan, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    },
+    {
+     "county": "Washington County, MO",
+     "population": 23514
+    },
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    },
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    },
+    {
+     "county": "Dent County, MO",
+     "population": 14421
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 20422
+    }
+   ]
+  },
+  {
+   "company": "Webster Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.websterec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 25101000.0,
+   "Residential-Customers": 17744.0,
+   "Commercial-Sales-($)": 6399000.0,
+   "Commercial-Customers": 871.0,
+   "Total-Customers": 18615.0,
+   "cities-served": [
+    "Diggins, MO",
+    "Fordland, MO",
+    "Marshfield, MO",
+    "Niangua, MO",
+    "Ozark, MO",
+    "Rogersville, MO",
+    "Seymour, MO",
+    "Springfield, MO",
+    "Strafford, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, MO",
+     "population": 298915
+    },
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    },
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Dallas County, MO",
+     "population": 17071
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 18615
+    }
+   ]
+  },
+  {
+   "company": "New-Mac Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.newmac.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33236000.0,
+   "Residential-Customers": 17976.0,
+   "Commercial-Sales-($)": 5537000.0,
+   "Commercial-Customers": 151.0,
+   "Industrial-Sales-($)": 4351000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 18131.0,
+   "cities-served": [
+    "Anderson, MO",
+    "Carthage, MO",
+    "Cliff Village, MO",
+    "Dennis Acres, MO",
+    "Diamond, MO",
+    "Duenweg, MO",
+    "Duquesne, MO",
+    "Fairview, MO",
+    "Fidelity, MO",
+    "Ginger Blue, MO",
+    "Goodman, MO",
+    "Granby, MO",
+    "Grand Falls Plaza, MO",
+    "Jane, MO",
+    "Joplin, MO",
+    "Lanagan, MO",
+    "Leawood, MO",
+    "Loma Linda, MO",
+    "Neosho, MO",
+    "Newtonia, MO",
+    "Noel, MO",
+    "Pierce City, MO",
+    "Pineville, MO",
+    "Redings Mill, MO",
+    "Reeds, MO",
+    "Ritchey, MO",
+    "Saginaw, MO",
+    "Sarcoxie, MO",
+    "Seneca, MO",
+    "Shoal Creek Drive, MO",
+    "Shoal Creek Estates, MO",
+    "Southwest City, MO",
+    "Stark City, MO",
+    "Stella, MO",
+    "Wentworth, MO",
+    "Wheaton, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Newton County, MO",
+     "population": 58648
+    },
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    },
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    },
+    {
+     "county": "McDonald County, MO",
+     "population": 23303
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 18131
+    }
+   ]
+  },
+  {
+   "company": "Osage Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.osagevalley.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 30863700.0,
+   "Residential-Customers": 15587.0,
+   "Commercial-Sales-($)": 3718300.0,
+   "Commercial-Customers": 889.0,
+   "Total-Customers": 16476.0,
+   "cities-served": [
+    "Adrian, MO",
+    "Amoret, MO",
+    "Amsterdam, MO",
+    "Appleton City, MO",
+    "Archie, MO",
+    "Belton, MO",
+    "Blairstown, MO",
+    "Brownington, MO",
+    "Butler, MO",
+    "Calhoun, MO",
+    "Chilhowee, MO",
+    "Cleveland, MO",
+    "Clinton, MO",
+    "Creighton, MO",
+    "Deepwater, MO",
+    "Drexel, MO",
+    "East Lynne, MO",
+    "Foster, MO",
+    "Freeman, MO",
+    "Garden City, MO",
+    "Gunn City, MO",
+    "Harrisonville, MO",
+    "Hume, MO",
+    "La Due, MO",
+    "Lake Annette, MO",
+    "Leeton, MO",
+    "Loch Lloyd, MO",
+    "Merwin, MO",
+    "Metz, MO",
+    "Montrose, MO",
+    "Passaic, MO",
+    "Peculiar, MO",
+    "Raymore, MO",
+    "Rich Hill, MO",
+    "Richards, MO",
+    "Riverview Estates, MO",
+    "Rockville, MO",
+    "Stotesbury, MO",
+    "Tightwad, MO",
+    "Urich, MO",
+    "West Line, MO",
+    "Windsor, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    },
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 16476
+    }
+   ]
+  },
+  {
+   "company": "SEMO Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.gosemo.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18357700.0,
+   "Residential-Customers": 10627.0,
+   "Commercial-Sales-($)": 11269300.0,
+   "Commercial-Customers": 5380.0,
+   "Industrial-Sales-($)": 6539900.0,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 16019.0,
+   "cities-served": [
+    "Advance, MO",
+    "Allenville, MO",
+    "Anniston, MO",
+    "Baker, MO",
+    "Bell City, MO",
+    "Benton, MO",
+    "Bernie, MO",
+    "Bertrand, MO",
+    "Blodgett, MO",
+    "Bloomfield, MO",
+    "Canalou, MO",
+    "Chaffee, MO",
+    "Charleston, MO",
+    "Commerce, MO",
+    "Delta, MO",
+    "Dexter, MO",
+    "Diehlstadt, MO",
+    "East Prairie, MO",
+    "Essex, MO",
+    "Haywood City, MO",
+    "Howardville, MO",
+    "Kelso, MO",
+    "Lambert, MO",
+    "Lilbourn, MO",
+    "Matthews, MO",
+    "Miner, MO",
+    "Morehouse, MO",
+    "Morley, MO",
+    "New Madrid, MO",
+    "North Lilbourn, MO",
+    "Oran, MO",
+    "Penermon, MO",
+    "Pinhook, MO",
+    "Scott City, MO",
+    "Sikeston, MO",
+    "Vanduser, MO",
+    "Wilson City, MO",
+    "Wyatt, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    },
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    },
+    {
+     "county": "Stoddard County, MO",
+     "population": 28672
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Mississippi County, MO",
+     "population": 12577
+    },
+    {
+     "county": "Bollinger County, MO",
+     "population": 10567
+    },
+    {
+     "county": "Carlisle County, KY",
+     "population": 4826
+    },
+    {
+     "county": "Hickman County, KY",
+     "population": 4521
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 16019
+    }
+   ]
+  },
+  {
+   "company": "West Central Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.westcentralelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 27166000.0,
+   "Residential-Customers": 14260.0,
+   "Commercial-Sales-($)": 1389000.0,
+   "Commercial-Customers": 159.0,
+   "Total-Customers": 14419.0,
+   "cities-served": [
+    "Alma, MO",
+    "Aullville, MO",
+    "Bates City, MO",
+    "Blackburn, MO",
+    "Blairstown, MO",
+    "Centerview, MO",
+    "Chilhowee, MO",
+    "Concordia, MO",
+    "Corder, MO",
+    "Creighton, MO",
+    "Dover, MO",
+    "Emma, MO",
+    "Higginsville, MO",
+    "Holden, MO",
+    "Kingsville, MO",
+    "Knob Noster, MO",
+    "Lake Lafayette, MO",
+    "Leeton, MO",
+    "Levasy, MO",
+    "Lexington, MO",
+    "Lone Jack, MO",
+    "Mayview, MO",
+    "Napoleon, MO",
+    "Oak Grove, MO",
+    "Odessa, MO",
+    "Warrensburg, MO",
+    "Waverly, MO",
+    "Wellington, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, MO",
+     "population": 717204
+    },
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    },
+    {
+     "county": "Johnson County, MO",
+     "population": 54013
+    },
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 14419
+    }
+   ]
+  },
+  {
+   "company": "Farmers' Electric Chillicothe, Missouri",
+   "company-type": "Cooperative",
+   "website": "https://www.fec-co.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19562500.0,
+   "Residential-Customers": 12172.0,
+   "Commercial-Sales-($)": 4054900.0,
+   "Commercial-Customers": 1149.0,
+   "Industrial-Sales-($)": 5550700.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 13330.0,
+   "cities-served": [
+    "Altamont, MO",
+    "Bogard, MO",
+    "Bosworth, MO",
+    "Braymer, MO",
+    "Breckenridge, MO",
+    "Brunswick, MO",
+    "Carrollton, MO",
+    "Chillicothe, MO",
+    "Chula, MO",
+    "Cowgill, MO",
+    "Dalton, MO",
+    "De Witt, MO",
+    "Gallatin, MO",
+    "Glasgow, MO",
+    "Hale, MO",
+    "Hamilton, MO",
+    "Hardin, MO",
+    "Henrietta, MO",
+    "Jameson, MO",
+    "Jamesport, MO",
+    "Keytesville, MO",
+    "Kidder, MO",
+    "Kingston, MO",
+    "Laclede, MO",
+    "Lexington, MO",
+    "Linneus, MO",
+    "Lock Springs, MO",
+    "Ludlow, MO",
+    "Meadville, MO",
+    "Mendon, MO",
+    "Mooresville, MO",
+    "Norborne, MO",
+    "Purdin, MO",
+    "Richmond, MO",
+    "Rothville, MO",
+    "Sumner, MO",
+    "Tina, MO",
+    "Triplett, MO",
+    "Utica, MO",
+    "Waverly, MO",
+    "Wheeling, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    },
+    {
+     "county": "Ray County, MO",
+     "population": 23158
+    },
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Caldwell County, MO",
+     "population": 8815
+    },
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 13330
+    }
+   ]
+  },
+  {
+   "company": "Callaway Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.callawayelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 24721400.0,
+   "Residential-Customers": 12209.0,
+   "Commercial-Sales-($)": 4526300.0,
+   "Commercial-Customers": 854.0,
+   "Total-Customers": 13063.0,
+   "cities-served": [
+    "Auxvasse, MO",
+    "Fulton, MO",
+    "Holts Summit, MO",
+    "Jefferson City, MO",
+    "Kingdom City, MO",
+    "McKittrick, MO",
+    "Mokane, MO",
+    "New Bloomfield, MO",
+    "New Florence, MO",
+    "Rhineland, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    },
+    {
+     "county": "Callaway County, MO",
+     "population": 44283
+    },
+    {
+     "county": "Audrain County, MO",
+     "population": 24962
+    },
+    {
+     "county": "Montgomery County, MO",
+     "population": 11322
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 13063
+    }
+   ]
+  },
+  {
+   "company": "Macon Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.maconelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15527100.0,
+   "Residential-Customers": 9744.0,
+   "Commercial-Sales-($)": 4203200.0,
+   "Commercial-Customers": 1628.0,
+   "Industrial-Sales-($)": 4882200.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 11374.0,
+   "cities-served": [
+    "Atlanta, MO",
+    "Bethel, MO",
+    "Bevier, MO",
+    "Bucklin, MO",
+    "Callao, MO",
+    "Clarence, MO",
+    "Elmer, MO",
+    "Ethel, MO",
+    "Jacksonville, MO",
+    "La Plata, MO",
+    "Leonard, MO",
+    "Macon, MO",
+    "Marceline, MO",
+    "New Cambria, MO",
+    "Shelbina, MO",
+    "Shelbyville, MO",
+    "South Gifford, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 11374
+    }
+   ]
+  },
+  {
+   "company": "Sac Osage Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sacosage.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17260855.968,
+   "Residential-Customers": 10576.0,
+   "Commercial-Sales-($)": 1395126.921,
+   "Commercial-Customers": 684.0,
+   "Industrial-Sales-($)": 22717.111,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 11272.0,
+   "cities-served": [
+    "Arcola, MO",
+    "Collins, MO",
+    "El Dorado Springs, MO",
+    "Gerster, MO",
+    "Greenfield, MO",
+    "Harwood, MO",
+    "Jerico Springs, MO",
+    "Nevada, MO",
+    "Osceola, MO",
+    "Roscoe, MO",
+    "Schell City, MO",
+    "Stockton, MO",
+    "Umber View Heights, MO",
+    "Vista, MO",
+    "Walker, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, MO",
+     "population": 31519
+    },
+    {
+     "county": "Henry County, MO",
+     "population": 21946
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "St. Clair County, MO",
+     "population": 9284
+    },
+    {
+     "county": "Hickory County, MO",
+     "population": 8279
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 11272
+    }
+   ]
+  },
+  {
+   "company": "Central Missouri Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.cmecinc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19222000.0,
+   "Residential-Customers": 10696.0,
+   "Commercial-Sales-($)": 2415000.0,
+   "Commercial-Customers": 342.0,
+   "Industrial-Sales-($)": 7482000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 11040.0,
+   "cities-served": [
+    "Arrow Rock, MO",
+    "Blackburn, MO",
+    "Cole Camp, MO",
+    "Gilliam, MO",
+    "Grand Pass, MO",
+    "Green Ridge, MO",
+    "Houstonia, MO",
+    "Hughesville, MO",
+    "Ionia, MO",
+    "La Monte, MO",
+    "Lincoln, MO",
+    "Malta Bend, MO",
+    "Marshall, MO",
+    "Miami, MO",
+    "Mount Leonard, MO",
+    "Nelson, MO",
+    "Sedalia, MO",
+    "Slater, MO",
+    "Smithton, MO",
+    "Sweet Springs, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pettis County, MO",
+     "population": 42980
+    },
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    },
+    {
+     "county": "Benton County, MO",
+     "population": 19394
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 11040
+    }
+   ]
+  },
+  {
+   "company": "Nixa Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.nixa.com/departments/public-works/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12875330.559,
+   "Residential-Customers": 9753.0,
+   "Commercial-Sales-($)": 3824768.513,
+   "Commercial-Customers": 910.0,
+   "Industrial-Sales-($)": 3103900.928,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 10702.0,
+   "cities-served": [
+    "Nixa"
+   ],
+   "counties-served": [
+    {
+     "county": "Christian County, MO",
+     "population": 88842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 10702
+    }
+   ]
+  },
+  {
+   "company": "Kirkwood Electric",
+   "company-type": "Municipal",
+   "website": "https://www.kirkwoodelectric.org/home-electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10568100.0,
+   "Residential-Customers": 8848.0,
+   "Commercial-Sales-($)": 8836000.0,
+   "Commercial-Customers": 1246.0,
+   "Industrial-Sales-($)": 726500.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 10095.0,
+   "cities-served": [
+    "Kirkwood"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Louis County, MO",
+     "population": 1004125
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 10095
+    }
+   ]
+  },
+  {
+   "company": "Gascosage Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.gascosage.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13920000.0,
+   "Residential-Customers": 8955.0,
+   "Commercial-Sales-($)": 2551000.0,
+   "Commercial-Customers": 945.0,
+   "Industrial-Sales-($)": 1698000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 9902.0,
+   "cities-served": [
+    "Crocker, MO",
+    "Dixon, MO",
+    "Doolittle, MO",
+    "Iberia, MO",
+    "Newburg, MO",
+    "Richland, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    },
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    },
+    {
+     "county": "Miller County, MO",
+     "population": 24722
+    },
+    {
+     "county": "Maries County, MO",
+     "population": 8432
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9902
+    }
+   ]
+  },
+  {
+   "company": "United Electric Cooperative (Missouri)",
+   "company-type": "Cooperative",
+   "website": "https://www.ueci.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 22223993.086,
+   "Residential-Customers": 9738.0,
+   "Commercial-Sales-($)": 1151606.914,
+   "Commercial-Customers": 56.0,
+   "Total-Customers": 9794.0,
+   "cities-served": [
+    "Albany, MO",
+    "Allendale, MO",
+    "Amazonia, MO",
+    "Amity, MO",
+    "Arkoe, MO",
+    "Barnard, MO",
+    "Blockton, IA",
+    "Bolckow, MO",
+    "Burlington Junction, MO",
+    "Cameron, MO",
+    "Clarksdale, MO",
+    "Clearmont, MO",
+    "Clyde, MO",
+    "Conception Junction, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Darlington, MO",
+    "Dearborn, MO",
+    "Denver, MO",
+    "Easton, MO",
+    "Elmo, MO",
+    "Elwood, KS",
+    "Fillmore, MO",
+    "Forest City, MO",
+    "Gentry, MO",
+    "Gower, MO",
+    "Graham, MO",
+    "Grant City, MO",
+    "Guilford, MO",
+    "Hopkins, MO",
+    "Irena, MO",
+    "King City, MO",
+    "Maitland, MO",
+    "Maryville, MO",
+    "Maysville, MO",
+    "McFall, MO",
+    "Oregon, MO",
+    "Osborn, MO",
+    "Parnell, MO",
+    "Pickering, MO",
+    "Quitman, MO",
+    "Ravenwood, MO",
+    "Rea, MO",
+    "Rosendale, MO",
+    "Savannah, MO",
+    "Sheridan, MO",
+    "Skidmore, MO",
+    "St. Joseph, MO",
+    "Stanberry, MO",
+    "Stewartsville, MO",
+    "Union Star, MO",
+    "Weatherby, MO",
+    "Worth, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "DeKalb County, MO",
+     "population": 11029
+    },
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    },
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    },
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9265
+    },
+    {
+     "state": "Iowa",
+     "customers": 529
+    }
+   ]
+  },
+  {
+   "company": "Rolla Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.rollamunicipalutilities.org/electric-service/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10503000.0,
+   "Residential-Customers": 8071.0,
+   "Commercial-Sales-($)": 4286000.0,
+   "Commercial-Customers": 1419.0,
+   "Industrial-Sales-($)": 10993000.0,
+   "Industrial-Customers": 132.0,
+   "Total-Customers": 9622.0,
+   "cities-served": [
+    "Rolla"
+   ],
+   "counties-served": [
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9622
+    }
+   ]
+  },
+  {
+   "company": "Municipal Utilities Poplar Bluff Missouri",
+   "company-type": "Municipal",
+   "website": "https://www.pbutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11280500.0,
+   "Residential-Customers": 7832.0,
+   "Commercial-Sales-($)": 14668500.0,
+   "Commercial-Customers": 1747.0,
+   "Industrial-Sales-($)": 4272000.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 9592.0,
+   "Total-Production-MWh": 2317.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2317.0,
+   "cities-served": [
+    "Poplar Bluff"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, MO",
+     "population": 42130
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9592
+    }
+   ]
+  },
+  {
+   "company": "Barry Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.barryelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14015163.779,
+   "Residential-Customers": 8312.0,
+   "Commercial-Sales-($)": 4431507.145,
+   "Commercial-Customers": 1262.0,
+   "Industrial-Sales-($)": 1556829.076,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 9577.0,
+   "cities-served": [
+    "Butterfield, MO",
+    "Cassville, MO",
+    "Exeter, MO",
+    "Seligman, MO",
+    "Washburn, MO",
+    "Wheaton, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9577
+    }
+   ]
+  },
+  {
+   "company": "Hannibal Electric",
+   "company-type": "Municipal",
+   "website": "https://www.hannibalbpw.org/departments/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8837400.0,
+   "Residential-Customers": 7608.0,
+   "Commercial-Sales-($)": 3162400.0,
+   "Commercial-Customers": 1048.0,
+   "Industrial-Sales-($)": 10198400.0,
+   "Industrial-Customers": 115.0,
+   "Total-Customers": 8771.0,
+   "cities-served": [
+    "Hannibal"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 8771
+    }
+   ]
+  },
+  {
+   "company": "Sikeston Electric",
+   "company-type": "Municipal",
+   "website": "https://www.sikestonbmu.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10055000.0,
+   "Residential-Customers": 7080.0,
+   "Commercial-Sales-($)": 11155000.0,
+   "Commercial-Customers": 1578.0,
+   "Industrial-Sales-($)": 6070000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 8676.0,
+   "Total-Production-MWh": 1698771.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1698771.0,
+   "cities-served": [
+    "Miner, MO",
+    "Sikeston, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Scott County, MO",
+     "population": 38059
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 8676
+    }
+   ]
+  },
+  {
+   "company": "Pemiscot-Dunklin Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.pemdunk.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10649685.126,
+   "Residential-Customers": 5482.0,
+   "Commercial-Sales-($)": 3885105.89,
+   "Commercial-Customers": 1307.0,
+   "Industrial-Sales-($)": 5042108.984,
+   "Industrial-Customers": 1822.0,
+   "Total-Customers": 8611.0,
+   "cities-served": [
+    "Arbyrd, MO",
+    "Bragg City, MO",
+    "Campbell, MO",
+    "Cardwell, MO",
+    "Caruthersville, MO",
+    "Clarkton, MO",
+    "Cooter, MO",
+    "Gideon, MO",
+    "Hayti, MO",
+    "Hayti Heights, MO",
+    "Holcomb, MO",
+    "Holland, MO",
+    "Homestown, MO",
+    "Hornersville, MO",
+    "Kennett, MO",
+    "Marston, MO",
+    "Pascola, MO",
+    "Portageville, MO",
+    "Risco, MO",
+    "Rives, MO",
+    "Senath, MO",
+    "Steele, MO",
+    "Tallapoosa, MO",
+    "Wardell, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    },
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    },
+    {
+     "county": "Pemiscot County, MO",
+     "population": 15661
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 8611
+    }
+   ]
+  },
+  {
+   "company": "Consolidated Electric Mexico, Missouri",
+   "company-type": "Cooperative",
+   "website": "http://www.consolidatedelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13249600.0,
+   "Residential-Customers": 7528.0,
+   "Commercial-Sales-($)": 2956700.0,
+   "Commercial-Customers": 520.0,
+   "Industrial-Sales-($)": 6983900.0,
+   "Industrial-Customers": 81.0,
+   "Total-Customers": 8129.0,
+   "cities-served": [
+    "Bellflower, MO",
+    "Benton City, MO",
+    "Bowling Green, MO",
+    "Centralia, MO",
+    "Curryville, MO",
+    "Farber, MO",
+    "Goss, MO",
+    "High Hill, MO",
+    "Jonesburg, MO",
+    "Laddonia, MO",
+    "Martinsburg, MO",
+    "Mexico, MO",
+    "Middletown, MO",
+    "Montgomery City, MO",
+    "New Florence, MO",
+    "Paris, MO",
+    "Perry, MO",
+    "Rush Hill, MO",
+    "Stoutsville, MO",
+    "Vandalia, MO",
+    "Vandiver, MO",
+    "Wellsville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    },
+    {
+     "county": "Callaway County, MO",
+     "population": 44283
+    },
+    {
+     "county": "Audrain County, MO",
+     "population": 24962
+    },
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Montgomery County, MO",
+     "population": 11322
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 8129
+    }
+   ]
+  },
+  {
+   "company": "Carthage Water and Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cwep.com/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8837000.0,
+   "Residential-Customers": 6792.0,
+   "Commercial-Sales-($)": 6075000.0,
+   "Commercial-Customers": 1090.0,
+   "Industrial-Sales-($)": 10617000.0,
+   "Industrial-Customers": 27.0,
+   "Total-Customers": 7909.0,
+   "Total-Production-MWh": 3016.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3016.0,
+   "cities-served": [
+    "Brooklyn Heights, MO",
+    "Carthage, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 7909
+    }
+   ]
+  },
+  {
+   "company": "Farmington City Light and Water",
+   "company-type": "Municipal",
+   "website": "https://www.farmington-mo.gov/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8414800.0,
+   "Residential-Customers": 6616.0,
+   "Commercial-Sales-($)": 3593400.0,
+   "Commercial-Customers": 1004.0,
+   "Industrial-Sales-($)": 9164500.0,
+   "Industrial-Customers": 161.0,
+   "Total-Customers": 7781.0,
+   "Total-Production-MWh": 118.0,
+   "Production-from-Non-Renewable-Energy-MWh": 118.0,
+   "cities-served": [
+    "Farmington"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Francois County, MO",
+     "population": 66922
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 7781
+    }
+   ]
+  },
+  {
+   "company": "Jackson Light Company",
+   "company-type": "Municipal",
+   "website": "http://www.jacksonmo.org/Utilities-Spot/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8589294.383,
+   "Residential-Customers": 6503.0,
+   "Commercial-Sales-($)": 5117500.257,
+   "Commercial-Customers": 944.0,
+   "Industrial-Sales-($)": 2152705.359,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 7454.0,
+   "Total-Production-MWh": 140.0,
+   "Production-from-Non-Renewable-Energy-MWh": 140.0,
+   "cities-served": [
+    "Jackson"
+   ],
+   "counties-served": [
+    {
+     "county": "Cape Girardeau County, MO",
+     "population": 81710
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 7454
+    }
+   ]
+  },
+  {
+   "company": "Lewis County REC",
+   "company-type": "Cooperative",
+   "website": "https://www.lewiscountyrec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11444245.777,
+   "Residential-Customers": 6475.0,
+   "Commercial-Sales-($)": 2383302.717,
+   "Commercial-Customers": 757.0,
+   "Industrial-Sales-($)": 1742451.505,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 7247.0,
+   "cities-served": [
+    "Alexandria, MO",
+    "Baring, MO",
+    "Canton, MO",
+    "Edina, MO",
+    "Ewing, MO",
+    "Hurdland, MO",
+    "Kahoka, MO",
+    "Knox City, MO",
+    "La Belle, MO",
+    "La Grange, MO",
+    "Lewistown, MO",
+    "Luray, MO",
+    "Monticello, MO",
+    "Newark, MO",
+    "Novelty, MO",
+    "Revere, MO",
+    "Wayland, MO",
+    "Wyaconda, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Lewis County, MO",
+     "population": 10032
+    },
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 7247
+    }
+   ]
+  },
+  {
+   "company": "Lebanon City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.municipalonlinepayments.com/lebanonmo/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8089000.0,
+   "Residential-Customers": 5821.0,
+   "Commercial-Sales-($)": 5373000.0,
+   "Commercial-Customers": 1321.0,
+   "Industrial-Sales-($)": 10478000.0,
+   "Industrial-Customers": 70.0,
+   "Total-Customers": 7212.0,
+   "cities-served": [
+    "Lebanon"
+   ],
+   "counties-served": [
+    {
+     "county": "Laclede County, MO",
+     "population": 36039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 7212
+    }
+   ]
+  },
+  {
+   "company": "Grundy Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.grundyec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 11954198.832,
+   "Residential-Customers": 6425.0,
+   "Commercial-Sales-($)": 2162701.168,
+   "Commercial-Customers": 296.0,
+   "Total-Customers": 6721.0,
+   "cities-served": [
+    "Bethany, MO",
+    "Blythedale, MO",
+    "Brimson, MO",
+    "Browning, MO",
+    "Cainsville, MO",
+    "Clio, IA",
+    "Eagleville, MO",
+    "Galt, MO",
+    "Gilman City, MO",
+    "Harris, MO",
+    "Humphreys, MO",
+    "Laredo, MO",
+    "Lineville, IA",
+    "Mercer, MO",
+    "Mount Moriah, MO",
+    "New Hampton, MO",
+    "Newtown, MO",
+    "Osgood, MO",
+    "Pleasanton, IA",
+    "Princeton, MO",
+    "Ridgeway, MO",
+    "South Lineville, MO",
+    "Spickard, MO",
+    "Tindall, MO",
+    "Trenton, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Harrison County, MO",
+     "population": 8157
+    },
+    {
+     "county": "Decatur County, IA",
+     "population": 7645
+    },
+    {
+     "county": "Wayne County, IA",
+     "population": 6497
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    },
+    {
+     "county": "Mercer County, MO",
+     "population": 3538
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6494
+    },
+    {
+     "state": "Iowa",
+     "customers": 227
+    }
+   ]
+  },
+  {
+   "company": "Barton County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.bartonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11515971.928,
+   "Residential-Customers": 5934.0,
+   "Commercial-Sales-($)": 3836355.562,
+   "Commercial-Customers": 659.0,
+   "Industrial-Sales-($)": 2428672.51,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 6601.0,
+   "cities-served": [
+    "Asbury, MO",
+    "Bronaugh, MO",
+    "Burgess, MO",
+    "Carytown, MO",
+    "Deerfield, MO",
+    "Golden City, MO",
+    "Jasper, MO",
+    "Lamar, MO",
+    "Lamar Heights, MO",
+    "Liberal, MO",
+    "Milford, MO",
+    "Milo, MO",
+    "Mindenmines, MO",
+    "Moundville, MO",
+    "Neck City, MO",
+    "Nevada, MO",
+    "Purcell, MO",
+    "Richards, MO",
+    "Sheldon, MO",
+    "Waco, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Jasper County, MO",
+     "population": 122761
+    },
+    {
+     "county": "Vernon County, MO",
+     "population": 19707
+    },
+    {
+     "county": "Cedar County, MO",
+     "population": 14188
+    },
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    },
+    {
+     "county": "Dade County, MO",
+     "population": 7569
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6601
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Cooperative Association",
+   "company-type": "Cooperative",
+   "website": "https://www.tricountyelectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 10790754.396,
+   "Residential-Customers": 5888.0,
+   "Commercial-Sales-($)": 2331245.604,
+   "Commercial-Customers": 569.0,
+   "Total-Customers": 6457.0,
+   "cities-served": [
+    "Arbela, MO",
+    "Brashear, MO",
+    "Downing, MO",
+    "Gibbs, MO",
+    "Glenwood, MO",
+    "Granger, MO",
+    "Greentop, MO",
+    "Kirksville, MO",
+    "Lancaster, MO",
+    "Memphis, MO",
+    "Millard, MO",
+    "Novinger, MO",
+    "Queen City, MO",
+    "Rutledge, MO",
+    "South Gorin, MO",
+    "Worthington, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    },
+    {
+     "county": "Knox County, MO",
+     "population": 3744
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6457
+    }
+   ]
+  },
+  {
+   "company": "West Plains City Utilities",
+   "company-type": "Municipal",
+   "website": "https://westplains.net/city-services/#electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6045924.842,
+   "Residential-Customers": 5150.0,
+   "Commercial-Sales-($)": 2678008.496,
+   "Commercial-Customers": 1116.0,
+   "Industrial-Sales-($)": 6144066.662,
+   "Industrial-Customers": 143.0,
+   "Total-Customers": 6409.0,
+   "Total-Production-MWh": 2466.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2466.0,
+   "cities-served": [
+    "West Plains"
+   ],
+   "counties-served": [
+    {
+     "county": "Howell County, MO",
+     "population": 39750
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6409
+    }
+   ]
+  },
+  {
+   "company": "Ralls County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.rallscountyelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11281267.686,
+   "Residential-Customers": 5544.0,
+   "Commercial-Sales-($)": 2918202.677,
+   "Commercial-Customers": 761.0,
+   "Industrial-Sales-($)": 623529.637,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 6306.0,
+   "cities-served": [
+    "Ashburn, MO",
+    "Bowling Green, MO",
+    "Center, MO",
+    "Curryville, MO",
+    "Florida, MO",
+    "Frankford, MO",
+    "Hannibal, MO",
+    "Louisiana, MO",
+    "New London, MO",
+    "Perry, MO",
+    "Rensselaer, MO",
+    "Vandalia, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Pike County, MO",
+     "population": 17587
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6306
+    }
+   ]
+  },
+  {
+   "company": "SE-MA-NO Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.semano.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8011765.21,
+   "Residential-Customers": 5899.0,
+   "Commercial-Sales-($)": 1186725.36,
+   "Commercial-Customers": 355.0,
+   "Industrial-Sales-($)": 800509.43,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 6258.0,
+   "cities-served": [
+    "Diggins, MO",
+    "Mansfield, MO",
+    "Mountain Grove, MO",
+    "Norwood, MO",
+    "Seymour, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    },
+    {
+     "county": "Texas County, MO",
+     "population": 24487
+    },
+    {
+     "county": "Wright County, MO",
+     "population": 18188
+    },
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6258
+    }
+   ]
+  },
+  {
+   "company": "Marshall Municipal Utilities Marshall MO",
+   "company-type": "Municipal",
+   "website": "https://www.mmumo.net/electricity.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5706139.494,
+   "Residential-Customers": 4955.0,
+   "Commercial-Sales-($)": 6286373.36,
+   "Commercial-Customers": 966.0,
+   "Industrial-Sales-($)": 5390287.147,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 5929.0,
+   "Total-Production-MWh": 9925.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9925.0,
+   "cities-served": [
+    "Marshall"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 5929
+    }
+   ]
+  },
+  {
+   "company": "Fulton Utilities",
+   "company-type": "Municipal",
+   "website": "http://fultonmo.org/departments-1/utilities/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4955375.931,
+   "Residential-Customers": 4593.0,
+   "Commercial-Sales-($)": 4890133.995,
+   "Commercial-Customers": 1039.0,
+   "Industrial-Sales-($)": 5525490.074,
+   "Industrial-Customers": 47.0,
+   "Total-Customers": 5679.0,
+   "Total-Production-MWh": 291.0,
+   "Production-from-Non-Renewable-Energy-MWh": 291.0,
+   "cities-served": [
+    "Fulton"
+   ],
+   "counties-served": [
+    {
+     "county": "Callaway County, MO",
+     "population": 44283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 5679
+    }
+   ]
+  },
+  {
+   "company": "City Light Gas & Water",
+   "company-type": "Municipal",
+   "website": "http://clgw.net/dept_electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5328905.076,
+   "Residential-Customers": 4679.0,
+   "Commercial-Sales-($)": 4268863.522,
+   "Commercial-Customers": 613.0,
+   "Industrial-Sales-($)": 390931.402,
+   "Industrial-Customers": 307.0,
+   "Total-Customers": 5599.0,
+   "Total-Production-MWh": 1898.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1898.0,
+   "cities-served": [
+    "Kennett"
+   ],
+   "counties-served": [
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 5599
+    }
+   ]
+  },
+  {
+   "company": "Missouri Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.morec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7560000.0,
+   "Residential-Customers": 4857.0,
+   "Commercial-Sales-($)": 2627000.0,
+   "Commercial-Customers": 562.0,
+   "Industrial-Sales-($)": 8000000.0,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 5430.0,
+   "cities-served": [
+    "Hannibal, MO",
+    "Hunnewell, MO",
+    "Monroe City, MO",
+    "Palmyra, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    },
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    },
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    },
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 5430
+    }
+   ]
+  },
+  {
+   "company": "City of Harrisonville Utilities",
+   "company-type": "Municipal",
+   "website": "http://ci.harrisonville.mo.us/83/Electric-Utility",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4861769.611,
+   "Residential-Customers": 4405.0,
+   "Commercial-Sales-($)": 5955230.389,
+   "Commercial-Customers": 849.0,
+   "Total-Customers": 5254.0,
+   "cities-served": [
+    "Harrisonville"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, MO",
+     "population": 107824
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 5254
+    }
+   ]
+  },
+  {
+   "company": "North Central Missouri Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ncmec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 6974915.981,
+   "Residential-Customers": 4451.0,
+   "Commercial-Sales-($)": 8816984.019,
+   "Commercial-Customers": 389.0,
+   "Total-Customers": 4840.0,
+   "cities-served": [
+    "Browning, MO",
+    "Green City, MO",
+    "Greencastle, MO",
+    "Livonia, MO",
+    "Milan, MO",
+    "Pollock, MO",
+    "Purdin, MO",
+    "Unionville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, MO",
+     "population": 25314
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Schuyler County, MO",
+     "population": 4032
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 4840
+    }
+   ]
+  },
+  {
+   "company": "City of Monett Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmonett.com/departments/utilities/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4883700.0,
+   "Residential-Customers": 3977.0,
+   "Commercial-Sales-($)": 4775400.0,
+   "Commercial-Customers": 721.0,
+   "Industrial-Sales-($)": 9733400.0,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 4738.0,
+   "cities-served": [
+    "Monett"
+   ],
+   "counties-served": [
+    {
+     "county": "Barry County, MO",
+     "population": 34534
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 4738
+    }
+   ]
+  },
+  {
+   "company": "Chillicothe Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.cmuchillicothe.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4553911.889,
+   "Residential-Customers": 3688.0,
+   "Commercial-Sales-($)": 4265871.922,
+   "Commercial-Customers": 846.0,
+   "Industrial-Sales-($)": 693216.189,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 4563.0,
+   "Total-Production-MWh": 3233.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3233.0,
+   "cities-served": [
+    "Chillicothe"
+   ],
+   "counties-served": [
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 4563
+    }
+   ]
+  },
+  {
+   "company": "Sullivan Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.sullivan.mo.us/departments/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3776964.953,
+   "Residential-Customers": 3185.0,
+   "Commercial-Sales-($)": 963492.303,
+   "Commercial-Customers": 593.0,
+   "Industrial-Sales-($)": 3860542.745,
+   "Industrial-Customers": 117.0,
+   "Total-Customers": 3895.0,
+   "cities-served": [
+    "Sullivan"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, MO",
+     "population": 104682
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 3895
+    }
+   ]
+  },
+  {
+   "company": "Atchison-Holt Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.ahec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5300050.476,
+   "Residential-Customers": 3273.0,
+   "Commercial-Sales-($)": 2357714.762,
+   "Commercial-Customers": 284.0,
+   "Industrial-Sales-($)": 419234.762,
+   "Industrial-Customers": 88.0,
+   "Total-Customers": 3645.0,
+   "cities-served": [
+    "Big Lake, MO",
+    "Bigelow, MO",
+    "Corning, MO",
+    "Craig, MO",
+    "Elmo, MO",
+    "Fairfax, MO",
+    "Forest City, MO",
+    "Fortescue, MO",
+    "Maitland, MO",
+    "Mound City, MO",
+    "Nebraska City, NE",
+    "Oregon, MO",
+    "Rock Port, MO",
+    "Tarkio, MO",
+    "Watson, MO",
+    "Westboro, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    },
+    {
+     "county": "Fremont County, IA",
+     "population": 6605
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2491
+    },
+    {
+     "state": "Iowa",
+     "customers": 1154
+    }
+   ]
+  },
+  {
+   "company": "Howard Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.howardelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 6503252.099,
+   "Residential-Customers": 3493.0,
+   "Commercial-Sales-($)": 819047.901,
+   "Commercial-Customers": 136.0,
+   "Total-Customers": 3629.0,
+   "cities-served": [
+    "Armstrong, MO",
+    "Fayette, MO",
+    "Franklin, MO",
+    "Glasgow, MO",
+    "Higbee, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Randolph County, MO",
+     "population": 24716
+    },
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    },
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 3629
+    }
+   ]
+  },
+  {
+   "company": "Cameron Electric",
+   "company-type": "Municipal",
+   "website": "http://www.cameron-mo.com/76/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3288407.692,
+   "Residential-Customers": 2886.0,
+   "Commercial-Sales-($)": 2188238.462,
+   "Commercial-Customers": 501.0,
+   "Industrial-Sales-($)": 1178353.846,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 3393.0,
+   "cities-served": [
+    "Cameron"
+   ],
+   "counties-served": [
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 3393
+    }
+   ]
+  },
+  {
+   "company": "St Robert Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.saintrobert.com/177/Utility-Services-Billing",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2573631.445,
+   "Residential-Customers": 2651.0,
+   "Commercial-Sales-($)": 3934368.555,
+   "Commercial-Customers": 554.0,
+   "Total-Customers": 3205.0,
+   "cities-served": [
+    "St. Robert"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 3205
+    }
+   ]
+  },
+  {
+   "company": "Macon, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.maconutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3879687.593,
+   "Residential-Customers": 2588.0,
+   "Commercial-Sales-($)": 2758682.698,
+   "Commercial-Customers": 497.0,
+   "Industrial-Sales-($)": 3053629.708,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 3090.0,
+   "Total-Production-MWh": 88219.0,
+   "Production-from-Non-Renewable-Energy-MWh": 88219.0,
+   "cities-served": [
+    "Macon"
+   ],
+   "counties-served": [
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 3090
+    }
+   ]
+  },
+  {
+   "company": "Trenton Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.trentonmo.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3282142.068,
+   "Residential-Customers": 2497.0,
+   "Commercial-Sales-($)": 2436130.613,
+   "Commercial-Customers": 479.0,
+   "Industrial-Sales-($)": 1266627.32,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 2988.0,
+   "Total-Production-MWh": 529.0,
+   "Production-from-Non-Renewable-Energy-MWh": 529.0,
+   "cities-served": [
+    "Trenton"
+   ],
+   "counties-served": [
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2988
+    }
+   ]
+  },
+  {
+   "company": "Higginsville, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.highlandil.gov/departments/light___power/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2798614.12,
+   "Residential-Customers": 2041.0,
+   "Commercial-Sales-($)": 629903.602,
+   "Commercial-Customers": 395.0,
+   "Industrial-Sales-($)": 2729582.277,
+   "Industrial-Customers": 66.0,
+   "Total-Customers": 2502.0,
+   "Total-Production-MWh": 13065.0,
+   "Production-from-Non-Renewable-Energy-MWh": 13065.0,
+   "cities-served": [
+    "Higginsville"
+   ],
+   "counties-served": [
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2502
+    }
+   ]
+  },
+  {
+   "company": "Lamar, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityoflamar.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2540385.612,
+   "Residential-Customers": 1988.0,
+   "Commercial-Sales-($)": 2417778.938,
+   "Commercial-Customers": 421.0,
+   "Industrial-Sales-($)": 1242935.45,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 2424.0,
+   "cities-served": [
+    "Lamar"
+   ],
+   "counties-served": [
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2424
+    }
+   ]
+  },
+  {
+   "company": "City of Waynesville Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.waynesvillemo.org/utilities-1",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3981943.299,
+   "Residential-Customers": 2143.0,
+   "Commercial-Sales-($)": 2563056.701,
+   "Commercial-Customers": 278.0,
+   "Total-Customers": 2421.0,
+   "cities-served": [
+    "Waynesville"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2421
+    }
+   ]
+  },
+  {
+   "company": "California, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcalifornia.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2070385.176,
+   "Residential-Customers": 2021.0,
+   "Commercial-Sales-($)": 373591.891,
+   "Commercial-Customers": 289.0,
+   "Industrial-Sales-($)": 853322.932,
+   "Industrial-Customers": 84.0,
+   "Total-Customers": 2394.0,
+   "cities-served": [
+    "California"
+   ],
+   "counties-served": [
+    {
+     "county": "Moniteau County, MO",
+     "population": 15473
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2394
+    }
+   ]
+  },
+  {
+   "company": "Butler, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbutlermo.com/609/Public-Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2287391.282,
+   "Residential-Customers": 1937.0,
+   "Commercial-Sales-($)": 2133280.832,
+   "Commercial-Customers": 425.0,
+   "Industrial-Sales-($)": 493727.886,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 2366.0,
+   "Total-Production-MWh": 296.0,
+   "Production-from-Non-Renewable-Energy-MWh": 296.0,
+   "cities-served": [
+    "Butler"
+   ],
+   "counties-served": [
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2366
+    }
+   ]
+  },
+  {
+   "company": "Centralia, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.centraliamo.org/publicworks-utilities/page/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2879073.42,
+   "Residential-Customers": 2112.0,
+   "Commercial-Sales-($)": 824726.58,
+   "Commercial-Customers": 241.0,
+   "Total-Customers": 2353.0,
+   "cities-served": [
+    "Centralia"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, MO",
+     "population": 183610
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2353
+    }
+   ]
+  },
+  {
+   "company": "Odessa Power",
+   "company-type": "Municipal",
+   "website": "https://www.cityofodessamo.com/49/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2191492.623,
+   "Residential-Customers": 1993.0,
+   "Commercial-Sales-($)": 1032895.957,
+   "Commercial-Customers": 275.0,
+   "Industrial-Sales-($)": 1091611.42,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 2286.0,
+   "cities-served": [
+    "Odessa"
+   ],
+   "counties-served": [
+    {
+     "county": "Lafayette County, MO",
+     "population": 32984
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2286
+    }
+   ]
+  },
+  {
+   "company": "Mount Vernon Electric",
+   "company-type": "Municipal",
+   "website": "http://www.mtvernon-cityhall.org/index.cfm?content=51",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2004300.171,
+   "Residential-Customers": 1929.0,
+   "Commercial-Sales-($)": 2526697.555,
+   "Commercial-Customers": 290.0,
+   "Industrial-Sales-($)": 1720002.274,
+   "Industrial-Customers": 20.0,
+   "Total-Customers": 2239.0,
+   "cities-served": [
+    "Mount Vernon"
+   ],
+   "counties-served": [
+    {
+     "county": "Lawrence County, MO",
+     "population": 38001
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2239
+    }
+   ]
+  },
+  {
+   "company": "Malden, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.maldenmo.com/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1899966.746,
+   "Residential-Customers": 1773.0,
+   "Commercial-Sales-($)": 1748658.911,
+   "Commercial-Customers": 417.0,
+   "Industrial-Sales-($)": 360074.343,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 2196.0,
+   "Total-Production-MWh": 264.0,
+   "Production-from-Non-Renewable-Energy-MWh": 264.0,
+   "cities-served": [
+    "Malden"
+   ],
+   "counties-served": [
+    {
+     "county": "Dunklin County, MO",
+     "population": 28283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2196
+    }
+   ]
+  },
+  {
+   "company": "Fredericktown, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.fredericktownmo.org/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2884595.588,
+   "Residential-Customers": 1828.0,
+   "Commercial-Sales-($)": 2084755.167,
+   "Commercial-Customers": 353.0,
+   "Industrial-Sales-($)": 372549.246,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 2193.0,
+   "cities-served": [
+    "Fredericktown"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, MO",
+     "population": 12626
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2193
+    }
+   ]
+  },
+  {
+   "company": "Carrollton Board of Public Works",
+   "company-type": "Municipal",
+   "website": "http://www.carrolltonmu.com/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2054503.825,
+   "Residential-Customers": 1616.0,
+   "Commercial-Sales-($)": 215796.805,
+   "Commercial-Customers": 250.0,
+   "Industrial-Sales-($)": 2108699.37,
+   "Industrial-Customers": 168.0,
+   "Total-Customers": 2034.0,
+   "cities-served": [
+    "Carrollton"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, MO",
+     "population": 8495
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2034
+    }
+   ]
+  },
+  {
+   "company": "St James Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.stjamesmo.org/departments/utilities/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2328612.523,
+   "Residential-Customers": 1702.0,
+   "Commercial-Sales-($)": 2642431.326,
+   "Commercial-Customers": 272.0,
+   "Industrial-Sales-($)": 670956.151,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1979.0,
+   "cities-served": [
+    "St. James"
+   ],
+   "counties-served": [
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1979
+    }
+   ]
+  },
+  {
+   "company": "Cuba Electric Company",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcubamo.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1727753.839,
+   "Residential-Customers": 1573.0,
+   "Commercial-Sales-($)": 2512105.002,
+   "Commercial-Customers": 305.0,
+   "Industrial-Sales-($)": 1265141.159,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1891.0,
+   "cities-served": [
+    "Cuba"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1891
+    }
+   ]
+  },
+  {
+   "company": "Palmyra, Missouri Electric Utility",
+   "company-type": "Cooperative",
+   "website": "https://www.showmepalmyra.com/cityhall.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2060505.252,
+   "Residential-Customers": 1630.0,
+   "Commercial-Sales-($)": 1274069.982,
+   "Commercial-Customers": 254.0,
+   "Industrial-Sales-($)": 123224.765,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1889.0,
+   "cities-served": [
+    "Palmyra"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, MO",
+     "population": 28525
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1889
+    }
+   ]
+  },
+  {
+   "company": "Bethany, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://bethanymo.com/services/departments/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1570667.17,
+   "Residential-Customers": 1475.0,
+   "Commercial-Sales-($)": 2396432.83,
+   "Commercial-Customers": 373.0,
+   "Total-Customers": 1848.0,
+   "cities-served": [
+    "Bethany"
+   ],
+   "counties-served": [
+    {
+     "county": "Harrison County, MO",
+     "population": 8157
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1848
+    }
+   ]
+  },
+  {
+   "company": "New Madrid, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.new-madrid.mo.us/18/Municipal-Light-Power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1726347.855,
+   "Residential-Customers": 1445.0,
+   "Commercial-Sales-($)": 677440.013,
+   "Commercial-Customers": 267.0,
+   "Industrial-Sales-($)": 513212.131,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 1720.0,
+   "cities-served": [
+    "New Madrid"
+   ],
+   "counties-served": [
+    {
+     "county": "New Madrid County, MO",
+     "population": 16434
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1720
+    }
+   ]
+  },
+  {
+   "company": "Hermann, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.hermannmo.com/municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1519653.639,
+   "Residential-Customers": 1079.0,
+   "Commercial-Sales-($)": 2671085.181,
+   "Commercial-Customers": 456.0,
+   "Industrial-Sales-($)": 991961.18,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1536.0,
+   "cities-served": [
+    "Hermann"
+   ],
+   "counties-served": [
+    {
+     "county": "Gasconade County, MO",
+     "population": 14794
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1536
+    }
+   ]
+  },
+  {
+   "company": "Ava City Utilities",
+   "company-type": "Municipal",
+   "website": "http://avamissouri.org/?page_id=110",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1442097.024,
+   "Residential-Customers": 1179.0,
+   "Commercial-Sales-($)": 547109.107,
+   "Commercial-Customers": 307.0,
+   "Industrial-Sales-($)": 3734793.868,
+   "Industrial-Customers": 49.0,
+   "Total-Customers": 1535.0,
+   "cities-served": [
+    "Ava"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, MO",
+     "population": 11578
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1535
+    }
+   ]
+  },
+  {
+   "company": "Vandalia Electric",
+   "company-type": "Municipal",
+   "website": "https://www.vandaliamo.net/2157/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1723526.316,
+   "Residential-Customers": 1275.0,
+   "Commercial-Sales-($)": 713146.435,
+   "Commercial-Customers": 147.0,
+   "Industrial-Sales-($)": 82327.25,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1424.0,
+   "cities-served": [
+    "Vandalia"
+   ],
+   "counties-served": [
+    {
+     "county": "Audrain County, MO",
+     "population": 24962
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1424
+    }
+   ]
+  },
+  {
+   "company": "City of Monroe Power",
+   "company-type": "Municipal",
+   "website": "https://www.monroecitymo.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1284063.478,
+   "Residential-Customers": 1100.0,
+   "Commercial-Sales-($)": 1137415.56,
+   "Commercial-Customers": 252.0,
+   "Industrial-Sales-($)": 1336820.961,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1356.0,
+   "cities-served": [
+    "Monroe City"
+   ],
+   "counties-served": [
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1356
+    }
+   ]
+  },
+  {
+   "company": "City of Houston, MO Utilities",
+   "company-type": "Municipal",
+   "website": "https://houstonmo.org/departments/electrical/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 780887.788,
+   "Residential-Customers": 840.0,
+   "Commercial-Sales-($)": 2222816.349,
+   "Commercial-Customers": 430.0,
+   "Industrial-Sales-($)": 142695.863,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1274.0,
+   "cities-served": [
+    "Houston"
+   ],
+   "counties-served": [
+    {
+     "county": "Texas County, MO",
+     "population": 24487
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1274
+    }
+   ]
+  },
+  {
+   "company": "City of Marceline, Missouri (Utility Company)",
+   "company-type": "Municipal",
+   "website": "http://www.marcelinemo.us/government/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1348757.467,
+   "Residential-Customers": 1009.0,
+   "Commercial-Sales-($)": 646535.245,
+   "Commercial-Customers": 211.0,
+   "Industrial-Sales-($)": 1164707.288,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 1239.0,
+   "Total-Production-MWh": 6.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6.0,
+   "cities-served": [
+    "Marceline"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1239
+    }
+   ]
+  },
+  {
+   "company": "Kahoka, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/kahokamo/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1432939.749,
+   "Residential-Customers": 1083.0,
+   "Commercial-Sales-($)": 541163.416,
+   "Commercial-Customers": 122.0,
+   "Industrial-Sales-($)": 223896.836,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1211.0,
+   "Total-Production-MWh": 17.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17.0,
+   "cities-served": [
+    "Kahoka"
+   ],
+   "counties-served": [
+    {
+     "county": "Clark County, MO",
+     "population": 6634
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1211
+    }
+   ]
+  },
+  {
+   "company": "Memphis, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofmemphismo.com/about-us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1149692.597,
+   "Residential-Customers": 977.0,
+   "Commercial-Sales-($)": 1255307.403,
+   "Commercial-Customers": 231.0,
+   "Total-Customers": 1208.0,
+   "cities-served": [
+    "Memphis"
+   ],
+   "counties-served": [
+    {
+     "county": "Scotland County, MO",
+     "population": 4716
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1208
+    }
+   ]
+  },
+  {
+   "company": "Unionville, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.unionvillemo.org/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1617223.492,
+   "Residential-Customers": 1004.0,
+   "Commercial-Sales-($)": 408064.36,
+   "Commercial-Customers": 187.0,
+   "Industrial-Sales-($)": 644312.148,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 1202.0,
+   "Total-Production-MWh": 7.0,
+   "Production-from-Non-Renewable-Energy-MWh": 7.0,
+   "cities-served": [
+    "Unionville"
+   ],
+   "counties-served": [
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1202
+    }
+   ]
+  },
+  {
+   "company": "Fayette, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityoffayettemo.com/parks-and-recreation-commission/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1185257.569,
+   "Residential-Customers": 1012.0,
+   "Commercial-Sales-($)": 1372242.431,
+   "Commercial-Customers": 183.0,
+   "Total-Customers": 1195.0,
+   "cities-served": [
+    "Fayette"
+   ],
+   "counties-served": [
+    {
+     "county": "Howard County, MO",
+     "population": 10151
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1195
+    }
+   ]
+  },
+  {
+   "company": "Willow Springs, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://willowspringsmo.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 941133.333,
+   "Residential-Customers": 856.0,
+   "Commercial-Sales-($)": 1245953.846,
+   "Commercial-Customers": 252.0,
+   "Industrial-Sales-($)": 784912.821,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 1129.0,
+   "cities-served": [
+    "Willow Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Howell County, MO",
+     "population": 39750
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1129
+    }
+   ]
+  },
+  {
+   "company": "Slater Electric",
+   "company-type": "Municipal",
+   "website": "https://cityofslater.com/gas-and-electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1306642.105,
+   "Residential-Customers": 875.0,
+   "Commercial-Sales-($)": 577389.474,
+   "Commercial-Customers": 159.0,
+   "Industrial-Sales-($)": 902668.421,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1040.0,
+   "cities-served": [
+    "Slater"
+   ],
+   "counties-served": [
+    {
+     "county": "Saline County, MO",
+     "population": 23333
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1040
+    }
+   ]
+  },
+  {
+   "company": "Cabool, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.caboolmo.org/city/public_works.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 812222.061,
+   "Residential-Customers": 752.0,
+   "Commercial-Sales-($)": 717447.025,
+   "Commercial-Customers": 249.0,
+   "Industrial-Sales-($)": 1735330.914,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1014.0,
+   "cities-served": [
+    "Cabool"
+   ],
+   "counties-served": [
+    {
+     "county": "Texas County, MO",
+     "population": 24487
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 1014
+    }
+   ]
+  },
+  {
+   "company": "City of Richland Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.richlandmo.info/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1051281.416,
+   "Residential-Customers": 818.0,
+   "Commercial-Sales-($)": 684318.584,
+   "Commercial-Customers": 181.0,
+   "Total-Customers": 999.0,
+   "cities-served": [
+    "Richland"
+   ],
+   "counties-served": [
+    {
+     "county": "Pulaski County, MO",
+     "population": 53955
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 999
+    }
+   ]
+  },
+  {
+   "company": "Shelbina, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofshelbina.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1121319.719,
+   "Residential-Customers": 769.0,
+   "Commercial-Sales-($)": 744281.229,
+   "Commercial-Customers": 211.0,
+   "Industrial-Sales-($)": 1256599.052,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 981.0,
+   "Total-Production-MWh": 400.0,
+   "Production-from-Non-Renewable-Energy-MWh": 400.0,
+   "cities-served": [
+    "Shelbina"
+   ],
+   "counties-served": [
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 981
+    }
+   ]
+  },
+  {
+   "company": "Salisbury, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.salisburymo.net/city-utilities/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 1886000.0,
+   "Residential-Customers": 980.0,
+   "Total-Customers": 980.0,
+   "cities-served": [
+    "Salisbury"
+   ],
+   "counties-served": [
+    {
+     "county": "Chariton County, MO",
+     "population": 7408
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 980
+    }
+   ]
+  },
+  {
+   "company": "Albany, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.albanymo.net/pview.aspx?id=3892&catid=134",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1217494.547,
+   "Residential-Customers": 831.0,
+   "Commercial-Sales-($)": 787905.453,
+   "Commercial-Customers": 139.0,
+   "Total-Customers": 970.0,
+   "cities-served": [
+    "Albany"
+   ],
+   "counties-served": [
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 970
+    }
+   ]
+  },
+  {
+   "company": "Milan, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.milanmo.gov/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 967551.043,
+   "Residential-Customers": 751.0,
+   "Commercial-Sales-($)": 939843.396,
+   "Commercial-Customers": 210.0,
+   "Industrial-Sales-($)": 1121605.562,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 962.0,
+   "cities-served": [
+    "Milan"
+   ],
+   "counties-served": [
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 962
+    }
+   ]
+  },
+  {
+   "company": "Gallatin, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1277333.333,
+   "Residential-Customers": 789.0,
+   "Commercial-Sales-($)": 638666.667,
+   "Commercial-Customers": 151.0,
+   "Total-Customers": 940.0,
+   "cities-served": [
+    "Gallatin"
+   ],
+   "counties-served": [
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 940
+    }
+   ]
+  },
+  {
+   "company": "Thayer, Missouri Electric Utility Company",
+   "company-type": "Municipal",
+   "website": "https://www.cityofthayer.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 994379.111,
+   "Residential-Customers": 748.0,
+   "Commercial-Sales-($)": 698884.423,
+   "Commercial-Customers": 143.0,
+   "Industrial-Sales-($)": 102936.465,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 892.0,
+   "cities-served": [
+    "Thayer"
+   ],
+   "counties-served": [
+    {
+     "county": "Oregon County, MO",
+     "population": 8635
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 892
+    }
+   ]
+  },
+  {
+   "company": "Seymour, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://seymourmissouri.org/departments-electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 987261.679,
+   "Residential-Customers": 678.0,
+   "Commercial-Sales-($)": 741911.373,
+   "Commercial-Customers": 162.0,
+   "Industrial-Sales-($)": 596526.948,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 848.0,
+   "cities-served": [
+    "Seymour"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, MO",
+     "population": 39085
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 848
+    }
+   ]
+  },
+  {
+   "company": "Steelville, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.steelville.com/steelville-municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 887563.961,
+   "Residential-Customers": 619.0,
+   "Commercial-Sales-($)": 433801.876,
+   "Commercial-Customers": 160.0,
+   "Industrial-Sales-($)": 897734.163,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 793.0,
+   "cities-served": [
+    "Steelville"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, MO",
+     "population": 23056
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 793
+    }
+   ]
+  },
+  {
+   "company": "La Plata, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityoflaplata.net/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 634903.846,
+   "Residential-Customers": 592.0,
+   "Commercial-Sales-($)": 430096.154,
+   "Commercial-Customers": 158.0,
+   "Total-Customers": 750.0,
+   "Total-Production-MWh": 9.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9.0,
+   "cities-served": [
+    "La Plata"
+   ],
+   "counties-served": [
+    {
+     "county": "Macon County, MO",
+     "population": 15209
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 750
+    }
+   ]
+  },
+  {
+   "company": "Rockport, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.rpmo.com/about/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 993141.58,
+   "Residential-Customers": 662.0,
+   "Commercial-Sales-($)": 429858.42,
+   "Commercial-Customers": 74.0,
+   "Total-Customers": 736.0,
+   "cities-served": [
+    "Rock Port"
+   ],
+   "counties-served": [
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 736
+    }
+   ]
+  },
+  {
+   "company": "Paris, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.parismo.net/departments/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 924004.678,
+   "Residential-Customers": 582.0,
+   "Commercial-Sales-($)": 237795.322,
+   "Commercial-Customers": 143.0,
+   "Total-Customers": 725.0,
+   "cities-served": [
+    "Paris"
+   ],
+   "counties-served": [
+    {
+     "county": "Monroe County, MO",
+     "population": 8666
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 725
+    }
+   ]
+  },
+  {
+   "company": "Crane, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.crane-mo.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 621014.419,
+   "Residential-Customers": 598.0,
+   "Commercial-Sales-($)": 450985.581,
+   "Commercial-Customers": 123.0,
+   "Total-Customers": 721.0,
+   "cities-served": [
+    "Crane"
+   ],
+   "counties-served": [
+    {
+     "county": "Stone County, MO",
+     "population": 31076
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 721
+    }
+   ]
+  },
+  {
+   "company": "Rich Hill, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.richhillmo.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 991538.214,
+   "Residential-Customers": 612.0,
+   "Commercial-Sales-($)": 269044.183,
+   "Commercial-Customers": 75.0,
+   "Industrial-Sales-($)": 10017.603,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 690.0,
+   "cities-served": [
+    "Rich Hill"
+   ],
+   "counties-served": [
+    {
+     "county": "Bates County, MO",
+     "population": 16042
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 690
+    }
+   ]
+  },
+  {
+   "company": "Mansfield, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.mansfieldcityhall.org/utility.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 526000.0,
+   "Residential-Customers": 520.0,
+   "Commercial-Sales-($)": 483882.056,
+   "Commercial-Customers": 120.0,
+   "Industrial-Sales-($)": 1094117.944,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 643.0,
+   "cities-served": [
+    "Mansfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Wright County, MO",
+     "population": 18188
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 643
+    }
+   ]
+  },
+  {
+   "company": "City of Winona Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.winona.mo.citygovt.org/Default.aspx?tabid=3486",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 864967.74,
+   "Residential-Customers": 501.0,
+   "Commercial-Sales-($)": 218409.087,
+   "Commercial-Customers": 85.0,
+   "Industrial-Sales-($)": 407823.173,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 601.0,
+   "cities-served": [
+    "Winona"
+   ],
+   "counties-served": [
+    {
+     "county": "Shannon County, MO",
+     "population": 7031
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 601
+    }
+   ]
+  },
+  {
+   "company": "Perry, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://perrymissouri.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 466966.272,
+   "Residential-Customers": 331.0,
+   "Commercial-Sales-($)": 679033.728,
+   "Commercial-Customers": 68.0,
+   "Total-Customers": 399.0,
+   "cities-served": [
+    "Perry"
+   ],
+   "counties-served": [
+    {
+     "county": "Ralls County, MO",
+     "population": 10355
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 399
+    }
+   ]
+  },
+  {
+   "company": "Liberal, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 500712.181,
+   "Residential-Customers": 332.0,
+   "Commercial-Sales-($)": 167787.819,
+   "Commercial-Customers": 40.0,
+   "Total-Customers": 372.0,
+   "cities-served": [
+    "Liberal"
+   ],
+   "counties-served": [
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 372
+    }
+   ]
+  },
+  {
+   "company": "Meadville, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://meadvillemo.weebly.com/utilities.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 248969.734,
+   "Residential-Customers": 205.0,
+   "Commercial-Sales-($)": 84930.266,
+   "Commercial-Customers": 35.0,
+   "Total-Customers": 240.0,
+   "cities-served": [
+    "Meadville"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 240
+    }
+   ]
+  },
+  {
+   "company": "Newburg, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 366456.853,
+   "Residential-Customers": 194.0,
+   "Commercial-Sales-($)": 9543.147,
+   "Commercial-Customers": 4.0,
+   "Total-Customers": 198.0,
+   "cities-served": [
+    "Newburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Phelps County, MO",
+     "population": 44638
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 198
+    }
+   ]
+  },
+  {
+   "company": "Linneus, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 210887.273,
+   "Residential-Customers": 139.0,
+   "Commercial-Sales-($)": 60112.727,
+   "Commercial-Customers": 13.0,
+   "Total-Customers": 152.0,
+   "cities-served": [
+    "Linneus"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 152
+    }
+   ]
+  },
+  {
+   "company": "Mindenmines, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 246608.955,
+   "Residential-Customers": 105.0,
+   "Commercial-Sales-($)": 34391.045,
+   "Commercial-Customers": 5.0,
+   "Total-Customers": 110.0,
+   "cities-served": [
+    "Mindenmines"
+   ],
+   "counties-served": [
+    {
+     "county": "Barton County, MO",
+     "population": 11637
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 110
+    }
+   ]
+  },
+  {
+   "company": "Easton, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 158358.974,
+   "Residential-Customers": 90.0,
+   "Commercial-Sales-($)": 34641.026,
+   "Commercial-Customers": 14.0,
+   "Total-Customers": 104.0,
+   "cities-served": [
+    "Easton"
+   ],
+   "counties-served": [
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 104
+    }
+   ]
+  },
+  {
+   "company": "Galt, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 127499.699,
+   "Residential-Customers": 82.0,
+   "Commercial-Sales-($)": 36100.301,
+   "Commercial-Customers": 21.0,
+   "Total-Customers": 103.0,
+   "cities-served": [
+    "Galt"
+   ],
+   "counties-served": [
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 103
+    }
+   ]
+  },
+  {
+   "company": "Hunnewell, Missouri Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.shelbycountymo.com/hunnewell/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 140168.959,
+   "Residential-Customers": 79.0,
+   "Commercial-Sales-($)": 11631.041,
+   "Commercial-Customers": 10.0,
+   "Total-Customers": 89.0,
+   "cities-served": [
+    "Hunnewell"
+   ],
+   "counties-served": [
+    {
+     "county": "Shelby County, MO",
+     "population": 6103
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 89
+    }
+   ]
+  }
+ ]
+}

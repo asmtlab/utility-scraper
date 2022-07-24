@@ -1,0 +1,137 @@
+{
+ "electrical-providers": [
+  {
+   "company": "The Narragansett Electric Co",
+   "company-type": "Investor Owned",
+   "website": "https://www.nationalgridus.com/RI-Home/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 625706528.0,
+   "Residential-Customers": 403056.0,
+   "Commercial-Sales-($)": 160055437.0,
+   "Commercial-Customers": 44078.0,
+   "Industrial-Sales-($)": 19021961.0,
+   "Industrial-Customers": 1078.0,
+   "Total-Customers": 448212.0,
+   "cities-served": [
+    "Central Falls, RI",
+    "Cranston, RI",
+    "East Providence, RI",
+    "Newport, RI",
+    "Pawtucket, RI",
+    "Providence, RI",
+    "Warwick, RI",
+    "Woonsocket, RI"
+   ],
+   "counties-served": [
+    {
+     "county": "Providence County, RI",
+     "population": 660741
+    },
+    {
+     "county": "Kent County, RI",
+     "population": 170363
+    },
+    {
+     "county": "Washington County, RI",
+     "population": 129839
+    },
+    {
+     "county": "Newport County, RI",
+     "population": 85643
+    },
+    {
+     "county": "Bristol County, RI",
+     "population": 50793
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Rhode Island",
+     "customers": 448212
+    }
+   ]
+  },
+  {
+   "company": "Pascoag Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pud-ri.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5231330.0,
+   "Residential-Customers": 4332.0,
+   "Commercial-Sales-($)": 601980.0,
+   "Commercial-Customers": 535.0,
+   "Industrial-Sales-($)": 2245740.0,
+   "Industrial-Customers": 62.0,
+   "Total-Customers": 4929.0,
+   "cities-served": [
+    "Central Falls, RI",
+    "Cranston, RI",
+    "East Providence, RI",
+    "Pawtucket, RI",
+    "Providence, RI",
+    "Woonsocket, RI"
+   ],
+   "counties-served": [
+    {
+     "county": "Providence County, RI",
+     "population": 660741
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Rhode Island",
+     "customers": 4929
+    }
+   ]
+  },
+  {
+   "company": "Block Island Power Company",
+   "company-type": "Political Subdivision",
+   "website": "https://blockislandpowercompany.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2865250.0,
+   "Residential-Customers": 1610.0,
+   "Commercial-Sales-($)": 2711830.0,
+   "Commercial-Customers": 369.0,
+   "Total-Customers": 1979.0,
+   "Total-Production-MWh": 1.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Awards",
+    "Energy Makeup",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Power Plants",
+    "Fuel Makeup",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, RI",
+     "population": 129839
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Rhode Island",
+     "customers": 1979
+    }
+   ]
+  }
+ ]
+}

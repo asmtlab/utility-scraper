@@ -1,0 +1,7537 @@
+{
+ "electrical-providers": [
+  {
+   "company": "MidAmerican Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.midamericanenergy.com/home",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 736648865.086,
+   "Residential-Customers": 698859.0,
+   "Commercial-Sales-($)": 557556500.914,
+   "Commercial-Customers": 121465.0,
+   "Industrial-Sales-($)": 973588681.0,
+   "Industrial-Customers": 1751.0,
+   "Total-Customers": 822075.0,
+   "Total-Production-MWh": 45407270.0,
+   "Production-from-Renewable-Energy-MWh": 28251333.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17155937.0,
+   "cities-served": [
+    "Ackley, IA",
+    "Ackworth, IA",
+    "Adel, IA",
+    "Alcester, SD",
+    "Alleman, IA",
+    "Allison, IA",
+    "Alton, IA",
+    "Altoona, IA",
+    "Alvord, IA",
+    "Ankeny, IA",
+    "Anthon, IA",
+    "Aplington, IA",
+    "Arcadia, IA",
+    "Archer, IA",
+    "Aredale, IA",
+    "Arion, IA",
+    "Arthur, IA",
+    "Aspinwall, IA",
+    "Auburn, IA",
+    "Audubon, IA",
+    "Aurelia, IA",
+    "Avoca, IA",
+    "Ayrshire, IA",
+    "Badger, IA",
+    "Barnes City, IA",
+    "Barnum, IA",
+    "Battle Creek, IA",
+    "Beacon, IA",
+    "Bedford, IA",
+    "Bettendorf, IA",
+    "Bevington, IA",
+    "Blanchard, IA",
+    "Blencoe, IA",
+    "Blue Grass, IA",
+    "Bode, IA",
+    "Bondurant, IA",
+    "Boyden, IA",
+    "Braddyville, IA",
+    "Bradgate, IA",
+    "Brayton, IA",
+    "Breda, IA",
+    "Bristow, IA",
+    "Bronson, IA",
+    "Brunsville, IA",
+    "Buck Grove, IA",
+    "Buffalo, IA",
+    "Bussey, IA",
+    "Calumet, IA",
+    "Camanche, IA",
+    "Carbon, IA",
+    "Carlisle, IA",
+    "Carroll, IA",
+    "Carson, IA",
+    "Castana, IA",
+    "Charles City, IA",
+    "Charter Oak, IA",
+    "Chatsworth, IA",
+    "Cherokee, IA",
+    "Clare, IA",
+    "Clarinda, IA",
+    "Clarion, IA",
+    "Clarksville, IA",
+    "Cleghorn, IA",
+    "Clinton, IA",
+    "Clive, IA",
+    "Coburg, IA",
+    "Coin, IA",
+    "Colfax, IA",
+    "College Springs, IA",
+    "Colona, IL",
+    "Coralville, IA",
+    "Corning, IA",
+    "Correctionville, IA",
+    "Council Bluffs, IA",
+    "Craig, IA",
+    "Crescent, IA",
+    "Cumming, IA",
+    "Cushing, IA",
+    "Cylinder, IA",
+    "Dakota City, NE",
+    "Dakota City, IA",
+    "Dallas Center, IA",
+    "Danbury, IA",
+    "Davenport, IA",
+    "De Soto, IA",
+    "Dedham, IA",
+    "Defiance, IA",
+    "Deloit, IA",
+    "Denison, IA",
+    "Denver, IA",
+    "Des Moines, IA",
+    "Doon, IA",
+    "Dougherty, IA",
+    "Dow City, IA",
+    "Dumont, IA",
+    "Duncombe, IA",
+    "Dunkerton, IA",
+    "Dunlap, IA",
+    "Eagle Grove, IA",
+    "Earlham, IA",
+    "Earling, IA",
+    "Early, IA",
+    "Eddyville, IA",
+    "Eldridge, IA",
+    "Elk Horn, IA",
+    "Elk Run Heights, IA",
+    "Elkhart, IA",
+    "Elliott, IA",
+    "Emerson, IA",
+    "Emmetsburg, IA",
+    "Essex, IA",
+    "Evansdale, IA",
+    "Exira, IA",
+    "Fairview, SD",
+    "Farragut, IA",
+    "Floyd, IA",
+    "Fonda, IA",
+    "Fort Dodge, IA",
+    "Galva, IA",
+    "Geneva, IA",
+    "Gilbertville, IA",
+    "Gilmore City, IA",
+    "Glenwood, IA",
+    "Goldfield, IA",
+    "Granger, IA",
+    "Granville, IA",
+    "Gravity, IA",
+    "Gray, IA",
+    "Grimes, IA",
+    "Griswold, IA",
+    "Halbur, IA",
+    "Hamburg, IA",
+    "Hamilton, IA",
+    "Hampton, IA",
+    "Hancock, IA",
+    "Hansell, IA",
+    "Hardy, IA",
+    "Hartford, IA",
+    "Harvey, IA",
+    "Hastings, IA",
+    "Henderson, IA",
+    "Hepburn, IA",
+    "Hills, IA",
+    "Hinton, IA",
+    "Holstein, IA",
+    "Hornick, IA",
+    "Hospers, IA",
+    "Hudson, IA",
+    "Hudson, SD",
+    "Hull, IA",
+    "Humboldt, IA",
+    "Ida Grove, IA",
+    "Imogene, IA",
+    "Indianola, IA",
+    "Inwood, IA",
+    "Iowa City, IA",
+    "Ireton, IA",
+    "Irwin, IA",
+    "Janesville, IA",
+    "Jefferson, SD",
+    "Jesup, IA",
+    "Johnston, IA",
+    "Jolley, IA",
+    "Keomah Village, IA",
+    "Kingsley, IA",
+    "Kirkman, IA",
+    "Kirkville, IA",
+    "Kiron, IA",
+    "Knierim, IA",
+    "Knoxville, IA",
+    "Lake City, IA",
+    "Lakeside, IA",
+    "Lanesboro, IA",
+    "Larrabee, IA",
+    "Latimer, IA",
+    "Lawton, IA",
+    "Le Claire, IA",
+    "Le Mars, IA",
+    "Lehigh, IA",
+    "Leighton, IA",
+    "Lewis, IA",
+    "Lidderdale, IA",
+    "Little Sioux, IA",
+    "Livermore, IA",
+    "Logan, IA",
+    "Lohrville, IA",
+    "Lovilia, IA",
+    "Lu Verne, IA",
+    "Lytton, IA",
+    "Macedonia, IA",
+    "Magnolia, IA",
+    "Malvern, IA",
+    "Manson, IA",
+    "Marcus, IA",
+    "Marne, IA",
+    "Martensdale, IA",
+    "Marysville, IA",
+    "Maurice, IA",
+    "McClelland, IA",
+    "Melcher-Dallas, IA",
+    "Meriden, IA",
+    "Merrill, IA",
+    "Milo, IA",
+    "Minburn, IA",
+    "Minden, IA",
+    "Mingo, IA",
+    "Missouri Valley, IA",
+    "Mitchellville, IA",
+    "Modale, IA",
+    "Mondamin, IA",
+    "Monroe, IA",
+    "Moorhead, IA",
+    "Moorland, IA",
+    "Moville, IA",
+    "Nashua, IA",
+    "Nemaha, IA",
+    "New Hartford, IA",
+    "New Market, IA",
+    "New Sharon, IA",
+    "Newell, IA",
+    "Nodaway, IA",
+    "North Liberty, IA",
+    "North Sioux City, SD",
+    "Northboro, IA",
+    "Norwalk, IA",
+    "Oakland, IA",
+    "Odebolt, IA",
+    "Onawa, IA",
+    "Orange City, IA",
+    "Oskaloosa, IA",
+    "Otho, IA",
+    "Oto, IA",
+    "Ottosen, IA",
+    "Oyens, IA",
+    "Pacific Junction, IA",
+    "Palmer, IA",
+    "Panama, IA",
+    "Panorama Park, IA",
+    "Parkersburg, IA",
+    "Patterson, IA",
+    "Paullina, IA",
+    "Pella, IA",
+    "Persia, IA",
+    "Pierson, IA",
+    "Pioneer, IA",
+    "Pisgah, IA",
+    "Plainfield, IA",
+    "Pleasant Hill, IA",
+    "Pleasantville, IA",
+    "Pocahontas, IA",
+    "Polk City, IA",
+    "Pomeroy, IA",
+    "Portsmouth, IA",
+    "Prairie City, IA",
+    "Primghar, IA",
+    "Princeton, IA",
+    "Quimby, IA",
+    "Randolph, IA",
+    "Raymond, IA",
+    "Red Oak, IA",
+    "Redfield, IA",
+    "Reinbeck, IA",
+    "Remsen, IA",
+    "Ricketts, IA",
+    "Riverdale, IA",
+    "Riverton, IA",
+    "Rock Valley, IA",
+    "Rockwell, IA",
+    "Rockwell City, IA",
+    "Rodney, IA",
+    "Runnells, IA",
+    "Ruthven, IA",
+    "Rutland, IA",
+    "Sac City, IA",
+    "Salix, IA",
+    "Sanborn, IA",
+    "Sandyville, IA",
+    "Schaller, IA",
+    "Schleswig, IA",
+    "Sergeant Bluff, IA",
+    "Shambaugh, IA",
+    "Sheffield, IA",
+    "Sheldon, IA",
+    "Shell Rock, IA",
+    "Shenandoah, IA",
+    "Sidney, IA",
+    "Silver City, IA",
+    "Sioux Center, IA",
+    "Sioux City, IA",
+    "Sloan, IA",
+    "Smithland, IA",
+    "Soldier, IA",
+    "Somers, IA",
+    "Spring Hill, IA",
+    "St. Charles, IA",
+    "St. Marys, IA",
+    "Storm Lake, IA",
+    "Stout, IA",
+    "Struble, IA",
+    "Sutherland, IA",
+    "Swan, IA",
+    "Tabor, IA",
+    "Templeton, IA",
+    "Thor, IA",
+    "Thurman, IA",
+    "Treynor, IA",
+    "Truesdale, IA",
+    "Turin, IA",
+    "Underwood, IA",
+    "University Heights, IA",
+    "University Park, IA",
+    "Urbandale, IA",
+    "Ute, IA",
+    "Vail, IA",
+    "Valeria, IA",
+    "Van Meter, IA",
+    "Varina, IA",
+    "Villisca, IA",
+    "Vincent, IA",
+    "Walnut, IA",
+    "Washta, IA",
+    "Waterloo, IA",
+    "Waukee, IA",
+    "Waverly, IA",
+    "West Des Moines, IA",
+    "Westphalia, IA",
+    "Westside, IA",
+    "Whiting, IA",
+    "Willey, IA",
+    "Wilton, IA",
+    "Windsor Heights, IA",
+    "Yetter, IA",
+    "Yorktown, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, IA",
+     "population": 492401
+    },
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    },
+    {
+     "county": "Johnson County, IA",
+     "population": 152854
+    },
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    },
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    },
+    {
+     "county": "Dallas County, IA",
+     "population": 99678
+    },
+    {
+     "county": "Pottawattamie County, IA",
+     "population": 93667
+    },
+    {
+     "county": "Warren County, IA",
+     "population": 52403
+    },
+    {
+     "county": "Clinton County, IA",
+     "population": 46460
+    },
+    {
+     "county": "Cerro Gordo County, IA",
+     "population": 43127
+    },
+    {
+     "county": "Jasper County, IA",
+     "population": 37813
+    },
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    },
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    },
+    {
+     "county": "Wapello County, IA",
+     "population": 35437
+    },
+    {
+     "county": "Marion County, IA",
+     "population": 33414
+    },
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    },
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    },
+    {
+     "county": "Mahaska County, IA",
+     "population": 22190
+    },
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    },
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    },
+    {
+     "county": "Buchanan County, IA",
+     "population": 20565
+    },
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    },
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    },
+    {
+     "county": "Madison County, IA",
+     "population": 16548
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Floyd County, IA",
+     "population": 15627
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    },
+    {
+     "county": "Mills County, IA",
+     "population": 14484
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    },
+    {
+     "county": "Grundy County, IA",
+     "population": 12329
+    },
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    },
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    },
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    },
+    {
+     "county": "Cherokee County, IA",
+     "population": 11658
+    },
+    {
+     "county": "Montgomery County, IA",
+     "population": 10330
+    },
+    {
+     "county": "Keokuk County, IA",
+     "population": 10033
+    },
+    {
+     "county": "Franklin County, IA",
+     "population": 10019
+    },
+    {
+     "county": "Calhoun County, IA",
+     "population": 9927
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    },
+    {
+     "county": "Palo Alto County, IA",
+     "population": 8996
+    },
+    {
+     "county": "Monona County, IA",
+     "population": 8751
+    },
+    {
+     "county": "Monroe County, IA",
+     "population": 7577
+    },
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    },
+    {
+     "county": "Ida County, IA",
+     "population": 7005
+    },
+    {
+     "county": "Fremont County, IA",
+     "population": 6605
+    },
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    },
+    {
+     "county": "Adams County, IA",
+     "population": 3704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 716924
+    },
+    {
+     "state": "Illinois",
+     "customers": 85447
+    },
+    {
+     "state": "Ohio",
+     "customers": 23344
+    },
+    {
+     "state": "Texas",
+     "customers": 15379
+    },
+    {
+     "state": "South Dakota",
+     "customers": 5203
+    },
+    {
+     "state": "Pennsylvania",
+     "customers": 3837
+    },
+    {
+     "state": "Maryland",
+     "customers": 2909
+    },
+    {
+     "state": "New Jersey",
+     "customers": 748
+    },
+    {
+     "state": "Delaware",
+     "customers": 284
+    },
+    {
+     "state": "District of Columbia",
+     "customers": 125
+    },
+    {
+     "state": "New York",
+     "customers": 99
+    }
+   ]
+  },
+  {
+   "company": "Linn County REC",
+   "company-type": "Cooperative",
+   "website": "https://www.linncountyrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35756000.0,
+   "Residential-Customers": 27026.0,
+   "Commercial-Sales-($)": 5596000.0,
+   "Commercial-Customers": 3826.0,
+   "Industrial-Sales-($)": 12197000.0,
+   "Industrial-Customers": 177.0,
+   "Total-Customers": 31029.0,
+   "cities-served": [
+    "Bertram, IA",
+    "Cedar Rapids, IA",
+    "Center Point, IA",
+    "Central City, IA",
+    "Coralville, IA",
+    "Ely, IA",
+    "Fairfax, IA",
+    "Hiawatha, IA",
+    "Marion, IA",
+    "North Liberty, IA",
+    "Oxford, IA",
+    "Palo, IA",
+    "Robins, IA",
+    "Shueyville, IA",
+    "Solon, IA",
+    "Tiffin, IA",
+    "West Branch, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, IA",
+     "population": 230299
+    },
+    {
+     "county": "Johnson County, IA",
+     "population": 152854
+    },
+    {
+     "county": "Benton County, IA",
+     "population": 25575
+    },
+    {
+     "county": "Cedar County, IA",
+     "population": 18505
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 31029
+    }
+   ]
+  },
+  {
+   "company": "Ames Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofames.org/government/departments-divisions-i-z/utilities-and-parking-tickets/municipal-utilities-online-customer-service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20123000.0,
+   "Residential-Customers": 24342.0,
+   "Commercial-Sales-($)": 26033800.0,
+   "Commercial-Customers": 3050.0,
+   "Industrial-Sales-($)": 9674000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 27399.0,
+   "Total-Production-MWh": 247098.0,
+   "Production-from-Renewable-Energy-MWh": 23888.0,
+   "Production-from-Non-Renewable-Energy-MWh": 223210.0,
+   "cities-served": [
+    "Ames"
+   ],
+   "counties-served": [
+    {
+     "county": "Story County, IA",
+     "population": 98537
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 27399
+    }
+   ]
+  },
+  {
+   "company": "Eastern Iowa Light & Power",
+   "company-type": "Cooperative",
+   "website": "https://www.easterniowa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 37136400.0,
+   "Residential-Customers": 21612.0,
+   "Commercial-Sales-($)": 6456400.0,
+   "Commercial-Customers": 2153.0,
+   "Industrial-Sales-($)": 13822600.0,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 23781.0,
+   "cities-served": [
+    "Blue Grass, IA",
+    "Buffalo, IA",
+    "Calamus, IA",
+    "Camanche, IA",
+    "Clarence, IA",
+    "Clinton, IA",
+    "Columbus Junction, IA",
+    "DeWitt, IA",
+    "Delmar, IA",
+    "Dixon, IA",
+    "Fredonia, IA",
+    "Fruitland, IA",
+    "Goose Lake, IA",
+    "Grand Mound, IA",
+    "Iowa City, IA",
+    "Kalona, IA",
+    "Letts, IA",
+    "Lone Tree, IA",
+    "Long Grove, IA",
+    "Low Moor, IA",
+    "Lowden, IA",
+    "Maquoketa, IA",
+    "McCausland, IA",
+    "Mechanicsville, IA",
+    "Mediapolis, IA",
+    "Middletown, IA",
+    "Muscatine, IA",
+    "New Boston, IL",
+    "Nichols, IA",
+    "Oakville, IA",
+    "Riverside, IA",
+    "Stanwood, IA",
+    "Tipton, IA",
+    "Wapello, IA",
+    "Wellman, IA",
+    "Welton, IA",
+    "West Burlington, IA",
+    "West Liberty, IA",
+    "Wheatland, IA",
+    "Wilton, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    },
+    {
+     "county": "Johnson County, IA",
+     "population": 152854
+    },
+    {
+     "county": "Clinton County, IA",
+     "population": 46460
+    },
+    {
+     "county": "Muscatine County, IA",
+     "population": 43235
+    },
+    {
+     "county": "Des Moines County, IA",
+     "population": 38910
+    },
+    {
+     "county": "Washington County, IA",
+     "population": 22565
+    },
+    {
+     "county": "Cedar County, IA",
+     "population": 18505
+    },
+    {
+     "county": "Louisa County, IA",
+     "population": 10837
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 23781
+    }
+   ]
+  },
+  {
+   "company": "MiEnergy Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mienergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 38943300.0,
+   "Residential-Customers": 20898.0,
+   "Commercial-Sales-($)": 16707900.0,
+   "Commercial-Customers": 2162.0,
+   "Industrial-Sales-($)": 10278200.0,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 23081.0,
+   "cities-served": [
+    "Brownsville, MN",
+    "Calmar, IA",
+    "Canton, MN",
+    "Chatfield, MN",
+    "Chester, IA",
+    "Cresco, IA",
+    "Decorah, IA",
+    "Eitzen, MN",
+    "Fort Atkinson, IA",
+    "Fountain, MN",
+    "Goodview, MN",
+    "Harmony, MN",
+    "Houston, MN",
+    "Jackson Junction, IA",
+    "La Crescent, MN",
+    "Lanesboro, MN",
+    "Lewiston, MN",
+    "Lime Springs, IA",
+    "Minnesota City, MN",
+    "New Hampton, IA",
+    "Ostrander, MN",
+    "Preston, MN",
+    "Protivin, IA",
+    "Racine, MN",
+    "Rollingstone, MN",
+    "Rushford, MN",
+    "Rushford Village, MN",
+    "Spillville, IA",
+    "Spring Grove, MN",
+    "Spring Valley, MN",
+    "St. Charles, MN",
+    "Stockton, MN",
+    "Utica, MN",
+    "Whalan, MN",
+    "Winona, MN",
+    "Wykoff, MN"
+   ],
+   "counties-served": [
+    {
+     "county": "Winona County, MN",
+     "population": 49671
+    },
+    {
+     "county": "Mower County, MN",
+     "population": 40029
+    },
+    {
+     "county": "Fillmore County, MN",
+     "population": 21228
+    },
+    {
+     "county": "Winneshiek County, IA",
+     "population": 20070
+    },
+    {
+     "county": "Houston County, MN",
+     "population": 18843
+    },
+    {
+     "county": "Allamakee County, IA",
+     "population": 14061
+    },
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    },
+    {
+     "county": "Howard County, IA",
+     "population": 9469
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 16003
+    },
+    {
+     "state": "Iowa",
+     "customers": 7078
+    }
+   ]
+  },
+  {
+   "company": "Cedar Falls Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cfu.net/utilities/electric-service/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16256300.0,
+   "Residential-Customers": 17212.0,
+   "Commercial-Sales-($)": 15535400.0,
+   "Commercial-Customers": 2167.0,
+   "Industrial-Sales-($)": 4668000.0,
+   "Industrial-Customers": 251.0,
+   "Total-Customers": 19630.0,
+   "Total-Production-MWh": 201873.0,
+   "Production-from-Non-Renewable-Energy-MWh": 201873.0,
+   "cities-served": [
+    "Cedar Falls, IA",
+    "Hudson, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "Grundy County, IA",
+     "population": 12329
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 19630
+    }
+   ]
+  },
+  {
+   "company": "Maquoketa Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mvec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 16923400.0,
+   "Residential-Customers": 10577.0,
+   "Commercial-Sales-($)": 15431000.0,
+   "Commercial-Customers": 5910.0,
+   "Total-Customers": 16487.0,
+   "cities-served": [
+    "Anamosa, IA",
+    "Asbury, IA",
+    "Bankston, IA",
+    "Bellevue, IA",
+    "Cascade, IA",
+    "Delaware, IA",
+    "Dubuque, IA",
+    "Dyersville, IA",
+    "Earlville, IA",
+    "Epworth, IA",
+    "Farley, IA",
+    "Graf, IA",
+    "Holy Cross, IA",
+    "Manchester, IA",
+    "Maquoketa, IA",
+    "New Vienna, IA",
+    "North Buena Vista, IA",
+    "Peosta, IA",
+    "Preston, IA",
+    "Rickardsville, IA",
+    "Ryan, IA",
+    "St. Donatus, IA",
+    "Strawberry Point, IA",
+    "Worthington, IA",
+    "Zwingle, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, IA",
+     "population": 230299
+    },
+    {
+     "county": "Dubuque County, IA",
+     "population": 99266
+    },
+    {
+     "county": "Clinton County, IA",
+     "population": 46460
+    },
+    {
+     "county": "Jones County, IA",
+     "population": 20646
+    },
+    {
+     "county": "Jackson County, IA",
+     "population": 19485
+    },
+    {
+     "county": "Delaware County, IA",
+     "population": 17488
+    },
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 16487
+    }
+   ]
+  },
+  {
+   "company": "Iowa Lakes Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ilec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 21249600.0,
+   "Residential-Customers": 9358.0,
+   "Commercial-Sales-($)": 14708000.0,
+   "Commercial-Customers": 3473.0,
+   "Industrial-Sales-($)": 18039700.0,
+   "Industrial-Customers": 71.0,
+   "Total-Customers": 12902.0,
+   "Total-Production-MWh": 69877.0,
+   "Production-from-Renewable-Energy-MWh": 69877.0,
+   "cities-served": [
+    "Albert City, IA",
+    "Armstrong, IA",
+    "Arnolds Park, IA",
+    "Ayrshire, IA",
+    "Cherokee, IA",
+    "Emmetsburg, IA",
+    "Estherville, IA",
+    "Gillett Grove, IA",
+    "Graettinger, IA",
+    "Lakeside, IA",
+    "Lakota, IA",
+    "Ledyard, IA",
+    "Linn Grove, IA",
+    "Marathon, IA",
+    "Milford, IA",
+    "Orleans, IA",
+    "Pocahontas, IA",
+    "Quimby, IA",
+    "Rembrandt, IA",
+    "Ringsted, IA",
+    "Rodman, IA",
+    "Rossie, IA",
+    "Ruthven, IA",
+    "Sioux Rapids, IA",
+    "Spencer, IA",
+    "Spirit Lake, IA",
+    "Storm Lake, IA",
+    "Superior, IA",
+    "Wallingford, IA",
+    "West Okoboji, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    },
+    {
+     "county": "Dickinson County, IA",
+     "population": 17703
+    },
+    {
+     "county": "Clay County, IA",
+     "population": 16384
+    },
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    },
+    {
+     "county": "Cherokee County, IA",
+     "population": 11658
+    },
+    {
+     "county": "Emmet County, IA",
+     "population": 9388
+    },
+    {
+     "county": "Palo Alto County, IA",
+     "population": 8996
+    },
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    },
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 12902
+    }
+   ]
+  },
+  {
+   "company": "Midland Power Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.midlandpower.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24953000.0,
+   "Residential-Customers": 11395.0,
+   "Commercial-Sales-($)": 5992000.0,
+   "Commercial-Customers": 580.0,
+   "Industrial-Sales-($)": 14843000.0,
+   "Industrial-Customers": 21.0,
+   "Total-Customers": 11996.0,
+   "cities-served": [
+    "Alden, IA",
+    "Algona, IA",
+    "Ames, IA",
+    "Ellsworth, IA",
+    "Fraser, IA",
+    "Gilmore City, IA",
+    "Hubbard, IA",
+    "Humboldt, IA",
+    "Iowa Falls, IA",
+    "Jefferson, IA",
+    "Lehigh, IA",
+    "Luther, IA",
+    "Ottosen, IA",
+    "Owasa, IA",
+    "Paton, IA",
+    "Perry, IA",
+    "Pilot Mound, IA",
+    "Polk City, IA",
+    "Ralston, IA",
+    "Rippey, IA",
+    "Rutland, IA",
+    "Scranton, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, IA",
+     "population": 492401
+    },
+    {
+     "county": "Dallas County, IA",
+     "population": 99678
+    },
+    {
+     "county": "Story County, IA",
+     "population": 98537
+    },
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    },
+    {
+     "county": "Boone County, IA",
+     "population": 26715
+    },
+    {
+     "county": "Hardin County, IA",
+     "population": 16878
+    },
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    },
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    },
+    {
+     "county": "Guthrie County, IA",
+     "population": 10623
+    },
+    {
+     "county": "Franklin County, IA",
+     "population": 10019
+    },
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    },
+    {
+     "county": "Greene County, IA",
+     "population": 8771
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 11996
+    }
+   ]
+  },
+  {
+   "company": "Muscatine Water,Electric and Communications",
+   "company-type": "Municipal",
+   "website": "https://mpw.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11748600.0,
+   "Residential-Customers": 9958.0,
+   "Commercial-Sales-($)": 12042600.0,
+   "Commercial-Customers": 1552.0,
+   "Industrial-Sales-($)": 35129000.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 11524.0,
+   "Total-Production-MWh": 944838.0,
+   "Production-from-Non-Renewable-Energy-MWh": 944838.0,
+   "cities-served": [
+    "Fruitland, IA",
+    "Muscatine, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Muscatine County, IA",
+     "population": 43235
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 11524
+    }
+   ]
+  },
+  {
+   "company": "North West Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.nwrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23686500.0,
+   "Residential-Customers": 9225.0,
+   "Commercial-Sales-($)": 27753100.0,
+   "Commercial-Customers": 867.0,
+   "Industrial-Sales-($)": 596700.0,
+   "Industrial-Customers": 63.0,
+   "Total-Customers": 10155.0,
+   "cities-served": [
+    "Galva, IA",
+    "Hawarden, IA",
+    "Hinton, IA",
+    "Holstein, IA",
+    "Hospers, IA",
+    "Ida Grove, IA",
+    "Ireton, IA",
+    "Le Mars, IA",
+    "Matlock, IA",
+    "Maurice, IA",
+    "Merrill, IA",
+    "Orange City, IA",
+    "Rock Valley, IA",
+    "Sheldon, IA",
+    "Sioux Center, IA",
+    "Washta, IA",
+    "Westfield, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    },
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    },
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Clay County, IA",
+     "population": 16384
+    },
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    },
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    },
+    {
+     "county": "Cherokee County, IA",
+     "population": 11658
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Ida County, IA",
+     "population": 7005
+    },
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 10155
+    }
+   ]
+  },
+  {
+   "company": "Allamakee Clayton Electric REC",
+   "company-type": "Cooperative",
+   "website": "https://www.acrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 17431194.644,
+   "Residential-Customers": 9480.0,
+   "Commercial-Sales-($)": 1853805.356,
+   "Commercial-Customers": 526.0,
+   "Total-Customers": 10006.0,
+   "cities-served": [
+    "Clayton, IA",
+    "Elkader, IA",
+    "Elkport, IA",
+    "Fayette, IA",
+    "Garber, IA",
+    "Guttenberg, IA",
+    "Harpers Ferry, IA",
+    "Lansing, IA",
+    "McGregor, IA",
+    "Monona, IA",
+    "Osterdock, IA",
+    "Postville, IA",
+    "St. Lucas, IA",
+    "Strawberry Point, IA",
+    "Waterville, IA",
+    "Waukon, IA",
+    "West Union, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Fayette County, IA",
+     "population": 19509
+    },
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    },
+    {
+     "county": "Allamakee County, IA",
+     "population": 14061
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 10006
+    }
+   ]
+  },
+  {
+   "company": "United Electric Cooperative (Missouri)",
+   "company-type": "Cooperative",
+   "website": "https://www.ueci.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 22223993.086,
+   "Residential-Customers": 9738.0,
+   "Commercial-Sales-($)": 1151606.914,
+   "Commercial-Customers": 56.0,
+   "Total-Customers": 9794.0,
+   "cities-served": [
+    "Albany, MO",
+    "Allendale, MO",
+    "Amazonia, MO",
+    "Amity, MO",
+    "Arkoe, MO",
+    "Barnard, MO",
+    "Blockton, IA",
+    "Bolckow, MO",
+    "Burlington Junction, MO",
+    "Cameron, MO",
+    "Clarksdale, MO",
+    "Clearmont, MO",
+    "Clyde, MO",
+    "Conception Junction, MO",
+    "Cosby, MO",
+    "Country Club, MO",
+    "Darlington, MO",
+    "Dearborn, MO",
+    "Denver, MO",
+    "Easton, MO",
+    "Elmo, MO",
+    "Elwood, KS",
+    "Fillmore, MO",
+    "Forest City, MO",
+    "Gentry, MO",
+    "Gower, MO",
+    "Graham, MO",
+    "Grant City, MO",
+    "Guilford, MO",
+    "Hopkins, MO",
+    "Irena, MO",
+    "King City, MO",
+    "Maitland, MO",
+    "Maryville, MO",
+    "Maysville, MO",
+    "McFall, MO",
+    "Oregon, MO",
+    "Osborn, MO",
+    "Parnell, MO",
+    "Pickering, MO",
+    "Quitman, MO",
+    "Ravenwood, MO",
+    "Rea, MO",
+    "Rosendale, MO",
+    "Savannah, MO",
+    "Sheridan, MO",
+    "Skidmore, MO",
+    "St. Joseph, MO",
+    "Stanberry, MO",
+    "Stewartsville, MO",
+    "Union Star, MO",
+    "Weatherby, MO",
+    "Worth, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Buchanan County, MO",
+     "population": 84793
+    },
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Clinton County, MO",
+     "population": 21184
+    },
+    {
+     "county": "Andrew County, MO",
+     "population": 18135
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "DeKalb County, MO",
+     "population": 11029
+    },
+    {
+     "county": "Doniphan County, KS",
+     "population": 7510
+    },
+    {
+     "county": "Gentry County, MO",
+     "population": 6162
+    },
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    },
+    {
+     "county": "Worth County, MO",
+     "population": 1973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 9265
+    },
+    {
+     "state": "Iowa",
+     "customers": 529
+    }
+   ]
+  },
+  {
+   "company": "East-Central Iowa Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ecirec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14973000.0,
+   "Residential-Customers": 7938.0,
+   "Commercial-Sales-($)": 5205000.0,
+   "Commercial-Customers": 1044.0,
+   "Industrial-Sales-($)": 1207000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 8987.0,
+   "cities-served": [
+    "Blairstown, IA",
+    "Dunkerton, IA",
+    "Dysart, IA",
+    "Fairbank, IA",
+    "Garrison, IA",
+    "Independence, IA",
+    "Mount Auburn, IA",
+    "Quasqueton, IA",
+    "Rowley, IA",
+    "Shellsburg, IA",
+    "Urbana, IA",
+    "Vinton, IA",
+    "Walker, IA",
+    "Winthrop, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, IA",
+     "population": 230299
+    },
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    },
+    {
+     "county": "Benton County, IA",
+     "population": 25575
+    },
+    {
+     "county": "Buchanan County, IA",
+     "population": 20565
+    },
+    {
+     "county": "Fayette County, IA",
+     "population": 19509
+    },
+    {
+     "county": "Delaware County, IA",
+     "population": 17488
+    },
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    },
+    {
+     "county": "Iowa County, IA",
+     "population": 16662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 8987
+    }
+   ]
+  },
+  {
+   "company": "Access Energy Mount Pleasant Iowa",
+   "company-type": "Cooperative",
+   "website": "https://www.accessenergycoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14877700.0,
+   "Residential-Customers": 8718.0,
+   "Commercial-Sales-($)": 2949300.0,
+   "Commercial-Customers": 191.0,
+   "Industrial-Sales-($)": 18454700.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 8935.0,
+   "cities-served": [
+    "Batavia, IA",
+    "Coppock, IA",
+    "Donnellson, IA",
+    "Fairfield, IA",
+    "Lockridge, IA",
+    "Maharishi Vedic City, IA",
+    "Mount Pleasant, IA",
+    "New London, IA",
+    "Rome, IA",
+    "Westwood, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Des Moines County, IA",
+     "population": 38910
+    },
+    {
+     "county": "Wapello County, IA",
+     "population": 35437
+    },
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    },
+    {
+     "county": "Washington County, IA",
+     "population": 22565
+    },
+    {
+     "county": "Henry County, IA",
+     "population": 20482
+    },
+    {
+     "county": "Jefferson County, IA",
+     "population": 15663
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 8935
+    }
+   ]
+  },
+  {
+   "company": "Consumers Energy Iowa",
+   "company-type": "Cooperative",
+   "website": "https://www.consumersenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11655200.0,
+   "Residential-Customers": 6308.0,
+   "Commercial-Sales-($)": 2992900.0,
+   "Commercial-Customers": 587.0,
+   "Industrial-Sales-($)": 4635800.0,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 6907.0,
+   "cities-served": [
+    "Alleman, IA",
+    "Ames, IA",
+    "Ankeny, IA",
+    "Baxter, IA",
+    "Cambridge, IA",
+    "Clemons, IA",
+    "Collins, IA",
+    "Colo, IA",
+    "Elkhart, IA",
+    "Ferguson, IA",
+    "Haverhill, IA",
+    "Huxley, IA",
+    "Laurel, IA",
+    "Marshalltown, IA",
+    "Maxwell, IA",
+    "Melbourne, IA",
+    "Nevada, IA",
+    "Rhodes, IA",
+    "St. Anthony, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, IA",
+     "population": 492401
+    },
+    {
+     "county": "Story County, IA",
+     "population": 98537
+    },
+    {
+     "county": "Marshall County, IA",
+     "population": 40105
+    },
+    {
+     "county": "Jasper County, IA",
+     "population": 37813
+    },
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 6907
+    }
+   ]
+  },
+  {
+   "company": "Indianola Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.indianola.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6759018.986,
+   "Residential-Customers": 6215.0,
+   "Commercial-Sales-($)": 5121358.285,
+   "Commercial-Customers": 612.0,
+   "Industrial-Sales-($)": 2495622.729,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 6838.0,
+   "Total-Production-MWh": 165.0,
+   "Production-from-Non-Renewable-Energy-MWh": 165.0,
+   "cities-served": [
+    "Indianola"
+   ],
+   "counties-served": [
+    {
+     "county": "Warren County, IA",
+     "population": 52403
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 6838
+    }
+   ]
+  },
+  {
+   "company": "Grundy Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.grundyec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 11954198.832,
+   "Residential-Customers": 6425.0,
+   "Commercial-Sales-($)": 2162701.168,
+   "Commercial-Customers": 296.0,
+   "Total-Customers": 6721.0,
+   "cities-served": [
+    "Bethany, MO",
+    "Blythedale, MO",
+    "Brimson, MO",
+    "Browning, MO",
+    "Cainsville, MO",
+    "Clio, IA",
+    "Eagleville, MO",
+    "Galt, MO",
+    "Gilman City, MO",
+    "Harris, MO",
+    "Humphreys, MO",
+    "Laredo, MO",
+    "Lineville, IA",
+    "Mercer, MO",
+    "Mount Moriah, MO",
+    "New Hampton, MO",
+    "Newtown, MO",
+    "Osgood, MO",
+    "Pleasanton, IA",
+    "Princeton, MO",
+    "Ridgeway, MO",
+    "South Lineville, MO",
+    "Spickard, MO",
+    "Tindall, MO",
+    "Trenton, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Livingston County, MO",
+     "population": 14557
+    },
+    {
+     "county": "Linn County, MO",
+     "population": 11874
+    },
+    {
+     "county": "Grundy County, MO",
+     "population": 9808
+    },
+    {
+     "county": "Daviess County, MO",
+     "population": 8430
+    },
+    {
+     "county": "Harrison County, MO",
+     "population": 8157
+    },
+    {
+     "county": "Decatur County, IA",
+     "population": 7645
+    },
+    {
+     "county": "Wayne County, IA",
+     "population": 6497
+    },
+    {
+     "county": "Sullivan County, MO",
+     "population": 5999
+    },
+    {
+     "county": "Putnam County, MO",
+     "population": 4681
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    },
+    {
+     "county": "Mercer County, MO",
+     "population": 3538
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 6494
+    },
+    {
+     "state": "Iowa",
+     "customers": 227
+    }
+   ]
+  },
+  {
+   "company": "Spencer Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://smunet.net/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5409756.573,
+   "Residential-Customers": 5399.0,
+   "Commercial-Sales-($)": 6346833.959,
+   "Commercial-Customers": 1081.0,
+   "Industrial-Sales-($)": 528309.468,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 6483.0,
+   "Total-Production-MWh": 45196.0,
+   "Production-from-Non-Renewable-Energy-MWh": 45196.0,
+   "cities-served": [
+    "Spencer"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, IA",
+     "population": 16384
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 6483
+    }
+   ]
+  },
+  {
+   "company": "TIP Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.tiprec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 9371280.508,
+   "Residential-Customers": 6084.0,
+   "Commercial-Sales-($)": 5607219.492,
+   "Commercial-Customers": 393.0,
+   "Total-Customers": 6477.0,
+   "cities-served": [
+    "Belle Plaine, IA",
+    "Brooklyn, IA",
+    "Guernsey, IA",
+    "Keswick, IA",
+    "Ladora, IA",
+    "Marengo, IA",
+    "Montour, IA",
+    "Williamsburg, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, IA",
+     "population": 25575
+    },
+    {
+     "county": "Mahaska County, IA",
+     "population": 22190
+    },
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    },
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    },
+    {
+     "county": "Iowa County, IA",
+     "population": 16662
+    },
+    {
+     "county": "Keokuk County, IA",
+     "population": 10033
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 6477
+    }
+   ]
+  },
+  {
+   "company": "Chariton Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.cvrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7230760.095,
+   "Residential-Customers": 4892.0,
+   "Commercial-Sales-($)": 3242740.075,
+   "Commercial-Customers": 1190.0,
+   "Industrial-Sales-($)": 906499.83,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 6088.0,
+   "cities-served": [
+    "Albia, IA",
+    "Melrose, IA",
+    "Moravia, IA",
+    "Seymour, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Wapello County, IA",
+     "population": 35437
+    },
+    {
+     "county": "Marion County, IA",
+     "population": 33414
+    },
+    {
+     "county": "Appanoose County, IA",
+     "population": 12317
+    },
+    {
+     "county": "Lucas County, IA",
+     "population": 8634
+    },
+    {
+     "county": "Monroe County, IA",
+     "population": 7577
+    },
+    {
+     "county": "Wayne County, IA",
+     "population": 6497
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 6088
+    }
+   ]
+  },
+  {
+   "company": "Southwest Iowa REC",
+   "company-type": "Cooperative",
+   "website": "https://www.swiarec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 9006022.618,
+   "Residential-Customers": 5585.0,
+   "Commercial-Sales-($)": 2696377.382,
+   "Commercial-Customers": 329.0,
+   "Total-Customers": 5914.0,
+   "cities-served": [
+    "Arispe, IA",
+    "Beaconsfield, IA",
+    "Benton, IA",
+    "Clearfield, IA",
+    "Conway, IA",
+    "Corning, IA",
+    "Ellston, IA",
+    "Lamoni, IA",
+    "Lenox, IA",
+    "Mount Ayr, IA",
+    "Nodaway, IA",
+    "Prescott, IA",
+    "Stanton, IA",
+    "Tingley, IA",
+    "Villisca, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Union County, IA",
+     "population": 12138
+    },
+    {
+     "county": "Montgomery County, IA",
+     "population": 10330
+    },
+    {
+     "county": "Decatur County, IA",
+     "population": 7645
+    },
+    {
+     "county": "Fremont County, IA",
+     "population": 6605
+    },
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    },
+    {
+     "county": "Adams County, IA",
+     "population": 3704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5914
+    }
+   ]
+  },
+  {
+   "company": "Western Iowa Power Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.wipco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9161763.293,
+   "Residential-Customers": 3952.0,
+   "Commercial-Sales-($)": 1178261.234,
+   "Commercial-Customers": 259.0,
+   "Industrial-Sales-($)": 3371475.473,
+   "Industrial-Customers": 1322.0,
+   "Total-Customers": 5533.0,
+   "cities-served": [
+    "Blencoe, IA",
+    "Buck Grove, IA",
+    "Denison, IA",
+    "Gray, IA",
+    "Halbur, IA",
+    "Mapleton, IA",
+    "Onawa, IA",
+    "Schleswig, IA",
+    "Turin, IA",
+    "Vail, IA",
+    "Westside, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    },
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    },
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Monona County, IA",
+     "population": 8751
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5533
+    }
+   ]
+  },
+  {
+   "company": "Clarke Electric",
+   "company-type": "Cooperative",
+   "website": "https://cecnet.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8984618.86,
+   "Residential-Customers": 5193.0,
+   "Commercial-Sales-($)": 3222102.593,
+   "Commercial-Customers": 295.0,
+   "Industrial-Sales-($)": 579078.547,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 5490.0,
+   "cities-served": [
+    "Decatur City, IA",
+    "Murray, IA",
+    "New Virginia, IA",
+    "Osceola, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Warren County, IA",
+     "population": 52403
+    },
+    {
+     "county": "Madison County, IA",
+     "population": 16548
+    },
+    {
+     "county": "Union County, IA",
+     "population": 12138
+    },
+    {
+     "county": "Clarke County, IA",
+     "population": 9748
+    },
+    {
+     "county": "Lucas County, IA",
+     "population": 8634
+    },
+    {
+     "county": "Decatur County, IA",
+     "population": 7645
+    },
+    {
+     "county": "Wayne County, IA",
+     "population": 6497
+    },
+    {
+     "county": "Ringgold County, IA",
+     "population": 4663
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5490
+    }
+   ]
+  },
+  {
+   "company": "Heartland Power",
+   "company-type": "Cooperative",
+   "website": "http://www.heartlandpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10231100.0,
+   "Residential-Customers": 4358.0,
+   "Commercial-Sales-($)": 4393500.0,
+   "Commercial-Customers": 926.0,
+   "Industrial-Sales-($)": 12319400.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 5292.0,
+   "cities-served": [
+    "Carpenter, IA",
+    "Charles City, IA",
+    "Grafton, IA",
+    "Joice, IA",
+    "Leland, IA",
+    "McIntire, IA",
+    "Mitchell, IA",
+    "Osage, IA",
+    "St. Ansgar, IA",
+    "Stacyville, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Floyd County, IA",
+     "population": 15627
+    },
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    },
+    {
+     "county": "Winnebago County, IA",
+     "population": 10679
+    },
+    {
+     "county": "Mitchell County, IA",
+     "population": 10565
+    },
+    {
+     "county": "Howard County, IA",
+     "population": 9469
+    },
+    {
+     "county": "Worth County, IA",
+     "population": 7443
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5253
+    },
+    {
+     "state": "Minnesota",
+     "customers": 39
+    }
+   ]
+  },
+  {
+   "company": "Waverly Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.waverlyutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5539105.124,
+   "Residential-Customers": 4388.0,
+   "Commercial-Sales-($)": 2304073.377,
+   "Commercial-Customers": 606.0,
+   "Industrial-Sales-($)": 6512821.499,
+   "Industrial-Customers": 75.0,
+   "Total-Customers": 5069.0,
+   "Total-Production-MWh": 63861.0,
+   "Production-from-Renewable-Energy-MWh": 5664.0,
+   "Production-from-Non-Renewable-Energy-MWh": 58197.0,
+   "cities-served": [
+    "Waverly, IA",
+    "Waverly, NY"
+   ],
+   "counties-served": [
+    {
+     "county": "Tioga County, NY",
+     "population": 48455
+    },
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5069
+    }
+   ]
+  },
+  {
+   "company": "Butler County REC",
+   "company-type": "Cooperative",
+   "website": "https://www.butlerrec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11083400.0,
+   "Residential-Customers": 3859.0,
+   "Commercial-Sales-($)": 35300.0,
+   "Commercial-Customers": 11.0,
+   "Industrial-Sales-($)": 12657300.0,
+   "Industrial-Customers": 1192.0,
+   "Total-Customers": 5062.0,
+   "cities-served": [
+    "Allison, IA",
+    "Clarksville, IA",
+    "Fredericksburg, IA",
+    "Greene, IA",
+    "New Hampton, IA",
+    "Sumner, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    },
+    {
+     "county": "Floyd County, IA",
+     "population": 15627
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5062
+    }
+   ]
+  },
+  {
+   "company": "Farmers Electric Cooperative Iowa",
+   "company-type": "Cooperative",
+   "website": "https://www.farmersrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9917393.884,
+   "Residential-Customers": 4918.0,
+   "Commercial-Sales-($)": 1492498.301,
+   "Commercial-Customers": 116.0,
+   "Industrial-Sales-($)": 2223307.814,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 5038.0,
+   "cities-served": [
+    "Anita, IA",
+    "Fontanelle, IA",
+    "Greenfield, IA",
+    "Menlo, IA",
+    "Orient, IA",
+    "St. Charles, IA",
+    "Stuart, IA",
+    "Winterset, IA",
+    "Wiota, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, IA",
+     "population": 16548
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Union County, IA",
+     "population": 12138
+    },
+    {
+     "county": "Guthrie County, IA",
+     "population": 10623
+    },
+    {
+     "county": "Adair County, IA",
+     "population": 7496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 5038
+    }
+   ]
+  },
+  {
+   "company": "Pella Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofpella.com/145/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4204912.069,
+   "Residential-Customers": 4158.0,
+   "Commercial-Sales-($)": 2885159.757,
+   "Commercial-Customers": 768.0,
+   "Industrial-Sales-($)": 9068728.173,
+   "Industrial-Customers": 44.0,
+   "Total-Customers": 4970.0,
+   "Total-Production-MWh": 528.0,
+   "Production-from-Non-Renewable-Energy-MWh": 528.0,
+   "cities-served": [
+    "Pella"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, IA",
+     "population": 33414
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4970
+    }
+   ]
+  },
+  {
+   "company": "Guthrie County REC",
+   "company-type": "Cooperative",
+   "website": "https://www.guthrie-rec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7822978.485,
+   "Residential-Customers": 4677.0,
+   "Commercial-Sales-($)": 1040002.034,
+   "Commercial-Customers": 104.0,
+   "Industrial-Sales-($)": 5119819.481,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 4788.0,
+   "cities-served": [
+    "Anita, IA",
+    "Guthrie Center, IA",
+    "Menlo, IA",
+    "Panora, IA",
+    "Perry, IA",
+    "Stuart, IA",
+    "Woodward, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Dallas County, IA",
+     "population": 99678
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Guthrie County, IA",
+     "population": 10623
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4788
+    }
+   ]
+  },
+  {
+   "company": "Southern Iowa Elec Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sie.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9287687.883,
+   "Residential-Customers": 4562.0,
+   "Commercial-Sales-($)": 950736.679,
+   "Commercial-Customers": 166.0,
+   "Industrial-Sales-($)": 657375.438,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 4731.0,
+   "cities-served": [
+    "Bloomfield, IA",
+    "Milton, IA",
+    "Ottumwa, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Wapello County, IA",
+     "population": 35437
+    },
+    {
+     "county": "Appanoose County, IA",
+     "population": 12317
+    },
+    {
+     "county": "Davis County, IA",
+     "population": 9110
+    },
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4731
+    }
+   ]
+  },
+  {
+   "company": "Atlantic Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.a-m-u.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3454858.333,
+   "Residential-Customers": 3812.0,
+   "Commercial-Sales-($)": 4067478.627,
+   "Commercial-Customers": 832.0,
+   "Industrial-Sales-($)": 5234063.04,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 4646.0,
+   "Total-Production-MWh": 80058.0,
+   "Production-from-Non-Renewable-Energy-MWh": 80058.0,
+   "cities-served": [
+    "Atlantic"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4646
+    }
+   ]
+  },
+  {
+   "company": "Webster City Utilities",
+   "company-type": "Municipal",
+   "website": "https://webstercity.com/government/departments/public-works/electric-line/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4116757.065,
+   "Residential-Customers": 3878.0,
+   "Commercial-Sales-($)": 3558874.108,
+   "Commercial-Customers": 570.0,
+   "Industrial-Sales-($)": 2812368.827,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 4456.0,
+   "Total-Production-MWh": 39371.0,
+   "Production-from-Non-Renewable-Energy-MWh": 39371.0,
+   "cities-served": [
+    "Kamrar, IA",
+    "Webster City, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4456
+    }
+   ]
+  },
+  {
+   "company": "Prairie Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.prairieenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7383800.0,
+   "Residential-Customers": 3484.0,
+   "Commercial-Sales-($)": 13000.0,
+   "Commercial-Customers": 75.0,
+   "Industrial-Sales-($)": 24019100.0,
+   "Industrial-Customers": 752.0,
+   "Total-Customers": 4311.0,
+   "cities-served": [
+    "Alexander, IA",
+    "Belmond, IA",
+    "Clarion, IA",
+    "Corwith, IA",
+    "Crystal Lake, IA",
+    "Forest City, IA",
+    "Galt, IA",
+    "Garner, IA",
+    "Goldfield, IA",
+    "Goodell, IA",
+    "Kanawha, IA",
+    "Lehigh, IA",
+    "Rowan, IA",
+    "Wesley, IA",
+    "Williams, IA",
+    "Woolstock, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Cerro Gordo County, IA",
+     "population": 43127
+    },
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    },
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    },
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    },
+    {
+     "county": "Hancock County, IA",
+     "population": 10795
+    },
+    {
+     "county": "Franklin County, IA",
+     "population": 10019
+    },
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    },
+    {
+     "county": "Worth County, IA",
+     "population": 7443
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4311
+    }
+   ]
+  },
+  {
+   "company": "Mount Pleasant Iowa Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityofmountpleasantiowa.org/departments/public-works-utilities/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3591128.616,
+   "Residential-Customers": 3426.0,
+   "Commercial-Sales-($)": 4959771.384,
+   "Commercial-Customers": 613.0,
+   "Total-Customers": 4039.0,
+   "Total-Production-MWh": 1082.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1082.0,
+   "cities-served": [
+    "Mount Pleasant"
+   ],
+   "counties-served": [
+    {
+     "county": "Henry County, IA",
+     "population": 20482
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 4039
+    }
+   ]
+  },
+  {
+   "company": "Harrison County REC",
+   "company-type": "Cooperative",
+   "website": "https://www.hcrec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6833175.665,
+   "Residential-Customers": 2562.0,
+   "Commercial-Sales-($)": 2405454.69,
+   "Commercial-Customers": 248.0,
+   "Industrial-Sales-($)": 3981369.645,
+   "Industrial-Customers": 987.0,
+   "Total-Customers": 3797.0,
+   "cities-served": [
+    "Dunlap, IA",
+    "Logan, IA",
+    "Magnolia, IA",
+    "Missouri Valley, IA",
+    "Modale, IA",
+    "Neola, IA",
+    "Woodbine, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawattamie County, IA",
+     "population": 93667
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    },
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3797
+    }
+   ]
+  },
+  {
+   "company": "Algona Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.netamu.com/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4101897.748,
+   "Residential-Customers": 3046.0,
+   "Commercial-Sales-($)": 3434003.575,
+   "Commercial-Customers": 677.0,
+   "Industrial-Sales-($)": 3960098.677,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 3739.0,
+   "Total-Production-MWh": 46653.0,
+   "Production-from-Renewable-Energy-MWh": 4739.0,
+   "Production-from-Non-Renewable-Energy-MWh": 41914.0,
+   "cities-served": [
+    "Algona"
+   ],
+   "counties-served": [
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3739
+    }
+   ]
+  },
+  {
+   "company": "Nishnabotna Valley REC",
+   "company-type": "Cooperative",
+   "website": "https://www.nvrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8424906.437,
+   "Residential-Customers": 3518.0,
+   "Commercial-Sales-($)": 1744232.991,
+   "Commercial-Customers": 176.0,
+   "Industrial-Sales-($)": 7353660.572,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 3698.0,
+   "cities-served": [
+    "Earling, IA",
+    "Harlan, IA",
+    "Irwin, IA",
+    "Kimballton, IA",
+    "Minden, IA",
+    "Oakland, IA",
+    "Shelby, IA",
+    "Tennant, IA",
+    "Walnut, IA",
+    "Westphalia, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawattamie County, IA",
+     "population": 93667
+    },
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    },
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    },
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    },
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3698
+    }
+   ]
+  },
+  {
+   "company": "Atchison-Holt Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.ahec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5300050.476,
+   "Residential-Customers": 3273.0,
+   "Commercial-Sales-($)": 2357714.762,
+   "Commercial-Customers": 284.0,
+   "Industrial-Sales-($)": 419234.762,
+   "Industrial-Customers": 88.0,
+   "Total-Customers": 3645.0,
+   "cities-served": [
+    "Big Lake, MO",
+    "Bigelow, MO",
+    "Corning, MO",
+    "Craig, MO",
+    "Elmo, MO",
+    "Fairfax, MO",
+    "Forest City, MO",
+    "Fortescue, MO",
+    "Maitland, MO",
+    "Mound City, MO",
+    "Nebraska City, NE",
+    "Oregon, MO",
+    "Rock Port, MO",
+    "Tarkio, MO",
+    "Watson, MO",
+    "Westboro, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Nodaway County, MO",
+     "population": 21241
+    },
+    {
+     "county": "Page County, IA",
+     "population": 15211
+    },
+    {
+     "county": "Nemaha County, NE",
+     "population": 7074
+    },
+    {
+     "county": "Fremont County, IA",
+     "population": 6605
+    },
+    {
+     "county": "Atchison County, MO",
+     "population": 5305
+    },
+    {
+     "county": "Holt County, MO",
+     "population": 4223
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Missouri",
+     "customers": 2491
+    },
+    {
+     "state": "Iowa",
+     "customers": 1154
+    }
+   ]
+  },
+  {
+   "company": "Maquoketa Municipal Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mmeu.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2890900.0,
+   "Residential-Customers": 2807.0,
+   "Commercial-Sales-($)": 3405900.0,
+   "Commercial-Customers": 583.0,
+   "Industrial-Sales-($)": 1158300.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 3392.0,
+   "cities-served": [
+    "Anamosa, IA",
+    "Asbury, IA",
+    "Baldwin, IA",
+    "Bankston, IA",
+    "Bellevue, IA",
+    "Cascade, IA",
+    "Delaware, IA",
+    "Dubuque, IA",
+    "Dyersville, IA",
+    "Epworth, IA",
+    "Farley, IA",
+    "Graf, IA",
+    "Holy Cross, IA",
+    "Manchester, IA",
+    "Maquoketa, IA",
+    "Monmouth, IA",
+    "New Vienna, IA",
+    "North Buena Vista, IA",
+    "Peosta, IA",
+    "Preston, IA",
+    "Rickardsville, IA",
+    "Ryan, IA",
+    "Spragueville, IA",
+    "St. Donatus, IA",
+    "Strawberry Point, IA",
+    "Worthington, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, IA",
+     "population": 230299
+    },
+    {
+     "county": "Dubuque County, IA",
+     "population": 99266
+    },
+    {
+     "county": "Clinton County, IA",
+     "population": 46460
+    },
+    {
+     "county": "Jones County, IA",
+     "population": 20646
+    },
+    {
+     "county": "Jackson County, IA",
+     "population": 19485
+    },
+    {
+     "county": "Delaware County, IA",
+     "population": 17488
+    },
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3392
+    }
+   ]
+  },
+  {
+   "company": "Woodbury County Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.woodburyrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7974964.719,
+   "Residential-Customers": 3261.0,
+   "Commercial-Sales-($)": 1980058.642,
+   "Commercial-Customers": 80.0,
+   "Industrial-Sales-($)": 31176.639,
+   "Industrial-Customers": 35.0,
+   "Total-Customers": 3376.0,
+   "cities-served": [
+    "Anthon, IA",
+    "Bronson, IA",
+    "Lawton, IA",
+    "Moville, IA",
+    "Pierson, IA",
+    "Salix, IA",
+    "Sioux City, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3376
+    }
+   ]
+  },
+  {
+   "company": "Onawa, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.onawa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1726857.683,
+   "Residential-Customers": 2941.0,
+   "Commercial-Sales-($)": 686795.97,
+   "Commercial-Customers": 371.0,
+   "Industrial-Sales-($)": 720346.348,
+   "Industrial-Customers": 22.0,
+   "Total-Customers": 3334.0,
+   "cities-served": [
+    "Onawa"
+   ],
+   "counties-served": [
+    {
+     "county": "Monona County, IA",
+     "population": 8751
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3334
+    }
+   ]
+  },
+  {
+   "company": "Denison Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://dmuonline.com/electric.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2650114.391,
+   "Residential-Customers": 2733.0,
+   "Commercial-Sales-($)": 1116395.035,
+   "Commercial-Customers": 496.0,
+   "Industrial-Sales-($)": 6223990.574,
+   "Industrial-Customers": 73.0,
+   "Total-Customers": 3302.0,
+   "Total-Production-MWh": 8.0,
+   "Production-from-Non-Renewable-Energy-MWh": 8.0,
+   "cities-served": [
+    "Denison"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3302
+    }
+   ]
+  },
+  {
+   "company": "Estherville Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityofestherville.org/index.asp?SEC=7A4BEBB9-1C5F-49FD-9F64-0CEF18387303&DE=0571FF94-8BBD-4724-96F3-496DBEEBE3CD&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2671501.904,
+   "Residential-Customers": 2693.0,
+   "Commercial-Sales-($)": 2755175.36,
+   "Commercial-Customers": 511.0,
+   "Industrial-Sales-($)": 661322.736,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 3205.0,
+   "Total-Production-MWh": 390.0,
+   "Production-from-Non-Renewable-Energy-MWh": 390.0,
+   "cities-served": [
+    "Estherville"
+   ],
+   "counties-served": [
+    {
+     "county": "Emmet County, IA",
+     "population": 9388
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3205
+    }
+   ]
+  },
+  {
+   "company": "Independence Light and Power",
+   "company-type": "Municipal",
+   "website": "https://www.indytel.com/power/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2943800.0,
+   "Residential-Customers": 2701.0,
+   "Commercial-Sales-($)": 2797700.0,
+   "Commercial-Customers": 445.0,
+   "Industrial-Sales-($)": 2526400.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 3149.0,
+   "cities-served": [
+    "Independence"
+   ],
+   "counties-served": [
+    {
+     "county": "Buchanan County, IA",
+     "population": 20565
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3149
+    }
+   ]
+  },
+  {
+   "company": "Pella Cooperative Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.pella-cea.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5084256.652,
+   "Residential-Customers": 2785.0,
+   "Commercial-Sales-($)": 1103276.104,
+   "Commercial-Customers": 298.0,
+   "Industrial-Sales-($)": 787167.244,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 3090.0,
+   "cities-served": [
+    "Lynnville, IA",
+    "Pella, IA",
+    "Pleasantville, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Jasper County, IA",
+     "population": 37813
+    },
+    {
+     "county": "Marion County, IA",
+     "population": 33414
+    },
+    {
+     "county": "Mahaska County, IA",
+     "population": 22190
+    },
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 3090
+    }
+   ]
+  },
+  {
+   "company": "Harlan Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.harlannet.com/Electric.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2919406.245,
+   "Residential-Customers": 2390.0,
+   "Commercial-Sales-($)": 1364505.093,
+   "Commercial-Customers": 449.0,
+   "Industrial-Sales-($)": 1475088.663,
+   "Industrial-Customers": 40.0,
+   "Total-Customers": 2879.0,
+   "Total-Production-MWh": 34586.0,
+   "Production-from-Non-Renewable-Energy-MWh": 34586.0,
+   "cities-served": [
+    "Harlan"
+   ],
+   "counties-served": [
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2879
+    }
+   ]
+  },
+  {
+   "company": "Sioux Center, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.siouxcenter.org/121/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2690769.309,
+   "Residential-Customers": 2303.0,
+   "Commercial-Sales-($)": 1079506.855,
+   "Commercial-Customers": 473.0,
+   "Industrial-Sales-($)": 6540723.836,
+   "Industrial-Customers": 70.0,
+   "Total-Customers": 2846.0,
+   "cities-served": [
+    "Sioux Center"
+   ],
+   "counties-served": [
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2846
+    }
+   ]
+  },
+  {
+   "company": "Eldridge Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofeldridgeia.org/blank-page-copy-23",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1707334.093,
+   "Residential-Customers": 2496.0,
+   "Commercial-Sales-($)": 599953.11,
+   "Commercial-Customers": 260.0,
+   "Industrial-Sales-($)": 683712.797,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 2774.0,
+   "Total-Production-MWh": 34836.0,
+   "Production-from-Non-Renewable-Energy-MWh": 34836.0,
+   "cities-served": [
+    "Eldridge"
+   ],
+   "counties-served": [
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2774
+    }
+   ]
+  },
+  {
+   "company": "Winterset Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwinterset.org/winterset-municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2871881.447,
+   "Residential-Customers": 2359.0,
+   "Commercial-Sales-($)": 776641.07,
+   "Commercial-Customers": 337.0,
+   "Industrial-Sales-($)": 1518477.483,
+   "Industrial-Customers": 63.0,
+   "Total-Customers": 2759.0,
+   "Total-Production-MWh": 83.0,
+   "Production-from-Non-Renewable-Energy-MWh": 83.0,
+   "cities-served": [
+    "Winterset"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, IA",
+     "population": 16548
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2759
+    }
+   ]
+  },
+  {
+   "company": "Raccoon Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.rvec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5924432.307,
+   "Residential-Customers": 2289.0,
+   "Commercial-Sales-($)": 7182467.693,
+   "Commercial-Customers": 463.0,
+   "Total-Customers": 2752.0,
+   "cities-served": [
+    "Breda, IA",
+    "Coon Rapids, IA",
+    "Dedham, IA",
+    "Glidden, IA",
+    "Lanesboro, IA",
+    "Lidderdale, IA",
+    "Ralston, IA",
+    "Schaller, IA",
+    "Templeton, IA",
+    "Wall Lake, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    },
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    },
+    {
+     "county": "Calhoun County, IA",
+     "population": 9927
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Greene County, IA",
+     "population": 8771
+    },
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2752
+    }
+   ]
+  },
+  {
+   "company": "Vinton Municipal Electric Utilities",
+   "company-type": "Municipal",
+   "website": "https://cityofvinton.org/vmeu-3/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2076201.071,
+   "Residential-Customers": 2165.0,
+   "Commercial-Sales-($)": 898803.297,
+   "Commercial-Customers": 349.0,
+   "Industrial-Sales-($)": 1085995.632,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 2533.0,
+   "Total-Production-MWh": 701.0,
+   "Production-from-Non-Renewable-Energy-MWh": 701.0,
+   "cities-served": [
+    "Vinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Benton County, IA",
+     "population": 25575
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2533
+    }
+   ]
+  },
+  {
+   "company": "New Hampton Electric",
+   "company-type": "Municipal",
+   "website": "https://www.newhamptonia.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1358449.612,
+   "Residential-Customers": 1667.0,
+   "Commercial-Sales-($)": 1421147.287,
+   "Commercial-Customers": 765.0,
+   "Industrial-Sales-($)": 1938403.101,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 2445.0,
+   "Total-Production-MWh": 16425.0,
+   "Production-from-Non-Renewable-Energy-MWh": 16425.0,
+   "cities-served": [
+    "New Hampton"
+   ],
+   "counties-served": [
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2445
+    }
+   ]
+  },
+  {
+   "company": "Osage Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://osage.net/electric-service/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1588082.735,
+   "Residential-Customers": 1857.0,
+   "Commercial-Sales-($)": 1483642.871,
+   "Commercial-Customers": 547.0,
+   "Industrial-Sales-($)": 1850674.394,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 2413.0,
+   "Total-Production-MWh": 5326.0,
+   "Production-from-Renewable-Energy-MWh": 5357.0,
+   "Production-from-Non-Renewable-Energy-MWh": -31.0,
+   "cities-served": [
+    "Osage"
+   ],
+   "counties-served": [
+    {
+     "county": "Mitchell County, IA",
+     "population": 10565
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2413
+    }
+   ]
+  },
+  {
+   "company": "Orange City Utilities",
+   "company-type": "Municipal",
+   "website": "https://orangecityiowa.com/city/city-services/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2222052.342,
+   "Residential-Customers": 1975.0,
+   "Commercial-Sales-($)": 1011349.862,
+   "Commercial-Customers": 307.0,
+   "Industrial-Sales-($)": 4532597.796,
+   "Industrial-Customers": 77.0,
+   "Total-Customers": 2359.0,
+   "cities-served": [
+    "Orange City"
+   ],
+   "counties-served": [
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2359
+    }
+   ]
+  },
+  {
+   "company": "Lyon Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lyonrec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 6437718.765,
+   "Residential-Customers": 2187.0,
+   "Commercial-Sales-($)": 3593281.235,
+   "Commercial-Customers": 87.0,
+   "Total-Customers": 2274.0,
+   "cities-served": [
+    "Alvord, IA",
+    "George, IA",
+    "Larchwood, IA",
+    "Rock Rapids, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    },
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2274
+    }
+   ]
+  },
+  {
+   "company": "Grundy County Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.grundycountyrecia.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4126881.72,
+   "Residential-Customers": 1680.0,
+   "Commercial-Sales-($)": 2447725.393,
+   "Commercial-Customers": 589.0,
+   "Industrial-Sales-($)": 1000392.887,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2272.0,
+   "cities-served": [
+    "Aplington, IA",
+    "Conrad, IA",
+    "Grundy Center, IA",
+    "Holland, IA",
+    "Liscomb, IA",
+    "Reinbeck, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    },
+    {
+     "county": "Marshall County, IA",
+     "population": 40105
+    },
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "Grundy County, IA",
+     "population": 12329
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2272
+    }
+   ]
+  },
+  {
+   "company": "Forest City, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofforestcity.com/index.asp?SEC=4E65504B-9026-4DA4-A823-14B46FE12001",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1278816.204,
+   "Residential-Customers": 1739.0,
+   "Commercial-Sales-($)": 2020837.107,
+   "Commercial-Customers": 414.0,
+   "Industrial-Sales-($)": 1753346.689,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2154.0,
+   "Total-Production-MWh": 313.0,
+   "Production-from-Non-Renewable-Energy-MWh": 313.0,
+   "cities-served": [
+    "Forest City"
+   ],
+   "counties-served": [
+    {
+     "county": "Winnebago County, IA",
+     "population": 10679
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2154
+    }
+   ]
+  },
+  {
+   "company": "Sergeant Bluff, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofsergeantbluff.com/services/municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1814869.054,
+   "Residential-Customers": 1856.0,
+   "Commercial-Sales-($)": 1341130.946,
+   "Commercial-Customers": 192.0,
+   "Total-Customers": 2048.0,
+   "cities-served": [
+    "Sergeant Bluff"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 2048
+    }
+   ]
+  },
+  {
+   "company": "Story Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofstorycity.org/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2064742.742,
+   "Residential-Customers": 1710.0,
+   "Commercial-Sales-($)": 540135.071,
+   "Commercial-Customers": 196.0,
+   "Industrial-Sales-($)": 2948322.188,
+   "Industrial-Customers": 47.0,
+   "Total-Customers": 1953.0,
+   "Total-Production-MWh": 893.0,
+   "Production-from-Non-Renewable-Energy-MWh": 893.0,
+   "cities-served": [
+    "Story City"
+   ],
+   "counties-served": [
+    {
+     "county": "Story County, IA",
+     "population": 98537
+    },
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1953
+    }
+   ]
+  },
+  {
+   "company": "Franklin Rural Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.franklinrec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3932433.024,
+   "Residential-Customers": 1450.0,
+   "Commercial-Sales-($)": 2927159.683,
+   "Commercial-Customers": 493.0,
+   "Industrial-Sales-($)": 512607.293,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1945.0,
+   "cities-served": [
+    "Alexander, IA",
+    "Dougherty, IA",
+    "Hampton, IA",
+    "Latimer, IA",
+    "Meservey, IA",
+    "Popejoy, IA",
+    "Sheffield, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Cerro Gordo County, IA",
+     "population": 43127
+    },
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    },
+    {
+     "county": "Franklin County, IA",
+     "population": 10019
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1945
+    }
+   ]
+  },
+  {
+   "company": "Tipton Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.tiptoniowa.org/city-of-tipton/city-departments/electric-department.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1345107.928,
+   "Residential-Customers": 1439.0,
+   "Commercial-Sales-($)": 1588382.197,
+   "Commercial-Customers": 367.0,
+   "Industrial-Sales-($)": 469509.875,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 1814.0,
+   "Total-Production-MWh": 21963.0,
+   "Production-from-Non-Renewable-Energy-MWh": 21963.0,
+   "cities-served": [
+    "Tipton"
+   ],
+   "counties-served": [
+    {
+     "county": "Cedar County, IA",
+     "population": 18505
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1814
+    }
+   ]
+  },
+  {
+   "company": "Bellevue Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.bellevueia.gov/departments/electricity/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1133051.45,
+   "Residential-Customers": 1565.0,
+   "Commercial-Sales-($)": 978948.55,
+   "Commercial-Customers": 195.0,
+   "Total-Customers": 1760.0,
+   "Total-Production-MWh": 122.0,
+   "Production-from-Non-Renewable-Energy-MWh": 122.0,
+   "cities-served": [
+    "Bellevue"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, IA",
+     "population": 19485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1760
+    }
+   ]
+  },
+  {
+   "company": "Calhoun County Electric Cooperative Association",
+   "company-type": "Cooperative",
+   "website": "https://www.calhounrec.coop/",
+   "service-types": [
+    "Residential",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4382836.3,
+   "Residential-Customers": 1675.0,
+   "Industrial-Sales-($)": 651063.7,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 1701.0,
+   "cities-served": [
+    "Lake City, IA",
+    "Lohrville, IA",
+    "Pomeroy, IA",
+    "Rinard, IA",
+    "Rockwell City, IA",
+    "Yetter, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    },
+    {
+     "county": "Calhoun County, IA",
+     "population": 9927
+    },
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    },
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1701
+    }
+   ]
+  },
+  {
+   "company": "West Liberty, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofwestlibertyia.org/electric-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1437581.776,
+   "Residential-Customers": 1361.0,
+   "Commercial-Sales-($)": 1120055.296,
+   "Commercial-Customers": 230.0,
+   "Industrial-Sales-($)": 2414362.928,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1592.0,
+   "Total-Production-MWh": 628.0,
+   "Production-from-Non-Renewable-Energy-MWh": 628.0,
+   "cities-served": [
+    "West Liberty"
+   ],
+   "counties-served": [
+    {
+     "county": "Muscatine County, IA",
+     "population": 43235
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1592
+    }
+   ]
+  },
+  {
+   "company": "Sibley, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.sibleyiowa.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1423643.864,
+   "Residential-Customers": 1296.0,
+   "Commercial-Sales-($)": 1264773.462,
+   "Commercial-Customers": 293.0,
+   "Industrial-Sales-($)": 312582.674,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1590.0,
+   "Total-Production-MWh": 165.0,
+   "Production-from-Non-Renewable-Energy-MWh": 165.0,
+   "cities-served": [
+    "Sibley"
+   ],
+   "counties-served": [
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1590
+    }
+   ]
+  },
+  {
+   "company": "Milford Electric",
+   "company-type": "Municipal",
+   "website": "https://www.milford.ia.us/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1579071.299,
+   "Residential-Customers": 1215.0,
+   "Commercial-Sales-($)": 664715.71,
+   "Commercial-Customers": 329.0,
+   "Industrial-Sales-($)": 1035212.991,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 1583.0,
+   "Total-Production-MWh": 5399.0,
+   "Production-from-Non-Renewable-Energy-MWh": 5399.0,
+   "cities-served": [
+    "Milford"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, IA",
+     "population": 17703
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1583
+    }
+   ]
+  },
+  {
+   "company": "Grundy Center Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.gcmuni.net/Default.htm",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1298753.971,
+   "Residential-Customers": 1266.0,
+   "Commercial-Sales-($)": 1148246.029,
+   "Commercial-Customers": 304.0,
+   "Total-Customers": 1570.0,
+   "Total-Production-MWh": 5415.0,
+   "Production-from-Non-Renewable-Energy-MWh": 5415.0,
+   "cities-served": [
+    "Clio, IA",
+    "Grundy Center, IA",
+    "Lineville, IA",
+    "South Lineville, MO"
+   ],
+   "counties-served": [
+    {
+     "county": "Wayne County, IA",
+     "population": 6497
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1570
+    }
+   ]
+  },
+  {
+   "company": "Carlisle Electric",
+   "company-type": "Municipal",
+   "website": "https://www.carlisleiowa.org/municipal-electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1458212.54,
+   "Residential-Customers": 1294.0,
+   "Commercial-Sales-($)": 526897.406,
+   "Commercial-Customers": 182.0,
+   "Industrial-Sales-($)": 455190.054,
+   "Industrial-Customers": 60.0,
+   "Total-Customers": 1536.0,
+   "cities-served": [
+    "Carlisle"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, IA",
+     "population": 492401
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1536
+    }
+   ]
+  },
+  {
+   "company": "Wilton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.wiltoniowa.org/city/light_power",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1220276.909,
+   "Residential-Customers": 1314.0,
+   "Commercial-Sales-($)": 662377.904,
+   "Commercial-Customers": 212.0,
+   "Industrial-Sales-($)": 531245.187,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1532.0,
+   "Total-Production-MWh": 83.0,
+   "Production-from-Non-Renewable-Energy-MWh": 83.0,
+   "cities-served": [
+    "Wilton"
+   ],
+   "counties-served": [
+    {
+     "county": "Muscatine County, IA",
+     "population": 43235
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1532
+    }
+   ]
+  },
+  {
+   "company": "Bloomfield Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbloomfield.org/departments/public-works/electric-distribution",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1479312.387,
+   "Residential-Customers": 1166.0,
+   "Commercial-Sales-($)": 1174873.066,
+   "Commercial-Customers": 239.0,
+   "Industrial-Sales-($)": 186314.547,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 1410.0,
+   "Total-Production-MWh": 180.0,
+   "Production-from-Non-Renewable-Energy-MWh": 180.0,
+   "cities-served": [
+    "Bloomfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Davis County, IA",
+     "population": 9110
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1410
+    }
+   ]
+  },
+  {
+   "company": "Guttenberg, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://cityofguttenbergia.gov/index.asp?SEC=F3F43A8A-6674-4CE3-959F-8574EDF1B68D&DE=48F033F4-1A5C-4FE3-9266-86AA779A7EDA",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 958470.895,
+   "Residential-Customers": 1068.0,
+   "Commercial-Sales-($)": 568271.069,
+   "Commercial-Customers": 316.0,
+   "Industrial-Sales-($)": 713258.036,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 1400.0,
+   "cities-served": [
+    "Guttenberg"
+   ],
+   "counties-served": [
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1400
+    }
+   ]
+  },
+  {
+   "company": "Rock Rapids Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.rockrapids.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1164895.21,
+   "Residential-Customers": 1127.0,
+   "Commercial-Sales-($)": 949261.477,
+   "Commercial-Customers": 258.0,
+   "Industrial-Sales-($)": 255843.313,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 1394.0,
+   "Total-Production-MWh": 214.0,
+   "Production-from-Non-Renewable-Energy-MWh": 214.0,
+   "cities-served": [
+    "Rock Rapids"
+   ],
+   "counties-served": [
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1394
+    }
+   ]
+  },
+  {
+   "company": "Lake View, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.lakeviewlifestyle.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1252695.788,
+   "Residential-Customers": 1127.0,
+   "Commercial-Sales-($)": 274121.685,
+   "Commercial-Customers": 200.0,
+   "Industrial-Sales-($)": 411182.527,
+   "Industrial-Customers": 25.0,
+   "Total-Customers": 1352.0,
+   "cities-served": [
+    "Lake View"
+   ],
+   "counties-served": [
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1352
+    }
+   ]
+  },
+  {
+   "company": "Hawarden, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofhawarden.com/residents/guide-city-services/utility-service/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1114458.076,
+   "Residential-Customers": 1026.0,
+   "Commercial-Sales-($)": 842460.27,
+   "Commercial-Customers": 265.0,
+   "Industrial-Sales-($)": 418481.654,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 1300.0,
+   "cities-served": [
+    "Hawarden"
+   ],
+   "counties-served": [
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1300
+    }
+   ]
+  },
+  {
+   "company": "Greenfield Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.gmu-ia.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1016115.115,
+   "Residential-Customers": 1008.0,
+   "Commercial-Sales-($)": 1056398.077,
+   "Commercial-Customers": 240.0,
+   "Industrial-Sales-($)": 2044686.807,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 1249.0,
+   "Total-Production-MWh": 200.0,
+   "Production-from-Non-Renewable-Energy-MWh": 200.0,
+   "cities-served": [
+    "Greenfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, IA",
+     "population": 7496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1249
+    }
+   ]
+  },
+  {
+   "company": "Lake Mills Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.lakemillsia.org/public-services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 986221.46,
+   "Residential-Customers": 1071.0,
+   "Commercial-Sales-($)": 371815.241,
+   "Commercial-Customers": 154.0,
+   "Industrial-Sales-($)": 963863.299,
+   "Industrial-Customers": 24.0,
+   "Total-Customers": 1249.0,
+   "Total-Production-MWh": 77.0,
+   "Production-from-Non-Renewable-Energy-MWh": 77.0,
+   "cities-served": [
+    "Lake Mills"
+   ],
+   "counties-served": [
+    {
+     "county": "Winnebago County, IA",
+     "population": 10679
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1249
+    }
+   ]
+  },
+  {
+   "company": "New London, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.newlondoniowa.org/city-information",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1166536.289,
+   "Residential-Customers": 1092.0,
+   "Commercial-Sales-($)": 538563.711,
+   "Commercial-Customers": 155.0,
+   "Total-Customers": 1247.0,
+   "Total-Production-MWh": 5077.0,
+   "Production-from-Renewable-Energy-MWh": 5077.0,
+   "cities-served": [
+    "New London",
+    "Yarmouth CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Des Moines County, IA",
+     "population": 38910
+    },
+    {
+     "county": "Henry County, IA",
+     "population": 20482
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1247
+    }
+   ]
+  },
+  {
+   "company": "Osceola Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.osceolaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3600700.38,
+   "Residential-Customers": 1104.0,
+   "Commercial-Sales-($)": 1065257.221,
+   "Commercial-Customers": 131.0,
+   "Industrial-Sales-($)": 2331242.399,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1237.0,
+   "cities-served": [
+    "Ashton, IA",
+    "Harris, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, IA",
+     "population": 17703
+    },
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1237
+    }
+   ]
+  },
+  {
+   "company": "La Porte City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.lpcia.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1157409.653,
+   "Residential-Customers": 1007.0,
+   "Commercial-Sales-($)": 509590.347,
+   "Commercial-Customers": 185.0,
+   "Total-Customers": 1192.0,
+   "Total-Production-MWh": 307.0,
+   "Production-from-Non-Renewable-Energy-MWh": 307.0,
+   "cities-served": [
+    "La Porte City"
+   ],
+   "counties-served": [
+    {
+     "county": "Black Hawk County, IA",
+     "population": 131144
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1192
+    }
+   ]
+  },
+  {
+   "company": "Ogden Utility",
+   "company-type": "Municipal",
+   "website": "https://www.ogdeniowa.org/departments/municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1608446.576,
+   "Residential-Customers": 1034.0,
+   "Commercial-Sales-($)": 179953.424,
+   "Commercial-Customers": 132.0,
+   "Total-Customers": 1166.0,
+   "Total-Production-MWh": 233.0,
+   "Production-from-Non-Renewable-Energy-MWh": 233.0,
+   "cities-served": [
+    "Ogden"
+   ],
+   "counties-served": [
+    {
+     "county": "Boone County, IA",
+     "population": 26715
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1166
+    }
+   ]
+  },
+  {
+   "company": "Pocahontas, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pocahontasiowa.com/government/city-staff/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 932682.547,
+   "Residential-Customers": 937.0,
+   "Commercial-Sales-($)": 808260.574,
+   "Commercial-Customers": 209.0,
+   "Industrial-Sales-($)": 243056.879,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 1161.0,
+   "cities-served": [
+    "Pocahontas"
+   ],
+   "counties-served": [
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1161
+    }
+   ]
+  },
+  {
+   "company": "Lamoni Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.lamoniutilities.com/electric.cfm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 830394.258,
+   "Residential-Customers": 930.0,
+   "Commercial-Sales-($)": 1114014.833,
+   "Commercial-Customers": 223.0,
+   "Industrial-Sales-($)": 92590.909,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 1159.0,
+   "Total-Production-MWh": 124.0,
+   "Production-from-Non-Renewable-Energy-MWh": 124.0,
+   "cities-served": [
+    "Lamoni"
+   ],
+   "counties-served": [
+    {
+     "county": "Decatur County, IA",
+     "population": 7645
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1159
+    }
+   ]
+  },
+  {
+   "company": "Cascade Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 822022.475,
+   "Residential-Customers": 954.0,
+   "Commercial-Sales-($)": 844465.117,
+   "Commercial-Customers": 191.0,
+   "Industrial-Sales-($)": 105412.408,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 1148.0,
+   "Total-Production-MWh": 76.0,
+   "Production-from-Non-Renewable-Energy-MWh": 76.0,
+   "cities-served": [
+    "Cascade"
+   ],
+   "counties-served": [
+    {
+     "county": "Dubuque County, IA",
+     "population": 99266
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1148
+    }
+   ]
+  },
+  {
+   "company": "Corning, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.corningmu.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 787089.036,
+   "Residential-Customers": 853.0,
+   "Commercial-Sales-($)": 1000010.964,
+   "Commercial-Customers": 283.0,
+   "Total-Customers": 1136.0,
+   "Total-Production-MWh": 50.0,
+   "Production-from-Non-Renewable-Energy-MWh": 50.0,
+   "cities-served": [
+    "Corning"
+   ],
+   "counties-served": [
+    {
+     "county": "Adams County, IA",
+     "population": 3704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1136
+    }
+   ]
+  },
+  {
+   "company": "Sumner, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/Sumner-Municipal-Light-Plant-659656890899102/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1335998.732,
+   "Residential-Customers": 910.0,
+   "Commercial-Sales-($)": 636694.421,
+   "Commercial-Customers": 210.0,
+   "Industrial-Sales-($)": 306306.847,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1122.0,
+   "Total-Production-MWh": 3991.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3991.0,
+   "cities-served": [
+    "Sumner"
+   ],
+   "counties-served": [
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1122
+    }
+   ]
+  },
+  {
+   "company": "Traer Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.traer.net/electric-utility",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 988490.975,
+   "Residential-Customers": 950.0,
+   "Commercial-Sales-($)": 535509.025,
+   "Commercial-Customers": 148.0,
+   "Total-Customers": 1098.0,
+   "Total-Production-MWh": 57.0,
+   "Production-from-Non-Renewable-Energy-MWh": 57.0,
+   "cities-served": [
+    "Traer"
+   ],
+   "counties-served": [
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1098
+    }
+   ]
+  },
+  {
+   "company": "State Center, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.statecenteriowa.org/government-services/city-staff/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1066569.057,
+   "Residential-Customers": 811.0,
+   "Commercial-Sales-($)": 436590.081,
+   "Commercial-Customers": 182.0,
+   "Industrial-Sales-($)": 308640.863,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 1001.0,
+   "Total-Production-MWh": 467.0,
+   "Production-from-Non-Renewable-Energy-MWh": 467.0,
+   "cities-served": [
+    "State Center"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, IA",
+     "population": 40105
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 1001
+    }
+   ]
+  },
+  {
+   "company": "Alta Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.alta-tec.net/electric_water.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1073700.155,
+   "Residential-Customers": 834.0,
+   "Commercial-Sales-($)": 910299.845,
+   "Commercial-Customers": 158.0,
+   "Total-Customers": 992.0,
+   "Total-Production-MWh": 3652.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3652.0,
+   "cities-served": [
+    "Alta"
+   ],
+   "counties-served": [
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 992
+    }
+   ]
+  },
+  {
+   "company": "Durant City Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofdurantiowa.com/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 977084.821,
+   "Residential-Customers": 797.0,
+   "Commercial-Sales-($)": 173254.464,
+   "Commercial-Customers": 134.0,
+   "Industrial-Sales-($)": 425660.714,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 957.0,
+   "Total-Production-MWh": 46.0,
+   "Production-from-Non-Renewable-Energy-MWh": 46.0,
+   "cities-served": [
+    "Durant"
+   ],
+   "counties-served": [
+    {
+     "county": "Cedar County, IA",
+     "population": 18505
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 957
+    }
+   ]
+  },
+  {
+   "company": "Hartley, Iowa Electrc Utility",
+   "company-type": "Municipal",
+   "website": "https://www.hartleyiowa.com/utilites/about-our-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 952747.642,
+   "Residential-Customers": 806.0,
+   "Commercial-Sales-($)": 232105.542,
+   "Commercial-Customers": 117.0,
+   "Industrial-Sales-($)": 534146.816,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 939.0,
+   "cities-served": [
+    "Hartley"
+   ],
+   "counties-served": [
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 939
+    }
+   ]
+  },
+  {
+   "company": "City of Stuart Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.stuartia.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 980729.647,
+   "Residential-Customers": 757.0,
+   "Commercial-Sales-($)": 892370.353,
+   "Commercial-Customers": 179.0,
+   "Total-Customers": 936.0,
+   "Total-Production-MWh": 17.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17.0,
+   "cities-served": [
+    "Stuart"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, IA",
+     "population": 7496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 936
+    }
+   ]
+  },
+  {
+   "company": "Denver, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofdenveriowa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 945620.079,
+   "Residential-Customers": 820.0,
+   "Commercial-Sales-($)": 579379.921,
+   "Commercial-Customers": 110.0,
+   "Total-Customers": 930.0,
+   "cities-served": [
+    "Denver"
+   ],
+   "counties-served": [
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 930
+    }
+   ]
+  },
+  {
+   "company": "Montezuma, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.montezumaiowa.org/departmentsmonte/light_and_power.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 612264.188,
+   "Residential-Customers": 706.0,
+   "Commercial-Sales-($)": 819286.811,
+   "Commercial-Customers": 205.0,
+   "Industrial-Sales-($)": 494549.001,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 913.0,
+   "Total-Production-MWh": 207.0,
+   "Production-from-Non-Renewable-Energy-MWh": 207.0,
+   "cities-served": [
+    "Montezuma"
+   ],
+   "counties-served": [
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 913
+    }
+   ]
+  },
+  {
+   "company": "Woodbine, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.woodbinelightandpower.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 880692.802,
+   "Residential-Customers": 723.0,
+   "Commercial-Sales-($)": 196697.943,
+   "Commercial-Customers": 148.0,
+   "Industrial-Sales-($)": 460609.254,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 890.0,
+   "cities-served": [
+    "Woodbine"
+   ],
+   "counties-served": [
+    {
+     "county": "Harrison County, IA",
+     "population": 14582
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 890
+    }
+   ]
+  },
+  {
+   "company": "Amana Society Service Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.amanaservicecompany.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1016000.0,
+   "Residential-Customers": 706.0,
+   "Commercial-Sales-($)": 1194000.0,
+   "Commercial-Customers": 182.0,
+   "Industrial-Sales-($)": 5840000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 889.0,
+   "Total-Production-MWh": 2082.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2082.0,
+   "cities-served": [
+    "Middle Amana CDP",
+    "Amana CDP",
+    "South Amana CDP",
+    "West Amana CDP",
+    "Homestead CDP",
+    "High Amana CDP",
+    "East Amana CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Iowa County, IA",
+     "population": 16662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 890
+    }
+   ]
+  },
+  {
+   "company": "Remsen, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.remseniowa.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 903121.7,
+   "Residential-Customers": 695.0,
+   "Commercial-Sales-($)": 462494.527,
+   "Commercial-Customers": 142.0,
+   "Industrial-Sales-($)": 332383.773,
+   "Industrial-Customers": 34.0,
+   "Total-Customers": 871.0,
+   "cities-served": [
+    "Remsen"
+   ],
+   "counties-served": [
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 871
+    }
+   ]
+  },
+  {
+   "company": "Akron Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.akronia.org/public-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 810973.715,
+   "Residential-Customers": 701.0,
+   "Commercial-Sales-($)": 195926.402,
+   "Commercial-Customers": 111.0,
+   "Industrial-Sales-($)": 722099.883,
+   "Industrial-Customers": 38.0,
+   "Total-Customers": 850.0,
+   "cities-served": [
+    "Akron"
+   ],
+   "counties-served": [
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 850
+    }
+   ]
+  },
+  {
+   "company": "Manning Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.manningia.com/pview.aspx?id=21092&catid=70",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 777342.611,
+   "Residential-Customers": 684.0,
+   "Commercial-Sales-($)": 879724.321,
+   "Commercial-Customers": 158.0,
+   "Industrial-Sales-($)": 1203933.068,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 843.0,
+   "Total-Production-MWh": 781.0,
+   "Production-from-Non-Renewable-Energy-MWh": 781.0,
+   "cities-served": [
+    "Manning"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 843
+    }
+   ]
+  },
+  {
+   "company": "Laurens Municipal Power and Communications",
+   "company-type": "Municipal",
+   "website": "https://www.lmpc-ia.com/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 913188.948,
+   "Residential-Customers": 664.0,
+   "Commercial-Sales-($)": 246385.027,
+   "Commercial-Customers": 140.0,
+   "Industrial-Sales-($)": 1034426.025,
+   "Industrial-Customers": 29.0,
+   "Total-Customers": 833.0,
+   "Total-Production-MWh": 8074.0,
+   "Production-from-Non-Renewable-Energy-MWh": 8074.0,
+   "cities-served": [
+    "Laurens"
+   ],
+   "counties-served": [
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 833
+    }
+   ]
+  },
+  {
+   "company": "Brooklyn, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.brooklyniowa.com/departments/public-works-department/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 773635.449,
+   "Residential-Customers": 689.0,
+   "Commercial-Sales-($)": 472219.04,
+   "Commercial-Customers": 120.0,
+   "Industrial-Sales-($)": 52245.511,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 811.0,
+   "Total-Production-MWh": 31.0,
+   "Production-from-Non-Renewable-Energy-MWh": 31.0,
+   "cities-served": [
+    "Bethany, IN",
+    "Brooklyn, IN",
+    "Brooklyn, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "Poweshiek County, IA",
+     "population": 18662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 811
+    }
+   ]
+  },
+  {
+   "company": "Coon Rapids Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.crmu.net/Electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 760176.31,
+   "Residential-Customers": 609.0,
+   "Commercial-Sales-($)": 556251.191,
+   "Commercial-Customers": 184.0,
+   "Industrial-Sales-($)": 166572.498,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 794.0,
+   "Total-Production-MWh": 7939.0,
+   "Production-from-Non-Renewable-Energy-MWh": 7939.0,
+   "cities-served": [
+    "Coon Rapids"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 794
+    }
+   ]
+  },
+  {
+   "company": "West Point Utility System",
+   "company-type": "Municipal",
+   "website": "https://www.westpointiowa.com/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 786254.971,
+   "Residential-Customers": 665.0,
+   "Commercial-Sales-($)": 252682.093,
+   "Commercial-Customers": 101.0,
+   "Industrial-Sales-($)": 443962.936,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 767.0,
+   "cities-served": [
+    "West Point"
+   ],
+   "counties-served": [
+    {
+     "county": "Lee County, IA",
+     "population": 33555
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 767
+    }
+   ]
+  },
+  {
+   "company": "Sanborn, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.sanborniowa.gov/city-government/municipal-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 768177.767,
+   "Residential-Customers": 597.0,
+   "Commercial-Sales-($)": 227796.865,
+   "Commercial-Customers": 125.0,
+   "Industrial-Sales-($)": 1559025.367,
+   "Industrial-Customers": 38.0,
+   "Total-Customers": 760.0,
+   "cities-served": [
+    "Sanborn"
+   ],
+   "counties-served": [
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 760
+    }
+   ]
+  },
+  {
+   "company": "Mapleton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mapleton.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 783008.621,
+   "Residential-Customers": 573.0,
+   "Commercial-Sales-($)": 705991.379,
+   "Commercial-Customers": 179.0,
+   "Total-Customers": 752.0,
+   "cities-served": [
+    "Mapleton"
+   ],
+   "counties-served": [
+    {
+     "county": "Monona County, IA",
+     "population": 8751
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 752
+    }
+   ]
+  },
+  {
+   "company": "Lenox, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://sites.google.com/lenoxschools.org/lenox-municipal-utilities/electric-water?authuser=0",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 805242.856,
+   "Residential-Customers": 592.0,
+   "Commercial-Sales-($)": 948757.144,
+   "Commercial-Customers": 147.0,
+   "Total-Customers": 739.0,
+   "Total-Production-MWh": 261.0,
+   "Production-from-Non-Renewable-Energy-MWh": 261.0,
+   "cities-served": [
+    "Lenox"
+   ],
+   "counties-served": [
+    {
+     "county": "Taylor County, IA",
+     "population": 5896
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 739
+    }
+   ]
+  },
+  {
+   "company": "Lake Park, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.lakeparkia.com/municipal-utilities/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 581968.35,
+   "Residential-Customers": 619.0,
+   "Commercial-Sales-($)": 83258.478,
+   "Commercial-Customers": 98.0,
+   "Industrial-Sales-($)": 450773.173,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 733.0,
+   "Total-Production-MWh": 360.0,
+   "Production-from-Non-Renewable-Energy-MWh": 360.0,
+   "cities-served": [
+    "Lake Park"
+   ],
+   "counties-served": [
+    {
+     "county": "Dickinson County, IA",
+     "population": 17703
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 733
+    }
+   ]
+  },
+  {
+   "company": "Panora, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofpanora.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 669241.475,
+   "Residential-Customers": 557.0,
+   "Commercial-Sales-($)": 603451.635,
+   "Commercial-Customers": 149.0,
+   "Industrial-Sales-($)": 357306.889,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 719.0,
+   "Total-Production-MWh": 41.0,
+   "Production-from-Non-Renewable-Energy-MWh": 41.0,
+   "cities-served": [
+    "Lake Panorama CDP",
+    "Panora"
+   ],
+   "counties-served": [
+    {
+     "county": "Guthrie County, IA",
+     "population": 10623
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 719
+    }
+   ]
+  },
+  {
+   "company": "Dysart, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofdysartia.com/index.asp?SEC=03746303-5267-408F-8742-4C2EBF0872AC&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 731885.302,
+   "Residential-Customers": 600.0,
+   "Commercial-Sales-($)": 370914.698,
+   "Commercial-Customers": 112.0,
+   "Total-Customers": 712.0,
+   "cities-served": [
+    "Dysart"
+   ],
+   "counties-served": [
+    {
+     "county": "Tama County, IA",
+     "population": 17135
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 712
+    }
+   ]
+  },
+  {
+   "company": "Villisca, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofvillisca.com/city-boards/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 693500.0,
+   "Residential-Customers": 580.0,
+   "Commercial-Sales-($)": 446500.0,
+   "Commercial-Customers": 130.0,
+   "Total-Customers": 710.0,
+   "Total-Production-MWh": 27.0,
+   "Production-from-Non-Renewable-Energy-MWh": 27.0,
+   "cities-served": [
+    "Villisca"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, IA",
+     "population": 10330
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 710
+    }
+   ]
+  },
+  {
+   "company": "Strawberry Point, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.strawberrypt.com/?fbclid=IwAR32dBuoEfKPvpAN0yO3PGB41hNBEl500qPAH4KTTGiiagKJGKsbTJPYCZ8",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 648830.209,
+   "Residential-Customers": 579.0,
+   "Commercial-Sales-($)": 366629.548,
+   "Commercial-Customers": 118.0,
+   "Industrial-Sales-($)": 33540.243,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 703.0,
+   "Total-Production-MWh": 42.0,
+   "Production-from-Non-Renewable-Energy-MWh": 42.0,
+   "cities-served": [
+    "Strawberry Point"
+   ],
+   "counties-served": [
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 703
+    }
+   ]
+  },
+  {
+   "company": "Glidden, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://cityofglidden.org/utli",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 622728.682,
+   "Residential-Customers": 577.0,
+   "Commercial-Sales-($)": 235069.767,
+   "Commercial-Customers": 103.0,
+   "Industrial-Sales-($)": 73201.55,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 685.0,
+   "cities-served": [
+    "Glidden"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 685
+    }
+   ]
+  },
+  {
+   "company": "Paullina, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://paullinaiowa.com/utilities1/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 533956.204,
+   "Residential-Customers": 532.0,
+   "Commercial-Sales-($)": 474043.796,
+   "Commercial-Customers": 140.0,
+   "Total-Customers": 672.0,
+   "cities-served": [
+    "Paullina"
+   ],
+   "counties-served": [
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 672
+    }
+   ]
+  },
+  {
+   "company": "Keosauqua Light & Power",
+   "company-type": "Municipal",
+   "website": "https://www.villagesofvanburen.com/directory.html?item=1382",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 531473.684,
+   "Residential-Customers": 509.0,
+   "Commercial-Sales-($)": 561789.474,
+   "Commercial-Customers": 141.0,
+   "Industrial-Sales-($)": 346736.842,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 653.0,
+   "cities-served": [
+    "Keosauqua"
+   ],
+   "counties-served": [
+    {
+     "county": "Van Buren County, IA",
+     "population": 7203
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 653
+    }
+   ]
+  },
+  {
+   "company": "Primghar, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://primghariowa.org/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 515639.499,
+   "Residential-Customers": 507.0,
+   "Commercial-Sales-($)": 390060.501,
+   "Commercial-Customers": 140.0,
+   "Total-Customers": 647.0,
+   "cities-served": [
+    "Primghar"
+   ],
+   "counties-served": [
+    {
+     "county": "O'Brien County, IA",
+     "population": 14182
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 647
+    }
+   ]
+  },
+  {
+   "company": "McGregor, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.mcgreg-marq.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 422421.477,
+   "Residential-Customers": 480.0,
+   "Commercial-Sales-($)": 261122.062,
+   "Commercial-Customers": 143.0,
+   "Industrial-Sales-($)": 178056.461,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 629.0,
+   "Total-Production-MWh": 12.0,
+   "Production-from-Non-Renewable-Energy-MWh": 12.0,
+   "cities-served": [
+    "McGregor"
+   ],
+   "counties-served": [
+    {
+     "county": "Clayton County, IA",
+     "population": 17043
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 629
+    }
+   ]
+  },
+  {
+   "company": "Farmers Electric Coop Kalona, Iowa",
+   "company-type": "Cooperative",
+   "website": "http://www.feckalona.net/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1549584.399,
+   "Residential-Customers": 603.0,
+   "Commercial-Sales-($)": 715415.601,
+   "Commercial-Customers": 23.0,
+   "Total-Customers": 626.0,
+   "Total-Production-MWh": 364.0,
+   "Production-from-Non-Renewable-Energy-MWh": 364.0,
+   "cities-served": [
+    "Frytown CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Johnson County, IA",
+     "population": 152854
+    },
+    {
+     "county": "Washington County, IA",
+     "population": 22565
+    },
+    {
+     "county": "Iowa County, IA",
+     "population": 16662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 626
+    }
+   ]
+  },
+  {
+   "company": "Bancroft Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.bancroftiowa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 389885.305,
+   "Residential-Customers": 375.0,
+   "Commercial-Sales-($)": 666831.541,
+   "Commercial-Customers": 151.0,
+   "Industrial-Sales-($)": 313283.154,
+   "Industrial-Customers": 87.0,
+   "Total-Customers": 613.0,
+   "Total-Production-MWh": 4851.0,
+   "Production-from-Non-Renewable-Energy-MWh": 4851.0,
+   "cities-served": [
+    "Bancroft"
+   ],
+   "counties-served": [
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 613
+    }
+   ]
+  },
+  {
+   "company": "West Bend Electric",
+   "company-type": "Municipal",
+   "website": "https://westbendiowa.com/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 687242.032,
+   "Residential-Customers": 467.0,
+   "Commercial-Sales-($)": 203071.23,
+   "Commercial-Customers": 95.0,
+   "Industrial-Sales-($)": 956686.738,
+   "Industrial-Customers": 48.0,
+   "Total-Customers": 610.0,
+   "Total-Production-MWh": 3838.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3838.0,
+   "cities-served": [
+    "West Bend"
+   ],
+   "counties-served": [
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    },
+    {
+     "county": "Palo Alto County, IA",
+     "population": 8996
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 610
+    }
+   ]
+  },
+  {
+   "company": "Anita, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.anitaiowa.com/anita-municipal-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 422679.594,
+   "Residential-Customers": 487.0,
+   "Commercial-Sales-($)": 309720.406,
+   "Commercial-Customers": 115.0,
+   "Total-Customers": 602.0,
+   "Total-Production-MWh": 148.0,
+   "Production-from-Non-Renewable-Energy-MWh": 148.0,
+   "cities-served": [
+    "Anita"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, IA",
+     "population": 13127
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 602
+    }
+   ]
+  },
+  {
+   "company": "Gowrie Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.gowrie.org/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 519722.986,
+   "Residential-Customers": 468.0,
+   "Commercial-Sales-($)": 427677.014,
+   "Commercial-Customers": 130.0,
+   "Total-Customers": 598.0,
+   "Total-Production-MWh": 86.0,
+   "Production-from-Non-Renewable-Energy-MWh": 86.0,
+   "cities-served": [
+    "Gowrie"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 598
+    }
+   ]
+  },
+  {
+   "company": "Preston, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.prestoniowa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 580000.0,
+   "Residential-Customers": 446.0,
+   "Commercial-Sales-($)": 419600.0,
+   "Commercial-Customers": 145.0,
+   "Total-Customers": 591.0,
+   "Total-Production-MWh": 22.0,
+   "Production-from-Non-Renewable-Energy-MWh": 22.0,
+   "cities-served": [
+    "Preston"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, IA",
+     "population": 19485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 591
+    }
+   ]
+  },
+  {
+   "company": "Alton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://altoniowa.us/serve-protect/city-departments/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 559217.838,
+   "Residential-Customers": 453.0,
+   "Commercial-Sales-($)": 411282.162,
+   "Commercial-Customers": 129.0,
+   "Total-Customers": 582.0,
+   "cities-served": [
+    "Alton"
+   ],
+   "counties-served": [
+    {
+     "county": "Sioux County, IA",
+     "population": 35872
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 582
+    }
+   ]
+  },
+  {
+   "company": "Fairbank, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://fairbank-ia.org/page.php?slug=electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 528118.967,
+   "Residential-Customers": 492.0,
+   "Commercial-Sales-($)": 325881.033,
+   "Commercial-Customers": 80.0,
+   "Total-Customers": 572.0,
+   "cities-served": [
+    "Fairbank"
+   ],
+   "counties-served": [
+    {
+     "county": "Buchanan County, IA",
+     "population": 20565
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 572
+    }
+   ]
+  },
+  {
+   "company": "Aplington, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.aplingtonia.com/index.php/city-information/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 627859.296,
+   "Residential-Customers": 489.0,
+   "Commercial-Sales-($)": 194140.704,
+   "Commercial-Customers": 67.0,
+   "Total-Customers": 556.0,
+   "cities-served": [
+    "Aplington"
+   ],
+   "counties-served": [
+    {
+     "county": "Butler County, IA",
+     "population": 14334
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 556
+    }
+   ]
+  },
+  {
+   "company": "Wall Lake, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://walllake.com/page.php?slug=departments",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 429293.001,
+   "Residential-Customers": 435.0,
+   "Commercial-Sales-($)": 159670.225,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 217036.773,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 553.0,
+   "cities-served": [
+    "Wall Lake"
+   ],
+   "counties-served": [
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 553
+    }
+   ]
+  },
+  {
+   "company": "Fredericksburg, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.fredericksburgiowa.com/general_information.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 562973.02,
+   "Residential-Customers": 470.0,
+   "Commercial-Sales-($)": 296194.814,
+   "Commercial-Customers": 52.0,
+   "Industrial-Sales-($)": 2035832.165,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 527.0,
+   "cities-served": [
+    "Fredericksburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 527
+    }
+   ]
+  },
+  {
+   "company": "Aurelia, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://aureliaia.com/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 469429.719,
+   "Residential-Customers": 443.0,
+   "Commercial-Sales-($)": 72061.58,
+   "Commercial-Customers": 61.0,
+   "Industrial-Sales-($)": 227508.701,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 518.0,
+   "cities-served": [
+    "Aurelia"
+   ],
+   "counties-served": [
+    {
+     "county": "Cherokee County, IA",
+     "population": 11658
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 518
+    }
+   ]
+  },
+  {
+   "company": "Afton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.aftoniowa.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 502611.048,
+   "Residential-Customers": 435.0,
+   "Commercial-Sales-($)": 335388.952,
+   "Commercial-Customers": 80.0,
+   "Total-Customers": 515.0,
+   "cities-served": [
+    "Afton"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, IA",
+     "population": 12138
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 515
+    }
+   ]
+  },
+  {
+   "company": "Graettinger, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.graettinger.net/page/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 468367.76,
+   "Residential-Customers": 406.0,
+   "Commercial-Sales-($)": 112158.574,
+   "Commercial-Customers": 82.0,
+   "Industrial-Sales-($)": 232673.666,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 506.0,
+   "Total-Production-MWh": 2382.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2382.0,
+   "cities-served": [
+    "Graettinger"
+   ],
+   "counties-served": [
+    {
+     "county": "Palo Alto County, IA",
+     "population": 8996
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 506
+    }
+   ]
+  },
+  {
+   "company": "Dike, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.dikeia.com/community/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 462846.029,
+   "Residential-Customers": 448.0,
+   "Commercial-Sales-($)": 238937.076,
+   "Commercial-Customers": 48.0,
+   "Industrial-Sales-($)": 95816.894,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 500.0,
+   "Total-Production-MWh": 311.0,
+   "Production-from-Non-Renewable-Energy-MWh": 311.0,
+   "cities-served": [
+    "Dike"
+   ],
+   "counties-served": [
+    {
+     "county": "Grundy County, IA",
+     "population": 12329
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 500
+    }
+   ]
+  },
+  {
+   "company": "Larchwood, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.citylarchwood.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 513272.154,
+   "Residential-Customers": 422.0,
+   "Commercial-Sales-($)": 100691.559,
+   "Commercial-Customers": 61.0,
+   "Industrial-Sales-($)": 239036.287,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 497.0,
+   "cities-served": [
+    "Larchwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Lyon County, IA",
+     "population": 11934
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 497
+    }
+   ]
+  },
+  {
+   "company": "Buffalo, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.buffaloiowa.org/public-works-department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 497963.918,
+   "Residential-Customers": 466.0,
+   "Commercial-Sales-($)": 197036.082,
+   "Commercial-Customers": 26.0,
+   "Total-Customers": 492.0,
+   "cities-served": [
+    "Buffalo"
+   ],
+   "counties-served": [
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 492
+    }
+   ]
+  },
+  {
+   "company": "Manilla, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.manillaia.com/city.asp?key=1&name=Manilla_Municipal_Utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 375360.0,
+   "Residential-Customers": 390.0,
+   "Commercial-Sales-($)": 176640.0,
+   "Commercial-Customers": 85.0,
+   "Total-Customers": 475.0,
+   "cities-served": [
+    "Manilla"
+   ],
+   "counties-served": [
+    {
+     "county": "Crawford County, IA",
+     "population": 16525
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 475
+    }
+   ]
+  },
+  {
+   "company": "Dayton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://daytonia.govoffice2.com/index.asp?SEC=DCDD37B5-F54D-4814-B166-F09FC812A348",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 409536.878,
+   "Residential-Customers": 392.0,
+   "Commercial-Sales-($)": 206946.827,
+   "Commercial-Customers": 79.0,
+   "Industrial-Sales-($)": 18516.295,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 472.0,
+   "Total-Production-MWh": 17.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17.0,
+   "cities-served": [
+    "Dayton"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 472
+    }
+   ]
+  },
+  {
+   "company": "Rockford, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.rockfordiowa.org/utilities.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 506952.13,
+   "Residential-Customers": 389.0,
+   "Commercial-Sales-($)": 383047.87,
+   "Commercial-Customers": 76.0,
+   "Total-Customers": 465.0,
+   "Total-Production-MWh": 12.0,
+   "Production-from-Non-Renewable-Energy-MWh": 12.0,
+   "cities-served": [
+    "Rockford"
+   ],
+   "counties-served": [
+    {
+     "county": "Floyd County, IA",
+     "population": 15627
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 465
+    }
+   ]
+  },
+  {
+   "company": "Neola, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.neola-iowa.com/Government/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 575826.087,
+   "Residential-Customers": 394.0,
+   "Commercial-Sales-($)": 208173.913,
+   "Commercial-Customers": 63.0,
+   "Total-Customers": 457.0,
+   "cities-served": [
+    "Neola"
+   ],
+   "counties-served": [
+    {
+     "county": "Pottawattamie County, IA",
+     "population": 93667
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 457
+    }
+   ]
+  },
+  {
+   "company": "Grand Junction, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://grandjunctioniowa.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 453797.517,
+   "Residential-Customers": 379.0,
+   "Commercial-Sales-($)": 148302.483,
+   "Commercial-Customers": 78.0,
+   "Total-Customers": 457.0,
+   "Total-Production-MWh": 20.0,
+   "Production-from-Non-Renewable-Energy-MWh": 20.0,
+   "cities-served": [
+    "Grand Junction"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, IA",
+     "population": 8771
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 457
+    }
+   ]
+  },
+  {
+   "company": "Fontanelle, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/CityofFontanelle",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 420065.811,
+   "Residential-Customers": 396.0,
+   "Commercial-Sales-($)": 222934.189,
+   "Commercial-Customers": 42.0,
+   "Total-Customers": 438.0,
+   "cities-served": [
+    "Fontanelle"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, IA",
+     "population": 7496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 438
+    }
+   ]
+  },
+  {
+   "company": "Danville, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.danvilleiowa.com/city_hall1.htm",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 424092.746,
+   "Residential-Customers": 393.0,
+   "Commercial-Sales-($)": 159507.254,
+   "Commercial-Customers": 44.0,
+   "Total-Customers": 437.0,
+   "cities-served": [
+    "Danville"
+   ],
+   "counties-served": [
+    {
+     "county": "Des Moines County, IA",
+     "population": 38910
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 437
+    }
+   ]
+  },
+  {
+   "company": "Earlville, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.earlvilleil.org/index.asp?SEC=8D240727-ED4C-473D-9D08-65A9E9BCEC16&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 344331.491,
+   "Residential-Customers": 362.0,
+   "Commercial-Sales-($)": 182568.509,
+   "Commercial-Customers": 65.0,
+   "Total-Customers": 427.0,
+   "Total-Production-MWh": 22.0,
+   "Production-from-Non-Renewable-Energy-MWh": 22.0,
+   "cities-served": [
+    "Earlville, IL",
+    "Earlville, IA"
+   ],
+   "counties-served": [
+    {
+     "county": "LaSalle County, IL",
+     "population": 109658
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 427
+    }
+   ]
+  },
+  {
+   "company": "Stratford, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.stratfordiowa.com/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 349910.448,
+   "Residential-Customers": 308.0,
+   "Commercial-Sales-($)": 236189.552,
+   "Commercial-Customers": 92.0,
+   "Total-Customers": 400.0,
+   "cities-served": [
+    "Stratford"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 400
+    }
+   ]
+  },
+  {
+   "company": "Hinton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.hintoniowa.com/departments/hinton-municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 456488.965,
+   "Residential-Customers": 321.0,
+   "Commercial-Sales-($)": 193141.807,
+   "Commercial-Customers": 56.0,
+   "Industrial-Sales-($)": 429969.228,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 385.0,
+   "cities-served": [
+    "Hinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 385
+    }
+   ]
+  },
+  {
+   "company": "Sabula, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.sabulaia.com/gas-and-electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 382733.161,
+   "Residential-Customers": 315.0,
+   "Commercial-Sales-($)": 107266.839,
+   "Commercial-Customers": 70.0,
+   "Total-Customers": 385.0,
+   "cities-served": [
+    "Sabula"
+   ],
+   "counties-served": [
+    {
+     "county": "Jackson County, IA",
+     "population": 19485
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 385
+    }
+   ]
+  },
+  {
+   "company": "Hopkinton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://delawarecountyia.com/our-communities/hopkinton/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 373155.28,
+   "Residential-Customers": 327.0,
+   "Commercial-Sales-($)": 245760.87,
+   "Commercial-Customers": 55.0,
+   "Industrial-Sales-($)": 27083.851,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 383.0,
+   "Total-Production-MWh": 133.0,
+   "Production-from-Non-Renewable-Energy-MWh": 133.0,
+   "cities-served": [
+    "Hopkinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Delaware County, IA",
+     "population": 17488
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 383
+    }
+   ]
+  },
+  {
+   "company": "Readlyn, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.readlyn.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 431371.669,
+   "Residential-Customers": 345.0,
+   "Commercial-Sales-($)": 223028.331,
+   "Commercial-Customers": 30.0,
+   "Total-Customers": 375.0,
+   "cities-served": [
+    "Readlyn"
+   ],
+   "counties-served": [
+    {
+     "county": "Bremer County, IA",
+     "population": 24988
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 375
+    }
+   ]
+  },
+  {
+   "company": "Fonda, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://fondaiowa.com/city/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 305475.299,
+   "Residential-Customers": 299.0,
+   "Commercial-Sales-($)": 109361.552,
+   "Commercial-Customers": 62.0,
+   "Industrial-Sales-($)": 108963.149,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 363.0,
+   "cities-served": [
+    "Fonda"
+   ],
+   "counties-served": [
+    {
+     "county": "Pocahontas County, IA",
+     "population": 7078
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 363
+    }
+   ]
+  },
+  {
+   "company": "Coggon, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://coggonlightplant.business.site/?utm_source=gmb&utm_medium=referral",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 224444.901,
+   "Residential-Customers": 318.0,
+   "Commercial-Sales-($)": 95091.921,
+   "Commercial-Customers": 44.0,
+   "Industrial-Sales-($)": 208363.179,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 363.0,
+   "Total-Production-MWh": 132.0,
+   "Production-from-Non-Renewable-Energy-MWh": 132.0,
+   "cities-served": [
+    "Coggon"
+   ],
+   "counties-served": [
+    {
+     "county": "Linn County, IA",
+     "population": 230299
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 363
+    }
+   ]
+  },
+  {
+   "company": "Stanton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.stantoniowa.com/residential-services/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 435993.939,
+   "Residential-Customers": 308.0,
+   "Commercial-Sales-($)": 166006.061,
+   "Commercial-Customers": 53.0,
+   "Total-Customers": 361.0,
+   "cities-served": [
+    "Stanton"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, IA",
+     "population": 10330
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 361
+    }
+   ]
+  },
+  {
+   "company": "Anthon, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofanthon.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 431364.179,
+   "Residential-Customers": 314.0,
+   "Commercial-Sales-($)": 206635.821,
+   "Commercial-Customers": 47.0,
+   "Total-Customers": 361.0,
+   "cities-served": [
+    "Anthon"
+   ],
+   "counties-served": [
+    {
+     "county": "Woodbury County, IA",
+     "population": 105941
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 361
+    }
+   ]
+  },
+  {
+   "company": "Shelby Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.shelbyia.com/services.asp",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 396154.374,
+   "Residential-Customers": 292.0,
+   "Commercial-Sales-($)": 95934.82,
+   "Commercial-Customers": 53.0,
+   "Industrial-Sales-($)": 165910.806,
+   "Industrial-Customers": 11.0,
+   "Total-Customers": 356.0,
+   "cities-served": [
+    "Shelby"
+   ],
+   "counties-served": [
+    {
+     "county": "Shelby County, IA",
+     "population": 11746
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 356
+    }
+   ]
+  },
+  {
+   "company": "Whittemore, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.whittemoreiowa.com/utilities.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 338110.169,
+   "Residential-Customers": 250.0,
+   "Commercial-Sales-($)": 233008.475,
+   "Commercial-Customers": 71.0,
+   "Industrial-Sales-($)": 130881.356,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 323.0,
+   "cities-served": [
+    "Whittemore"
+   ],
+   "counties-served": [
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 323
+    }
+   ]
+  },
+  {
+   "company": "Lawler, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://lawleriowa.us/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 238579.882,
+   "Residential-Customers": 273.0,
+   "Commercial-Sales-($)": 96426.036,
+   "Commercial-Customers": 47.0,
+   "Industrial-Sales-($)": 994.083,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 322.0,
+   "cities-served": [
+    "Lawler"
+   ],
+   "counties-served": [
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 322
+    }
+   ]
+  },
+  {
+   "company": "Breda, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.citybreda.com/UtilitiesAndPublicWorks.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 309503.541,
+   "Residential-Customers": 236.0,
+   "Commercial-Sales-($)": 212496.459,
+   "Commercial-Customers": 75.0,
+   "Total-Customers": 311.0,
+   "cities-served": [
+    "Breda"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, IA",
+     "population": 20760
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 311
+    }
+   ]
+  },
+  {
+   "company": "Burt, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://burtiowa.com/city/city-services/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 260281.232,
+   "Residential-Customers": 244.0,
+   "Commercial-Sales-($)": 64914.513,
+   "Commercial-Customers": 44.0,
+   "Industrial-Sales-($)": 72704.255,
+   "Industrial-Customers": 16.0,
+   "Total-Customers": 304.0,
+   "cities-served": [
+    "Burt"
+   ],
+   "counties-served": [
+    {
+     "county": "Kossuth County, IA",
+     "population": 14828
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 304
+    }
+   ]
+  },
+  {
+   "company": "Farnhamville, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/FarnhamvilleIowa",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 277559.596,
+   "Residential-Customers": 243.0,
+   "Commercial-Sales-($)": 276440.404,
+   "Commercial-Customers": 54.0,
+   "Total-Customers": 297.0,
+   "cities-served": [
+    "Farnhamville"
+   ],
+   "counties-served": [
+    {
+     "county": "Calhoun County, IA",
+     "population": 9927
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 297
+    }
+   ]
+  },
+  {
+   "company": "Ellsworth Electric",
+   "company-type": "Municipal",
+   "website": "https://ellsworthiowa.org/gas-and-electric-utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 310118.633,
+   "Residential-Customers": 217.0,
+   "Commercial-Sales-($)": 897081.367,
+   "Commercial-Customers": 65.0,
+   "Total-Customers": 282.0,
+   "cities-served": [
+    "Ellsworth"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 282
+    }
+   ]
+  },
+  {
+   "company": "Stanhope, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.stanhopeiowa.com/services",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 291887.328,
+   "Residential-Customers": 203.0,
+   "Commercial-Sales-($)": 227712.672,
+   "Commercial-Customers": 56.0,
+   "Total-Customers": 259.0,
+   "cities-served": [
+    "Stanhope"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 259
+    }
+   ]
+  },
+  {
+   "company": "City of Lehigh, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 224000.0,
+   "Residential-Customers": 247.0,
+   "Total-Customers": 247.0,
+   "cities-served": [
+    "Lehigh"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 247
+    }
+   ]
+  },
+  {
+   "company": "Long Grove, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.longgroveia.org/community/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 315521.499,
+   "Residential-Customers": 216.0,
+   "Commercial-Sales-($)": 17178.501,
+   "Commercial-Customers": 12.0,
+   "Total-Customers": 228.0,
+   "cities-served": [
+    "Long Grove"
+   ],
+   "counties-served": [
+    {
+     "county": "Scott County, IA",
+     "population": 174669
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 228
+    }
+   ]
+  },
+  {
+   "company": "Orient, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 209871.186,
+   "Residential-Customers": 217.0,
+   "Commercial-Sales-($)": 74128.814,
+   "Commercial-Customers": 8.0,
+   "Total-Customers": 225.0,
+   "cities-served": [
+    "Orient"
+   ],
+   "counties-served": [
+    {
+     "county": "Adair County, IA",
+     "population": 7496
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 225
+    }
+   ]
+  },
+  {
+   "company": "Kimballton, Iowa Utility Company",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 139572.239,
+   "Residential-Customers": 168.0,
+   "Commercial-Sales-($)": 60527.761,
+   "Commercial-Customers": 53.0,
+   "Total-Customers": 221.0,
+   "cities-served": [
+    "Kimballton"
+   ],
+   "counties-served": [
+    {
+     "county": "Audubon County, IA",
+     "population": 5674
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 221
+    }
+   ]
+  },
+  {
+   "company": "Livermore, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.livermoreiowa.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 252265.425,
+   "Residential-Customers": 180.0,
+   "Commercial-Sales-($)": 132034.575,
+   "Commercial-Customers": 41.0,
+   "Total-Customers": 221.0,
+   "cities-served": [
+    "Livermore"
+   ],
+   "counties-served": [
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 221
+    }
+   ]
+  },
+  {
+   "company": "Callender, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofcallenderiowa.com/Utilities.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 219566.038,
+   "Residential-Customers": 178.0,
+   "Commercial-Sales-($)": 39033.962,
+   "Commercial-Customers": 22.0,
+   "Total-Customers": 200.0,
+   "cities-served": [
+    "Callender"
+   ],
+   "counties-served": [
+    {
+     "county": "Webster County, IA",
+     "population": 36999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 200
+    }
+   ]
+  },
+  {
+   "company": "Marathon, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/CityOfMarathonIA/?ref=page_internal",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 153166.102,
+   "Residential-Customers": 133.0,
+   "Commercial-Sales-($)": 129233.898,
+   "Commercial-Customers": 61.0,
+   "Total-Customers": 194.0,
+   "cities-served": [
+    "Marathon"
+   ],
+   "counties-served": [
+    {
+     "county": "Buena Vista County, IA",
+     "population": 20823
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 194
+    }
+   ]
+  },
+  {
+   "company": "Corwith, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 290566.038,
+   "Residential-Customers": 136.0,
+   "Commercial-Sales-($)": 149433.962,
+   "Commercial-Customers": 45.0,
+   "Total-Customers": 181.0,
+   "cities-served": [
+    "Corwith"
+   ],
+   "counties-served": [
+    {
+     "county": "Hancock County, IA",
+     "population": 10795
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 181
+    }
+   ]
+  },
+  {
+   "company": "Renwick, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 188901.903,
+   "Residential-Customers": 150.0,
+   "Commercial-Sales-($)": 28984.948,
+   "Commercial-Customers": 21.0,
+   "Industrial-Sales-($)": 359813.149,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 174.0,
+   "cities-served": [
+    "Renwick"
+   ],
+   "counties-served": [
+    {
+     "county": "Humboldt County, IA",
+     "population": 9597
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 174
+    }
+   ]
+  },
+  {
+   "company": "Altatec",
+   "company-type": "Municipal",
+   "website": "https://alta-tec.net/electric-water/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 155599.89,
+   "Residential-Customers": 134.0,
+   "Commercial-Sales-($)": 53308.452,
+   "Commercial-Customers": 29.0,
+   "Industrial-Sales-($)": 4091.658,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 172.0,
+   "cities-served": [
+    "Alta Vista"
+   ],
+   "counties-served": [
+    {
+     "county": "Chickasaw County, IA",
+     "population": 12012
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 172
+    }
+   ]
+  },
+  {
+   "company": "Auburn Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.auburniowa.net/city-utilities.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 169702.41,
+   "Residential-Customers": 138.0,
+   "Commercial-Sales-($)": 56497.59,
+   "Commercial-Customers": 28.0,
+   "Total-Customers": 166.0,
+   "cities-served": [
+    "Auburn"
+   ],
+   "counties-served": [
+    {
+     "county": "Sac County, IA",
+     "population": 9814
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 166
+    }
+   ]
+  },
+  {
+   "company": "Grafton Electric",
+   "company-type": "Municipal",
+   "website": "https://www.graftoniowa.com/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 155064.286,
+   "Residential-Customers": 144.0,
+   "Commercial-Sales-($)": 47235.714,
+   "Commercial-Customers": 16.0,
+   "Total-Customers": 160.0,
+   "cities-served": [
+    "Grafton"
+   ],
+   "counties-served": [
+    {
+     "county": "Worth County, IA",
+     "population": 7443
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 160
+    }
+   ]
+  },
+  {
+   "company": "Bigelow, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 220300.0,
+   "Residential-Customers": 148.0,
+   "Total-Customers": 148.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Osceola County, IA",
+     "population": 6192
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 130
+    },
+    {
+     "state": "Iowa",
+     "customers": 18
+    }
+   ]
+  },
+  {
+   "company": "Pleasant Hill Community Line",
+   "company-type": "Cooperative",
+   "website": "https://www.pleasanthilliowa.org/404/Gas-or-Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 188136.461,
+   "Residential-Customers": 102.0,
+   "Commercial-Sales-($)": 376163.539,
+   "Commercial-Customers": 30.0,
+   "Total-Customers": 132.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 132
+    }
+   ]
+  },
+  {
+   "company": "Woolstock, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 91331.633,
+   "Residential-Customers": 93.0,
+   "Commercial-Sales-($)": 129668.367,
+   "Commercial-Customers": 32.0,
+   "Total-Customers": 125.0,
+   "cities-served": [
+    "Woolstock"
+   ],
+   "counties-served": [
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 125
+    }
+   ]
+  },
+  {
+   "company": "Paton, Iowa Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 153060.02,
+   "Residential-Customers": 108.0,
+   "Commercial-Sales-($)": 939.98,
+   "Commercial-Customers": 16.0,
+   "Total-Customers": 124.0,
+   "cities-served": [
+    "Paton"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, IA",
+     "population": 8771
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 124
+    }
+   ]
+  },
+  {
+   "company": "Boone Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 507187.166,
+   "Residential-Customers": 100.0,
+   "Commercial-Sales-($)": 397812.834,
+   "Commercial-Customers": 1.0,
+   "Total-Customers": 101.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Wright County, IA",
+     "population": 12943
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 101
+    }
+   ]
+  },
+  {
+   "company": "Cass Electric Coop Iowa",
+   "company-type": "Cooperative",
+   "website": "",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 113400.0,
+   "Residential-Customers": 90.0,
+   "Total-Customers": 90.0,
+   "cities-served": [
+    "About",
+    "Overview",
+    "Coverage Map",
+    "State Coverage",
+    "County Coverage",
+    "Reviews",
+    "FAQ"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, IA",
+     "population": 15039
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 90
+    }
+   ]
+  },
+  {
+   "company": "Westfield Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.westfieldiowa.com/utilities.htm",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 89266.667,
+   "Residential-Customers": 70.0,
+   "Commercial-Sales-($)": 13733.333,
+   "Commercial-Customers": 10.0,
+   "Total-Customers": 80.0,
+   "cities-served": [
+    "Westfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Plymouth County, IA",
+     "population": 25698
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Iowa",
+     "customers": 80
+    }
+   ]
+  }
+ ]
+}

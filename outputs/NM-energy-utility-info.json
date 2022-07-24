@@ -1,0 +1,1958 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Public Service Company of New Mexico",
+   "company-type": "Investor Owned",
+   "website": "https://www.pnm.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 482624000.0,
+   "Residential-Customers": 481525.0,
+   "Commercial-Sales-($)": 447879000.0,
+   "Commercial-Customers": 59122.0,
+   "Industrial-Sales-($)": 126292000.0,
+   "Industrial-Customers": 195.0,
+   "Total-Customers": 540842.0,
+   "Total-Production-MWh": 9540136.0,
+   "Production-from-Renewable-Energy-MWh": 138925.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9401211.0,
+   "cities-served": [
+    "Alamogordo, NM",
+    "Albuquerque, NM",
+    "Bayard, NM",
+    "Belen, NM",
+    "Bernalillo, NM",
+    "Bosque Farms, NM",
+    "Clayton, NM",
+    "Corrales, NM",
+    "Deming, NM",
+    "Edgewood, NM",
+    "Hurley, NM",
+    "Las Vegas, NM",
+    "Lordsburg, NM",
+    "Los Lunas, NM",
+    "Peralta, NM",
+    "Rio Communities, NM",
+    "Rio Rancho, NM",
+    "Ruidoso, NM",
+    "Ruidoso Downs, NM",
+    "Santa Clara, NM",
+    "Santa Fe, NM",
+    "Silver City, NM",
+    "Tijeras, NM",
+    "Tularosa, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Bernalillo County, NM",
+     "population": 676444
+    },
+    {
+     "county": "Santa Fe County, NM",
+     "population": 154823
+    },
+    {
+     "county": "Sandoval County, NM",
+     "population": 148834
+    },
+    {
+     "county": "Valencia County, NM",
+     "population": 76205
+    },
+    {
+     "county": "Otero County, NM",
+     "population": 67839
+    },
+    {
+     "county": "Grant County, NM",
+     "population": 28185
+    },
+    {
+     "county": "San Miguel County, NM",
+     "population": 27201
+    },
+    {
+     "county": "Luna County, NM",
+     "population": 25427
+    },
+    {
+     "county": "Lincoln County, NM",
+     "population": 20269
+    },
+    {
+     "county": "Los Alamos County, NM",
+     "population": 19419
+    },
+    {
+     "county": "Torrance County, NM",
+     "population": 15045
+    },
+    {
+     "county": "Hidalgo County, NM",
+     "population": 4178
+    },
+    {
+     "county": "Catron County, NM",
+     "population": 3579
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 540841
+    }
+   ]
+  },
+  {
+   "company": "El Paso Electric Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.epelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 413908000.0,
+   "Residential-Customers": 396206.0,
+   "Commercial-Sales-($)": 402124000.0,
+   "Commercial-Customers": 51052.0,
+   "Industrial-Sales-($)": 60636000.0,
+   "Industrial-Customers": 46.0,
+   "Total-Customers": 447304.0,
+   "Total-Production-MWh": 9779381.0,
+   "Production-from-Renewable-Energy-MWh": 17002.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9762379.0,
+   "cities-served": [
+    "Anthony, NM",
+    "Anthony, TX",
+    "Clint, TX",
+    "El Paso, TX",
+    "Hatch, NM",
+    "Horizon City, TX",
+    "Las Cruces, NM",
+    "Mesilla, NM",
+    "San Elizario, TX",
+    "Socorro, TX",
+    "Sunland Park, NM",
+    "Van Horn, TX",
+    "Vinton, TX"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, TX",
+     "population": 865657
+    },
+    {
+     "county": "Do\u00f1a Ana County, NM",
+     "population": 219561
+    },
+    {
+     "county": "Otero County, NM",
+     "population": 67839
+    },
+    {
+     "county": "Luna County, NM",
+     "population": 25427
+    },
+    {
+     "county": "Sierra County, NM",
+     "population": 11576
+    },
+    {
+     "county": "Hudspeth County, TX",
+     "population": 3202
+    },
+    {
+     "county": "Culberson County, TX",
+     "population": 2188
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Texas",
+     "customers": 343146
+    },
+    {
+     "state": "New Mexico",
+     "customers": 104158
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Public Service Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.xcelenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 437167121.0,
+   "Residential-Customers": 316273.0,
+   "Commercial-Sales-($)": 469468221.0,
+   "Commercial-Customers": 84606.0,
+   "Industrial-Sales-($)": 576903995.0,
+   "Industrial-Customers": 275.0,
+   "Total-Customers": 401154.0,
+   "Total-Production-MWh": 13960538.0,
+   "Production-from-Renewable-Energy-MWh": 2096890.0,
+   "Production-from-Non-Renewable-Energy-MWh": 11863648.0,
+   "cities-served": [
+    "Abernathy, TX",
+    "Ackerly, TX",
+    "Adrian, TX",
+    "Amarillo, TX",
+    "Amherst, TX",
+    "Andrews, TX",
+    "Anton, TX",
+    "Artesia, NM",
+    "Bishop Hills, TX",
+    "Booker, TX",
+    "Borger, TX",
+    "Bovina, TX",
+    "Brownfield, TX",
+    "Buffalo Springs, TX",
+    "Cactus, TX",
+    "Canadian, TX",
+    "Canyon, TX",
+    "Carlsbad, NM",
+    "Causey, NM",
+    "Channing, TX",
+    "Clarendon, TX",
+    "Claude, TX",
+    "Clovis, NM",
+    "Crosbyton, TX",
+    "Crowell, TX",
+    "Dalhart, TX",
+    "Darrouzett, TX",
+    "Denver City, TX",
+    "Dexter, NM",
+    "Dimmitt, TX",
+    "Dora, NM",
+    "Dumas, TX",
+    "Earth, TX",
+    "Edmonson, TX",
+    "Elida, NM",
+    "Eunice, NM",
+    "Farwell, TX",
+    "Floyd, NM",
+    "Floydada, TX",
+    "Follett, TX",
+    "Friona, TX",
+    "Fritch, TX",
+    "Gardendale CDP, TX",
+    "Goldsmith, TX",
+    "Grady, NM",
+    "Groom, TX",
+    "Gruver, TX",
+    "Hagerman, NM",
+    "Hale Center, TX",
+    "Happy, TX",
+    "Hart, TX",
+    "Hedley, TX",
+    "Hereford, TX",
+    "Higgins, TX",
+    "Hobbs, NM",
+    "Hope, NM",
+    "House, NM",
+    "Howardwick, TX",
+    "Idalou, TX",
+    "Jal, NM",
+    "Kress, TX",
+    "Lake Arthur, NM",
+    "Lake Tanglewood, TX",
+    "Lamesa, TX",
+    "Lefors, TX",
+    "Levelland, TX",
+    "Littlefield, TX",
+    "Lockney, TX",
+    "Logan, NM",
+    "Lorenzo, TX",
+    "Los Ybanez, TX",
+    "Loving, NM",
+    "Lovington, NM",
+    "Lubbock, TX",
+    "Matador, TX",
+    "McLean, TX",
+    "Meadow, TX",
+    "Melrose, NM",
+    "Miami, TX",
+    "Midland, TX",
+    "Mobeetie, TX",
+    "Morton, TX",
+    "Muleshoe, TX",
+    "Nazareth, TX",
+    "New Deal, TX",
+    "New Home, TX",
+    "O'Donnell, TX",
+    "Odessa, TX",
+    "Olton, TX",
+    "Opdyke West, TX",
+    "Paducah, TX",
+    "Palisades, TX",
+    "Pampa, TX",
+    "Panhandle, TX",
+    "Perryton, TX",
+    "Petersburg, TX",
+    "Plains, TX",
+    "Plainview, TX",
+    "Portales, NM",
+    "Post, TX",
+    "Quitaque, TX",
+    "Ralls, TX",
+    "Roaring Springs, TX",
+    "Ropesville, TX",
+    "Roswell, NM",
+    "San Jon, NM",
+    "Sanford, TX",
+    "Seagraves, TX",
+    "Seminole, TX",
+    "Shallowater, TX",
+    "Shamrock, TX",
+    "Silverton, TX",
+    "Skellytown, TX",
+    "Slaton, TX",
+    "Smyer, TX",
+    "Spearman, TX",
+    "Springlake, TX",
+    "Stinnett, TX",
+    "Stratford, TX",
+    "Sudan, TX",
+    "Sundown, TX",
+    "Sunray, TX",
+    "Tahoka, TX",
+    "Tatum, NM",
+    "Texhoma, TX",
+    "Texico, NM",
+    "Texline, TX",
+    "Timbercreek Canyon, TX",
+    "Tucumcari, NM",
+    "Tulia, TX",
+    "Vega, TX",
+    "Vernon, TX",
+    "Wellman, TX",
+    "West Odessa CDP, TX",
+    "Wheeler, TX",
+    "White Deer, TX",
+    "Whiteface, TX",
+    "Wilson, TX",
+    "Wolfforth, TX"
+   ],
+   "counties-served": [
+    {
+     "county": "Lubbock County, TX",
+     "population": 310639
+    },
+    {
+     "county": "Midland County, TX",
+     "population": 169983
+    },
+    {
+     "county": "Ector County, TX",
+     "population": 165171
+    },
+    {
+     "county": "Randall County, TX",
+     "population": 140753
+    },
+    {
+     "county": "Potter County, TX",
+     "population": 118525
+    },
+    {
+     "county": "Lea County, NM",
+     "population": 74455
+    },
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "Eddy County, NM",
+     "population": 62314
+    },
+    {
+     "county": "Curry County, NM",
+     "population": 48430
+    },
+    {
+     "county": "Hale County, TX",
+     "population": 32522
+    },
+    {
+     "county": "Gaines County, TX",
+     "population": 21598
+    },
+    {
+     "county": "Hockley County, TX",
+     "population": 21537
+    },
+    {
+     "county": "Moore County, TX",
+     "population": 21358
+    },
+    {
+     "county": "Gray County, TX",
+     "population": 21227
+    },
+    {
+     "county": "Hutchinson County, TX",
+     "population": 20617
+    },
+    {
+     "county": "Roosevelt County, NM",
+     "population": 19191
+    },
+    {
+     "county": "Andrews County, TX",
+     "population": 18610
+    },
+    {
+     "county": "Deaf Smith County, TX",
+     "population": 18583
+    },
+    {
+     "county": "Lamb County, TX",
+     "population": 13045
+    },
+    {
+     "county": "Wilbarger County, TX",
+     "population": 12887
+    },
+    {
+     "county": "Dawson County, TX",
+     "population": 12456
+    },
+    {
+     "county": "Terry County, TX",
+     "population": 11831
+    },
+    {
+     "county": "Ochiltree County, TX",
+     "population": 10015
+    },
+    {
+     "county": "Parmer County, TX",
+     "population": 9869
+    },
+    {
+     "county": "Quay County, NM",
+     "population": 8746
+    },
+    {
+     "county": "Yoakum County, TX",
+     "population": 7694
+    },
+    {
+     "county": "Castro County, TX",
+     "population": 7371
+    },
+    {
+     "county": "Dallam County, TX",
+     "population": 7115
+    },
+    {
+     "county": "Swisher County, TX",
+     "population": 6971
+    },
+    {
+     "county": "Bailey County, TX",
+     "population": 6904
+    },
+    {
+     "county": "Garza County, TX",
+     "population": 5816
+    },
+    {
+     "county": "Carson County, TX",
+     "population": 5807
+    },
+    {
+     "county": "Lynn County, TX",
+     "population": 5596
+    },
+    {
+     "county": "Floyd County, TX",
+     "population": 5402
+    },
+    {
+     "county": "Hartley County, TX",
+     "population": 5382
+    },
+    {
+     "county": "Hansford County, TX",
+     "population": 5285
+    },
+    {
+     "county": "Crosby County, TX",
+     "population": 5133
+    },
+    {
+     "county": "Wheeler County, TX",
+     "population": 4990
+    },
+    {
+     "county": "Hemphill County, TX",
+     "population": 3382
+    },
+    {
+     "county": "Donley County, TX",
+     "population": 3258
+    },
+    {
+     "county": "Lipscomb County, TX",
+     "population": 3059
+    },
+    {
+     "county": "Sherman County, TX",
+     "population": 2782
+    },
+    {
+     "county": "Cochran County, TX",
+     "population": 2547
+    },
+    {
+     "county": "Armstrong County, TX",
+     "population": 1848
+    },
+    {
+     "county": "Oldham County, TX",
+     "population": 1758
+    },
+    {
+     "county": "Briscoe County, TX",
+     "population": 1435
+    },
+    {
+     "county": "Cottle County, TX",
+     "population": 1380
+    },
+    {
+     "county": "Foard County, TX",
+     "population": 1095
+    },
+    {
+     "county": "Motley County, TX",
+     "population": 1063
+    },
+    {
+     "county": "Roberts County, TX",
+     "population": 827
+    },
+    {
+     "county": "Borden County, TX",
+     "population": 631
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Texas",
+     "customers": 275688
+    },
+    {
+     "state": "New Mexico",
+     "customers": 125467
+    }
+   ]
+  },
+  {
+   "company": "Farmington Electric",
+   "company-type": "Municipal",
+   "website": "http://www.fmtn.org/181/Farmington-Electric-Utility-System",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 30771493.0,
+   "Residential-Customers": 35908.0,
+   "Commercial-Sales-($)": 35648124.0,
+   "Commercial-Customers": 9161.0,
+   "Industrial-Sales-($)": 18826595.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 45076.0,
+   "Total-Production-MWh": 523339.0,
+   "Production-from-Renewable-Energy-MWh": 80297.0,
+   "Production-from-Non-Renewable-Energy-MWh": 443042.0,
+   "cities-served": [
+    "Aztec, NM",
+    "Bloomfield, NM",
+    "Farmington, NM",
+    "Kirtland, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "San Juan County, NM",
+     "population": 121661
+    },
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 45076
+    }
+   ]
+  },
+  {
+   "company": "Navajo Tribal Utility Authority",
+   "company-type": "State",
+   "website": "https://www.ntua.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35730000.0,
+   "Residential-Customers": 38508.0,
+   "Commercial-Sales-($)": 43415000.0,
+   "Commercial-Customers": 4485.0,
+   "Industrial-Sales-($)": 21171000.0,
+   "Industrial-Customers": 146.0,
+   "Total-Customers": 43139.0,
+   "cities-served": [
+    "Bloomfield, NM",
+    "Gallup, NM",
+    "Kirtland, NM",
+    "Page, AZ"
+   ],
+   "counties-served": [
+    {
+     "county": "Sandoval County, NM",
+     "population": 148834
+    },
+    {
+     "county": "Coconino County, AZ",
+     "population": 145101
+    },
+    {
+     "county": "San Juan County, NM",
+     "population": 121661
+    },
+    {
+     "county": "Navajo County, AZ",
+     "population": 106717
+    },
+    {
+     "county": "McKinley County, NM",
+     "population": 72902
+    },
+    {
+     "county": "Apache County, AZ",
+     "population": 66021
+    },
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    },
+    {
+     "county": "San Juan County, UT",
+     "population": 14518
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arizona",
+     "customers": 30104
+    },
+    {
+     "state": "New Mexico",
+     "customers": 11005
+    },
+    {
+     "state": "Utah",
+     "customers": 2030
+    }
+   ]
+  },
+  {
+   "company": "Navopache Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.navopache.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 35648100.0,
+   "Residential-Customers": 38542.0,
+   "Commercial-Sales-($)": 12563000.0,
+   "Commercial-Customers": 3823.0,
+   "Industrial-Sales-($)": 5023000.0,
+   "Industrial-Customers": 202.0,
+   "Total-Customers": 42567.0,
+   "cities-served": [
+    "Eagar, AZ",
+    "Pinetop-Lakeside, AZ",
+    "Reserve, NM",
+    "Show Low, AZ",
+    "Springerville, AZ",
+    "St. Johns, AZ"
+   ],
+   "counties-served": [
+    {
+     "county": "Navajo County, AZ",
+     "population": 106717
+    },
+    {
+     "county": "Apache County, AZ",
+     "population": 66021
+    },
+    {
+     "county": "Gila County, AZ",
+     "population": 53272
+    },
+    {
+     "county": "Greenlee County, AZ",
+     "population": 9563
+    },
+    {
+     "county": "Catron County, NM",
+     "population": 3579
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arizona",
+     "customers": 40973
+    },
+    {
+     "state": "New Mexico",
+     "customers": 1594
+    }
+   ]
+  },
+  {
+   "company": "Jemez Mountains Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.jemezcoop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25551400.0,
+   "Residential-Customers": 27614.0,
+   "Commercial-Sales-($)": 17601400.0,
+   "Commercial-Customers": 3540.0,
+   "Industrial-Sales-($)": 3039200.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 31163.0,
+   "cities-served": [
+    "Cuba, NM",
+    "Espa\u00f1ola, NM",
+    "Jemez Springs, NM",
+    "Rio Rancho, NM",
+    "San Ysidro, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Santa Fe County, NM",
+     "population": 154823
+    },
+    {
+     "county": "Sandoval County, NM",
+     "population": 148834
+    },
+    {
+     "county": "San Juan County, NM",
+     "population": 121661
+    },
+    {
+     "county": "McKinley County, NM",
+     "population": 72902
+    },
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    },
+    {
+     "county": "Los Alamos County, NM",
+     "population": 19419
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 31163
+    }
+   ]
+  },
+  {
+   "company": "Kit Carson Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kitcarson.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 26694000.0,
+   "Residential-Customers": 25091.0,
+   "Commercial-Sales-($)": 17375000.0,
+   "Commercial-Customers": 4595.0,
+   "Industrial-Sales-($)": 2645000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 29696.0,
+   "cities-served": [
+    "Angel Fire, NM",
+    "Cimarron, NM",
+    "Eagle Nest, NM",
+    "Questa, NM",
+    "Red River, NM",
+    "Taos, NM",
+    "Taos Ski Valley, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    },
+    {
+     "county": "Taos County, NM",
+     "population": 34489
+    },
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    },
+    {
+     "county": "Mora County, NM",
+     "population": 4189
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 29696
+    }
+   ]
+  },
+  {
+   "company": "Continental Divide Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.cdec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20571000.0,
+   "Residential-Customers": 21424.0,
+   "Commercial-Sales-($)": 13542000.0,
+   "Commercial-Customers": 3130.0,
+   "Industrial-Sales-($)": 22240000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 24559.0,
+   "cities-served": [
+    "Gallup, NM",
+    "Grants, NM",
+    "Milan, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Bernalillo County, NM",
+     "population": 676444
+    },
+    {
+     "county": "Sandoval County, NM",
+     "population": 148834
+    },
+    {
+     "county": "Valencia County, NM",
+     "population": 76205
+    },
+    {
+     "county": "McKinley County, NM",
+     "population": 72902
+    },
+    {
+     "county": "Cibola County, NM",
+     "population": 27172
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 24559
+    }
+   ]
+  },
+  {
+   "company": "Otero County Electrictric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.ocec-inc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 21436300.0,
+   "Residential-Customers": 16233.0,
+   "Commercial-Sales-($)": 12829000.0,
+   "Commercial-Customers": 3606.0,
+   "Total-Customers": 19839.0,
+   "cities-served": [
+    "Capitan, NM",
+    "Carrizozo, NM",
+    "Cloudcroft, NM",
+    "Hope, NM",
+    "Roswell, NM",
+    "Ruidoso, NM",
+    "Ruidoso Downs, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Otero County, NM",
+     "population": 67839
+    },
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "Eddy County, NM",
+     "population": 62314
+    },
+    {
+     "county": "Lincoln County, NM",
+     "population": 20269
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 19839
+    }
+   ]
+  },
+  {
+   "company": "Central New Mexico Electric Coop",
+   "company-type": "Cooperative",
+   "website": "http://cnmec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 20901000.0,
+   "Residential-Customers": 16385.0,
+   "Commercial-Sales-($)": 9066000.0,
+   "Commercial-Customers": 1496.0,
+   "Industrial-Sales-($)": 6047000.0,
+   "Industrial-Customers": 275.0,
+   "Total-Customers": 18156.0,
+   "cities-served": [
+    "Corona, NM",
+    "Edgewood, NM",
+    "Encino, NM",
+    "Estancia, NM",
+    "Moriarty, NM",
+    "Mountainair, NM",
+    "Vaughn, NM",
+    "Willard, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Bernalillo County, NM",
+     "population": 676444
+    },
+    {
+     "county": "Santa Fe County, NM",
+     "population": 154823
+    },
+    {
+     "county": "Valencia County, NM",
+     "population": 76205
+    },
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "San Miguel County, NM",
+     "population": 27201
+    },
+    {
+     "county": "Lincoln County, NM",
+     "population": 20269
+    },
+    {
+     "county": "Socorro County, NM",
+     "population": 16595
+    },
+    {
+     "county": "Torrance County, NM",
+     "population": 15045
+    },
+    {
+     "county": "Guadalupe County, NM",
+     "population": 4452
+    },
+    {
+     "county": "De Baca County, NM",
+     "population": 1698
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 18156
+    }
+   ]
+  },
+  {
+   "company": "Lea County Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.lcecnet.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9355000.0,
+   "Residential-Customers": 8986.0,
+   "Commercial-Sales-($)": 55118000.0,
+   "Commercial-Customers": 7247.0,
+   "Industrial-Sales-($)": 24621000.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 16259.0,
+   "cities-served": [
+    "Lovington, NM",
+    "Plains, TX",
+    "Tatum, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Lea County, NM",
+     "population": 74455
+    },
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "Gaines County, TX",
+     "population": 21598
+    },
+    {
+     "county": "Yoakum County, TX",
+     "population": 7694
+    },
+    {
+     "county": "Cochran County, TX",
+     "population": 2547
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 11156
+    },
+    {
+     "state": "Texas",
+     "customers": 5103
+    }
+   ]
+  },
+  {
+   "company": "Central Valley Elec Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.cvecoop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8286655.0,
+   "Residential-Customers": 5949.0,
+   "Commercial-Sales-($)": 7124009.0,
+   "Commercial-Customers": 4902.0,
+   "Industrial-Sales-($)": 56473550.0,
+   "Industrial-Customers": 4292.0,
+   "Total-Customers": 15143.0,
+   "cities-served": [
+    "Artesia, NM",
+    "Carlsbad, NM",
+    "Dexter, NM",
+    "Hagerman, NM",
+    "Lake Arthur, NM",
+    "Roswell, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Lea County, NM",
+     "population": 74455
+    },
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "Eddy County, NM",
+     "population": 62314
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 15143
+    }
+   ]
+  },
+  {
+   "company": "Rio Grande Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.riogrande.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16296300.0,
+   "Residential-Customers": 8994.0,
+   "Commercial-Sales-($)": 13307100.0,
+   "Commercial-Customers": 4296.0,
+   "Industrial-Sales-($)": 22360100.0,
+   "Industrial-Customers": 544.0,
+   "Total-Customers": 13834.0,
+   "cities-served": [
+    "Alpine, TX",
+    "Asherton, TX",
+    "Brackettville, TX",
+    "Carrizo Springs, TX",
+    "Chula Vista CDP (Maverick County), TX",
+    "Cienegas Terrace CDP, TX",
+    "Del Rio, TX",
+    "Dell City, TX",
+    "Eagle Pass, TX",
+    "Eidson Road CDP, TX",
+    "El Paso, TX",
+    "Elm Creek CDP, TX",
+    "Fort Clark Springs CDP, TX",
+    "Fort Davis CDP, TX",
+    "Fort Stockton, TX",
+    "Las Quintas Fronterizas CDP, TX",
+    "Laughlin AFB CDP, TX",
+    "Marfa, TX",
+    "Presidio, TX",
+    "Rosita CDP, TX",
+    "Siesta Acres CDP, TX",
+    "Spofford, TX",
+    "Val Verde Park CDP, TX",
+    "Valentine, TX"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, TX",
+     "population": 865657
+    },
+    {
+     "county": "Webb County, TX",
+     "population": 267114
+    },
+    {
+     "county": "Do\u00f1a Ana County, NM",
+     "population": 219561
+    },
+    {
+     "county": "Otero County, NM",
+     "population": 67839
+    },
+    {
+     "county": "Eddy County, NM",
+     "population": 62314
+    },
+    {
+     "county": "Maverick County, TX",
+     "population": 57887
+    },
+    {
+     "county": "Val Verde County, TX",
+     "population": 47586
+    },
+    {
+     "county": "Uvalde County, TX",
+     "population": 24564
+    },
+    {
+     "county": "Pecos County, TX",
+     "population": 15193
+    },
+    {
+     "county": "Reeves County, TX",
+     "population": 14748
+    },
+    {
+     "county": "Zavala County, TX",
+     "population": 9670
+    },
+    {
+     "county": "Brewster County, TX",
+     "population": 9546
+    },
+    {
+     "county": "Dimmit County, TX",
+     "population": 8615
+    },
+    {
+     "county": "Presidio County, TX",
+     "population": 6131
+    },
+    {
+     "county": "Hudspeth County, TX",
+     "population": 3202
+    },
+    {
+     "county": "Kinney County, TX",
+     "population": 3129
+    },
+    {
+     "county": "Crockett County, TX",
+     "population": 3098
+    },
+    {
+     "county": "Culberson County, TX",
+     "population": 2188
+    },
+    {
+     "county": "Jeff Davis County, TX",
+     "population": 1996
+    },
+    {
+     "county": "Edwards County, TX",
+     "population": 1422
+    },
+    {
+     "county": "Terrell County, TX",
+     "population": 760
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Texas",
+     "customers": 13506
+    },
+    {
+     "state": "New Mexico",
+     "customers": 328
+    }
+   ]
+  },
+  {
+   "company": "Farmers Electric Clovis, New Mexico",
+   "company-type": "Cooperative",
+   "website": "https://www.fecnm.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11208800.0,
+   "Residential-Customers": 9919.0,
+   "Commercial-Sales-($)": 11314700.0,
+   "Commercial-Customers": 1837.0,
+   "Industrial-Sales-($)": 15944100.0,
+   "Industrial-Customers": 1529.0,
+   "Total-Customers": 13285.0,
+   "cities-served": [
+    "Clovis, NM",
+    "Floyd, NM",
+    "Fort Sumner, NM",
+    "Grady, NM",
+    "House, NM",
+    "Logan, NM",
+    "Melrose, NM",
+    "Mosquero, NM",
+    "Portales, NM",
+    "San Jon, NM",
+    "Santa Rosa, NM",
+    "Texico, NM",
+    "Tucumcari, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Chaves County, NM",
+     "population": 65157
+    },
+    {
+     "county": "Curry County, NM",
+     "population": 48430
+    },
+    {
+     "county": "San Miguel County, NM",
+     "population": 27201
+    },
+    {
+     "county": "Roosevelt County, NM",
+     "population": 19191
+    },
+    {
+     "county": "Quay County, NM",
+     "population": 8746
+    },
+    {
+     "county": "Guadalupe County, NM",
+     "population": 4452
+    },
+    {
+     "county": "De Baca County, NM",
+     "population": 1698
+    },
+    {
+     "county": "Harding County, NM",
+     "population": 657
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 13285
+    }
+   ]
+  },
+  {
+   "company": "Socorro Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.socorroelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10513864.125,
+   "Residential-Customers": 10400.0,
+   "Commercial-Sales-($)": 10060042.459,
+   "Commercial-Customers": 2542.0,
+   "Industrial-Sales-($)": 4033093.417,
+   "Industrial-Customers": 52.0,
+   "Total-Customers": 12994.0,
+   "cities-served": [
+    "Magdalena, NM",
+    "Rio Communities, NM",
+    "Socorro, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Valencia County, NM",
+     "population": 76205
+    },
+    {
+     "county": "Cibola County, NM",
+     "population": 27172
+    },
+    {
+     "county": "Lincoln County, NM",
+     "population": 20269
+    },
+    {
+     "county": "Socorro County, NM",
+     "population": 16595
+    },
+    {
+     "county": "Torrance County, NM",
+     "population": 15045
+    },
+    {
+     "county": "Catron County, NM",
+     "population": 3579
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 12994
+    }
+   ]
+  },
+  {
+   "company": "Mora San Miguel Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.morasanmiguel.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10235921.197,
+   "Residential-Customers": 10985.0,
+   "Commercial-Sales-($)": 1830178.746,
+   "Commercial-Customers": 256.0,
+   "Industrial-Sales-($)": 435200.057,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 11273.0,
+   "cities-served": [
+    "Las Vegas, NM",
+    "Pecos, NM",
+    "Wagon Mound, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Santa Fe County, NM",
+     "population": 154823
+    },
+    {
+     "county": "San Miguel County, NM",
+     "population": 27201
+    },
+    {
+     "county": "Guadalupe County, NM",
+     "population": 4452
+    },
+    {
+     "county": "Mora County, NM",
+     "population": 4189
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 11273
+    }
+   ]
+  },
+  {
+   "company": "City of Gallup Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.gallupnm.gov/177/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6210892.144,
+   "Residential-Customers": 8568.0,
+   "Commercial-Sales-($)": 16867879.772,
+   "Commercial-Customers": 2023.0,
+   "Industrial-Sales-($)": 124228.084,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 10592.0,
+   "cities-served": [
+    "Gallup"
+   ],
+   "counties-served": [
+    {
+     "county": "McKinley County, NM",
+     "population": 72902
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 10592
+    }
+   ]
+  },
+  {
+   "company": "Los Alamos Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.losalamosnm.us/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 7427512.0,
+   "Residential-Customers": 7961.0,
+   "Commercial-Sales-($)": 6603836.0,
+   "Commercial-Customers": 819.0,
+   "Industrial-Sales-($)": 24624570.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 8781.0,
+   "Total-Production-MWh": 235963.0,
+   "Production-from-Renewable-Energy-MWh": 28663.0,
+   "Production-from-Non-Renewable-Energy-MWh": 207443.0,
+   "cities-served": [
+    "Los Alamos CDP",
+    "White Rock CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Los Alamos County, NM",
+     "population": 19419
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 8782
+    }
+   ]
+  },
+  {
+   "company": "Roosevelt County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.rcec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5424000.0,
+   "Residential-Customers": 3883.0,
+   "Commercial-Sales-($)": 1247000.0,
+   "Commercial-Customers": 676.0,
+   "Industrial-Sales-($)": 11154000.0,
+   "Industrial-Customers": 1557.0,
+   "Total-Customers": 6116.0,
+   "cities-served": [
+    "Causey, NM",
+    "Dora, NM",
+    "Elida, NM",
+    "Floyd, NM",
+    "Portales, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Roosevelt County, NM",
+     "population": 19191
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 6116
+    }
+   ]
+  },
+  {
+   "company": "Columbus Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.columbusco-op.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6749064.57,
+   "Residential-Customers": 4596.0,
+   "Commercial-Sales-($)": 1147061.206,
+   "Commercial-Customers": 407.0,
+   "Industrial-Sales-($)": 5996974.224,
+   "Industrial-Customers": 214.0,
+   "Total-Customers": 5217.0,
+   "cities-served": [
+    "Columbus",
+    "Cotton City CDP",
+    "Animas CDP",
+    "Rodeo CDP",
+    "Windmill CDP",
+    "Hachita CDP",
+    "City of the Sun CDP",
+    "Old Town CDP",
+    "Playas CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Cochise County, AZ",
+     "population": 125447
+    },
+    {
+     "county": "Grant County, NM",
+     "population": 28185
+    },
+    {
+     "county": "Luna County, NM",
+     "population": 25427
+    },
+    {
+     "county": "Hidalgo County, NM",
+     "population": 4178
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 4730
+    },
+    {
+     "state": "Arizona",
+     "customers": 487
+    }
+   ]
+  },
+  {
+   "company": "Sierra Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sierraelectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4442881.239,
+   "Residential-Customers": 3669.0,
+   "Commercial-Sales-($)": 3013118.761,
+   "Commercial-Customers": 644.0,
+   "Total-Customers": 4313.0,
+   "cities-served": [
+    "Elephant Butte, NM",
+    "Hatch, NM",
+    "Truth or Consequences, NM",
+    "Williamsburg, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Do\u00f1a Ana County, NM",
+     "population": 219561
+    },
+    {
+     "county": "Grant County, NM",
+     "population": 28185
+    },
+    {
+     "county": "Luna County, NM",
+     "population": 25427
+    },
+    {
+     "county": "Socorro County, NM",
+     "population": 16595
+    },
+    {
+     "county": "Sierra County, NM",
+     "population": 11576
+    },
+    {
+     "county": "Catron County, NM",
+     "population": 3579
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 4313
+    }
+   ]
+  },
+  {
+   "company": "Raton Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.ratonnm.gov/144/Public-Service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3206948.138,
+   "Residential-Customers": 3510.0,
+   "Commercial-Sales-($)": 1397523.271,
+   "Commercial-Customers": 514.0,
+   "Industrial-Sales-($)": 1295528.59,
+   "Industrial-Customers": 25.0,
+   "Total-Customers": 4049.0,
+   "cities-served": [
+    "Raton"
+   ],
+   "counties-served": [
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 4049
+    }
+   ]
+  },
+  {
+   "company": "Aztec Electrical",
+   "company-type": "Municipal",
+   "website": "http://www.aztecnm.gov/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2153585.02,
+   "Residential-Customers": 2655.0,
+   "Commercial-Sales-($)": 3232414.98,
+   "Commercial-Customers": 477.0,
+   "Total-Customers": 3132.0,
+   "cities-served": [
+    "Aztec"
+   ],
+   "counties-served": [
+    {
+     "county": "San Juan County, NM",
+     "population": 121661
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 3132
+    }
+   ]
+  },
+  {
+   "company": "Northern Rio Arriba Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.noraelectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2603963.466,
+   "Residential-Customers": 2623.0,
+   "Commercial-Sales-($)": 1743902.624,
+   "Commercial-Customers": 448.0,
+   "Industrial-Sales-($)": 131633.91,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 3073.0,
+   "cities-served": [
+    "Dulce CDP",
+    "Chama",
+    "Tierra Amarilla CDP",
+    "Young Place CDP",
+    "Middle Mesa CDP",
+    "Ensenada CDP",
+    "Los Ojos CDP",
+    "Lumberton CDP",
+    "Brazos CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Rio Arriba County, NM",
+     "population": 40363
+    },
+    {
+     "county": "Conejos County, CO",
+     "population": 7461
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 3073
+    }
+   ]
+  },
+  {
+   "company": "Springer Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.springercoop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2613000.0,
+   "Residential-Customers": 2429.0,
+   "Commercial-Sales-($)": 2595000.0,
+   "Commercial-Customers": 613.0,
+   "Industrial-Sales-($)": 14527000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 3047.0,
+   "Total-Production-MWh": 2432.0,
+   "Production-from-Renewable-Energy-MWh": 2432.0,
+   "cities-served": [
+    "Folsom, NM",
+    "Maxwell, NM",
+    "Mosquero, NM",
+    "Raton, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "San Miguel County, NM",
+     "population": 27201
+    },
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    },
+    {
+     "county": "Union County, NM",
+     "population": 4079
+    },
+    {
+     "county": "Harding County, NM",
+     "population": 657
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 3047
+    }
+   ]
+  },
+  {
+   "company": "Duncan Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.dvec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2314067.684,
+   "Residential-Customers": 2056.0,
+   "Commercial-Sales-($)": 688838.752,
+   "Commercial-Customers": 326.0,
+   "Industrial-Sales-($)": 241093.563,
+   "Industrial-Customers": 97.0,
+   "Total-Customers": 2479.0,
+   "cities-served": [
+    "Clifton, AZ",
+    "Duncan, AZ",
+    "Virden, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Grant County, NM",
+     "population": 28185
+    },
+    {
+     "county": "Greenlee County, AZ",
+     "population": 9563
+    },
+    {
+     "county": "Hidalgo County, NM",
+     "population": 4178
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Arizona",
+     "customers": 2138
+    },
+    {
+     "state": "New Mexico",
+     "customers": 341
+    }
+   ]
+  },
+  {
+   "company": "Southwestern Electric Cooperative (New Mexico)",
+   "company-type": "Cooperative",
+   "website": "https://www.swec-coop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2461700.0,
+   "Residential-Customers": 1439.0,
+   "Commercial-Sales-($)": 1119200.0,
+   "Commercial-Customers": 11.0,
+   "Industrial-Sales-($)": 23592300.0,
+   "Industrial-Customers": 806.0,
+   "Total-Customers": 2256.0,
+   "cities-served": [
+    "Aguilar, CO",
+    "Angel Fire, NM",
+    "Boise City, OK",
+    "Branson, CO",
+    "Channing, TX",
+    "Cimarron, NM",
+    "Clayton, NM",
+    "Cokedale, CO",
+    "Dalhart, TX",
+    "Des Moines, NM",
+    "Eagle Nest, NM",
+    "Folsom, NM",
+    "Grenville, NM",
+    "House, NM",
+    "Keyes, OK",
+    "Kim, CO",
+    "Logan, NM",
+    "Maxwell, NM",
+    "Mosquero, NM",
+    "Raton, NM",
+    "Roy, NM",
+    "San Jon, NM",
+    "Springer, NM",
+    "Starkville, CO",
+    "Texline, TX",
+    "Trinidad, CO",
+    "Tucumcari, NM"
+   ],
+   "counties-served": [
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    },
+    {
+     "county": "Quay County, NM",
+     "population": 8746
+    },
+    {
+     "county": "Dallam County, TX",
+     "population": 7115
+    },
+    {
+     "county": "Hartley County, TX",
+     "population": 5382
+    },
+    {
+     "county": "Union County, NM",
+     "population": 4079
+    },
+    {
+     "county": "Cimarron County, OK",
+     "population": 2296
+    },
+    {
+     "county": "Harding County, NM",
+     "population": 657
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 2206
+    },
+    {
+     "state": "Texas",
+     "customers": 26
+    },
+    {
+     "state": "Oklahoma",
+     "customers": 17
+    },
+    {
+     "state": "Colorado",
+     "customers": 7
+    }
+   ]
+  },
+  {
+   "company": "Springer, New Mexico Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.springernm.com/Home_Page.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 461290.692,
+   "Residential-Customers": 595.0,
+   "Commercial-Sales-($)": 302909.308,
+   "Commercial-Customers": 89.0,
+   "Total-Customers": 684.0,
+   "cities-served": [
+    "Springer"
+   ],
+   "counties-served": [
+    {
+     "county": "Colfax County, NM",
+     "population": 12387
+    }
+   ],
+   "states-served": [
+    {
+     "state": "New Mexico",
+     "customers": 684
+    }
+   ]
+  }
+ ]
+}

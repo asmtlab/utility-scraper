@@ -2417,6 +2417,7 @@
   {
    "company": "East End Mutual Electric",
    "company-type": "Cooperative",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial"
@@ -2506,6 +2507,7 @@
   {
    "company": "Declo, Idaho Electric Utility",
    "company-type": "Municipal",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial",
@@ -2537,6 +2539,7 @@
   {
    "company": "Farmers Electric Company",
    "company-type": "Cooperative",
+   "website": "",
    "service-types": [
     "Residential",
     "Commercial",

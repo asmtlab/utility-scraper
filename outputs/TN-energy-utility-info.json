@@ -1,1 +1,3929 @@
-{"electrical-providers": [{"company": "Nashville Electric Service", "company-type": "Municipal", "website": "https://www.nespower.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 593764000.0, "Residential-Customers": 382307.0, "Commercial-Sales-($)": 644232000.0, "Commercial-Customers": 45022.0, "Industrial-Sales-($)": 69903000.0, "Industrial-Customers": 60.0, "Total-Customers": 427389.0, "Total-Production-MWh": 3.0, "Production-from-Renewable-Energy-MWh": 3.0, "cities-served": ["Ashland City, TN", "Belle Meade, TN", "Berry Hill, TN", "Brentwood, TN", "Coopertown, TN", "Fairview, TN", "Forest Hills, TN", "Franklin, TN", "Gallatin, TN", "Goodlettsville, TN", "Greenbrier, TN", "Hendersonville, TN", "Kingston Springs, TN", "La Vergne, TN", "Millersville, TN", "Mount Juliet, TN", "Nolensville, TN", "Oak Hill, TN", "Pegram, TN", "Ridgetop, TN", "Smyrna, TN"], "counties-served": [{"county": "Cheatham County, TN", "population": 41072}, {"county": "Robertson County, TN", "population": 72803}, {"county": "Wilson County, TN", "population": 147737}, {"county": "Sumner County, TN", "population": 196281}, {"county": "Williamson County, TN", "population": 247726}, {"county": "Rutherford County, TN", "population": 341486}, {"county": "Davidson County, TN", "population": 715884}], "states-served": [{"state": "Tennessee", "customers": 427389}]}, {"company": "Memphis Light, Gas and Water", "company-type": "Municipal", "website": "http://www.mlgw.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 556630319.0, "Residential-Customers": 378513.0, "Commercial-Sales-($)": 645976871.0, "Commercial-Customers": 44185.0, "Industrial-Sales-($)": 110083990.0, "Industrial-Customers": 98.0, "Total-Customers": 422796.0, "cities-served": ["Arlington, TN", "Atoka, TN", "Bartlett, TN", "Collierville, TN", "Germantown, TN", "Lakeland, TN", "Memphis, TN", "Millington, TN"], "counties-served": [{"county": "Shelby County, TN", "population": 929744}], "states-served": [{"state": "Tennessee", "customers": 422797}]}, {"company": "Middle Tennessee Electric", "company-type": "Cooperative", "website": "https://www.mte.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 453546000.0, "Residential-Customers": 280047.0, "Commercial-Sales-($)": 311961000.0, "Commercial-Customers": 39522.0, "Industrial-Sales-($)": 52514000.0, "Industrial-Customers": 41.0, "Total-Customers": 319610.0, "cities-served": ["Alexandria, TN", "Auburntown, TN", "Brentwood, TN", "Eagleville, TN", "Fairview, TN", "Franklin, TN", "Gallatin, TN", "La Vergne, TN", "Lebanon, TN", "Liberty, TN", "Mount Juliet, TN", "Murfreesboro, TN", "Nolensville, TN", "Smyrna, TN", "Spring Hill, TN", "Thompson's Station, TN", "Watertown, TN", "Woodbury, TN"], "counties-served": [{"county": "Trousdale County, TN", "population": 11615}, {"county": "Cannon County, TN", "population": 14506}, {"county": "Smith County, TN", "population": 19904}, {"county": "DeKalb County, TN", "population": 20080}, {"county": "Maury County, TN", "population": 100974}, {"county": "Wilson County, TN", "population": 147737}, {"county": "Sumner County, TN", "population": 196281}, {"county": "Williamson County, TN", "population": 247726}, {"county": "Rutherford County, TN", "population": 341486}], "states-served": [{"state": "Tennessee", "customers": 319609}]}, {"company": "Knoxville Utilities Board", "company-type": "Municipal", "website": "https://www.kub.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 275421000.0, "Residential-Customers": 185720.0, "Commercial-Sales-($)": 241879000.0, "Commercial-Customers": 24717.0, "Industrial-Sales-($)": 43972000.0, "Industrial-Customers": 26.0, "Total-Customers": 210463.0, "cities-served": ["Blaine, TN", "Knoxville, TN", "Luttrell, TN", "Maynardville, TN", "Plainview, TN", "Rutledge, TN", "Sevierville, TN"], "counties-served": [{"county": "Union County, TN", "population": 19802}, {"county": "Grainger County, TN", "population": 23527}, {"county": "Jefferson County, TN", "population": 54683}, {"county": "Sevier County, TN", "population": 98380}, {"county": "Knox County, TN", "population": 478971}], "states-served": [{"state": "Tennessee", "customers": 210464}]}, {"company": "EPB", "company-type": "Municipal", "website": "https://www.epb.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 250470000.0, "Residential-Customers": 165213.0, "Commercial-Sales-($)": 232632000.0, "Commercial-Customers": 26887.0, "Industrial-Sales-($)": 74159000.0, "Industrial-Customers": 70.0, "Total-Customers": 192170.0, "cities-served": ["Chattanooga, TN", "Collegedale, TN", "East Ridge, TN", "Graysville, TN", "Lakesite, TN", "Lookout Mountain, TN", "Lookout Mountain, GA", "Red Bank, TN", "Ridgeside, TN", "Rossville, GA", "Signal Mountain, TN", "Soddy-Daisy, TN", "Walden, TN"], "counties-served": [{"county": "Sequatchie County, TN", "population": 15826}, {"county": "Dade County, GA", "population": 16251}, {"county": "Marion County, TN", "population": 28837}, {"county": "Rhea County, TN", "population": 32870}, {"county": "Walker County, GA", "population": 67654}, {"county": "Bradley County, TN", "population": 108620}, {"county": "Hamilton County, TN", "population": 366207}], "states-served": [{"state": "Georgia", "customers": 11055}, {"state": "Tennessee", "customers": 181115}]}, {"company": "Volunteer Electric Cooperative", "company-type": "Cooperative", "website": "https://www.vec.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 158949000.0, "Residential-Customers": 100680.0, "Commercial-Sales-($)": 70959000.0, "Commercial-Customers": 21336.0, "Industrial-Sales-($)": 22225000.0, "Industrial-Customers": 15.0, "Total-Customers": 122031.0, "cities-served": ["Allardt, TN", "Athens, TN", "Benton, TN", "Byrdstown, TN", "Calhoun, TN", "Charleston, TN", "Cleveland, TN", "Crab Orchard, TN", "Crossville, TN", "Decatur, TN", "Etowah, TN", "Jamestown, TN", "Monterey, TN", "Niota, TN", "Pleasant Hill, TN", "Spring City, TN"], "counties-served": [{"county": "Pickett County, TN", "population": 5001}, {"county": "Meigs County, TN", "population": 12758}, {"county": "Bledsoe County, TN", "population": 14913}, {"county": "Polk County, TN", "population": 17544}, {"county": "Fentress County, TN", "population": 18489}, {"county": "Morgan County, TN", "population": 21035}, {"county": "Overton County, TN", "population": 22511}, {"county": "White County, TN", "population": 27351}, {"county": "Rhea County, TN", "population": 32870}, {"county": "McMinn County, TN", "population": 53276}, {"county": "Roane County, TN", "population": 53404}, {"county": "Cumberland County, TN", "population": 61145}, {"county": "Putnam County, TN", "population": 79854}, {"county": "Bradley County, TN", "population": 108620}, {"county": "Hamilton County, TN", "population": 366207}], "states-served": [{"state": "Tennessee", "customers": 122030}]}, {"company": "Cumberland Electric", "company-type": "Cooperative", "website": "https://www.cemc.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 188085000.0, "Residential-Customers": 93002.0, "Commercial-Sales-($)": 65800000.0, "Commercial-Customers": 11559.0, "Industrial-Sales-($)": 41074000.0, "Industrial-Customers": 24.0, "Total-Customers": 104585.0, "cities-served": ["Adams, TN", "Ashland City, TN", "Cedar Hill, TN", "Clarksville, TN", "Coopertown, TN", "Cross Plains, TN", "Cumberland City, TN", "Dover, TN", "Franklin, KY", "Gallatin, TN", "Goodlettsville, TN", "Greenbrier, TN", "Guthrie, KY", "Hendersonville, TN", "Millersville, TN", "Mitchellville, TN", "Orlinda, TN", "Pleasant View, TN", "Portland, TN", "Ridgetop, TN", "Springfield, TN", "White House, TN"], "counties-served": [{"county": "Houston County, TN", "population": 8283}, {"county": "Todd County, KY", "population": 12243}, {"county": "Stewart County, TN", "population": 13657}, {"county": "Trigg County, KY", "population": 14061}, {"county": "Simpson County, KY", "population": 19594}, {"county": "Cheatham County, TN", "population": 41072}, {"county": "Dickson County, TN", "population": 54315}, {"county": "Robertson County, TN", "population": 72803}, {"county": "Wilson County, TN", "population": 147737}, {"county": "Sumner County, TN", "population": 196281}, {"county": "Montgomery County, TN", "population": 220069}, {"county": "Davidson County, TN", "population": 715884}], "states-served": [{"state": "Tennessee", "customers": 104586}]}, {"company": "BrightRidge", "company-type": "Municipal", "website": "https://www.brightridge.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 114645000.0, "Residential-Customers": 69524.0, "Commercial-Sales-($)": 77303000.0, "Commercial-Customers": 11473.0, "Industrial-Sales-($)": 10876000.0, "Industrial-Customers": 13.0, "Total-Customers": 81010.0, "cities-served": ["Bluff City, TN", "Johnson City, TN", "Jonesborough, TN", "Kingsport, TN", "Watauga, TN"], "counties-served": [{"county": "Washington County, TN", "population": 133001}, {"county": "Sullivan County, TN", "population": 158163}], "states-served": [{"state": "Tennessee", "customers": 81010}]}, {"company": "Duck River Electric", "company-type": "Cooperative", "website": "https://www.dremc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 124961000.0, "Residential-Customers": 67417.0, "Commercial-Sales-($)": 61375000.0, "Commercial-Customers": 12520.0, "Industrial-Sales-($)": 19295000.0, "Industrial-Customers": 15.0, "Total-Customers": 79952.0, "cities-served": ["Bell Buckle, TN", "Chapel Hill, TN", "Columbia, TN", "Cornersville, TN", "Cowan, TN", "Decherd, TN", "Estill Springs, TN", "Huntland, TN", "Lewisburg, TN", "Lynnville, TN", "Manchester, TN", "Monteagle, TN", "Morrison, TN", "Mount Pleasant, TN", "Normandy, TN", "Shelbyville, TN", "Spring Hill, TN", "Tullahoma, TN", "Viola, TN", "Wartrace, TN", "Winchester, TN"], "counties-served": [{"county": "Moore County, TN", "population": 6461}, {"county": "Lewis County, TN", "population": 12582}, {"county": "Grundy County, TN", "population": 13529}, {"county": "Marion County, TN", "population": 28837}, {"county": "Giles County, TN", "population": 30346}, {"county": "Marshall County, TN", "population": 34318}, {"county": "Lincoln County, TN", "population": 35319}, {"county": "Warren County, TN", "population": 40953}, {"county": "Franklin County, TN", "population": 42774}, {"county": "Bedford County, TN", "population": 50237}, {"county": "Coffee County, TN", "population": 57889}, {"county": "Maury County, TN", "population": 100974}, {"county": "Rutherford County, TN", "population": 341486}], "states-served": [{"state": "Tennessee", "customers": 79952}]}, {"company": "Clarksville Electric", "company-type": "Municipal", "website": "https://www.cityofclarksville.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 112072000.0, "Residential-Customers": 68311.0, "Commercial-Sales-($)": 62514000.0, "Commercial-Customers": 8810.0, "Industrial-Sales-($)": 4887000.0, "Industrial-Customers": 3.0, "Total-Customers": 77124.0, "cities-served": ["Clarksville"], "counties-served": [{"county": "Montgomery County, TN", "population": 220069}], "states-served": [{"state": "Tennessee", "customers": 77124}]}, {"company": "Lenoir City Utilities Board", "company-type": "Municipal", "website": "http://www.lcub.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 96479000.0, "Residential-Customers": 58162.0, "Commercial-Sales-($)": 78910000.0, "Commercial-Customers": 13035.0, "Industrial-Sales-($)": 3878000.0, "Industrial-Customers": 7.0, "Total-Customers": 71204.0, "cities-served": ["Farragut, TN", "Knoxville, TN", "Lenoir City, TN", "Loudon, TN"], "counties-served": [{"county": "Roane County, TN", "population": 53404}, {"county": "Loudon County, TN", "population": 54886}, {"county": "Knox County, TN", "population": 478971}], "states-served": [{"state": "Tennessee", "customers": 71204}]}, {"company": "Sevier County Electric", "company-type": "Municipal", "website": "https://www.sces.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 48845000.0, "Residential-Customers": 36141.0, "Commercial-Sales-($)": 92170000.0, "Commercial-Customers": 22382.0, "Industrial-Sales-($)": 3247000.0, "Industrial-Customers": 5.0, "Total-Customers": 58528.0, "cities-served": ["Gatlinburg, TN", "Pigeon Forge, TN", "Pittman Center, TN", "Sevierville, TN", "Townsend, TN"], "counties-served": [{"county": "Jefferson County, TN", "population": 54683}, {"county": "Sevier County, TN", "population": 98380}, {"county": "Blount County, TN", "population": 135280}], "states-served": [{"state": "Tennessee", "customers": 58528}]}, {"company": "Tri-County Electric Membership Corporation (Kentucky)", "company-type": "Cooperative", "website": "https://www.tcemc.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 67832000.0, "Residential-Customers": 43138.0, "Commercial-Sales-($)": 44213000.0, "Commercial-Customers": 10505.0, "Industrial-Sales-($)": 4276000.0, "Industrial-Customers": 5.0, "Total-Customers": 53648.0, "cities-served": ["Burkesville, KY", "Celina, TN", "Edmonton, KY", "Fountain Run, KY", "Gamaliel, KY", "Lafayette, TN", "Red Boiling Springs, TN", "Scottsville, KY", "Tompkinsville, KY", "Westmoreland, TN"], "counties-served": [{"county": "Cumberland County, KY", "population": 5888}, {"county": "Clay County, TN", "population": 7581}, {"county": "Clinton County, KY", "population": 9253}, {"county": "Metcalfe County, KY", "population": 10286}, {"county": "Monroe County, KY", "population": 11338}, {"county": "Trousdale County, TN", "population": 11615}, {"county": "Jackson County, TN", "population": 11617}, {"county": "Adair County, KY", "population": 18903}, {"county": "Smith County, TN", "population": 19904}, {"county": "Allen County, KY", "population": 20588}, {"county": "Overton County, TN", "population": 22511}, {"county": "Macon County, TN", "population": 25216}, {"county": "Barren County, KY", "population": 44485}, {"county": "Sumner County, TN", "population": 196281}], "states-served": [{"state": "Kentucky", "customers": 25204}, {"state": "Tennessee", "customers": 28444}]}, {"company": "Upper Cumberland Electric Membership Corporation", "company-type": "Cooperative", "website": "https://www.ucemc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 72025000.0, "Residential-Customers": 43735.0, "Commercial-Sales-($)": 34077000.0, "Commercial-Customers": 8062.0, "Industrial-Sales-($)": 8722000.0, "Industrial-Customers": 9.0, "Total-Customers": 51806.0, "cities-served": ["Algood, TN", "Baxter, TN", "Carthage, TN", "Cookeville, TN", "Dowelltown, TN", "Gainesboro, TN", "Gordonsville, TN", "Livingston, TN", "South Carthage, TN"], "counties-served": [{"county": "Pickett County, TN", "population": 5001}, {"county": "Clay County, TN", "population": 7581}, {"county": "Jackson County, TN", "population": 11617}, {"county": "Smith County, TN", "population": 19904}, {"county": "DeKalb County, TN", "population": 20080}, {"county": "Overton County, TN", "population": 22511}, {"county": "White County, TN", "population": 27351}, {"county": "Putnam County, TN", "population": 79854}], "states-served": [{"state": "Tennessee", "customers": 51805}]}, {"company": "Southwest Tennessee Electric Membership Corporation", "company-type": "Cooperative", "website": "https://www.stemc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 79027000.0, "Residential-Customers": 43048.0, "Commercial-Sales-($)": 29557000.0, "Commercial-Customers": 8112.0, "Industrial-Sales-($)": 1373000.0, "Industrial-Customers": 1.0, "Total-Customers": 51161.0, "cities-served": ["Atoka, TN", "Braden, TN", "Brighton, TN", "Brownsville, TN", "Burlison, TN", "Enville, TN", "Finger, TN", "Gallaway, TN", "Garland, TN", "Gilt Edge, TN", "Henderson, TN", "Henning, TN", "Jackson, TN", "Mason, TN", "Medon, TN", "Munford, TN", "Stanton, TN", "Whiteville, TN"], "counties-served": [{"county": "Chester County, TN", "population": 17341}, {"county": "Haywood County, TN", "population": 17864}, {"county": "Lauderdale County, TN", "population": 25143}, {"county": "Hardeman County, TN", "population": 25462}, {"county": "Henderson County, TN", "population": 27842}, {"county": "Fayette County, TN", "population": 41990}, {"county": "Tipton County, TN", "population": 60970}, {"county": "Madison County, TN", "population": 98823}], "states-served": [{"state": "Tennessee", "customers": 51161}]}, {"company": "Kingsport Power", "company-type": "Investor Owned", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 66524214.0, "Residential-Customers": 42397.0, "Commercial-Sales-($)": 43547077.0, "Commercial-Customers": 6068.0, "Industrial-Sales-($)": 42814112.0, "Industrial-Customers": 193.0, "Total-Customers": 48658.0, "cities-served": ["Bluff City, TN", "Bristol, TN", "Bulls Gap, TN", "Church Hill, TN", "Johnson City, TN", "Jonesborough, TN", "Kingsport, TN", "Mount Carmel, TN", "Rogersville, TN", "Surgoinsville, TN", "Watauga, TN"], "counties-served": [{"county": "Hawkins County, TN", "population": 56721}, {"county": "Washington County, TN", "population": 133001}, {"county": "Sullivan County, TN", "population": 158163}], "states-served": [{"state": "Tennessee", "customers": 48658}]}, {"company": "Appalachian Electric Cooperative", "company-type": "Cooperative", "website": "http://aecoop.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 73752000.0, "Residential-Customers": 41557.0, "Commercial-Sales-($)": 29363000.0, "Commercial-Customers": 7079.0, "Industrial-Sales-($)": 5311000.0, "Industrial-Customers": 7.0, "Total-Customers": 48643.0, "cities-served": ["Baneberry, TN", "Bean Station, TN", "Dandridge, TN", "Jefferson City, TN", "Morristown, TN", "New Market, TN", "Rutledge, TN", "Sevierville, TN", "White Pine, TN"], "counties-served": [{"county": "Grainger County, TN", "population": 23527}, {"county": "Jefferson County, TN", "population": 54683}, {"county": "Hamblen County, TN", "population": 64499}, {"county": "Sevier County, TN", "population": 98380}], "states-served": [{"state": "Tennessee", "customers": 48643}]}, {"company": "Greeneville Light and Power", "company-type": "Municipal", "website": "http://www.glps.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 49983000.0, "Residential-Customers": 31599.0, "Commercial-Sales-($)": 33878000.0, "Commercial-Customers": 7708.0, "Industrial-Sales-($)": 21444000.0, "Industrial-Customers": 18.0, "Total-Customers": 39325.0, "cities-served": ["Baileyton, TN", "Greeneville, TN", "Mosheim, TN", "Tusculum, TN"], "counties-served": [{"county": "Greene County, TN", "population": 70152}], "states-served": [{"state": "Tennessee", "customers": 39325}]}, {"company": "French Broad Electric", "company-type": "Cooperative", "website": "https://www.frenchbroademc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 40796800.0, "Residential-Customers": 35565.0, "Commercial-Sales-($)": 9850100.0, "Commercial-Customers": 3378.0, "Industrial-Sales-($)": 6022500.0, "Industrial-Customers": 5.0, "Total-Customers": 38948.0, "cities-served": ["Bakersville, NC", "Burnsville, NC", "Hot Springs, NC", "Mars Hill, NC", "Marshall, NC"], "counties-served": [{"county": "Mitchell County, NC", "population": 14903}, {"county": "Unicoi County, TN", "population": 17928}, {"county": "Yancey County, NC", "population": 18470}, {"county": "Madison County, NC", "population": 21193}, {"county": "Cocke County, TN", "population": 35999}, {"county": "Buncombe County, NC", "population": 269452}], "states-served": [{"state": "Tennessee", "customers": 1029}, {"state": "North Carolina", "customers": 37919}]}, {"company": "Gibson Electric Membership Corp", "company-type": "Cooperative", "website": "https://www.gibsonemc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 58037000.0, "Residential-Customers": 31613.0, "Commercial-Sales-($)": 24942000.0, "Commercial-Customers": 7041.0, "Industrial-Sales-($)": 11315000.0, "Industrial-Customers": 8.0, "Total-Customers": 38662.0, "cities-served": ["Alamo, TN", "Arlington, KY", "Bardwell, KY", "Bells, TN", "Bradford, TN", "Clinton, KY", "Columbus, KY", "Dyer, TN", "Friendship, TN", "Fulton, KY", "Gadsden, TN", "Gibson, TN", "Hickman, KY", "Hornbeak, TN", "Humboldt, TN", "Kenton, TN", "Maury City, TN", "Medina, TN", "Newbern, TN", "Obion, TN", "Ridgely, TN", "Rives, TN", "Rutherford, TN", "Samburg, TN", "South Fulton, TN", "Three Way, TN", "Tiptonville, TN", "Trenton, TN", "Trimble, TN", "Troy, TN", "Union City, TN", "Woodland Mills, TN", "Yorkville, TN"], "counties-served": [{"county": "Hickman County, KY", "population": 4521}, {"county": "Carlisle County, KY", "population": 4826}, {"county": "Fulton County, KY", "population": 6515}, {"county": "Lake County, TN", "population": 7005}, {"county": "Crockett County, TN", "population": 13911}, {"county": "Haywood County, TN", "population": 17864}, {"county": "Obion County, TN", "population": 30787}, {"county": "Graves County, KY", "population": 36649}, {"county": "Dyer County, TN", "population": 36801}, {"county": "Gibson County, TN", "population": 50429}, {"county": "Madison County, TN", "population": 98823}], "states-served": [{"state": "Kentucky", "customers": 3434}, {"state": "Tennessee", "customers": 35227}]}, {"company": "Sequachee Valley Electric Cooperative", "company-type": "Cooperative", "website": "https://www.svalleyec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 47792000.0, "Residential-Customers": 30994.0, "Commercial-Sales-($)": 27524000.0, "Commercial-Customers": 5681.0, "Industrial-Sales-($)": 8351000.0, "Industrial-Customers": 5.0, "Total-Customers": 36680.0, "cities-served": ["Altamont, TN", "Beersheba Springs, TN", "Coalmont, TN", "Dunlap, TN", "Gruetli-Laager, TN", "Jasper, TN", "Kimball, TN", "Monteagle, TN", "New Hope, TN", "Orme, TN", "Palmer, TN", "Pikeville, TN", "Powells Crossroads, TN", "South Pittsburg, TN", "Tracy City, TN", "Whitwell, TN"], "counties-served": [{"county": "Van Buren County, TN", "population": 6168}, {"county": "Grundy County, TN", "population": 13529}, {"county": "Bledsoe County, TN", "population": 14913}, {"county": "Sequatchie County, TN", "population": 15826}, {"county": "Marion County, TN", "population": 28837}, {"county": "Franklin County, TN", "population": 42774}, {"county": "Coffee County, TN", "population": 57889}, {"county": "Cumberland County, TN", "population": 61145}, {"county": "Hamilton County, TN", "population": 366207}], "states-served": [{"state": "Tennessee", "customers": 36680}]}, {"company": "Jackson Energy Authority", "company-type": "Municipal", "website": "https://www.jaxenergy.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 41613000.0, "Residential-Customers": 30035.0, "Commercial-Sales-($)": 54663000.0, "Commercial-Customers": 6415.0, "Industrial-Sales-($)": 36386000.0, "Industrial-Customers": 32.0, "Total-Customers": 36482.0, "cities-served": ["Jackson"], "counties-served": [{"county": "Madison County, TN", "population": 98823}], "states-served": [{"state": "Tennessee", "customers": 36482}]}, {"company": "Dickson, Tennessee Electric Utility", "company-type": "Municipal", "website": "http://www.dicksonelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 42939000.0, "Residential-Customers": 29108.0, "Commercial-Sales-($)": 26371000.0, "Commercial-Customers": 7199.0, "Industrial-Sales-($)": 10278000.0, "Industrial-Customers": 18.0, "Total-Customers": 36325.0, "cities-served": ["Burns, TN", "Charlotte, TN", "Dickson, TN", "Kingston Springs, TN", "Pegram, TN", "Slayden, TN", "Vanleer, TN", "White Bluff, TN"], "counties-served": [{"county": "Houston County, TN", "population": 8283}, {"county": "Hickman County, TN", "population": 24925}, {"county": "Cheatham County, TN", "population": 41072}, {"county": "Dickson County, TN", "population": 54315}, {"county": "Montgomery County, TN", "population": 220069}], "states-served": [{"state": "Tennessee", "customers": 36325}]}, {"company": "Meriwether Lewis Electric", "company-type": "Cooperative", "website": "https://www.mlec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 46460000.0, "Residential-Customers": 29510.0, "Commercial-Sales-($)": 25258000.0, "Commercial-Customers": 5492.0, "Industrial-Sales-($)": 24409000.0, "Industrial-Customers": 10.0, "Total-Customers": 35012.0, "cities-served": ["Centerville, TN", "Erin, TN", "Hohenwald, TN", "Linden, TN", "Lobelville, TN", "McEwen, TN", "New Johnsonville, TN", "Tennessee Ridge, TN", "Waverly, TN"], "counties-served": [{"county": "Houston County, TN", "population": 8283}, {"county": "Perry County, TN", "population": 8366}, {"county": "Lewis County, TN", "population": 12582}, {"county": "Stewart County, TN", "population": 13657}, {"county": "Humphreys County, TN", "population": 18990}, {"county": "Hickman County, TN", "population": 24925}], "states-served": [{"state": "Tennessee", "customers": 35012}]}, {"company": "Mountain Electric Cooperative", "company-type": "Cooperative", "website": "https://www.mountainelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 33833000.0, "Residential-Customers": 27955.0, "Commercial-Sales-($)": 19584000.0, "Commercial-Customers": 6961.0, "Industrial-Sales-($)": 4788000.0, "Industrial-Customers": 3.0, "Total-Customers": 34919.0, "cities-served": ["Banner Elk, NC", "Beech Mountain, NC", "Crossnore, NC", "Elk Park, NC", "Grandfather, NC", "Grandfather Village, NC", "Mountain City, TN", "Newland, NC", "Seven Devils, NC", "Sugar Mountain, NC"], "counties-served": [{"county": "Avery County, NC", "population": 17806}, {"county": "Johnson County, TN", "population": 17948}, {"county": "Watauga County, NC", "population": 54086}, {"county": "Carter County, TN", "population": 56356}, {"county": "Burke County, NC", "population": 87570}], "states-served": [{"state": "Tennessee", "customers": 15615}, {"state": "North Carolina", "customers": 19304}]}, {"company": "Bristol TN Electric", "company-type": "Municipal", "website": "https://www.bristoltn.org/365/Utility-Services", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 45087000.0, "Residential-Customers": 29295.0, "Commercial-Sales-($)": 33854000.0, "Commercial-Customers": 4805.0, "Industrial-Sales-($)": 7732000.0, "Industrial-Customers": 8.0, "Total-Customers": 34108.0, "cities-served": ["Bluff City, TN", "Bristol, TN"], "counties-served": [{"county": "Sullivan County, TN", "population": 158163}], "states-served": [{"state": "Tennessee", "customers": 34108}]}, {"company": "Fort Loudoun Electric", "company-type": "Cooperative", "website": "http://www.flec.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 48729000.0, "Residential-Customers": 28872.0, "Commercial-Sales-($)": 15634000.0, "Commercial-Customers": 4789.0, "Industrial-Sales-($)": 1924000.0, "Industrial-Customers": 5.0, "Total-Customers": 33666.0, "cities-served": ["Alcoa, TN", "Friendsville, TN", "Greenback, TN", "Louisville, TN", "Madisonville, TN", "Maryville, TN", "Tellico Plains, TN", "Vonore, TN"], "counties-served": [{"county": "Monroe County, TN", "population": 46250}, {"county": "Loudon County, TN", "population": 54886}, {"county": "Blount County, TN", "population": 135280}], "states-served": [{"state": "Tennessee", "customers": 33666}]}, {"company": "Caney Fork Electric Cooperative", "company-type": "Cooperative", "website": "https://www.caneyforkec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 43688000.0, "Residential-Customers": 27746.0, "Commercial-Sales-($)": 16879000.0, "Commercial-Customers": 5616.0, "Industrial-Sales-($)": 4183000.0, "Industrial-Customers": 4.0, "Total-Customers": 33366.0, "cities-served": ["Centertown, TN", "Dowelltown, TN", "Doyle, TN", "Liberty, TN", "McMinnville, TN", "Morrison, TN", "Smithville, TN", "Sparta, TN", "Spencer, TN", "Viola, TN"], "counties-served": [{"county": "Van Buren County, TN", "population": 6168}, {"county": "Grundy County, TN", "population": 13529}, {"county": "Cannon County, TN", "population": 14506}, {"county": "DeKalb County, TN", "population": 20080}, {"county": "White County, TN", "population": 27351}, {"county": "Warren County, TN", "population": 40953}, {"county": "Coffee County, TN", "population": 57889}, {"county": "Putnam County, TN", "population": 79854}], "states-served": [{"state": "Tennessee", "customers": 33366}]}, {"company": "Powell Valley Electric Cooperative", "company-type": "Cooperative", "website": "https://www.pve.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 33935000.0, "Residential-Customers": 26818.0, "Commercial-Sales-($)": 16792000.0, "Commercial-Customers": 6120.0, "Industrial-Sales-($)": 3321000.0, "Industrial-Customers": 4.0, "Total-Customers": 32942.0, "cities-served": ["Cumberland Gap, TN", "Harrogate, TN", "Jonesville, VA", "New Tazewell, TN", "Pennington Gap, VA", "Sneedville, TN", "St. Charles, VA", "Tazewell, TN"], "counties-served": [{"county": "Hancock County, TN", "population": 6662}, {"county": "Union County, TN", "population": 19802}, {"county": "Scott County, VA", "population": 21576}, {"county": "Lee County, VA", "population": 22173}, {"county": "Grainger County, TN", "population": 23527}, {"county": "Claiborne County, TN", "population": 32043}, {"county": "Hawkins County, TN", "population": 56721}], "states-served": [{"state": "Virginia", "customers": 8251}, {"state": "Tennessee", "customers": 24691}]}, {"company": "Cleveland Utilities", "company-type": "Municipal", "website": "http://www.clevelandutilities.com/depatments_divisions/electric_division/index.php", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 43939000.0, "Residential-Customers": 27624.0, "Commercial-Sales-($)": 41809000.0, "Commercial-Customers": 4763.0, "Industrial-Sales-($)": 17210000.0, "Industrial-Customers": 18.0, "Total-Customers": 32405.0, "cities-served": ["Cleveland", "South Cleveland CDP", "Wildwood Lake CDP", "East Cleveland CDP"], "counties-served": [{"county": "Bradley County, TN", "population": 108620}], "states-served": [{"state": "Tennessee", "customers": 32405}]}, {"company": "Columbia Power System", "company-type": "Municipal", "website": "https://www.cpws.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 36958000.0, "Residential-Customers": 26874.0, "Commercial-Sales-($)": 30479000.0, "Commercial-Customers": 4870.0, "Total-Customers": 31744.0, "cities-served": ["Columbia, TN", "Spring Hill, TN"], "counties-served": [{"county": "Maury County, TN", "population": 100974}], "states-served": [{"state": "Tennessee", "customers": 31744}]}, {"company": "Holston Electric Cooperative", "company-type": "Cooperative", "website": "https://www.holstonelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 39195000.0, "Residential-Customers": 25022.0, "Commercial-Sales-($)": 17230000.0, "Commercial-Customers": 5848.0, "Industrial-Sales-($)": 18220000.0, "Industrial-Customers": 17.0, "Total-Customers": 30887.0, "cities-served": ["Bean Station, TN", "Bulls Gap, TN", "Church Hill, TN", "Morristown, TN", "Mount Carmel, TN", "Rogersville, TN", "Surgoinsville, TN"], "counties-served": [{"county": "Hawkins County, TN", "population": 56721}, {"county": "Hamblen County, TN", "population": 64499}], "states-served": [{"state": "Tennessee", "customers": 30887}]}, {"company": "Clinton Utilities Board", "company-type": "Municipal", "website": "http://www.clintonutilities.com/electricdept.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 43591000.0, "Residential-Customers": 25705.0, "Commercial-Sales-($)": 21324000.0, "Commercial-Customers": 4707.0, "Industrial-Sales-($)": 14869000.0, "Industrial-Customers": 10.0, "Total-Customers": 30422.0, "cities-served": ["Clinton, TN", "Lake City, TN", "Norris, TN", "Oliver Springs, TN", "Rocky Top, TN"], "counties-served": [{"county": "Union County, TN", "population": 19802}, {"county": "Morgan County, TN", "population": 21035}, {"county": "Campbell County, TN", "population": 39272}, {"county": "Anderson County, TN", "population": 77123}, {"county": "Knox County, TN", "population": 478971}], "states-served": [{"state": "Tennessee", "customers": 30422}]}, {"company": "Alcoa Utilities", "company-type": "Municipal", "website": "https://www.cityofalcoa-tn.gov/177/Electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 41001000.0, "Residential-Customers": 26302.0, "Commercial-Sales-($)": 22447000.0, "Commercial-Customers": 3882.0, "Industrial-Sales-($)": 136000.0, "Industrial-Customers": 1.0, "Total-Customers": 30185.0, "cities-served": ["Alcoa, TN", "Louisville, TN", "Maryville, TN", "Rockford, TN", "Townsend, TN"], "counties-served": [{"county": "Blount County, TN", "population": 135280}], "states-served": [{"state": "Tennessee", "customers": 30185}]}, {"company": "Elizabethon Electric", "company-type": "Municipal", "website": "https://www.eesonline.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 32753000.0, "Residential-Customers": 22962.0, "Commercial-Sales-($)": 16403000.0, "Commercial-Customers": 3551.0, "Industrial-Sales-($)": 2151000.0, "Industrial-Customers": 2.0, "Total-Customers": 26515.0, "cities-served": ["Bluff City, TN", "Elizabethton, TN", "Johnson City, TN", "Unicoi, TN", "Watauga, TN"], "counties-served": [{"county": "Unicoi County, TN", "population": 17928}, {"county": "Carter County, TN", "population": 56356}, {"county": "Sullivan County, TN", "population": 158163}], "states-served": [{"state": "Tennessee", "customers": 26515}]}, {"company": "Lexington Electric", "company-type": "Municipal", "website": "https://www.lexingtonelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 23890000.0, "Residential-Customers": 17689.0, "Commercial-Sales-($)": 16498000.0, "Commercial-Customers": 4964.0, "Industrial-Sales-($)": 2801000.0, "Industrial-Customers": 7.0, "Total-Customers": 22660.0, "cities-served": ["Decaturville, TN", "Lexington, TN", "Parker's Crossroads, TN", "Parsons, TN", "Saltillo, TN", "Sardis, TN", "Scotts Hill, TN"], "counties-served": [{"county": "Decatur County, TN", "population": 11435}, {"county": "Hardin County, TN", "population": 26831}, {"county": "Henderson County, TN", "population": 27842}], "states-served": [{"state": "Tennessee", "customers": 22660}]}, {"company": "LaFollette Utilities Board", "company-type": "Municipal", "website": "http://www.lub.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 29376000.0, "Residential-Customers": 19368.0, "Commercial-Sales-($)": 14802000.0, "Commercial-Customers": 3075.0, "Industrial-Sales-($)": 1934000.0, "Industrial-Customers": 3.0, "Total-Customers": 22446.0, "cities-served": ["Caryville, TN", "Jacksboro, TN", "Jellico, TN", "La Follette, TN"], "counties-served": [{"county": "Union County, TN", "population": 19802}, {"county": "Claiborne County, TN", "population": 32043}, {"county": "Campbell County, TN", "population": 39272}], "states-served": [{"state": "Tennessee", "customers": 22446}]}, {"company": "Newport Electric Company", "company-type": "Municipal", "website": "http://newportutilities.com/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 28300000.0, "Residential-Customers": 19048.0, "Commercial-Sales-($)": 14012000.0, "Commercial-Customers": 3345.0, "Industrial-Sales-($)": 9835000.0, "Industrial-Customers": 7.0, "Total-Customers": 22400.0, "cities-served": ["Dandridge, TN", "Newport, TN", "Parrottsville, TN"], "counties-served": [{"county": "Cocke County, TN", "population": 35999}, {"county": "Jefferson County, TN", "population": 54683}, {"county": "Sevier County, TN", "population": 98380}], "states-served": [{"state": "Tennessee", "customers": 22400}]}, {"company": "Gallatin Electric", "company-type": "Municipal", "website": "http://www.gallatinelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 24751000.0, "Residential-Customers": 19227.0, "Commercial-Sales-($)": 25596000.0, "Commercial-Customers": 3145.0, "Industrial-Sales-($)": 10910000.0, "Industrial-Customers": 10.0, "Total-Customers": 22382.0, "cities-served": ["Gallatin"], "counties-served": [{"county": "Sumner County, TN", "population": 196281}], "states-served": [{"state": "Tennessee", "customers": 22382}]}, {"company": "Maryville Electric", "company-type": "Municipal", "website": "https://www.maryvillegov.com/electric-department-home-page.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 25281000.0, "Residential-Customers": 19147.0, "Commercial-Sales-($)": 25666000.0, "Commercial-Customers": 3127.0, "Industrial-Sales-($)": 12020000.0, "Industrial-Customers": 9.0, "Total-Customers": 22283.0, "cities-served": ["Maryville, TN", "Rockford, TN"], "counties-served": [{"county": "Blount County, TN", "population": 135280}], "states-served": [{"state": "Tennessee", "customers": 22283}]}, {"company": "BPU Paris TN", "company-type": "Municipal", "website": "https://www.parisbpu.com/electric/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 21709000.0, "Residential-Customers": 15737.0, "Commercial-Sales-($)": 18819000.0, "Commercial-Customers": 6058.0, "Industrial-Sales-($)": 2754000.0, "Industrial-Customers": 5.0, "Total-Customers": 21800.0, "cities-served": ["Paris"], "counties-served": [{"county": "Henry County, TN", "population": 32199}], "states-served": [{"state": "Tennessee", "customers": 21800}]}, {"company": "Chickasaw Electric Cooperative", "company-type": "Cooperative", "website": "https://billing.cecpowerup.com/onlineportal/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 28691000.0, "Residential-Customers": 17949.0, "Commercial-Sales-($)": 13577000.0, "Commercial-Customers": 3205.0, "Industrial-Sales-($)": 3582000.0, "Industrial-Customers": 4.0, "Total-Customers": 21158.0, "cities-served": ["Arlington, TN", "Braden, TN", "Collierville, TN", "Gallaway, TN", "Moscow, TN", "Oakland, TN", "Piperton, TN", "Rossville, TN", "Somerville, TN", "Stanton, TN", "Williston, TN"], "counties-served": [{"county": "Haywood County, TN", "population": 17864}, {"county": "Hardeman County, TN", "population": 25462}, {"county": "Marshall County, MS", "population": 33752}, {"county": "Fayette County, TN", "population": 41990}], "states-served": [{"state": "Tennessee", "customers": 21158}]}, {"company": "Lawrenceburg Utilities", "company-type": "Municipal", "website": "http://www.lburgus.com/#", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 26370000.0, "Residential-Customers": 17447.0, "Commercial-Sales-($)": 17657000.0, "Commercial-Customers": 3344.0, "Industrial-Sales-($)": 5533000.0, "Industrial-Customers": 8.0, "Total-Customers": 20799.0, "cities-served": ["Ethridge, TN", "Lawrenceburg, TN", "Loretto, TN", "St. Joseph, TN"], "counties-served": [{"county": "Giles County, TN", "population": 30346}, {"county": "Lawrence County, TN", "population": 44159}], "states-served": [{"state": "Tennessee", "customers": 20799}]}, {"company": "Pickwick Electric Cooperative", "company-type": "Cooperative", "website": "http://www.pickwickec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 25864000.0, "Residential-Customers": 16470.0, "Commercial-Sales-($)": 14026000.0, "Commercial-Customers": 4322.0, "Industrial-Sales-($)": 1072000.0, "Industrial-Customers": 2.0, "Total-Customers": 20794.0, "cities-served": ["Adamsville, TN", "Bethel Springs, TN", "Crump, TN", "Eastview, TN", "Enville, TN", "Finger, TN", "Guys, TN", "Michie, TN", "Milledgeville, TN", "Ramer, TN", "Savannah, TN", "Selmer, TN", "Stantonville, TN"], "counties-served": [{"county": "Chester County, TN", "population": 17341}, {"county": "McNairy County, TN", "population": 25866}, {"county": "Hardin County, TN", "population": 26831}], "states-served": [{"state": "Tennessee", "customers": 20794}]}, {"company": "Weakley County Municipal Electric System", "company-type": "Municipal", "website": "https://www.wcmes.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 23313000.0, "Residential-Customers": 15630.0, "Commercial-Sales-($)": 16960000.0, "Commercial-Customers": 4939.0, "Industrial-Sales-($)": 3047000.0, "Industrial-Customers": 7.0, "Total-Customers": 20576.0, "cities-served": ["Bradford, TN", "Dresden, TN", "Gleason, TN", "Greenfield, TN", "Martin, TN", "McKenzie, TN", "Sharon, TN"], "counties-served": [{"county": "Weakley County, TN", "population": 32902}, {"county": "Gibson County, TN", "population": 50429}], "states-served": [{"state": "Tennessee", "customers": 20576}]}, {"company": "Tri-State EMC", "company-type": "Cooperative", "website": "https://www.tsemc.net/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 23688000.0, "Residential-Customers": 16452.0, "Commercial-Sales-($)": 12041000.0, "Commercial-Customers": 3544.0, "Total-Customers": 19996.0, "Total-Production-MWh": 2402459.0, "Production-from-Renewable-Energy-MWh": 75523.0, "Production-from-Non-Renewable-Energy-MWh": 2326936.0, "cities-served": ["Blue Ridge, GA", "Copperhill, TN", "Ducktown, TN", "McCaysville, GA", "Morganton, GA"], "counties-served": [{"county": "Polk County, TN", "population": 17544}, {"county": "Fannin County, GA", "population": 25319}, {"county": "Cherokee County, NC", "population": 28774}, {"county": "Murray County, GA", "population": 39973}], "states-served": [{"state": "North Carolina", "customers": 1574}, {"state": "Tennessee", "customers": 3241}, {"state": "Georgia", "customers": 15181}]}, {"company": "Tennessee Valley Electric Cooperative", "company-type": "Cooperative", "website": "https://www.tvec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 23451000.0, "Residential-Customers": 16139.0, "Commercial-Sales-($)": 17147000.0, "Commercial-Customers": 3705.0, "Industrial-Sales-($)": 708000.0, "Industrial-Customers": 1.0, "Total-Customers": 19845.0, "cities-served": ["Clifton, TN", "Collinwood, TN", "Savannah, TN", "Waynesboro, TN"], "counties-served": [{"county": "Wayne County, TN", "population": 16232}, {"county": "Hardin County, TN", "population": 26831}], "states-served": [{"state": "Tennessee", "customers": 19845}]}, {"company": "Fayetteville Public Utilities", "company-type": "Municipal", "website": "https://www.fpu-tn.com/electric-service", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 25822000.0, "Residential-Customers": 16213.0, "Commercial-Sales-($)": 13500000.0, "Commercial-Customers": 2540.0, "Industrial-Sales-($)": 4344000.0, "Industrial-Customers": 3.0, "Total-Customers": 18756.0, "cities-served": ["Ardmore, TN", "Fayetteville, TN", "Petersburg, TN"], "counties-served": [{"county": "Giles County, TN", "population": 30346}, {"county": "Marshall County, TN", "population": 34318}, {"county": "Lincoln County, TN", "population": 35319}], "states-served": [{"state": "Tennessee", "customers": 18756}]}, {"company": "Cookeville Electric", "company-type": "Municipal", "website": "https://www.cookeville-tn.gov/191/Electric-Department", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 17612000.0, "Residential-Customers": 14950.0, "Commercial-Sales-($)": 30182000.0, "Commercial-Customers": 3722.0, "Industrial-Sales-($)": 2832000.0, "Industrial-Customers": 6.0, "Total-Customers": 18678.0, "cities-served": ["Cookeville"], "counties-served": [{"county": "Putnam County, TN", "population": 79854}], "states-served": [{"state": "Tennessee", "customers": 18678}]}, {"company": "Plateau Electric", "company-type": "Cooperative", "website": "http://www.plateauelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 18504000.0, "Residential-Customers": 13863.0, "Commercial-Sales-($)": 14473000.0, "Commercial-Customers": 3357.0, "Industrial-Sales-($)": 661000.0, "Industrial-Customers": 2.0, "Total-Customers": 17222.0, "cities-served": ["Huntsville, TN", "Oneida, TN", "Sunbright, TN", "Wartburg, TN", "Winfield, TN"], "counties-served": [{"county": "Morgan County, TN", "population": 21035}, {"county": "Scott County, TN", "population": 21850}, {"county": "Campbell County, TN", "population": 39272}], "states-served": [{"state": "Tennessee", "customers": 17222}]}, {"company": "Oak Ridge Utilities", "company-type": "Municipal", "website": "http://www.oakridgetn.gov/department/UBO/Home", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 17944000.0, "Residential-Customers": 14122.0, "Commercial-Sales-($)": 32528000.0, "Commercial-Customers": 2234.0, "Industrial-Sales-($)": 746000.0, "Industrial-Customers": 2.0, "Total-Customers": 16358.0, "cities-served": ["Oak Ridge"], "counties-served": [{"county": "Roane County, TN", "population": 53404}, {"county": "Anderson County, TN", "population": 77123}], "states-served": [{"state": "Tennessee", "customers": 16358}]}, {"company": "Carroll County Electric", "company-type": "Municipal", "website": "http://www.ccelectric.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 17841000.0, "Residential-Customers": 12150.0, "Commercial-Sales-($)": 10235000.0, "Commercial-Customers": 3506.0, "Industrial-Sales-($)": 8219000.0, "Industrial-Customers": 2.0, "Total-Customers": 15658.0, "cities-served": ["Atwood, TN", "Bruceton, TN", "Clarksburg, TN", "Hollow Rock, TN", "Huntingdon, TN", "McKenzie, TN", "McLemoresville, TN", "Parker's Crossroads, TN", "Trezevant, TN"], "counties-served": [{"county": "Henderson County, TN", "population": 27842}, {"county": "Carroll County, TN", "population": 28440}], "states-served": [{"state": "Tennessee", "customers": 15658}]}, {"company": "Morristown Electric", "company-type": "Municipal", "website": "http://www.musfiber.net/service/power/index.php", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 17787000.0, "Residential-Customers": 12345.0, "Commercial-Sales-($)": 28877000.0, "Commercial-Customers": 2817.0, "Industrial-Sales-($)": 26450000.0, "Industrial-Customers": 30.0, "Total-Customers": 15192.0, "cities-served": ["Morristown", "Russellville CDP"], "counties-served": [{"county": "Hamblen County, TN", "population": 64499}], "states-served": [{"state": "Tennessee", "customers": 15192}]}, {"company": "Rockwood Electric", "company-type": "Municipal", "website": "https://www.rockwoodelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 18834000.0, "Residential-Customers": 11740.0, "Commercial-Sales-($)": 10266000.0, "Commercial-Customers": 3097.0, "Industrial-Sales-($)": 2972000.0, "Industrial-Customers": 7.0, "Total-Customers": 14844.0, "cities-served": ["Harriman, TN", "Kingston, TN", "Rockwood, TN"], "counties-served": [{"county": "Morgan County, TN", "population": 21035}, {"county": "Roane County, TN", "population": 53404}, {"county": "Cumberland County, TN", "population": 61145}], "states-served": [{"state": "Tennessee", "customers": 14844}]}, {"company": "Pulaski, Tennessee Electric Utility", "company-type": "Municipal", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 19689000.0, "Residential-Customers": 12122.0, "Commercial-Sales-($)": 11711000.0, "Commercial-Customers": 2674.0, "Industrial-Sales-($)": 8910000.0, "Industrial-Customers": 12.0, "Total-Customers": 14808.0, "cities-served": ["Ardmore, TN", "Elkton, TN", "Lynnville, TN", "Minor Hill, TN", "Pulaski, TN"], "counties-served": [{"county": "Giles County, TN", "population": 30346}], "states-served": [{"state": "Tennessee", "customers": 14808}]}, {"company": "Athens Utilities Board", "company-type": "Municipal", "website": "http://www.aub.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 15348000.0, "Residential-Customers": 11144.0, "Commercial-Sales-($)": 16077000.0, "Commercial-Customers": 2357.0, "Industrial-Sales-($)": 15924000.0, "Industrial-Customers": 8.0, "Total-Customers": 13509.0, "cities-served": ["Athens, TN", "Englewood, TN", "Etowah, TN", "Niota, TN"], "counties-served": [{"county": "McMinn County, TN", "population": 53276}], "states-served": [{"state": "Tennessee", "customers": 13509}]}, {"company": "Loudon Utilities", "company-type": "Municipal", "website": "https://www.loudonutilities.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 16435000.0, "Residential-Customers": 11077.0, "Commercial-Sales-($)": 14983000.0, "Commercial-Customers": 1804.0, "Industrial-Sales-($)": 13357000.0, "Industrial-Customers": 10.0, "Total-Customers": 12891.0, "cities-served": ["Loudon, TN", "Philadelphia, TN", "Vonore, TN"], "counties-served": [{"county": "Monroe County, TN", "population": 46250}, {"county": "Loudon County, TN", "population": 54886}], "states-served": [{"state": "Tennessee", "customers": 12891}]}, {"company": "Dyersburg Electric", "company-type": "Municipal", "website": "http://www.despower.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 12964000.0, "Residential-Customers": 9440.0, "Commercial-Sales-($)": 14180000.0, "Commercial-Customers": 2493.0, "Industrial-Sales-($)": 7446000.0, "Industrial-Customers": 9.0, "Total-Customers": 11942.0, "cities-served": ["Dyersburg"], "counties-served": [{"county": "Dyer County, TN", "population": 36801}], "states-served": [{"state": "Tennessee", "customers": 11942}]}, {"company": "Bolivar Energy Authority", "company-type": "Municipal", "website": "http://www.bolivarelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 14627000.0, "Residential-Customers": 8868.0, "Commercial-Sales-($)": 9541000.0, "Commercial-Customers": 2377.0, "Industrial-Sales-($)": 1233000.0, "Industrial-Customers": 1.0, "Total-Customers": 11246.0, "cities-served": ["Bolivar, TN", "Grand Junction, TN", "Hickory Valley, TN", "Hornsby, TN", "La Grange, TN", "Saulsbury, TN", "Silerton, TN", "Toone, TN", "Whiteville, TN"], "counties-served": [{"county": "Benton County, MS", "population": 7646}, {"county": "Chester County, TN", "population": 17341}, {"county": "Hardeman County, TN", "population": 25462}, {"county": "Fayette County, TN", "population": 41990}, {"county": "Madison County, TN", "population": 98823}], "states-served": [{"state": "Tennessee", "customers": 11246}]}, {"company": "Harriman Utility Board", "company-type": "Municipal", "website": "https://home.hubtnmaps.com/electric.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 14705000.0, "Residential-Customers": 9140.0, "Commercial-Sales-($)": 8360000.0, "Commercial-Customers": 1850.0, "Industrial-Sales-($)": 51000.0, "Industrial-Customers": 1.0, "Total-Customers": 10991.0, "cities-served": ["Harriman, TN", "Kingston, TN", "Oakdale, TN", "Rockwood, TN"], "counties-served": [{"county": "Morgan County, TN", "population": 21035}, {"county": "Roane County, TN", "population": 53404}], "states-served": [{"state": "Tennessee", "customers": 10991}]}, {"company": "Tullahoma Utilities", "company-type": "Municipal", "website": "https://www.tub.net/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 11951000.0, "Residential-Customers": 8998.0, "Commercial-Sales-($)": 11234000.0, "Commercial-Customers": 1980.0, "Industrial-Sales-($)": 1443000.0, "Industrial-Customers": 4.0, "Total-Customers": 10982.0, "cities-served": ["Tullahoma"], "counties-served": [{"county": "Coffee County, TN", "population": 57889}], "states-served": [{"state": "Tennessee", "customers": 10982}]}, {"company": "Dayton, TN Electric", "company-type": "Municipal", "website": "https://www.daytontn.net/residents/utilities/electric/index.php", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 11697000.0, "Residential-Customers": 8731.0, "Commercial-Sales-($)": 9774000.0, "Commercial-Customers": 2099.0, "Industrial-Sales-($)": 4520000.0, "Industrial-Customers": 5.0, "Total-Customers": 10835.0, "cities-served": ["Dayton, TN", "Graysville, TN"], "counties-served": [{"county": "Bledsoe County, TN", "population": 14913}, {"county": "Rhea County, TN", "population": 32870}], "states-served": [{"state": "Tennessee", "customers": 10835}]}, {"company": "Shelbyville Power", "company-type": "Municipal", "website": "http://www.shelbyvillepower.com/Power.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 11917000.0, "Residential-Customers": 8932.0, "Commercial-Sales-($)": 13038000.0, "Commercial-Customers": 1732.0, "Industrial-Sales-($)": 6277000.0, "Industrial-Customers": 6.0, "Total-Customers": 10670.0, "cities-served": ["Shelbyville"], "counties-served": [{"county": "Bedford County, TN", "population": 50237}], "states-served": [{"state": "Tennessee", "customers": 10670}]}, {"company": "Benton County Electric System", "company-type": "Municipal", "website": "http://www.bcestn.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 13688000.0, "Residential-Customers": 8483.0, "Commercial-Sales-($)": 7114000.0, "Commercial-Customers": 1768.0, "Industrial-Sales-($)": 2352000.0, "Industrial-Customers": 3.0, "Total-Customers": 10254.0, "cities-served": ["Big Sandy, TN", "Camden, TN"], "counties-served": [{"county": "Benton County, TN", "population": 15864}, {"county": "Henry County, TN", "population": 32199}], "states-served": [{"state": "Tennessee", "customers": 10254}]}, {"company": "Forked Deer Electric", "company-type": "Cooperative", "website": "https://www.forkeddeer.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 15180000.0, "Residential-Customers": 8354.0, "Commercial-Sales-($)": 5368000.0, "Commercial-Customers": 1657.0, "Total-Customers": 10011.0, "cities-served": ["Dyersburg, TN", "Friendship, TN", "Gates, TN", "Halls, TN", "Henning, TN", "Luxora, AR", "Newbern, TN", "Ripley, TN"], "counties-served": [{"county": "Lake County, TN", "population": 7005}, {"county": "Crockett County, TN", "population": 13911}, {"county": "Haywood County, TN", "population": 17864}, {"county": "Lauderdale County, TN", "population": 25143}, {"county": "Dyer County, TN", "population": 36801}], "states-served": [{"state": "Tennessee", "customers": 10011}]}, {"company": "Sweetwater Utilities", "company-type": "Municipal", "website": "http://www.sweetwaterutilities.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 11328000.0, "Residential-Customers": 7191.0, "Commercial-Sales-($)": 8024000.0, "Commercial-Customers": 2050.0, "Industrial-Sales-($)": 3885000.0, "Industrial-Customers": 4.0, "Total-Customers": 9245.0, "cities-served": ["Philadelphia, TN", "Sweetwater, TN"], "counties-served": [{"county": "Monroe County, TN", "population": 46250}, {"county": "McMinn County, TN", "population": 53276}, {"county": "Roane County, TN", "population": 53404}, {"county": "Loudon County, TN", "population": 54886}], "states-served": [{"state": "Tennessee", "customers": 9245}]}, {"company": "Erwin Utilities", "company-type": "Municipal", "website": "https://www.e-u.cc/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 9940000.0, "Residential-Customers": 7596.0, "Commercial-Sales-($)": 6355000.0, "Commercial-Customers": 1376.0, "Industrial-Sales-($)": 4054000.0, "Industrial-Customers": 5.0, "Total-Customers": 8977.0, "cities-served": ["Erwin, TN", "Unicoi, TN"], "counties-served": [{"county": "Unicoi County, TN", "population": 17928}, {"county": "Washington County, TN", "population": 133001}], "states-served": [{"state": "Tennessee", "customers": 8977}]}, {"company": "Springfield TN Electric", "company-type": "Municipal", "website": "https://springfieldtn.gov/176/Electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 9272000.0, "Residential-Customers": 7205.0, "Commercial-Sales-($)": 10661000.0, "Commercial-Customers": 1333.0, "Industrial-Sales-($)": 5401000.0, "Industrial-Customers": 6.0, "Total-Customers": 8544.0, "cities-served": ["Springfield"], "counties-served": [{"county": "Robertson County, TN", "population": 72803}], "states-served": [{"state": "Tennessee", "customers": 8544}]}, {"company": "Milan Public Utilities", "company-type": "Municipal", "website": "https://www.mpu1.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 10272000.0, "Residential-Customers": 6800.0, "Commercial-Sales-($)": 6040000.0, "Commercial-Customers": 1491.0, "Industrial-Sales-($)": 1405000.0, "Industrial-Customers": 4.0, "Total-Customers": 8295.0, "cities-served": ["Bradford, TN", "Medina, TN", "Milan, TN"], "counties-served": [{"county": "Carroll County, TN", "population": 28440}, {"county": "Gibson County, TN", "population": 50429}], "states-served": [{"state": "Tennessee", "customers": 8295}]}, {"company": "McMinnville Electric", "company-type": "Municipal", "website": "https://www.mesystem.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7702000.0, "Residential-Customers": 6517.0, "Commercial-Sales-($)": 9413000.0, "Commercial-Customers": 1636.0, "Industrial-Sales-($)": 1031000.0, "Industrial-Customers": 2.0, "Total-Customers": 8155.0, "Total-Production-MWh": 66.0, "Production-from-Non-Renewable-Energy-MWh": 66.0, "cities-served": ["McMinnville"], "counties-served": [{"county": "Warren County, TN", "population": 40953}], "states-served": [{"state": "Tennessee", "customers": 8155}]}, {"company": "Ripley Power and Lights", "company-type": "Municipal", "website": "https://www.ripleypower.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7331000.0, "Residential-Customers": 5267.0, "Commercial-Sales-($)": 7562000.0, "Commercial-Customers": 1400.0, "Industrial-Sales-($)": 2718000.0, "Industrial-Customers": 3.0, "Total-Customers": 6670.0, "cities-served": ["Gates, TN", "Halls, TN", "Henning, TN", "Ripley, TN"], "counties-served": [{"county": "Lauderdale County, TN", "population": 25143}], "states-served": [{"state": "Tennessee", "customers": 6670}]}, {"company": "Union City Energy Authority", "company-type": "Municipal", "website": "https://www.unioncityenergy.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 6520000.0, "Residential-Customers": 5149.0, "Commercial-Sales-($)": 9125000.0, "Commercial-Customers": 1251.0, "Industrial-Sales-($)": 9209000.0, "Industrial-Customers": 5.0, "Total-Customers": 6405.0, "cities-served": ["Union City"], "counties-served": [{"county": "Obion County, TN", "population": 30787}], "states-served": [{"state": "Tennessee", "customers": 6405}]}, {"company": "Winchester Utilities", "company-type": "Municipal", "website": "http://www.winchesterutilities.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 6941000.0, "Residential-Customers": 4977.0, "Commercial-Sales-($)": 7249000.0, "Commercial-Customers": 1415.0, "Industrial-Sales-($)": 2699000.0, "Industrial-Customers": 4.0, "Total-Customers": 6396.0, "cities-served": ["Winchester"], "counties-served": [{"county": "Franklin County, TN", "population": 42774}], "states-served": [{"state": "Tennessee", "customers": 6396}]}, {"company": "Lewisburg Electric", "company-type": "Municipal", "website": "https://www.lewisburgelectricsystem.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 6419000.0, "Residential-Customers": 4814.0, "Commercial-Sales-($)": 9338000.0, "Commercial-Customers": 1568.0, "Industrial-Sales-($)": 7908000.0, "Industrial-Customers": 7.0, "Total-Customers": 6389.0, "cities-served": ["Lewisburg"], "counties-served": [{"county": "Marshall County, TN", "population": 34318}], "states-served": [{"state": "Tennessee", "customers": 6389}]}, {"company": "Brownsville Utility", "company-type": "Municipal", "website": "http://www.budutil.com/Service.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 4977000.0, "Residential-Customers": 4203.0, "Commercial-Sales-($)": 5396000.0, "Commercial-Customers": 1197.0, "Industrial-Sales-($)": 5125000.0, "Industrial-Customers": 4.0, "Total-Customers": 5404.0, "cities-served": ["Brownsville"], "counties-served": [{"county": "Haywood County, TN", "population": 17864}], "states-served": [{"state": "Tennessee", "customers": 5404}]}, {"company": "Etowah Utilities", "company-type": "Municipal", "website": "http://www.eubnet.org/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7247000.0, "Residential-Customers": 4347.0, "Commercial-Sales-($)": 3293000.0, "Commercial-Customers": 784.0, "Industrial-Sales-($)": 8941000.0, "Industrial-Customers": 2.0, "Total-Customers": 5133.0, "cities-served": ["Tellico Plains"], "counties-served": [{"county": "Monroe County, TN", "population": 46250}], "states-served": [{"state": "Tennessee", "customers": 5133}]}, {"company": "Covington, Tennessee Electric Utility", "company-type": "Municipal", "website": "https://covingtones.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 4674000.0, "Residential-Customers": 3729.0, "Commercial-Sales-($)": 8842000.0, "Commercial-Customers": 976.0, "Industrial-Sales-($)": 6014000.0, "Industrial-Customers": 5.0, "Total-Customers": 4710.0, "cities-served": ["Covington"], "counties-served": [{"county": "Tipton County, TN", "population": 60970}], "states-served": [{"state": "Tennessee", "customers": 4710}]}, {"company": "Jellico Electric", "company-type": "Municipal", "website": "https://www.jellicoutilities.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 4801000.0, "Residential-Customers": 3435.0, "Commercial-Sales-($)": 2536000.0, "Commercial-Customers": 1060.0, "Total-Customers": 4495.0, "cities-served": ["Jellico", "Emlyn CDP", "Pleasant View CDP"], "counties-served": [{"county": "Whitley County, KY", "population": 36712}, {"county": "Campbell County, TN", "population": 39272}], "states-served": [{"state": "Kentucky", "customers": 2156}, {"state": "Tennessee", "customers": 2339}]}, {"company": "Humboldt Utilities", "company-type": "Municipal", "website": "http://www.humboldtutilities.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 4202000.0, "Residential-Customers": 3437.0, "Commercial-Sales-($)": 5549000.0, "Commercial-Customers": 969.0, "Industrial-Sales-($)": 3110000.0, "Industrial-Customers": 5.0, "Total-Customers": 4411.0, "cities-served": ["Humboldt"], "counties-served": [{"county": "Gibson County, TN", "population": 50429}], "states-served": [{"state": "Tennessee", "customers": 4411}]}, {"company": "Mt Pleasant Power System", "company-type": "Municipal", "website": "https://mountpleasantpower.com/index.html", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 5672000.0, "Residential-Customers": 3409.0, "Commercial-Sales-($)": 4131000.0, "Commercial-Customers": 687.0, "Industrial-Sales-($)": 3465000.0, "Industrial-Customers": 6.0, "Total-Customers": 4102.0, "cities-served": ["Mount Pleasant"], "counties-served": [{"county": "Maury County, TN", "population": 100974}], "states-served": [{"state": "Tennessee", "customers": 4102}]}, {"company": "Sparta Electric", "company-type": "Municipal", "website": "http://spartaelectricsystem.com/index.htm", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2681000.0, "Residential-Customers": 2207.0, "Commercial-Sales-($)": 4715000.0, "Commercial-Customers": 800.0, "Industrial-Sales-($)": 3559000.0, "Industrial-Customers": 4.0, "Total-Customers": 3011.0, "cities-served": ["Sparta"], "counties-served": [{"county": "White County, TN", "population": 27351}], "states-served": [{"state": "Tennessee", "customers": 3011}]}, {"company": "Smithville Electric Company", "company-type": "Municipal", "website": "http://www.smithville-electric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2650000.0, "Residential-Customers": 2231.0, "Commercial-Sales-($)": 5000000.0, "Commercial-Customers": 608.0, "Industrial-Sales-($)": 2496000.0, "Industrial-Customers": 3.0, "Total-Customers": 2842.0, "cities-served": ["Smithville"], "counties-served": [{"county": "DeKalb County, TN", "population": 20080}], "states-served": [{"state": "Tennessee", "customers": 2842}]}, {"company": "Trenton, Tennessee Electric Utility", "company-type": "Municipal", "website": "http://www.trentonlw.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2506000.0, "Residential-Customers": 1920.0, "Commercial-Sales-($)": 3129000.0, "Commercial-Customers": 496.0, "Industrial-Sales-($)": 830000.0, "Industrial-Customers": 1.0, "Total-Customers": 2417.0, "cities-served": ["Trenton"], "counties-served": [{"county": "Gibson County, TN", "population": 50429}], "states-served": [{"state": "Tennessee", "customers": 2417}]}, {"company": "New Bern Electric", "company-type": "Municipal", "website": "https://www.cityofnewbern.org/departments/electric-department", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 1820000.0, "Residential-Customers": 1491.0, "Commercial-Sales-($)": 1534000.0, "Commercial-Customers": 324.0, "Industrial-Sales-($)": 4166000.0, "Industrial-Customers": 3.0, "Total-Customers": 1818.0, "cities-served": ["Newbern"], "counties-served": [{"county": "Dyer County, TN", "population": 36801}], "states-served": [{"state": "Tennessee", "customers": 1818}]}]}
+{
+ "electrical-providers": [
+  {
+   "company": "Nashville Electric Service",
+   "company-type": "Municipal",
+   "website": "https://www.nespower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 593764000.0,
+   "Residential-Customers": 382307.0,
+   "Commercial-Sales-($)": 644232000.0,
+   "Commercial-Customers": 45022.0,
+   "Industrial-Sales-($)": 69903000.0,
+   "Industrial-Customers": 60.0,
+   "Total-Customers": 427389.0,
+   "Total-Production-MWh": 3.0,
+   "Production-from-Renewable-Energy-MWh": 3.0,
+   "cities-served": [
+    "Ashland City, TN",
+    "Belle Meade, TN",
+    "Berry Hill, TN",
+    "Brentwood, TN",
+    "Coopertown, TN",
+    "Fairview, TN",
+    "Forest Hills, TN",
+    "Franklin, TN",
+    "Gallatin, TN",
+    "Goodlettsville, TN",
+    "Greenbrier, TN",
+    "Hendersonville, TN",
+    "Kingston Springs, TN",
+    "La Vergne, TN",
+    "Millersville, TN",
+    "Mount Juliet, TN",
+    "Nolensville, TN",
+    "Oak Hill, TN",
+    "Pegram, TN",
+    "Ridgetop, TN",
+    "Smyrna, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Davidson County, TN",
+     "population": 715884
+    },
+    {
+     "county": "Rutherford County, TN",
+     "population": 341486
+    },
+    {
+     "county": "Williamson County, TN",
+     "population": 247726
+    },
+    {
+     "county": "Sumner County, TN",
+     "population": 196281
+    },
+    {
+     "county": "Wilson County, TN",
+     "population": 147737
+    },
+    {
+     "county": "Robertson County, TN",
+     "population": 72803
+    },
+    {
+     "county": "Cheatham County, TN",
+     "population": 41072
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 427389
+    }
+   ]
+  },
+  {
+   "company": "Memphis Light, Gas and Water",
+   "company-type": "Municipal",
+   "website": "http://www.mlgw.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 556630319.0,
+   "Residential-Customers": 378513.0,
+   "Commercial-Sales-($)": 645976871.0,
+   "Commercial-Customers": 44185.0,
+   "Industrial-Sales-($)": 110083990.0,
+   "Industrial-Customers": 98.0,
+   "Total-Customers": 422796.0,
+   "cities-served": [
+    "Arlington, TN",
+    "Atoka, TN",
+    "Bartlett, TN",
+    "Collierville, TN",
+    "Germantown, TN",
+    "Lakeland, TN",
+    "Memphis, TN",
+    "Millington, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Shelby County, TN",
+     "population": 929744
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 422797
+    }
+   ]
+  },
+  {
+   "company": "Middle Tennessee Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mte.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 453546000.0,
+   "Residential-Customers": 280047.0,
+   "Commercial-Sales-($)": 311961000.0,
+   "Commercial-Customers": 39522.0,
+   "Industrial-Sales-($)": 52514000.0,
+   "Industrial-Customers": 41.0,
+   "Total-Customers": 319610.0,
+   "cities-served": [
+    "Alexandria, TN",
+    "Auburntown, TN",
+    "Brentwood, TN",
+    "Eagleville, TN",
+    "Fairview, TN",
+    "Franklin, TN",
+    "Gallatin, TN",
+    "La Vergne, TN",
+    "Lebanon, TN",
+    "Liberty, TN",
+    "Mount Juliet, TN",
+    "Murfreesboro, TN",
+    "Nolensville, TN",
+    "Smyrna, TN",
+    "Spring Hill, TN",
+    "Thompson's Station, TN",
+    "Watertown, TN",
+    "Woodbury, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Rutherford County, TN",
+     "population": 341486
+    },
+    {
+     "county": "Williamson County, TN",
+     "population": 247726
+    },
+    {
+     "county": "Sumner County, TN",
+     "population": 196281
+    },
+    {
+     "county": "Wilson County, TN",
+     "population": 147737
+    },
+    {
+     "county": "Maury County, TN",
+     "population": 100974
+    },
+    {
+     "county": "DeKalb County, TN",
+     "population": 20080
+    },
+    {
+     "county": "Smith County, TN",
+     "population": 19904
+    },
+    {
+     "county": "Cannon County, TN",
+     "population": 14506
+    },
+    {
+     "county": "Trousdale County, TN",
+     "population": 11615
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 319609
+    }
+   ]
+  },
+  {
+   "company": "Knoxville Utilities Board",
+   "company-type": "Municipal",
+   "website": "https://www.kub.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 275421000.0,
+   "Residential-Customers": 185720.0,
+   "Commercial-Sales-($)": 241879000.0,
+   "Commercial-Customers": 24717.0,
+   "Industrial-Sales-($)": 43972000.0,
+   "Industrial-Customers": 26.0,
+   "Total-Customers": 210463.0,
+   "cities-served": [
+    "Blaine, TN",
+    "Knoxville, TN",
+    "Luttrell, TN",
+    "Maynardville, TN",
+    "Plainview, TN",
+    "Rutledge, TN",
+    "Sevierville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Knox County, TN",
+     "population": 478971
+    },
+    {
+     "county": "Sevier County, TN",
+     "population": 98380
+    },
+    {
+     "county": "Jefferson County, TN",
+     "population": 54683
+    },
+    {
+     "county": "Grainger County, TN",
+     "population": 23527
+    },
+    {
+     "county": "Union County, TN",
+     "population": 19802
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 210464
+    }
+   ]
+  },
+  {
+   "company": "EPB",
+   "company-type": "Municipal",
+   "website": "https://www.epb.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 250470000.0,
+   "Residential-Customers": 165213.0,
+   "Commercial-Sales-($)": 232632000.0,
+   "Commercial-Customers": 26887.0,
+   "Industrial-Sales-($)": 74159000.0,
+   "Industrial-Customers": 70.0,
+   "Total-Customers": 192170.0,
+   "cities-served": [
+    "Chattanooga, TN",
+    "Collegedale, TN",
+    "East Ridge, TN",
+    "Graysville, TN",
+    "Lakesite, TN",
+    "Lookout Mountain, TN",
+    "Lookout Mountain, GA",
+    "Red Bank, TN",
+    "Ridgeside, TN",
+    "Rossville, GA",
+    "Signal Mountain, TN",
+    "Soddy-Daisy, TN",
+    "Walden, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, TN",
+     "population": 366207
+    },
+    {
+     "county": "Bradley County, TN",
+     "population": 108620
+    },
+    {
+     "county": "Walker County, GA",
+     "population": 67654
+    },
+    {
+     "county": "Rhea County, TN",
+     "population": 32870
+    },
+    {
+     "county": "Marion County, TN",
+     "population": 28837
+    },
+    {
+     "county": "Dade County, GA",
+     "population": 16251
+    },
+    {
+     "county": "Sequatchie County, TN",
+     "population": 15826
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 181115
+    },
+    {
+     "state": "Georgia",
+     "customers": 11055
+    }
+   ]
+  },
+  {
+   "company": "Volunteer Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.vec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 158949000.0,
+   "Residential-Customers": 100680.0,
+   "Commercial-Sales-($)": 70959000.0,
+   "Commercial-Customers": 21336.0,
+   "Industrial-Sales-($)": 22225000.0,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 122031.0,
+   "cities-served": [
+    "Allardt, TN",
+    "Athens, TN",
+    "Benton, TN",
+    "Byrdstown, TN",
+    "Calhoun, TN",
+    "Charleston, TN",
+    "Cleveland, TN",
+    "Crab Orchard, TN",
+    "Crossville, TN",
+    "Decatur, TN",
+    "Etowah, TN",
+    "Jamestown, TN",
+    "Monterey, TN",
+    "Niota, TN",
+    "Pleasant Hill, TN",
+    "Spring City, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, TN",
+     "population": 366207
+    },
+    {
+     "county": "Bradley County, TN",
+     "population": 108620
+    },
+    {
+     "county": "Putnam County, TN",
+     "population": 79854
+    },
+    {
+     "county": "Cumberland County, TN",
+     "population": 61145
+    },
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    },
+    {
+     "county": "McMinn County, TN",
+     "population": 53276
+    },
+    {
+     "county": "Rhea County, TN",
+     "population": 32870
+    },
+    {
+     "county": "White County, TN",
+     "population": 27351
+    },
+    {
+     "county": "Overton County, TN",
+     "population": 22511
+    },
+    {
+     "county": "Morgan County, TN",
+     "population": 21035
+    },
+    {
+     "county": "Fentress County, TN",
+     "population": 18489
+    },
+    {
+     "county": "Polk County, TN",
+     "population": 17544
+    },
+    {
+     "county": "Bledsoe County, TN",
+     "population": 14913
+    },
+    {
+     "county": "Meigs County, TN",
+     "population": 12758
+    },
+    {
+     "county": "Pickett County, TN",
+     "population": 5001
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 122030
+    }
+   ]
+  },
+  {
+   "company": "Cumberland Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cemc.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 188085000.0,
+   "Residential-Customers": 93002.0,
+   "Commercial-Sales-($)": 65800000.0,
+   "Commercial-Customers": 11559.0,
+   "Industrial-Sales-($)": 41074000.0,
+   "Industrial-Customers": 24.0,
+   "Total-Customers": 104585.0,
+   "cities-served": [
+    "Adams, TN",
+    "Ashland City, TN",
+    "Cedar Hill, TN",
+    "Clarksville, TN",
+    "Coopertown, TN",
+    "Cross Plains, TN",
+    "Cumberland City, TN",
+    "Dover, TN",
+    "Franklin, KY",
+    "Gallatin, TN",
+    "Goodlettsville, TN",
+    "Greenbrier, TN",
+    "Guthrie, KY",
+    "Hendersonville, TN",
+    "Millersville, TN",
+    "Mitchellville, TN",
+    "Orlinda, TN",
+    "Pleasant View, TN",
+    "Portland, TN",
+    "Ridgetop, TN",
+    "Springfield, TN",
+    "White House, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Davidson County, TN",
+     "population": 715884
+    },
+    {
+     "county": "Montgomery County, TN",
+     "population": 220069
+    },
+    {
+     "county": "Sumner County, TN",
+     "population": 196281
+    },
+    {
+     "county": "Wilson County, TN",
+     "population": 147737
+    },
+    {
+     "county": "Robertson County, TN",
+     "population": 72803
+    },
+    {
+     "county": "Dickson County, TN",
+     "population": 54315
+    },
+    {
+     "county": "Cheatham County, TN",
+     "population": 41072
+    },
+    {
+     "county": "Simpson County, KY",
+     "population": 19594
+    },
+    {
+     "county": "Trigg County, KY",
+     "population": 14061
+    },
+    {
+     "county": "Stewart County, TN",
+     "population": 13657
+    },
+    {
+     "county": "Todd County, KY",
+     "population": 12243
+    },
+    {
+     "county": "Houston County, TN",
+     "population": 8283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 104586
+    }
+   ]
+  },
+  {
+   "company": "BrightRidge",
+   "company-type": "Municipal",
+   "website": "https://www.brightridge.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 114645000.0,
+   "Residential-Customers": 69524.0,
+   "Commercial-Sales-($)": 77303000.0,
+   "Commercial-Customers": 11473.0,
+   "Industrial-Sales-($)": 10876000.0,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 81010.0,
+   "cities-served": [
+    "Bluff City, TN",
+    "Johnson City, TN",
+    "Jonesborough, TN",
+    "Kingsport, TN",
+    "Watauga, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sullivan County, TN",
+     "population": 158163
+    },
+    {
+     "county": "Washington County, TN",
+     "population": 133001
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 81010
+    }
+   ]
+  },
+  {
+   "company": "Duck River Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.dremc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 124961000.0,
+   "Residential-Customers": 67417.0,
+   "Commercial-Sales-($)": 61375000.0,
+   "Commercial-Customers": 12520.0,
+   "Industrial-Sales-($)": 19295000.0,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 79952.0,
+   "cities-served": [
+    "Bell Buckle, TN",
+    "Chapel Hill, TN",
+    "Columbia, TN",
+    "Cornersville, TN",
+    "Cowan, TN",
+    "Decherd, TN",
+    "Estill Springs, TN",
+    "Huntland, TN",
+    "Lewisburg, TN",
+    "Lynnville, TN",
+    "Manchester, TN",
+    "Monteagle, TN",
+    "Morrison, TN",
+    "Mount Pleasant, TN",
+    "Normandy, TN",
+    "Shelbyville, TN",
+    "Spring Hill, TN",
+    "Tullahoma, TN",
+    "Viola, TN",
+    "Wartrace, TN",
+    "Winchester, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Rutherford County, TN",
+     "population": 341486
+    },
+    {
+     "county": "Maury County, TN",
+     "population": 100974
+    },
+    {
+     "county": "Coffee County, TN",
+     "population": 57889
+    },
+    {
+     "county": "Bedford County, TN",
+     "population": 50237
+    },
+    {
+     "county": "Franklin County, TN",
+     "population": 42774
+    },
+    {
+     "county": "Warren County, TN",
+     "population": 40953
+    },
+    {
+     "county": "Lincoln County, TN",
+     "population": 35319
+    },
+    {
+     "county": "Marshall County, TN",
+     "population": 34318
+    },
+    {
+     "county": "Giles County, TN",
+     "population": 30346
+    },
+    {
+     "county": "Marion County, TN",
+     "population": 28837
+    },
+    {
+     "county": "Grundy County, TN",
+     "population": 13529
+    },
+    {
+     "county": "Lewis County, TN",
+     "population": 12582
+    },
+    {
+     "county": "Moore County, TN",
+     "population": 6461
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 79952
+    }
+   ]
+  },
+  {
+   "company": "Clarksville Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofclarksville.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 112072000.0,
+   "Residential-Customers": 68311.0,
+   "Commercial-Sales-($)": 62514000.0,
+   "Commercial-Customers": 8810.0,
+   "Industrial-Sales-($)": 4887000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 77124.0,
+   "cities-served": [
+    "Clarksville"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, TN",
+     "population": 220069
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 77124
+    }
+   ]
+  },
+  {
+   "company": "Lenoir City Utilities Board",
+   "company-type": "Municipal",
+   "website": "http://www.lcub.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 96479000.0,
+   "Residential-Customers": 58162.0,
+   "Commercial-Sales-($)": 78910000.0,
+   "Commercial-Customers": 13035.0,
+   "Industrial-Sales-($)": 3878000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 71204.0,
+   "cities-served": [
+    "Farragut, TN",
+    "Knoxville, TN",
+    "Lenoir City, TN",
+    "Loudon, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Knox County, TN",
+     "population": 478971
+    },
+    {
+     "county": "Loudon County, TN",
+     "population": 54886
+    },
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 71204
+    }
+   ]
+  },
+  {
+   "company": "Sevier County Electric",
+   "company-type": "Municipal",
+   "website": "https://www.sces.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48845000.0,
+   "Residential-Customers": 36141.0,
+   "Commercial-Sales-($)": 92170000.0,
+   "Commercial-Customers": 22382.0,
+   "Industrial-Sales-($)": 3247000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 58528.0,
+   "cities-served": [
+    "Gatlinburg, TN",
+    "Pigeon Forge, TN",
+    "Pittman Center, TN",
+    "Sevierville, TN",
+    "Townsend, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Blount County, TN",
+     "population": 135280
+    },
+    {
+     "county": "Sevier County, TN",
+     "population": 98380
+    },
+    {
+     "county": "Jefferson County, TN",
+     "population": 54683
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 58528
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Membership Corporation (Kentucky)",
+   "company-type": "Cooperative",
+   "website": "https://www.tcemc.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 67832000.0,
+   "Residential-Customers": 43138.0,
+   "Commercial-Sales-($)": 44213000.0,
+   "Commercial-Customers": 10505.0,
+   "Industrial-Sales-($)": 4276000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 53648.0,
+   "cities-served": [
+    "Burkesville, KY",
+    "Celina, TN",
+    "Edmonton, KY",
+    "Fountain Run, KY",
+    "Gamaliel, KY",
+    "Lafayette, TN",
+    "Red Boiling Springs, TN",
+    "Scottsville, KY",
+    "Tompkinsville, KY",
+    "Westmoreland, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumner County, TN",
+     "population": 196281
+    },
+    {
+     "county": "Barren County, KY",
+     "population": 44485
+    },
+    {
+     "county": "Macon County, TN",
+     "population": 25216
+    },
+    {
+     "county": "Overton County, TN",
+     "population": 22511
+    },
+    {
+     "county": "Allen County, KY",
+     "population": 20588
+    },
+    {
+     "county": "Smith County, TN",
+     "population": 19904
+    },
+    {
+     "county": "Adair County, KY",
+     "population": 18903
+    },
+    {
+     "county": "Jackson County, TN",
+     "population": 11617
+    },
+    {
+     "county": "Trousdale County, TN",
+     "population": 11615
+    },
+    {
+     "county": "Monroe County, KY",
+     "population": 11338
+    },
+    {
+     "county": "Metcalfe County, KY",
+     "population": 10286
+    },
+    {
+     "county": "Clinton County, KY",
+     "population": 9253
+    },
+    {
+     "county": "Clay County, TN",
+     "population": 7581
+    },
+    {
+     "county": "Cumberland County, KY",
+     "population": 5888
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 28444
+    },
+    {
+     "state": "Kentucky",
+     "customers": 25204
+    }
+   ]
+  },
+  {
+   "company": "Upper Cumberland Electric Membership Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.ucemc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 72025000.0,
+   "Residential-Customers": 43735.0,
+   "Commercial-Sales-($)": 34077000.0,
+   "Commercial-Customers": 8062.0,
+   "Industrial-Sales-($)": 8722000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 51806.0,
+   "cities-served": [
+    "Algood, TN",
+    "Baxter, TN",
+    "Carthage, TN",
+    "Cookeville, TN",
+    "Dowelltown, TN",
+    "Gainesboro, TN",
+    "Gordonsville, TN",
+    "Livingston, TN",
+    "South Carthage, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Putnam County, TN",
+     "population": 79854
+    },
+    {
+     "county": "White County, TN",
+     "population": 27351
+    },
+    {
+     "county": "Overton County, TN",
+     "population": 22511
+    },
+    {
+     "county": "DeKalb County, TN",
+     "population": 20080
+    },
+    {
+     "county": "Smith County, TN",
+     "population": 19904
+    },
+    {
+     "county": "Jackson County, TN",
+     "population": 11617
+    },
+    {
+     "county": "Clay County, TN",
+     "population": 7581
+    },
+    {
+     "county": "Pickett County, TN",
+     "population": 5001
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 51805
+    }
+   ]
+  },
+  {
+   "company": "Southwest Tennessee Electric Membership Corporation",
+   "company-type": "Cooperative",
+   "website": "https://www.stemc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 79027000.0,
+   "Residential-Customers": 43048.0,
+   "Commercial-Sales-($)": 29557000.0,
+   "Commercial-Customers": 8112.0,
+   "Industrial-Sales-($)": 1373000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 51161.0,
+   "cities-served": [
+    "Atoka, TN",
+    "Braden, TN",
+    "Brighton, TN",
+    "Brownsville, TN",
+    "Burlison, TN",
+    "Enville, TN",
+    "Finger, TN",
+    "Gallaway, TN",
+    "Garland, TN",
+    "Gilt Edge, TN",
+    "Henderson, TN",
+    "Henning, TN",
+    "Jackson, TN",
+    "Mason, TN",
+    "Medon, TN",
+    "Munford, TN",
+    "Stanton, TN",
+    "Whiteville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, TN",
+     "population": 98823
+    },
+    {
+     "county": "Tipton County, TN",
+     "population": 60970
+    },
+    {
+     "county": "Fayette County, TN",
+     "population": 41990
+    },
+    {
+     "county": "Henderson County, TN",
+     "population": 27842
+    },
+    {
+     "county": "Hardeman County, TN",
+     "population": 25462
+    },
+    {
+     "county": "Lauderdale County, TN",
+     "population": 25143
+    },
+    {
+     "county": "Haywood County, TN",
+     "population": 17864
+    },
+    {
+     "county": "Chester County, TN",
+     "population": 17341
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 51161
+    }
+   ]
+  },
+  {
+   "company": "Kingsport Power",
+   "company-type": "Investor Owned",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 66524214.0,
+   "Residential-Customers": 42397.0,
+   "Commercial-Sales-($)": 43547077.0,
+   "Commercial-Customers": 6068.0,
+   "Industrial-Sales-($)": 42814112.0,
+   "Industrial-Customers": 193.0,
+   "Total-Customers": 48658.0,
+   "cities-served": [
+    "Bluff City, TN",
+    "Bristol, TN",
+    "Bulls Gap, TN",
+    "Church Hill, TN",
+    "Johnson City, TN",
+    "Jonesborough, TN",
+    "Kingsport, TN",
+    "Mount Carmel, TN",
+    "Rogersville, TN",
+    "Surgoinsville, TN",
+    "Watauga, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sullivan County, TN",
+     "population": 158163
+    },
+    {
+     "county": "Washington County, TN",
+     "population": 133001
+    },
+    {
+     "county": "Hawkins County, TN",
+     "population": 56721
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 48658
+    }
+   ]
+  },
+  {
+   "company": "Appalachian Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://aecoop.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 73752000.0,
+   "Residential-Customers": 41557.0,
+   "Commercial-Sales-($)": 29363000.0,
+   "Commercial-Customers": 7079.0,
+   "Industrial-Sales-($)": 5311000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 48643.0,
+   "cities-served": [
+    "Baneberry, TN",
+    "Bean Station, TN",
+    "Dandridge, TN",
+    "Jefferson City, TN",
+    "Morristown, TN",
+    "New Market, TN",
+    "Rutledge, TN",
+    "Sevierville, TN",
+    "White Pine, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sevier County, TN",
+     "population": 98380
+    },
+    {
+     "county": "Hamblen County, TN",
+     "population": 64499
+    },
+    {
+     "county": "Jefferson County, TN",
+     "population": 54683
+    },
+    {
+     "county": "Grainger County, TN",
+     "population": 23527
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 48643
+    }
+   ]
+  },
+  {
+   "company": "Greeneville Light and Power",
+   "company-type": "Municipal",
+   "website": "http://www.glps.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 49983000.0,
+   "Residential-Customers": 31599.0,
+   "Commercial-Sales-($)": 33878000.0,
+   "Commercial-Customers": 7708.0,
+   "Industrial-Sales-($)": 21444000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 39325.0,
+   "cities-served": [
+    "Baileyton, TN",
+    "Greeneville, TN",
+    "Mosheim, TN",
+    "Tusculum, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Greene County, TN",
+     "population": 70152
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 39325
+    }
+   ]
+  },
+  {
+   "company": "French Broad Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.frenchbroademc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 40796800.0,
+   "Residential-Customers": 35565.0,
+   "Commercial-Sales-($)": 9850100.0,
+   "Commercial-Customers": 3378.0,
+   "Industrial-Sales-($)": 6022500.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 38948.0,
+   "cities-served": [
+    "Bakersville, NC",
+    "Burnsville, NC",
+    "Hot Springs, NC",
+    "Mars Hill, NC",
+    "Marshall, NC"
+   ],
+   "counties-served": [
+    {
+     "county": "Buncombe County, NC",
+     "population": 269452
+    },
+    {
+     "county": "Cocke County, TN",
+     "population": 35999
+    },
+    {
+     "county": "Madison County, NC",
+     "population": 21193
+    },
+    {
+     "county": "Yancey County, NC",
+     "population": 18470
+    },
+    {
+     "county": "Unicoi County, TN",
+     "population": 17928
+    },
+    {
+     "county": "Mitchell County, NC",
+     "population": 14903
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Carolina",
+     "customers": 37919
+    },
+    {
+     "state": "Tennessee",
+     "customers": 1029
+    }
+   ]
+  },
+  {
+   "company": "Gibson Electric Membership Corp",
+   "company-type": "Cooperative",
+   "website": "https://www.gibsonemc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 58037000.0,
+   "Residential-Customers": 31613.0,
+   "Commercial-Sales-($)": 24942000.0,
+   "Commercial-Customers": 7041.0,
+   "Industrial-Sales-($)": 11315000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 38662.0,
+   "cities-served": [
+    "Alamo, TN",
+    "Arlington, KY",
+    "Bardwell, KY",
+    "Bells, TN",
+    "Bradford, TN",
+    "Clinton, KY",
+    "Columbus, KY",
+    "Dyer, TN",
+    "Friendship, TN",
+    "Fulton, KY",
+    "Gadsden, TN",
+    "Gibson, TN",
+    "Hickman, KY",
+    "Hornbeak, TN",
+    "Humboldt, TN",
+    "Kenton, TN",
+    "Maury City, TN",
+    "Medina, TN",
+    "Newbern, TN",
+    "Obion, TN",
+    "Ridgely, TN",
+    "Rives, TN",
+    "Rutherford, TN",
+    "Samburg, TN",
+    "South Fulton, TN",
+    "Three Way, TN",
+    "Tiptonville, TN",
+    "Trenton, TN",
+    "Trimble, TN",
+    "Troy, TN",
+    "Union City, TN",
+    "Woodland Mills, TN",
+    "Yorkville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, TN",
+     "population": 98823
+    },
+    {
+     "county": "Gibson County, TN",
+     "population": 50429
+    },
+    {
+     "county": "Dyer County, TN",
+     "population": 36801
+    },
+    {
+     "county": "Graves County, KY",
+     "population": 36649
+    },
+    {
+     "county": "Obion County, TN",
+     "population": 30787
+    },
+    {
+     "county": "Haywood County, TN",
+     "population": 17864
+    },
+    {
+     "county": "Crockett County, TN",
+     "population": 13911
+    },
+    {
+     "county": "Lake County, TN",
+     "population": 7005
+    },
+    {
+     "county": "Fulton County, KY",
+     "population": 6515
+    },
+    {
+     "county": "Carlisle County, KY",
+     "population": 4826
+    },
+    {
+     "county": "Hickman County, KY",
+     "population": 4521
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 35227
+    },
+    {
+     "state": "Kentucky",
+     "customers": 3434
+    }
+   ]
+  },
+  {
+   "company": "Sequachee Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.svalleyec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 47792000.0,
+   "Residential-Customers": 30994.0,
+   "Commercial-Sales-($)": 27524000.0,
+   "Commercial-Customers": 5681.0,
+   "Industrial-Sales-($)": 8351000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 36680.0,
+   "cities-served": [
+    "Altamont, TN",
+    "Beersheba Springs, TN",
+    "Coalmont, TN",
+    "Dunlap, TN",
+    "Gruetli-Laager, TN",
+    "Jasper, TN",
+    "Kimball, TN",
+    "Monteagle, TN",
+    "New Hope, TN",
+    "Orme, TN",
+    "Palmer, TN",
+    "Pikeville, TN",
+    "Powells Crossroads, TN",
+    "South Pittsburg, TN",
+    "Tracy City, TN",
+    "Whitwell, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamilton County, TN",
+     "population": 366207
+    },
+    {
+     "county": "Cumberland County, TN",
+     "population": 61145
+    },
+    {
+     "county": "Coffee County, TN",
+     "population": 57889
+    },
+    {
+     "county": "Franklin County, TN",
+     "population": 42774
+    },
+    {
+     "county": "Marion County, TN",
+     "population": 28837
+    },
+    {
+     "county": "Sequatchie County, TN",
+     "population": 15826
+    },
+    {
+     "county": "Bledsoe County, TN",
+     "population": 14913
+    },
+    {
+     "county": "Grundy County, TN",
+     "population": 13529
+    },
+    {
+     "county": "Van Buren County, TN",
+     "population": 6168
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 36680
+    }
+   ]
+  },
+  {
+   "company": "Jackson Energy Authority",
+   "company-type": "Municipal",
+   "website": "https://www.jaxenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 41613000.0,
+   "Residential-Customers": 30035.0,
+   "Commercial-Sales-($)": 54663000.0,
+   "Commercial-Customers": 6415.0,
+   "Industrial-Sales-($)": 36386000.0,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 36482.0,
+   "cities-served": [
+    "Jackson"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, TN",
+     "population": 98823
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 36482
+    }
+   ]
+  },
+  {
+   "company": "Dickson, Tennessee Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.dicksonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 42939000.0,
+   "Residential-Customers": 29108.0,
+   "Commercial-Sales-($)": 26371000.0,
+   "Commercial-Customers": 7199.0,
+   "Industrial-Sales-($)": 10278000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 36325.0,
+   "cities-served": [
+    "Burns, TN",
+    "Charlotte, TN",
+    "Dickson, TN",
+    "Kingston Springs, TN",
+    "Pegram, TN",
+    "Slayden, TN",
+    "Vanleer, TN",
+    "White Bluff, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Montgomery County, TN",
+     "population": 220069
+    },
+    {
+     "county": "Dickson County, TN",
+     "population": 54315
+    },
+    {
+     "county": "Cheatham County, TN",
+     "population": 41072
+    },
+    {
+     "county": "Hickman County, TN",
+     "population": 24925
+    },
+    {
+     "county": "Houston County, TN",
+     "population": 8283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 36325
+    }
+   ]
+  },
+  {
+   "company": "Meriwether Lewis Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mlec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 46460000.0,
+   "Residential-Customers": 29510.0,
+   "Commercial-Sales-($)": 25258000.0,
+   "Commercial-Customers": 5492.0,
+   "Industrial-Sales-($)": 24409000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 35012.0,
+   "cities-served": [
+    "Centerville, TN",
+    "Erin, TN",
+    "Hohenwald, TN",
+    "Linden, TN",
+    "Lobelville, TN",
+    "McEwen, TN",
+    "New Johnsonville, TN",
+    "Tennessee Ridge, TN",
+    "Waverly, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hickman County, TN",
+     "population": 24925
+    },
+    {
+     "county": "Humphreys County, TN",
+     "population": 18990
+    },
+    {
+     "county": "Stewart County, TN",
+     "population": 13657
+    },
+    {
+     "county": "Lewis County, TN",
+     "population": 12582
+    },
+    {
+     "county": "Perry County, TN",
+     "population": 8366
+    },
+    {
+     "county": "Houston County, TN",
+     "population": 8283
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 35012
+    }
+   ]
+  },
+  {
+   "company": "Mountain Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mountainelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33833000.0,
+   "Residential-Customers": 27955.0,
+   "Commercial-Sales-($)": 19584000.0,
+   "Commercial-Customers": 6961.0,
+   "Industrial-Sales-($)": 4788000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 34919.0,
+   "cities-served": [
+    "Banner Elk, NC",
+    "Beech Mountain, NC",
+    "Crossnore, NC",
+    "Elk Park, NC",
+    "Grandfather, NC",
+    "Grandfather Village, NC",
+    "Mountain City, TN",
+    "Newland, NC",
+    "Seven Devils, NC",
+    "Sugar Mountain, NC"
+   ],
+   "counties-served": [
+    {
+     "county": "Burke County, NC",
+     "population": 87570
+    },
+    {
+     "county": "Carter County, TN",
+     "population": 56356
+    },
+    {
+     "county": "Watauga County, NC",
+     "population": 54086
+    },
+    {
+     "county": "Johnson County, TN",
+     "population": 17948
+    },
+    {
+     "county": "Avery County, NC",
+     "population": 17806
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Carolina",
+     "customers": 19304
+    },
+    {
+     "state": "Tennessee",
+     "customers": 15615
+    }
+   ]
+  },
+  {
+   "company": "Bristol TN Electric",
+   "company-type": "Municipal",
+   "website": "https://www.bristoltn.org/365/Utility-Services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 45087000.0,
+   "Residential-Customers": 29295.0,
+   "Commercial-Sales-($)": 33854000.0,
+   "Commercial-Customers": 4805.0,
+   "Industrial-Sales-($)": 7732000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 34108.0,
+   "cities-served": [
+    "Bluff City, TN",
+    "Bristol, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sullivan County, TN",
+     "population": 158163
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 34108
+    }
+   ]
+  },
+  {
+   "company": "Fort Loudoun Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.flec.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 48729000.0,
+   "Residential-Customers": 28872.0,
+   "Commercial-Sales-($)": 15634000.0,
+   "Commercial-Customers": 4789.0,
+   "Industrial-Sales-($)": 1924000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 33666.0,
+   "cities-served": [
+    "Alcoa, TN",
+    "Friendsville, TN",
+    "Greenback, TN",
+    "Louisville, TN",
+    "Madisonville, TN",
+    "Maryville, TN",
+    "Tellico Plains, TN",
+    "Vonore, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Blount County, TN",
+     "population": 135280
+    },
+    {
+     "county": "Loudon County, TN",
+     "population": 54886
+    },
+    {
+     "county": "Monroe County, TN",
+     "population": 46250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 33666
+    }
+   ]
+  },
+  {
+   "company": "Caney Fork Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.caneyforkec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 43688000.0,
+   "Residential-Customers": 27746.0,
+   "Commercial-Sales-($)": 16879000.0,
+   "Commercial-Customers": 5616.0,
+   "Industrial-Sales-($)": 4183000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 33366.0,
+   "cities-served": [
+    "Centertown, TN",
+    "Dowelltown, TN",
+    "Doyle, TN",
+    "Liberty, TN",
+    "McMinnville, TN",
+    "Morrison, TN",
+    "Smithville, TN",
+    "Sparta, TN",
+    "Spencer, TN",
+    "Viola, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Putnam County, TN",
+     "population": 79854
+    },
+    {
+     "county": "Coffee County, TN",
+     "population": 57889
+    },
+    {
+     "county": "Warren County, TN",
+     "population": 40953
+    },
+    {
+     "county": "White County, TN",
+     "population": 27351
+    },
+    {
+     "county": "DeKalb County, TN",
+     "population": 20080
+    },
+    {
+     "county": "Cannon County, TN",
+     "population": 14506
+    },
+    {
+     "county": "Grundy County, TN",
+     "population": 13529
+    },
+    {
+     "county": "Van Buren County, TN",
+     "population": 6168
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 33366
+    }
+   ]
+  },
+  {
+   "company": "Powell Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.pve.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 33935000.0,
+   "Residential-Customers": 26818.0,
+   "Commercial-Sales-($)": 16792000.0,
+   "Commercial-Customers": 6120.0,
+   "Industrial-Sales-($)": 3321000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 32942.0,
+   "cities-served": [
+    "Cumberland Gap, TN",
+    "Harrogate, TN",
+    "Jonesville, VA",
+    "New Tazewell, TN",
+    "Pennington Gap, VA",
+    "Sneedville, TN",
+    "St. Charles, VA",
+    "Tazewell, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hawkins County, TN",
+     "population": 56721
+    },
+    {
+     "county": "Claiborne County, TN",
+     "population": 32043
+    },
+    {
+     "county": "Grainger County, TN",
+     "population": 23527
+    },
+    {
+     "county": "Lee County, VA",
+     "population": 22173
+    },
+    {
+     "county": "Scott County, VA",
+     "population": 21576
+    },
+    {
+     "county": "Union County, TN",
+     "population": 19802
+    },
+    {
+     "county": "Hancock County, TN",
+     "population": 6662
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 24691
+    },
+    {
+     "state": "Virginia",
+     "customers": 8251
+    }
+   ]
+  },
+  {
+   "company": "Cleveland Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.clevelandutilities.com/depatments_divisions/electric_division/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 43939000.0,
+   "Residential-Customers": 27624.0,
+   "Commercial-Sales-($)": 41809000.0,
+   "Commercial-Customers": 4763.0,
+   "Industrial-Sales-($)": 17210000.0,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 32405.0,
+   "cities-served": [
+    "Cleveland",
+    "South Cleveland CDP",
+    "Wildwood Lake CDP",
+    "East Cleveland CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Bradley County, TN",
+     "population": 108620
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 32405
+    }
+   ]
+  },
+  {
+   "company": "Columbia Power System",
+   "company-type": "Municipal",
+   "website": "https://www.cpws.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 36958000.0,
+   "Residential-Customers": 26874.0,
+   "Commercial-Sales-($)": 30479000.0,
+   "Commercial-Customers": 4870.0,
+   "Total-Customers": 31744.0,
+   "cities-served": [
+    "Columbia, TN",
+    "Spring Hill, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Maury County, TN",
+     "population": 100974
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 31744
+    }
+   ]
+  },
+  {
+   "company": "Holston Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.holstonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 39195000.0,
+   "Residential-Customers": 25022.0,
+   "Commercial-Sales-($)": 17230000.0,
+   "Commercial-Customers": 5848.0,
+   "Industrial-Sales-($)": 18220000.0,
+   "Industrial-Customers": 17.0,
+   "Total-Customers": 30887.0,
+   "cities-served": [
+    "Bean Station, TN",
+    "Bulls Gap, TN",
+    "Church Hill, TN",
+    "Morristown, TN",
+    "Mount Carmel, TN",
+    "Rogersville, TN",
+    "Surgoinsville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamblen County, TN",
+     "population": 64499
+    },
+    {
+     "county": "Hawkins County, TN",
+     "population": 56721
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 30887
+    }
+   ]
+  },
+  {
+   "company": "Clinton Utilities Board",
+   "company-type": "Municipal",
+   "website": "http://www.clintonutilities.com/electricdept.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 43591000.0,
+   "Residential-Customers": 25705.0,
+   "Commercial-Sales-($)": 21324000.0,
+   "Commercial-Customers": 4707.0,
+   "Industrial-Sales-($)": 14869000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 30422.0,
+   "cities-served": [
+    "Clinton, TN",
+    "Lake City, TN",
+    "Norris, TN",
+    "Oliver Springs, TN",
+    "Rocky Top, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Knox County, TN",
+     "population": 478971
+    },
+    {
+     "county": "Anderson County, TN",
+     "population": 77123
+    },
+    {
+     "county": "Campbell County, TN",
+     "population": 39272
+    },
+    {
+     "county": "Morgan County, TN",
+     "population": 21035
+    },
+    {
+     "county": "Union County, TN",
+     "population": 19802
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 30422
+    }
+   ]
+  },
+  {
+   "company": "Alcoa Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofalcoa-tn.gov/177/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 41001000.0,
+   "Residential-Customers": 26302.0,
+   "Commercial-Sales-($)": 22447000.0,
+   "Commercial-Customers": 3882.0,
+   "Industrial-Sales-($)": 136000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 30185.0,
+   "cities-served": [
+    "Alcoa, TN",
+    "Louisville, TN",
+    "Maryville, TN",
+    "Rockford, TN",
+    "Townsend, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Blount County, TN",
+     "population": 135280
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 30185
+    }
+   ]
+  },
+  {
+   "company": "Elizabethon Electric",
+   "company-type": "Municipal",
+   "website": "https://www.eesonline.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 32753000.0,
+   "Residential-Customers": 22962.0,
+   "Commercial-Sales-($)": 16403000.0,
+   "Commercial-Customers": 3551.0,
+   "Industrial-Sales-($)": 2151000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 26515.0,
+   "cities-served": [
+    "Bluff City, TN",
+    "Elizabethton, TN",
+    "Johnson City, TN",
+    "Unicoi, TN",
+    "Watauga, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sullivan County, TN",
+     "population": 158163
+    },
+    {
+     "county": "Carter County, TN",
+     "population": 56356
+    },
+    {
+     "county": "Unicoi County, TN",
+     "population": 17928
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 26515
+    }
+   ]
+  },
+  {
+   "company": "Lexington Electric",
+   "company-type": "Municipal",
+   "website": "https://www.lexingtonelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23890000.0,
+   "Residential-Customers": 17689.0,
+   "Commercial-Sales-($)": 16498000.0,
+   "Commercial-Customers": 4964.0,
+   "Industrial-Sales-($)": 2801000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 22660.0,
+   "cities-served": [
+    "Decaturville, TN",
+    "Lexington, TN",
+    "Parker's Crossroads, TN",
+    "Parsons, TN",
+    "Saltillo, TN",
+    "Sardis, TN",
+    "Scotts Hill, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Henderson County, TN",
+     "population": 27842
+    },
+    {
+     "county": "Hardin County, TN",
+     "population": 26831
+    },
+    {
+     "county": "Decatur County, TN",
+     "population": 11435
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 22660
+    }
+   ]
+  },
+  {
+   "company": "LaFollette Utilities Board",
+   "company-type": "Municipal",
+   "website": "http://www.lub.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29376000.0,
+   "Residential-Customers": 19368.0,
+   "Commercial-Sales-($)": 14802000.0,
+   "Commercial-Customers": 3075.0,
+   "Industrial-Sales-($)": 1934000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 22446.0,
+   "cities-served": [
+    "Caryville, TN",
+    "Jacksboro, TN",
+    "Jellico, TN",
+    "La Follette, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, TN",
+     "population": 39272
+    },
+    {
+     "county": "Claiborne County, TN",
+     "population": 32043
+    },
+    {
+     "county": "Union County, TN",
+     "population": 19802
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 22446
+    }
+   ]
+  },
+  {
+   "company": "Newport Electric Company",
+   "company-type": "Municipal",
+   "website": "http://newportutilities.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28300000.0,
+   "Residential-Customers": 19048.0,
+   "Commercial-Sales-($)": 14012000.0,
+   "Commercial-Customers": 3345.0,
+   "Industrial-Sales-($)": 9835000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 22400.0,
+   "cities-served": [
+    "Dandridge, TN",
+    "Newport, TN",
+    "Parrottsville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Sevier County, TN",
+     "population": 98380
+    },
+    {
+     "county": "Jefferson County, TN",
+     "population": 54683
+    },
+    {
+     "county": "Cocke County, TN",
+     "population": 35999
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 22400
+    }
+   ]
+  },
+  {
+   "company": "Gallatin Electric",
+   "company-type": "Municipal",
+   "website": "http://www.gallatinelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24751000.0,
+   "Residential-Customers": 19227.0,
+   "Commercial-Sales-($)": 25596000.0,
+   "Commercial-Customers": 3145.0,
+   "Industrial-Sales-($)": 10910000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 22382.0,
+   "cities-served": [
+    "Gallatin"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumner County, TN",
+     "population": 196281
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 22382
+    }
+   ]
+  },
+  {
+   "company": "Maryville Electric",
+   "company-type": "Municipal",
+   "website": "https://www.maryvillegov.com/electric-department-home-page.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25281000.0,
+   "Residential-Customers": 19147.0,
+   "Commercial-Sales-($)": 25666000.0,
+   "Commercial-Customers": 3127.0,
+   "Industrial-Sales-($)": 12020000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 22283.0,
+   "cities-served": [
+    "Maryville, TN",
+    "Rockford, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Blount County, TN",
+     "population": 135280
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 22283
+    }
+   ]
+  },
+  {
+   "company": "BPU Paris TN",
+   "company-type": "Municipal",
+   "website": "https://www.parisbpu.com/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 21709000.0,
+   "Residential-Customers": 15737.0,
+   "Commercial-Sales-($)": 18819000.0,
+   "Commercial-Customers": 6058.0,
+   "Industrial-Sales-($)": 2754000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 21800.0,
+   "cities-served": [
+    "Paris"
+   ],
+   "counties-served": [
+    {
+     "county": "Henry County, TN",
+     "population": 32199
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 21800
+    }
+   ]
+  },
+  {
+   "company": "Chickasaw Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://billing.cecpowerup.com/onlineportal/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 28691000.0,
+   "Residential-Customers": 17949.0,
+   "Commercial-Sales-($)": 13577000.0,
+   "Commercial-Customers": 3205.0,
+   "Industrial-Sales-($)": 3582000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 21158.0,
+   "cities-served": [
+    "Arlington, TN",
+    "Braden, TN",
+    "Collierville, TN",
+    "Gallaway, TN",
+    "Moscow, TN",
+    "Oakland, TN",
+    "Piperton, TN",
+    "Rossville, TN",
+    "Somerville, TN",
+    "Stanton, TN",
+    "Williston, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Fayette County, TN",
+     "population": 41990
+    },
+    {
+     "county": "Marshall County, MS",
+     "population": 33752
+    },
+    {
+     "county": "Hardeman County, TN",
+     "population": 25462
+    },
+    {
+     "county": "Haywood County, TN",
+     "population": 17864
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 21158
+    }
+   ]
+  },
+  {
+   "company": "Lawrenceburg Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.lburgus.com/#",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 26370000.0,
+   "Residential-Customers": 17447.0,
+   "Commercial-Sales-($)": 17657000.0,
+   "Commercial-Customers": 3344.0,
+   "Industrial-Sales-($)": 5533000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 20799.0,
+   "cities-served": [
+    "Ethridge, TN",
+    "Lawrenceburg, TN",
+    "Loretto, TN",
+    "St. Joseph, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Lawrence County, TN",
+     "population": 44159
+    },
+    {
+     "county": "Giles County, TN",
+     "population": 30346
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 20799
+    }
+   ]
+  },
+  {
+   "company": "Pickwick Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.pickwickec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25864000.0,
+   "Residential-Customers": 16470.0,
+   "Commercial-Sales-($)": 14026000.0,
+   "Commercial-Customers": 4322.0,
+   "Industrial-Sales-($)": 1072000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 20794.0,
+   "cities-served": [
+    "Adamsville, TN",
+    "Bethel Springs, TN",
+    "Crump, TN",
+    "Eastview, TN",
+    "Enville, TN",
+    "Finger, TN",
+    "Guys, TN",
+    "Michie, TN",
+    "Milledgeville, TN",
+    "Ramer, TN",
+    "Savannah, TN",
+    "Selmer, TN",
+    "Stantonville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hardin County, TN",
+     "population": 26831
+    },
+    {
+     "county": "McNairy County, TN",
+     "population": 25866
+    },
+    {
+     "county": "Chester County, TN",
+     "population": 17341
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 20794
+    }
+   ]
+  },
+  {
+   "company": "Weakley County Municipal Electric System",
+   "company-type": "Municipal",
+   "website": "https://www.wcmes.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23313000.0,
+   "Residential-Customers": 15630.0,
+   "Commercial-Sales-($)": 16960000.0,
+   "Commercial-Customers": 4939.0,
+   "Industrial-Sales-($)": 3047000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 20576.0,
+   "cities-served": [
+    "Bradford, TN",
+    "Dresden, TN",
+    "Gleason, TN",
+    "Greenfield, TN",
+    "Martin, TN",
+    "McKenzie, TN",
+    "Sharon, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Gibson County, TN",
+     "population": 50429
+    },
+    {
+     "county": "Weakley County, TN",
+     "population": 32902
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 20576
+    }
+   ]
+  },
+  {
+   "company": "Tri-State EMC",
+   "company-type": "Cooperative",
+   "website": "https://www.tsemc.net/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 23688000.0,
+   "Residential-Customers": 16452.0,
+   "Commercial-Sales-($)": 12041000.0,
+   "Commercial-Customers": 3544.0,
+   "Total-Customers": 19996.0,
+   "Total-Production-MWh": 2402459.0,
+   "Production-from-Renewable-Energy-MWh": 75523.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2326936.0,
+   "cities-served": [
+    "Blue Ridge, GA",
+    "Copperhill, TN",
+    "Ducktown, TN",
+    "McCaysville, GA",
+    "Morganton, GA"
+   ],
+   "counties-served": [
+    {
+     "county": "Murray County, GA",
+     "population": 39973
+    },
+    {
+     "county": "Cherokee County, NC",
+     "population": 28774
+    },
+    {
+     "county": "Fannin County, GA",
+     "population": 25319
+    },
+    {
+     "county": "Polk County, TN",
+     "population": 17544
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Georgia",
+     "customers": 15181
+    },
+    {
+     "state": "Tennessee",
+     "customers": 3241
+    },
+    {
+     "state": "North Carolina",
+     "customers": 1574
+    }
+   ]
+  },
+  {
+   "company": "Tennessee Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.tvec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23451000.0,
+   "Residential-Customers": 16139.0,
+   "Commercial-Sales-($)": 17147000.0,
+   "Commercial-Customers": 3705.0,
+   "Industrial-Sales-($)": 708000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 19845.0,
+   "cities-served": [
+    "Clifton, TN",
+    "Collinwood, TN",
+    "Savannah, TN",
+    "Waynesboro, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hardin County, TN",
+     "population": 26831
+    },
+    {
+     "county": "Wayne County, TN",
+     "population": 16232
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 19845
+    }
+   ]
+  },
+  {
+   "company": "Fayetteville Public Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.fpu-tn.com/electric-service",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 25822000.0,
+   "Residential-Customers": 16213.0,
+   "Commercial-Sales-($)": 13500000.0,
+   "Commercial-Customers": 2540.0,
+   "Industrial-Sales-($)": 4344000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 18756.0,
+   "cities-served": [
+    "Ardmore, TN",
+    "Fayetteville, TN",
+    "Petersburg, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, TN",
+     "population": 35319
+    },
+    {
+     "county": "Marshall County, TN",
+     "population": 34318
+    },
+    {
+     "county": "Giles County, TN",
+     "population": 30346
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 18756
+    }
+   ]
+  },
+  {
+   "company": "Cookeville Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cookeville-tn.gov/191/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17612000.0,
+   "Residential-Customers": 14950.0,
+   "Commercial-Sales-($)": 30182000.0,
+   "Commercial-Customers": 3722.0,
+   "Industrial-Sales-($)": 2832000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 18678.0,
+   "cities-served": [
+    "Cookeville"
+   ],
+   "counties-served": [
+    {
+     "county": "Putnam County, TN",
+     "population": 79854
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 18678
+    }
+   ]
+  },
+  {
+   "company": "Plateau Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.plateauelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18504000.0,
+   "Residential-Customers": 13863.0,
+   "Commercial-Sales-($)": 14473000.0,
+   "Commercial-Customers": 3357.0,
+   "Industrial-Sales-($)": 661000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 17222.0,
+   "cities-served": [
+    "Huntsville, TN",
+    "Oneida, TN",
+    "Sunbright, TN",
+    "Wartburg, TN",
+    "Winfield, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, TN",
+     "population": 39272
+    },
+    {
+     "county": "Scott County, TN",
+     "population": 21850
+    },
+    {
+     "county": "Morgan County, TN",
+     "population": 21035
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 17222
+    }
+   ]
+  },
+  {
+   "company": "Oak Ridge Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.oakridgetn.gov/department/UBO/Home",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17944000.0,
+   "Residential-Customers": 14122.0,
+   "Commercial-Sales-($)": 32528000.0,
+   "Commercial-Customers": 2234.0,
+   "Industrial-Sales-($)": 746000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 16358.0,
+   "cities-served": [
+    "Oak Ridge"
+   ],
+   "counties-served": [
+    {
+     "county": "Anderson County, TN",
+     "population": 77123
+    },
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 16358
+    }
+   ]
+  },
+  {
+   "company": "Carroll County Electric",
+   "company-type": "Municipal",
+   "website": "http://www.ccelectric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17841000.0,
+   "Residential-Customers": 12150.0,
+   "Commercial-Sales-($)": 10235000.0,
+   "Commercial-Customers": 3506.0,
+   "Industrial-Sales-($)": 8219000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 15658.0,
+   "cities-served": [
+    "Atwood, TN",
+    "Bruceton, TN",
+    "Clarksburg, TN",
+    "Hollow Rock, TN",
+    "Huntingdon, TN",
+    "McKenzie, TN",
+    "McLemoresville, TN",
+    "Parker's Crossroads, TN",
+    "Trezevant, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Carroll County, TN",
+     "population": 28440
+    },
+    {
+     "county": "Henderson County, TN",
+     "population": 27842
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 15658
+    }
+   ]
+  },
+  {
+   "company": "Morristown Electric",
+   "company-type": "Municipal",
+   "website": "http://www.musfiber.net/service/power/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 17787000.0,
+   "Residential-Customers": 12345.0,
+   "Commercial-Sales-($)": 28877000.0,
+   "Commercial-Customers": 2817.0,
+   "Industrial-Sales-($)": 26450000.0,
+   "Industrial-Customers": 30.0,
+   "Total-Customers": 15192.0,
+   "cities-served": [
+    "Morristown",
+    "Russellville CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamblen County, TN",
+     "population": 64499
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 15192
+    }
+   ]
+  },
+  {
+   "company": "Rockwood Electric",
+   "company-type": "Municipal",
+   "website": "https://www.rockwoodelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 18834000.0,
+   "Residential-Customers": 11740.0,
+   "Commercial-Sales-($)": 10266000.0,
+   "Commercial-Customers": 3097.0,
+   "Industrial-Sales-($)": 2972000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 14844.0,
+   "cities-served": [
+    "Harriman, TN",
+    "Kingston, TN",
+    "Rockwood, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Cumberland County, TN",
+     "population": 61145
+    },
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    },
+    {
+     "county": "Morgan County, TN",
+     "population": 21035
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 14844
+    }
+   ]
+  },
+  {
+   "company": "Pulaski, Tennessee Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 19689000.0,
+   "Residential-Customers": 12122.0,
+   "Commercial-Sales-($)": 11711000.0,
+   "Commercial-Customers": 2674.0,
+   "Industrial-Sales-($)": 8910000.0,
+   "Industrial-Customers": 12.0,
+   "Total-Customers": 14808.0,
+   "cities-served": [
+    "Ardmore, TN",
+    "Elkton, TN",
+    "Lynnville, TN",
+    "Minor Hill, TN",
+    "Pulaski, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Giles County, TN",
+     "population": 30346
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 14808
+    }
+   ]
+  },
+  {
+   "company": "Athens Utilities Board",
+   "company-type": "Municipal",
+   "website": "http://www.aub.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 15348000.0,
+   "Residential-Customers": 11144.0,
+   "Commercial-Sales-($)": 16077000.0,
+   "Commercial-Customers": 2357.0,
+   "Industrial-Sales-($)": 15924000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 13509.0,
+   "cities-served": [
+    "Athens, TN",
+    "Englewood, TN",
+    "Etowah, TN",
+    "Niota, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "McMinn County, TN",
+     "population": 53276
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 13509
+    }
+   ]
+  },
+  {
+   "company": "Loudon Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.loudonutilities.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16435000.0,
+   "Residential-Customers": 11077.0,
+   "Commercial-Sales-($)": 14983000.0,
+   "Commercial-Customers": 1804.0,
+   "Industrial-Sales-($)": 13357000.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 12891.0,
+   "cities-served": [
+    "Loudon, TN",
+    "Philadelphia, TN",
+    "Vonore, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Loudon County, TN",
+     "population": 54886
+    },
+    {
+     "county": "Monroe County, TN",
+     "population": 46250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 12891
+    }
+   ]
+  },
+  {
+   "company": "Dyersburg Electric",
+   "company-type": "Municipal",
+   "website": "http://www.despower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12964000.0,
+   "Residential-Customers": 9440.0,
+   "Commercial-Sales-($)": 14180000.0,
+   "Commercial-Customers": 2493.0,
+   "Industrial-Sales-($)": 7446000.0,
+   "Industrial-Customers": 9.0,
+   "Total-Customers": 11942.0,
+   "cities-served": [
+    "Dyersburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Dyer County, TN",
+     "population": 36801
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 11942
+    }
+   ]
+  },
+  {
+   "company": "Bolivar Energy Authority",
+   "company-type": "Municipal",
+   "website": "http://www.bolivarelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14627000.0,
+   "Residential-Customers": 8868.0,
+   "Commercial-Sales-($)": 9541000.0,
+   "Commercial-Customers": 2377.0,
+   "Industrial-Sales-($)": 1233000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 11246.0,
+   "cities-served": [
+    "Bolivar, TN",
+    "Grand Junction, TN",
+    "Hickory Valley, TN",
+    "Hornsby, TN",
+    "La Grange, TN",
+    "Saulsbury, TN",
+    "Silerton, TN",
+    "Toone, TN",
+    "Whiteville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Madison County, TN",
+     "population": 98823
+    },
+    {
+     "county": "Fayette County, TN",
+     "population": 41990
+    },
+    {
+     "county": "Hardeman County, TN",
+     "population": 25462
+    },
+    {
+     "county": "Chester County, TN",
+     "population": 17341
+    },
+    {
+     "county": "Benton County, MS",
+     "population": 7646
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 11246
+    }
+   ]
+  },
+  {
+   "company": "Harriman Utility Board",
+   "company-type": "Municipal",
+   "website": "https://home.hubtnmaps.com/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14705000.0,
+   "Residential-Customers": 9140.0,
+   "Commercial-Sales-($)": 8360000.0,
+   "Commercial-Customers": 1850.0,
+   "Industrial-Sales-($)": 51000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 10991.0,
+   "cities-served": [
+    "Harriman, TN",
+    "Kingston, TN",
+    "Oakdale, TN",
+    "Rockwood, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    },
+    {
+     "county": "Morgan County, TN",
+     "population": 21035
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10991
+    }
+   ]
+  },
+  {
+   "company": "Tullahoma Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.tub.net/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11951000.0,
+   "Residential-Customers": 8998.0,
+   "Commercial-Sales-($)": 11234000.0,
+   "Commercial-Customers": 1980.0,
+   "Industrial-Sales-($)": 1443000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 10982.0,
+   "cities-served": [
+    "Tullahoma"
+   ],
+   "counties-served": [
+    {
+     "county": "Coffee County, TN",
+     "population": 57889
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10982
+    }
+   ]
+  },
+  {
+   "company": "Dayton, TN Electric",
+   "company-type": "Municipal",
+   "website": "https://www.daytontn.net/residents/utilities/electric/index.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11697000.0,
+   "Residential-Customers": 8731.0,
+   "Commercial-Sales-($)": 9774000.0,
+   "Commercial-Customers": 2099.0,
+   "Industrial-Sales-($)": 4520000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 10835.0,
+   "cities-served": [
+    "Dayton, TN",
+    "Graysville, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Rhea County, TN",
+     "population": 32870
+    },
+    {
+     "county": "Bledsoe County, TN",
+     "population": 14913
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10835
+    }
+   ]
+  },
+  {
+   "company": "Shelbyville Power",
+   "company-type": "Municipal",
+   "website": "http://www.shelbyvillepower.com/Power.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11917000.0,
+   "Residential-Customers": 8932.0,
+   "Commercial-Sales-($)": 13038000.0,
+   "Commercial-Customers": 1732.0,
+   "Industrial-Sales-($)": 6277000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 10670.0,
+   "cities-served": [
+    "Shelbyville"
+   ],
+   "counties-served": [
+    {
+     "county": "Bedford County, TN",
+     "population": 50237
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10670
+    }
+   ]
+  },
+  {
+   "company": "Benton County Electric System",
+   "company-type": "Municipal",
+   "website": "http://www.bcestn.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13688000.0,
+   "Residential-Customers": 8483.0,
+   "Commercial-Sales-($)": 7114000.0,
+   "Commercial-Customers": 1768.0,
+   "Industrial-Sales-($)": 2352000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 10254.0,
+   "cities-served": [
+    "Big Sandy, TN",
+    "Camden, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Henry County, TN",
+     "population": 32199
+    },
+    {
+     "county": "Benton County, TN",
+     "population": 15864
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10254
+    }
+   ]
+  },
+  {
+   "company": "Forked Deer Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.forkeddeer.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 15180000.0,
+   "Residential-Customers": 8354.0,
+   "Commercial-Sales-($)": 5368000.0,
+   "Commercial-Customers": 1657.0,
+   "Total-Customers": 10011.0,
+   "cities-served": [
+    "Dyersburg, TN",
+    "Friendship, TN",
+    "Gates, TN",
+    "Halls, TN",
+    "Henning, TN",
+    "Luxora, AR",
+    "Newbern, TN",
+    "Ripley, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Dyer County, TN",
+     "population": 36801
+    },
+    {
+     "county": "Lauderdale County, TN",
+     "population": 25143
+    },
+    {
+     "county": "Haywood County, TN",
+     "population": 17864
+    },
+    {
+     "county": "Crockett County, TN",
+     "population": 13911
+    },
+    {
+     "county": "Lake County, TN",
+     "population": 7005
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 10011
+    }
+   ]
+  },
+  {
+   "company": "Sweetwater Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.sweetwaterutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11328000.0,
+   "Residential-Customers": 7191.0,
+   "Commercial-Sales-($)": 8024000.0,
+   "Commercial-Customers": 2050.0,
+   "Industrial-Sales-($)": 3885000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 9245.0,
+   "cities-served": [
+    "Philadelphia, TN",
+    "Sweetwater, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Loudon County, TN",
+     "population": 54886
+    },
+    {
+     "county": "Roane County, TN",
+     "population": 53404
+    },
+    {
+     "county": "McMinn County, TN",
+     "population": 53276
+    },
+    {
+     "county": "Monroe County, TN",
+     "population": 46250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 9245
+    }
+   ]
+  },
+  {
+   "company": "Erwin Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.e-u.cc/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9940000.0,
+   "Residential-Customers": 7596.0,
+   "Commercial-Sales-($)": 6355000.0,
+   "Commercial-Customers": 1376.0,
+   "Industrial-Sales-($)": 4054000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 8977.0,
+   "cities-served": [
+    "Erwin, TN",
+    "Unicoi, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Washington County, TN",
+     "population": 133001
+    },
+    {
+     "county": "Unicoi County, TN",
+     "population": 17928
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 8977
+    }
+   ]
+  },
+  {
+   "company": "Springfield TN Electric",
+   "company-type": "Municipal",
+   "website": "https://springfieldtn.gov/176/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9272000.0,
+   "Residential-Customers": 7205.0,
+   "Commercial-Sales-($)": 10661000.0,
+   "Commercial-Customers": 1333.0,
+   "Industrial-Sales-($)": 5401000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 8544.0,
+   "cities-served": [
+    "Springfield"
+   ],
+   "counties-served": [
+    {
+     "county": "Robertson County, TN",
+     "population": 72803
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 8544
+    }
+   ]
+  },
+  {
+   "company": "Milan Public Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.mpu1.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10272000.0,
+   "Residential-Customers": 6800.0,
+   "Commercial-Sales-($)": 6040000.0,
+   "Commercial-Customers": 1491.0,
+   "Industrial-Sales-($)": 1405000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 8295.0,
+   "cities-served": [
+    "Bradford, TN",
+    "Medina, TN",
+    "Milan, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Gibson County, TN",
+     "population": 50429
+    },
+    {
+     "county": "Carroll County, TN",
+     "population": 28440
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 8295
+    }
+   ]
+  },
+  {
+   "company": "McMinnville Electric",
+   "company-type": "Municipal",
+   "website": "https://www.mesystem.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7702000.0,
+   "Residential-Customers": 6517.0,
+   "Commercial-Sales-($)": 9413000.0,
+   "Commercial-Customers": 1636.0,
+   "Industrial-Sales-($)": 1031000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 8155.0,
+   "Total-Production-MWh": 66.0,
+   "Production-from-Non-Renewable-Energy-MWh": 66.0,
+   "cities-served": [
+    "McMinnville"
+   ],
+   "counties-served": [
+    {
+     "county": "Warren County, TN",
+     "population": 40953
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 8155
+    }
+   ]
+  },
+  {
+   "company": "Ripley Power and Lights",
+   "company-type": "Municipal",
+   "website": "https://www.ripleypower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7331000.0,
+   "Residential-Customers": 5267.0,
+   "Commercial-Sales-($)": 7562000.0,
+   "Commercial-Customers": 1400.0,
+   "Industrial-Sales-($)": 2718000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 6670.0,
+   "cities-served": [
+    "Gates, TN",
+    "Halls, TN",
+    "Henning, TN",
+    "Ripley, TN"
+   ],
+   "counties-served": [
+    {
+     "county": "Lauderdale County, TN",
+     "population": 25143
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 6670
+    }
+   ]
+  },
+  {
+   "company": "Union City Energy Authority",
+   "company-type": "Municipal",
+   "website": "https://www.unioncityenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6520000.0,
+   "Residential-Customers": 5149.0,
+   "Commercial-Sales-($)": 9125000.0,
+   "Commercial-Customers": 1251.0,
+   "Industrial-Sales-($)": 9209000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 6405.0,
+   "cities-served": [
+    "Union City"
+   ],
+   "counties-served": [
+    {
+     "county": "Obion County, TN",
+     "population": 30787
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 6405
+    }
+   ]
+  },
+  {
+   "company": "Winchester Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.winchesterutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6941000.0,
+   "Residential-Customers": 4977.0,
+   "Commercial-Sales-($)": 7249000.0,
+   "Commercial-Customers": 1415.0,
+   "Industrial-Sales-($)": 2699000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 6396.0,
+   "cities-served": [
+    "Winchester"
+   ],
+   "counties-served": [
+    {
+     "county": "Franklin County, TN",
+     "population": 42774
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 6396
+    }
+   ]
+  },
+  {
+   "company": "Lewisburg Electric",
+   "company-type": "Municipal",
+   "website": "https://www.lewisburgelectricsystem.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6419000.0,
+   "Residential-Customers": 4814.0,
+   "Commercial-Sales-($)": 9338000.0,
+   "Commercial-Customers": 1568.0,
+   "Industrial-Sales-($)": 7908000.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 6389.0,
+   "cities-served": [
+    "Lewisburg"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, TN",
+     "population": 34318
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 6389
+    }
+   ]
+  },
+  {
+   "company": "Brownsville Utility",
+   "company-type": "Municipal",
+   "website": "http://www.budutil.com/Service.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4977000.0,
+   "Residential-Customers": 4203.0,
+   "Commercial-Sales-($)": 5396000.0,
+   "Commercial-Customers": 1197.0,
+   "Industrial-Sales-($)": 5125000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 5404.0,
+   "cities-served": [
+    "Brownsville"
+   ],
+   "counties-served": [
+    {
+     "county": "Haywood County, TN",
+     "population": 17864
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 5404
+    }
+   ]
+  },
+  {
+   "company": "Etowah Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.eubnet.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7247000.0,
+   "Residential-Customers": 4347.0,
+   "Commercial-Sales-($)": 3293000.0,
+   "Commercial-Customers": 784.0,
+   "Industrial-Sales-($)": 8941000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 5133.0,
+   "cities-served": [
+    "Tellico Plains"
+   ],
+   "counties-served": [
+    {
+     "county": "Monroe County, TN",
+     "population": 46250
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 5133
+    }
+   ]
+  },
+  {
+   "company": "Covington, Tennessee Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://covingtones.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4674000.0,
+   "Residential-Customers": 3729.0,
+   "Commercial-Sales-($)": 8842000.0,
+   "Commercial-Customers": 976.0,
+   "Industrial-Sales-($)": 6014000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 4710.0,
+   "cities-served": [
+    "Covington"
+   ],
+   "counties-served": [
+    {
+     "county": "Tipton County, TN",
+     "population": 60970
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 4710
+    }
+   ]
+  },
+  {
+   "company": "Jellico Electric",
+   "company-type": "Municipal",
+   "website": "https://www.jellicoutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4801000.0,
+   "Residential-Customers": 3435.0,
+   "Commercial-Sales-($)": 2536000.0,
+   "Commercial-Customers": 1060.0,
+   "Total-Customers": 4495.0,
+   "cities-served": [
+    "Jellico",
+    "Emlyn CDP",
+    "Pleasant View CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Campbell County, TN",
+     "population": 39272
+    },
+    {
+     "county": "Whitley County, KY",
+     "population": 36712
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 2339
+    },
+    {
+     "state": "Kentucky",
+     "customers": 2156
+    }
+   ]
+  },
+  {
+   "company": "Humboldt Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.humboldtutilities.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4202000.0,
+   "Residential-Customers": 3437.0,
+   "Commercial-Sales-($)": 5549000.0,
+   "Commercial-Customers": 969.0,
+   "Industrial-Sales-($)": 3110000.0,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 4411.0,
+   "cities-served": [
+    "Humboldt"
+   ],
+   "counties-served": [
+    {
+     "county": "Gibson County, TN",
+     "population": 50429
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 4411
+    }
+   ]
+  },
+  {
+   "company": "Mt Pleasant Power System",
+   "company-type": "Municipal",
+   "website": "https://mountpleasantpower.com/index.html",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5672000.0,
+   "Residential-Customers": 3409.0,
+   "Commercial-Sales-($)": 4131000.0,
+   "Commercial-Customers": 687.0,
+   "Industrial-Sales-($)": 3465000.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 4102.0,
+   "cities-served": [
+    "Mount Pleasant"
+   ],
+   "counties-served": [
+    {
+     "county": "Maury County, TN",
+     "population": 100974
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 4102
+    }
+   ]
+  },
+  {
+   "company": "Sparta Electric",
+   "company-type": "Municipal",
+   "website": "http://spartaelectricsystem.com/index.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2681000.0,
+   "Residential-Customers": 2207.0,
+   "Commercial-Sales-($)": 4715000.0,
+   "Commercial-Customers": 800.0,
+   "Industrial-Sales-($)": 3559000.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 3011.0,
+   "cities-served": [
+    "Sparta"
+   ],
+   "counties-served": [
+    {
+     "county": "White County, TN",
+     "population": 27351
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 3011
+    }
+   ]
+  },
+  {
+   "company": "Smithville Electric Company",
+   "company-type": "Municipal",
+   "website": "http://www.smithville-electric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2650000.0,
+   "Residential-Customers": 2231.0,
+   "Commercial-Sales-($)": 5000000.0,
+   "Commercial-Customers": 608.0,
+   "Industrial-Sales-($)": 2496000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 2842.0,
+   "cities-served": [
+    "Smithville"
+   ],
+   "counties-served": [
+    {
+     "county": "DeKalb County, TN",
+     "population": 20080
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 2842
+    }
+   ]
+  },
+  {
+   "company": "Trenton, Tennessee Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.trentonlw.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2506000.0,
+   "Residential-Customers": 1920.0,
+   "Commercial-Sales-($)": 3129000.0,
+   "Commercial-Customers": 496.0,
+   "Industrial-Sales-($)": 830000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2417.0,
+   "cities-served": [
+    "Trenton"
+   ],
+   "counties-served": [
+    {
+     "county": "Gibson County, TN",
+     "population": 50429
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 2417
+    }
+   ]
+  },
+  {
+   "company": "New Bern Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofnewbern.org/departments/electric-department",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1820000.0,
+   "Residential-Customers": 1491.0,
+   "Commercial-Sales-($)": 1534000.0,
+   "Commercial-Customers": 324.0,
+   "Industrial-Sales-($)": 4166000.0,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 1818.0,
+   "cities-served": [
+    "Newbern"
+   ],
+   "counties-served": [
+    {
+     "county": "Dyer County, TN",
+     "population": 36801
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Tennessee",
+     "customers": 1818
+    }
+   ]
+  }
+ ]
+}

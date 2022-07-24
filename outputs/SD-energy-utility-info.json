@@ -1,0 +1,3912 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Northern States Power Company",
+   "company-type": "Investor Owned",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1812736065.0,
+   "Residential-Customers": 1580958.0,
+   "Commercial-Sales-($)": 2043186174.0,
+   "Commercial-Customers": 211241.0,
+   "Industrial-Sales-($)": 913733715.0,
+   "Industrial-Customers": 672.0,
+   "Total-Customers": 1792871.0,
+   "Total-Production-MWh": 37807690.0,
+   "Production-from-Renewable-Energy-MWh": 7513190.0,
+   "Production-from-Non-Renewable-Energy-MWh": 30294501.0,
+   "cities-served": [
+    "Abbotsford, WI",
+    "Afton, MN",
+    "Albany, MN",
+    "Albertville, MN",
+    "Alexandria, SD",
+    "Alice, ND",
+    "Alma, WI",
+    "Alma Center, WI",
+    "Almena, WI",
+    "Altoona, WI",
+    "Altura, MN",
+    "Amenia, ND",
+    "Amery, WI",
+    "Anamoose, ND",
+    "Annandale, MN",
+    "Apple Valley, MN",
+    "Arcadia, WI",
+    "Arden Hills, MN",
+    "Argusville, ND",
+    "Artesian, SD",
+    "Arthur, ND",
+    "Ashland, WI",
+    "Athens, WI",
+    "Augusta, WI",
+    "Avon, MN",
+    "Ayr, ND",
+    "Balaton, MN",
+    "Baldwin, WI",
+    "Balfour, ND",
+    "Balsam Lake, WI",
+    "Baltic, SD",
+    "Bangor, WI",
+    "Bantry, ND",
+    "Barron, WI",
+    "Bay City, WI",
+    "Bayfield, WI",
+    "Bayport, MN",
+    "Becker, MN",
+    "Belgrade, MN",
+    "Bell Center, WI",
+    "Belle Plaine, MN",
+    "Bellechester, MN",
+    "Belview, MN",
+    "Beresford, SD",
+    "Bergen, ND",
+    "Berthold, ND",
+    "Bessemer, MI",
+    "Big Lake, MN",
+    "Birchwood, WI",
+    "Birchwood Village, MN",
+    "Bird Island, MN",
+    "Birnamwood, WI",
+    "Black River Falls, WI",
+    "Blaine, MN",
+    "Blair, WI",
+    "Blomkest, MN",
+    "Bloomer, WI",
+    "Bloomington, MN",
+    "Borup, MN",
+    "Boyceville, WI",
+    "Boyd, WI",
+    "Brandon, SD",
+    "Brant Lake, SD",
+    "Briarwood, ND",
+    "Bridgewater, SD",
+    "Brooklyn Center, MN",
+    "Brooklyn Park, MN",
+    "Brooten, MN",
+    "Brownton, MN",
+    "Bruce, WI",
+    "Buffalo, ND",
+    "Buffalo City, WI",
+    "Buffalo Lake, MN",
+    "Burlington, ND",
+    "Burnsville, MN",
+    "Butterfield, MN",
+    "Butternut, WI",
+    "Buxton, ND",
+    "Byron, MN",
+    "Cadott, WI",
+    "Cameron, WI",
+    "Canistota, SD",
+    "Cannon Falls, MN",
+    "Canova, SD",
+    "Canton, SD",
+    "Carpio, ND",
+    "Carthage, SD",
+    "Carver, MN",
+    "Cashton, WI",
+    "Casselton, ND",
+    "Catawba, WI",
+    "Center City, MN",
+    "Centerville, MN",
+    "Centerville, SD",
+    "Centuria, WI",
+    "Champlin, MN",
+    "Chancellor, SD",
+    "Chandler, MN",
+    "Chanhassen, MN",
+    "Chaseburg, WI",
+    "Chaska, MN",
+    "Chetek, WI",
+    "Chippewa Falls, WI",
+    "Chisago City, MN",
+    "Circle Pines, MN",
+    "Clara City, MN",
+    "Claremont, MN",
+    "Clarkfield, MN",
+    "Clarks Grove, MN",
+    "Clayton, WI",
+    "Clear Lake, WI",
+    "Clear Lake, MN",
+    "Clearwater, MN",
+    "Clements, MN",
+    "Cleveland, MN",
+    "Clifford, ND",
+    "Coates, MN",
+    "Cobden, MN",
+    "Cochrane, WI",
+    "Cokato, MN",
+    "Colby, WI",
+    "Cold Spring, MN",
+    "Colfax, WI",
+    "Colman, SD",
+    "Cologne, MN",
+    "Colton, SD",
+    "Columbia Heights, MN",
+    "Comstock, MN",
+    "Conrath, WI",
+    "Coon Rapids, MN",
+    "Coon Valley, WI",
+    "Corcoran, MN",
+    "Cornell, WI",
+    "Cosmos, MN",
+    "Cottage Grove, MN",
+    "Cottonwood, MN",
+    "Couderay, WI",
+    "Courtland, MN",
+    "Crooks, SD",
+    "Crystal, MN",
+    "Cumberland, WI",
+    "Currie, MN",
+    "Curtiss, WI",
+    "Dakota, MN",
+    "Dallas, WI",
+    "Danube, MN",
+    "Dassel, MN",
+    "Davenport, ND",
+    "Davis, SD",
+    "Dayton, MN",
+    "De Soto, WI",
+    "Deephaven, MN",
+    "Deer Park, WI",
+    "Deering, ND",
+    "Delano, MN",
+    "Delhi, MN",
+    "Dell Rapids, SD",
+    "Dellwood, MN",
+    "Dennison, MN",
+    "Des Lacs, ND",
+    "Dilworth, MN",
+    "Dimock, SD",
+    "Dodge Center, MN",
+    "Dolton, SD",
+    "Donnybrook, ND",
+    "Dorchester, WI",
+    "Douglas, ND",
+    "Downing, WI",
+    "Drake, ND",
+    "Dresser, WI",
+    "Dundas, MN",
+    "Durand, WI",
+    "Eagan, MN",
+    "Eagle Lake, MN",
+    "Eagle River, WI",
+    "Eastman, WI",
+    "Eau Claire, WI",
+    "Echo, MN",
+    "Eden Prairie, MN",
+    "Eden Valley, MN",
+    "Edgar, WI",
+    "Edgerton, MN",
+    "Edina, MN",
+    "Egan, SD",
+    "Elba, MN",
+    "Elderon, WI",
+    "Eleva, WI",
+    "Elk Mound, WI",
+    "Elko New Market, MN",
+    "Ellsworth, WI",
+    "Elmwood, WI",
+    "Elysian, MN",
+    "Emerado, ND",
+    "Emery, SD",
+    "Enderlin, ND",
+    "Ettrick, WI",
+    "Evan, MN",
+    "Excelsior, MN",
+    "Exeland, WI",
+    "Fairchild, WI",
+    "Fairview, SD",
+    "Falcon Heights, MN",
+    "Fall Creek, WI",
+    "Fargo, ND",
+    "Faribault, MN",
+    "Farmer, SD",
+    "Farmington, MN",
+    "Felton, MN",
+    "Fenwood, WI",
+    "Ferryville, WI",
+    "Flandreau, SD",
+    "Florence, MN",
+    "Foley, MN",
+    "Forest Lake, MN",
+    "Fountain City, WI",
+    "Franklin, MN",
+    "Frederic, WI",
+    "Freeman, SD",
+    "Freeport, MN",
+    "Fridley, MN",
+    "Frontier, ND",
+    "Fulton, SD",
+    "Galesburg, ND",
+    "Galesville, WI",
+    "Gardner, ND",
+    "Garretson, SD",
+    "Garvin, MN",
+    "Gaylord, MN",
+    "Gays Mills, WI",
+    "Gem Lake, MN",
+    "Genoa, WI",
+    "Gibbon, MN",
+    "Gilby, ND",
+    "Gilman, WI",
+    "Glen Flora, WI",
+    "Glenwood, MN",
+    "Glenwood City, WI",
+    "Glyndon, MN",
+    "Golden Valley, MN",
+    "Good Thunder, MN",
+    "Goodhue, MN",
+    "Goodview, MN",
+    "Grand Forks, ND",
+    "Grandin, ND",
+    "Granite Falls, MN",
+    "Grant, MN",
+    "Granton, WI",
+    "Granville, ND",
+    "Green Isle, MN",
+    "Greenfield, MN",
+    "Greenwald, MN",
+    "Greenwood, WI",
+    "Greenwood, MN",
+    "Hadley, MN",
+    "Hamburg, MN",
+    "Hammond, WI",
+    "Hammond, MN",
+    "Hampton, MN",
+    "Hanley Falls, MN",
+    "Hanover, MN",
+    "Harrisburg, SD",
+    "Hartford, SD",
+    "Hartland, MN",
+    "Harwood, ND",
+    "Hastings, MN",
+    "Hatfield, MN",
+    "Hatley, WI",
+    "Hatton, ND",
+    "Haugen, WI",
+    "Hawkins, WI",
+    "Hayfield, MN",
+    "Hayward, WI",
+    "Hazel Run, MN",
+    "Hector, MN",
+    "Henderson, MN",
+    "Hillsboro, ND",
+    "Hillsboro, WI",
+    "Hilltop, MN",
+    "Hixton, WI",
+    "Hokah, MN",
+    "Holdingford, MN",
+    "Holland, MN",
+    "Holmen, WI",
+    "Hopkins, MN",
+    "Horace, ND",
+    "Howard, SD",
+    "Howard Lake, MN",
+    "Hudson, WI",
+    "Hudson, SD",
+    "Hugo, MN",
+    "Humboldt, SD",
+    "Hunter, ND",
+    "Hurley, WI",
+    "Hurley, SD",
+    "Ihlen, MN",
+    "Independence, MN",
+    "Independence, WI",
+    "Ingram, WI",
+    "Inkster, ND",
+    "Inver Grove Heights, MN",
+    "Iona, MN",
+    "Irene, SD",
+    "Ironwood, MI",
+    "Janesville, MN",
+    "Jasper, MN",
+    "Jordan, MN",
+    "Karlsruhe, ND",
+    "Kasota, MN",
+    "Kasson, MN",
+    "Kellogg, MN",
+    "Kendall, WI",
+    "Kenmare, ND",
+    "Kennan, WI",
+    "Kief, ND",
+    "Kilkenny, MN",
+    "Kimball, MN",
+    "Kindred, ND",
+    "Kingston, MN",
+    "Knapp, WI",
+    "Kronenwetter, WI",
+    "La Crescent, MN",
+    "La Crosse, WI",
+    "La Farge, WI",
+    "Ladysmith, WI",
+    "Lafayette, MN",
+    "Lake City, MN",
+    "Lake Elmo, MN",
+    "Lake Hallie, WI",
+    "Lake Henry, MN",
+    "Lake Lillian, MN",
+    "Lake St. Croix Beach, MN",
+    "Lake Wilson, MN",
+    "Lakeland, MN",
+    "Lakeland Shores, MN",
+    "Lakeville, MN",
+    "Landfall, MN",
+    "Larimore, ND",
+    "Lauderdale, MN",
+    "Lennox, SD",
+    "Leonard, ND",
+    "Lester Prairie, MN",
+    "Letcher, SD",
+    "Lexington, MN",
+    "Lilydale, MN",
+    "Lindstrom, MN",
+    "Lino Lakes, MN",
+    "Little Canada, MN",
+    "Long Beach, MN",
+    "Long Lake, MN",
+    "Lonsdale, MN",
+    "Loretto, MN",
+    "Lowry, MN",
+    "Loyal, WI",
+    "Lublin, WI",
+    "Luck, WI",
+    "Lynxville, WI",
+    "Madison, SD",
+    "Madison Lake, MN",
+    "Mahtomedi, MN",
+    "Maiden Rock, WI",
+    "Maine, WI",
+    "Makoti, ND",
+    "Manchester, MN",
+    "Mankato, MN",
+    "Mantorville, MN",
+    "Manvel, ND",
+    "Maple Grove, MN",
+    "Maple Lake, MN",
+    "Maple Plain, MN",
+    "Mapleton, MN",
+    "Mapleton, ND",
+    "Maplewood, MN",
+    "Marathon City, WI",
+    "Marine on St. Croix, MN",
+    "Marion, SD",
+    "Marshfield, WI",
+    "Mason, WI",
+    "Mayer, MN",
+    "Maynard, MN",
+    "Mayville, ND",
+    "Mazeppa, MN",
+    "Medford, WI",
+    "Medford, MN",
+    "Medicine Lake, MN",
+    "Medina, MN",
+    "Meire Grove, MN",
+    "Mellen, WI",
+    "Melrose, MN",
+    "Melrose, WI",
+    "Melvina, WI",
+    "Mendota, MN",
+    "Mendota Heights, MN",
+    "Menno, SD",
+    "Menomonie, WI",
+    "Merrill, WI",
+    "Merrillan, WI",
+    "Milltown, WI",
+    "Millville, MN",
+    "Minneapolis, MN",
+    "Minneiska, MN",
+    "Minnesota City, MN",
+    "Minnesota Lake, MN",
+    "Minnetonka, MN",
+    "Minnetonka Beach, MN",
+    "Minnetrista, MN",
+    "Minong, WI",
+    "Minot, ND",
+    "Mondovi, WI",
+    "Monroe, SD",
+    "Montevideo, MN",
+    "Monticello, MN",
+    "Montreal, WI",
+    "Montrose, MN",
+    "Montrose, SD",
+    "Moorhead, MN",
+    "Morgan, MN",
+    "Morristown, MN",
+    "Morton, MN",
+    "Mosinee, WI",
+    "Mound, MN",
+    "Mounds View, MN",
+    "Mount Sterling, WI",
+    "Neillsville, WI",
+    "Nelson, WI",
+    "Nerstrand, MN",
+    "New Auburn, WI",
+    "New Auburn, MN",
+    "New Brighton, MN",
+    "New Germany, MN",
+    "New Hope, MN",
+    "New London, MN",
+    "New Munich, MN",
+    "New Prague, MN",
+    "New Richland, MN",
+    "New Richmond, WI",
+    "Newport, MN",
+    "Niagara, ND",
+    "Nicollet, MN",
+    "North Branch, MN",
+    "North Hudson, WI",
+    "North Mankato, MN",
+    "North Oaks, MN",
+    "North River, ND",
+    "Northfield, MN",
+    "Northwood, ND",
+    "Norwalk, WI",
+    "Norwood Young America, MN",
+    "Nunda, SD",
+    "Oak Park Heights, MN",
+    "Oakdale, MN",
+    "Oakdale, WI",
+    "Olivet, SD",
+    "Onalaska, WI",
+    "Ontario, WI",
+    "Ontonagon, MI",
+    "Orono, MN",
+    "Osakis, MN",
+    "Osceola, WI",
+    "Osseo, MN",
+    "Osseo, WI",
+    "Otsego, MN",
+    "Owatonna, MN",
+    "Owen, WI",
+    "Oxbow, ND",
+    "Page, ND",
+    "Park Falls, WI",
+    "Parker, SD",
+    "Parkston, SD",
+    "Paynesville, MN",
+    "Pemberton, MN",
+    "Pepin, WI",
+    "Phillips, WI",
+    "Pigeon Falls, WI",
+    "Pine Island, MN",
+    "Pine Springs, MN",
+    "Pipestone, MN",
+    "Plato, MN",
+    "Plum City, WI",
+    "Plymouth, MN",
+    "Portland, ND",
+    "Prairie Farm, WI",
+    "Prairie Rose, ND",
+    "Prairie du Chien, WI",
+    "Prentice, WI",
+    "Prescott, WI",
+    "Prinsburg, MN",
+    "Prior Lake, MN",
+    "Radisson, WI",
+    "Ramona, SD",
+    "Randolph, MN",
+    "Raymond, MN",
+    "Readstown, WI",
+    "Red Wing, MN",
+    "Regal, MN",
+    "Reile's Acres, ND",
+    "Renville, MN",
+    "Reynolds, ND",
+    "Rhinelander, WI",
+    "Rib Lake, WI",
+    "Rice Lake, WI",
+    "Richfield, MN",
+    "Richmond, MN",
+    "Ridgeland, WI",
+    "River Falls, WI",
+    "Robbinsdale, MN",
+    "Roberts, WI",
+    "Rockford, MN",
+    "Rockland, WI",
+    "Rockville, MN",
+    "Rogers, MN",
+    "Rollingstone, MN",
+    "Roscoe, MN",
+    "Rosemount, MN",
+    "Roseville, MN",
+    "Rothschild, WI",
+    "Ruthton, MN",
+    "Ryder, ND",
+    "Sabin, MN",
+    "Sacred Heart, MN",
+    "Salem, SD",
+    "Sartell, MN",
+    "Sauk Rapids, MN",
+    "Savage, MN",
+    "Sawyer, ND",
+    "Scandia, MN",
+    "Schofield, WI",
+    "Sedan, MN",
+    "Shafer, MN",
+    "Shakopee, MN",
+    "Sheldon, WI",
+    "Shell Lake, WI",
+    "Sherman, SD",
+    "Shoreview, MN",
+    "Shorewood, MN",
+    "Silver Lake, MN",
+    "Sioux Falls, SD",
+    "Skyline, MN",
+    "Slayton, MN",
+    "Soldiers Grove, WI",
+    "Somerset, WI",
+    "South Haven, MN",
+    "South St. Paul, MN",
+    "Sparta, WI",
+    "Spencer, WI",
+    "Spencer, SD",
+    "Spicer, MN",
+    "Spooner, WI",
+    "Spring Hill, MN",
+    "Spring Lake Park, MN",
+    "Spring Park, MN",
+    "Spring Valley, WI",
+    "St. Bonifacius, MN",
+    "St. Clair, MN",
+    "St. Cloud, MN",
+    "St. Croix Falls, WI",
+    "St. Joseph, MN",
+    "St. Louis Park, MN",
+    "St. Martin, MN",
+    "St. Marys Point, MN",
+    "St. Michael, MN",
+    "St. Paul, MN",
+    "St. Paul Park, MN",
+    "Stacy, MN",
+    "Stanley, WI",
+    "Star Prairie, WI",
+    "Starbuck, MN",
+    "Stetsonville, WI",
+    "Steuben, WI",
+    "Stewart, MN",
+    "Stillwater, MN",
+    "Stockholm, WI",
+    "Stoddard, WI",
+    "Stratford, WI",
+    "Strum, WI",
+    "Sunfish Lake, MN",
+    "Surrey, ND",
+    "Taylor, WI",
+    "Taylors Falls, MN",
+    "Tea, SD",
+    "Thompson, ND",
+    "Thorp, WI",
+    "Tomah, WI",
+    "Tomahawk, WI",
+    "Tonka Bay, MN",
+    "Tony, WI",
+    "Tower City, ND",
+    "Towner, ND",
+    "Tracy, MN",
+    "Trempealeau, WI",
+    "Trent, SD",
+    "Tripp, SD",
+    "Trosky, MN",
+    "Turtle Lake, WI",
+    "Unity, WI",
+    "Upham, ND",
+    "Vadnais Heights, MN",
+    "Valley Springs, SD",
+    "Velva, ND",
+    "Vermillion, MN",
+    "Viborg, SD",
+    "Victoria, MN",
+    "Vilas, SD",
+    "Villard, MN",
+    "Viola, WI",
+    "Viroqua, WI",
+    "Voltaire, ND",
+    "Wabasha, MN",
+    "Waconia, MN",
+    "Waite Park, MN",
+    "Wakefield, MI",
+    "Waldorf, MN",
+    "Waltham, MN",
+    "Wanamingo, MN",
+    "Ward, SD",
+    "Warrens, WI",
+    "Waseca, MN",
+    "Washburn, WI",
+    "Watertown, MN",
+    "Waterville, MN",
+    "Watkins, MN",
+    "Watson, MN",
+    "Wausau, WI",
+    "Wauzeka, WI",
+    "Waverly, MN",
+    "Wayzata, MN",
+    "Wentworth, SD",
+    "West Concord, MN",
+    "West Fargo, ND",
+    "West Salem, WI",
+    "West St. Paul, MN",
+    "West Union, MN",
+    "Westby, WI",
+    "Weston, WI",
+    "Westport, MN",
+    "Weyerhaeuser, WI",
+    "Wheeler, WI",
+    "White Bear Lake, MN",
+    "Whitehall, WI",
+    "Willernie, MN",
+    "Wilson, WI",
+    "Wilton, WI",
+    "Winona, MN",
+    "Winsted, MN",
+    "Winter, WI",
+    "Withee, WI",
+    "Wolverton, MN",
+    "Wood Lake, MN",
+    "Woodbury, MN",
+    "Woodland, MN",
+    "Woodstock, MN",
+    "Woodville, WI",
+    "Woonsocket, SD",
+    "Worthing, SD",
+    "Wyeville, WI",
+    "Wyoming, MN",
+    "Zumbro Falls, MN",
+    "Zumbrota, MN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hennepin County, MN",
+     "population": 1281565
+    },
+    {
+     "county": "Ramsey County, MN",
+     "population": 552352
+    },
+    {
+     "county": "Dakota County, MN",
+     "population": 439882
+    },
+    {
+     "county": "Anoka County, MN",
+     "population": 363887
+    },
+    {
+     "county": "Washington County, MN",
+     "population": 267568
+    },
+    {
+     "county": "Minnehaha County, SD",
+     "population": 197214
+    },
+    {
+     "county": "Cass County, ND",
+     "population": 184525
+    },
+    {
+     "county": "Olmsted County, MN",
+     "population": 162847
+    },
+    {
+     "county": "Stearns County, MN",
+     "population": 158292
+    },
+    {
+     "county": "Scott County, MN",
+     "population": 150928
+    },
+    {
+     "county": "Wright County, MN",
+     "population": 141337
+    },
+    {
+     "county": "Marathon County, WI",
+     "population": 138013
+    },
+    {
+     "county": "La Crosse County, WI",
+     "population": 120784
+    },
+    {
+     "county": "Carver County, MN",
+     "population": 106922
+    },
+    {
+     "county": "Eau Claire County, WI",
+     "population": 105710
+    },
+    {
+     "county": "Sherburne County, MN",
+     "population": 97183
+    },
+    {
+     "county": "St. Croix County, WI",
+     "population": 93536
+    },
+    {
+     "county": "Grand Forks County, ND",
+     "population": 73170
+    },
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Blue Earth County, MN",
+     "population": 69112
+    },
+    {
+     "county": "Rice County, MN",
+     "population": 67097
+    },
+    {
+     "county": "Chippewa County, WI",
+     "population": 66297
+    },
+    {
+     "county": "Clay County, MN",
+     "population": 65318
+    },
+    {
+     "county": "Lincoln County, SD",
+     "population": 65161
+    },
+    {
+     "county": "Chisago County, MN",
+     "population": 56621
+    },
+    {
+     "county": "Winona County, MN",
+     "population": 49671
+    },
+    {
+     "county": "Goodhue County, MN",
+     "population": 47582
+    },
+    {
+     "county": "Barron County, WI",
+     "population": 46711
+    },
+    {
+     "county": "Monroe County, WI",
+     "population": 46274
+    },
+    {
+     "county": "Dunn County, WI",
+     "population": 45440
+    },
+    {
+     "county": "Polk County, WI",
+     "population": 44977
+    },
+    {
+     "county": "Kandiyohi County, MN",
+     "population": 43732
+    },
+    {
+     "county": "Pierce County, WI",
+     "population": 42212
+    },
+    {
+     "county": "Benton County, MN",
+     "population": 41379
+    },
+    {
+     "county": "Mower County, MN",
+     "population": 40029
+    },
+    {
+     "county": "Oneida County, WI",
+     "population": 37845
+    },
+    {
+     "county": "Steele County, MN",
+     "population": 37406
+    },
+    {
+     "county": "McLeod County, MN",
+     "population": 36771
+    },
+    {
+     "county": "Clark County, WI",
+     "population": 34659
+    },
+    {
+     "county": "Nicollet County, MN",
+     "population": 34454
+    },
+    {
+     "county": "Freeborn County, MN",
+     "population": 30895
+    },
+    {
+     "county": "Trempealeau County, WI",
+     "population": 30760
+    },
+    {
+     "county": "Vernon County, WI",
+     "population": 30714
+    },
+    {
+     "county": "Le Sueur County, MN",
+     "population": 28674
+    },
+    {
+     "county": "Lincoln County, WI",
+     "population": 28415
+    },
+    {
+     "county": "Brown County, MN",
+     "population": 25912
+    },
+    {
+     "county": "Lyon County, MN",
+     "population": 25269
+    },
+    {
+     "county": "Meeker County, MN",
+     "population": 23400
+    },
+    {
+     "county": "Vilas County, WI",
+     "population": 23047
+    },
+    {
+     "county": "Wabasha County, MN",
+     "population": 21387
+    },
+    {
+     "county": "Jackson County, WI",
+     "population": 21145
+    },
+    {
+     "county": "Dodge County, MN",
+     "population": 20867
+    },
+    {
+     "county": "Taylor County, WI",
+     "population": 19913
+    },
+    {
+     "county": "Waseca County, MN",
+     "population": 18968
+    },
+    {
+     "county": "Houston County, MN",
+     "population": 18843
+    },
+    {
+     "county": "Sawyer County, WI",
+     "population": 18074
+    },
+    {
+     "county": "Washburn County, WI",
+     "population": 16623
+    },
+    {
+     "county": "Bayfield County, WI",
+     "population": 16220
+    },
+    {
+     "county": "Crawford County, WI",
+     "population": 16113
+    },
+    {
+     "county": "Ashland County, WI",
+     "population": 16027
+    },
+    {
+     "county": "Redwood County, MN",
+     "population": 15425
+    },
+    {
+     "county": "Sibley County, MN",
+     "population": 14836
+    },
+    {
+     "county": "Renville County, MN",
+     "population": 14723
+    },
+    {
+     "county": "Gogebic County, MI",
+     "population": 14380
+    },
+    {
+     "county": "Rusk County, WI",
+     "population": 14188
+    },
+    {
+     "county": "Price County, WI",
+     "population": 14054
+    },
+    {
+     "county": "Buffalo County, WI",
+     "population": 13317
+    },
+    {
+     "county": "Chippewa County, MN",
+     "population": 12598
+    },
+    {
+     "county": "Pope County, MN",
+     "population": 11308
+    },
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    },
+    {
+     "county": "Yellow Medicine County, MN",
+     "population": 9528
+    },
+    {
+     "county": "Pipestone County, MN",
+     "population": 9424
+    },
+    {
+     "county": "Turner County, SD",
+     "population": 8673
+    },
+    {
+     "county": "Murray County, MN",
+     "population": 8179
+    },
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    },
+    {
+     "county": "Hutchinson County, SD",
+     "population": 7427
+    },
+    {
+     "county": "Pepin County, WI",
+     "population": 7318
+    },
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    },
+    {
+     "county": "Iron County, WI",
+     "population": 6137
+    },
+    {
+     "county": "Ontonagon County, MI",
+     "population": 5816
+    },
+    {
+     "county": "McCook County, SD",
+     "population": 5682
+    },
+    {
+     "county": "Lincoln County, MN",
+     "population": 5640
+    },
+    {
+     "county": "McHenry County, ND",
+     "population": 5345
+    },
+    {
+     "county": "Hanson County, SD",
+     "population": 3461
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Miner County, SD",
+     "population": 2298
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 1333219
+    },
+    {
+     "state": "Wisconsin",
+     "customers": 256737
+    },
+    {
+     "state": "South Dakota",
+     "customers": 98987
+    },
+    {
+     "state": "North Dakota",
+     "customers": 94993
+    },
+    {
+     "state": "Michigan",
+     "customers": 8936
+    }
+   ]
+  },
+  {
+   "company": "Black Hills Energy",
+   "company-type": "Investor Owned",
+   "website": "https://www.blackhillsenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 234077961.0,
+   "Residential-Customers": 186531.0,
+   "Commercial-Sales-($)": 281991703.0,
+   "Commercial-Customers": 31552.0,
+   "Industrial-Sales-($)": 141438502.0,
+   "Industrial-Customers": 77.0,
+   "Total-Customers": 218160.0,
+   "Total-Production-MWh": 4621438.0,
+   "Production-from-Renewable-Energy-MWh": 845265.0,
+   "Production-from-Non-Renewable-Energy-MWh": 3776173.0,
+   "cities-served": [
+    "Belle Fourche, SD",
+    "Boone, CO",
+    "Box Elder, SD",
+    "Brookside, CO",
+    "Buffalo Chip, SD",
+    "Buffalo Gap, SD",
+    "Ca\u00f1on City, CO",
+    "Central City, SD",
+    "Cheraw, CO",
+    "Cheyenne, WY",
+    "Coal Creek, CO",
+    "Cripple Creek, CO",
+    "Crowley, CO",
+    "Custer, SD",
+    "Deadwood, SD",
+    "Edgemont, SD",
+    "Florence, CO",
+    "Fountain, CO",
+    "Fowler, CO",
+    "Fruitdale, SD",
+    "Green Mountain Falls, CO",
+    "Hill City, SD",
+    "Hot Springs, SD",
+    "Keystone, SD",
+    "La Junta, CO",
+    "Lead, SD",
+    "Manitou Springs, CO",
+    "Manzanola, CO",
+    "Monument, CO",
+    "Newcastle, WY",
+    "Newell, SD",
+    "Nisland, SD",
+    "Olney Springs, CO",
+    "Ordway, CO",
+    "Piedmont, SD",
+    "Pueblo, CO",
+    "Rapid City, SD",
+    "Rockvale, CO",
+    "Rocky Ford, CO",
+    "Silver Cliff, CO",
+    "Spearfish, SD",
+    "Sturgis, SD",
+    "Sugar City, CO",
+    "Summerset, SD",
+    "Swink, CO",
+    "Upton, WY",
+    "Victor, CO",
+    "Westcliffe, CO",
+    "Whitewood, SD",
+    "Williamsburg, CO"
+   ],
+   "counties-served": [
+    {
+     "county": "El Paso County, CO",
+     "population": 730395
+    },
+    {
+     "county": "Pueblo County, CO",
+     "population": 168162
+    },
+    {
+     "county": "Pennington County, SD",
+     "population": 109222
+    },
+    {
+     "county": "Laramie County, WY",
+     "population": 100512
+    },
+    {
+     "county": "Fremont County, CO",
+     "population": 48939
+    },
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Lawrence County, SD",
+     "population": 25768
+    },
+    {
+     "county": "Teller County, CO",
+     "population": 24710
+    },
+    {
+     "county": "Otero County, CO",
+     "population": 18690
+    },
+    {
+     "county": "Las Animas County, CO",
+     "population": 14555
+    },
+    {
+     "county": "Butte County, SD",
+     "population": 10243
+    },
+    {
+     "county": "Custer County, SD",
+     "population": 8318
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    },
+    {
+     "county": "Crowley County, CO",
+     "population": 5922
+    },
+    {
+     "county": "Bent County, CO",
+     "population": 5650
+    },
+    {
+     "county": "Custer County, CO",
+     "population": 4704
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Colorado",
+     "customers": 99809
+    },
+    {
+     "state": "South Dakota",
+     "customers": 71792
+    },
+    {
+     "state": "Wyoming",
+     "customers": 46518
+    },
+    {
+     "state": "Montana",
+     "customers": 41
+    }
+   ]
+  },
+  {
+   "company": "Nebraska Public Power District",
+   "company-type": "Political Subdivision",
+   "website": "https://www.nppd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 88758886.0,
+   "Residential-Customers": 73502.0,
+   "Commercial-Sales-($)": 89732583.0,
+   "Commercial-Customers": 19550.0,
+   "Industrial-Sales-($)": 80635198.0,
+   "Industrial-Customers": 60.0,
+   "Total-Customers": 93112.0,
+   "Total-Production-MWh": 15653802.0,
+   "Production-from-Renewable-Energy-MWh": 151455.0,
+   "Production-from-Non-Renewable-Energy-MWh": 15502347.0,
+   "cities-served": [
+    "Ainsworth, NE",
+    "Alma, NE",
+    "Anoka, NE",
+    "Ashton, NE",
+    "Atkinson, NE",
+    "Aurora, NE",
+    "Barada, NE",
+    "Bassett, NE",
+    "Big Springs, NE",
+    "Bloomfield, NE",
+    "Bristow, NE",
+    "Broadwater, NE",
+    "Brule, NE",
+    "Butte, NE",
+    "Chadron, NE",
+    "Clinton, NE",
+    "Crab Orchard, NE",
+    "Craig, NE",
+    "Crawford, NE",
+    "Creighton, NE",
+    "Dakota City, NE",
+    "Dawson, NE",
+    "Du Bois, NE",
+    "Elm Creek, NE",
+    "Elsie, NE",
+    "Emmet, NE",
+    "Geneva, NE",
+    "Gibbon, NE",
+    "Gordon, NE",
+    "Hartington, NE",
+    "Hay Springs, NE",
+    "Homer, NE",
+    "Humboldt, NE",
+    "Inman, NE",
+    "Kearney, NE",
+    "Lewellen, NE",
+    "Lewiston, NE",
+    "Long Pine, NE",
+    "Loup City, NE",
+    "Lynch, NE",
+    "Madrid, NE",
+    "McCook, NE",
+    "McGrew, NE",
+    "Meadow Grove, NE",
+    "Melbeta, NE",
+    "Merriman, NE",
+    "Milford, NE",
+    "Minatare, NE",
+    "Murray, NE",
+    "Nehawka, NE",
+    "Norfolk, NE",
+    "O'Neill, NE",
+    "Oakdale, NE",
+    "Oakland, NE",
+    "Ogallala, NE",
+    "Oshkosh, NE",
+    "Pawnee City, NE",
+    "Plattsmouth, NE",
+    "Ravenna, NE",
+    "Rushville, NE",
+    "Shelton, NE",
+    "Shubert, NE",
+    "South Sioux City, NE",
+    "Steinauer, NE",
+    "Stella, NE",
+    "Sterling, NE",
+    "Table Rock, NE",
+    "Tekamah, NE",
+    "Terrytown, NE",
+    "Tilden, NE",
+    "Union, NE",
+    "Venango, NE",
+    "Verdon, NE",
+    "Whitney, NE",
+    "Winnebago, NE",
+    "York, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Buffalo County, NE",
+     "population": 50084
+    },
+    {
+     "county": "Scotts Bluff County, NE",
+     "population": 36084
+    },
+    {
+     "county": "Madison County, NE",
+     "population": 35585
+    },
+    {
+     "county": "Cass County, NE",
+     "population": 26598
+    },
+    {
+     "county": "Dakota County, NE",
+     "population": 21582
+    },
+    {
+     "county": "York County, NE",
+     "population": 14125
+    },
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Red Willow County, NE",
+     "population": 10702
+    },
+    {
+     "county": "Hamilton County, NE",
+     "population": 9429
+    },
+    {
+     "county": "Keith County, NE",
+     "population": 8335
+    },
+    {
+     "county": "Dawes County, NE",
+     "population": 8199
+    },
+    {
+     "county": "Richardson County, NE",
+     "population": 7871
+    },
+    {
+     "county": "Burt County, NE",
+     "population": 6722
+    },
+    {
+     "county": "Fillmore County, NE",
+     "population": 5551
+    },
+    {
+     "county": "Johnson County, NE",
+     "population": 5290
+    },
+    {
+     "county": "Sheridan County, NE",
+     "population": 5127
+    },
+    {
+     "county": "Pawnee County, NE",
+     "population": 2544
+    },
+    {
+     "county": "Deuel County, NE",
+     "population": 1838
+    },
+    {
+     "county": "Boyd County, NE",
+     "population": 1810
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Nebraska",
+     "customers": 91794
+    },
+    {
+     "state": "South Dakota",
+     "customers": 1317
+    }
+   ]
+  },
+  {
+   "company": "Sioux Valley Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.siouxvalleyenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 49277564.0,
+   "Residential-Customers": 24033.0,
+   "Commercial-Sales-($)": 7439755.0,
+   "Commercial-Customers": 2646.0,
+   "Industrial-Sales-($)": 35762116.0,
+   "Industrial-Customers": 618.0,
+   "Total-Customers": 27297.0,
+   "cities-served": [
+    "Brandon, SD",
+    "Brant Lake, SD",
+    "Bruce, SD",
+    "Colman, SD",
+    "Colton, SD",
+    "Crooks, SD",
+    "Flandreau, SD",
+    "Garretson, SD",
+    "Hartford, SD",
+    "Humboldt, SD",
+    "Madison, SD",
+    "Ramona, SD",
+    "Sinai, SD",
+    "Sioux Falls, SD",
+    "Trent, SD",
+    "Valley Springs, SD",
+    "White, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Minnehaha County, SD",
+     "population": 197214
+    },
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    },
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    },
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    },
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 23418
+    },
+    {
+     "state": "Minnesota",
+     "customers": 3879
+    }
+   ]
+  },
+  {
+   "company": "Southeastern Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.southeasternelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29528296.0,
+   "Residential-Customers": 17802.0,
+   "Commercial-Sales-($)": 16624733.0,
+   "Commercial-Customers": 2427.0,
+   "Industrial-Sales-($)": 22951477.0,
+   "Industrial-Customers": 261.0,
+   "Total-Customers": 20490.0,
+   "cities-served": [
+    "Alcester, SD",
+    "Canton, SD",
+    "Davis, SD",
+    "Harrisburg, SD",
+    "Hurley, SD",
+    "Irene, SD",
+    "Lennox, SD",
+    "Marion, SD",
+    "Montrose, SD",
+    "Parker, SD",
+    "Parkston, SD",
+    "Salem, SD",
+    "Sioux Falls, SD",
+    "Spencer, SD",
+    "Tea, SD",
+    "Viborg, SD",
+    "Worthing, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Lincoln County, SD",
+     "population": 65161
+    },
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    },
+    {
+     "county": "Clay County, SD",
+     "population": 14967
+    },
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    },
+    {
+     "county": "Turner County, SD",
+     "population": 8673
+    },
+    {
+     "county": "Hutchinson County, SD",
+     "population": 7427
+    },
+    {
+     "county": "McCook County, SD",
+     "population": 5682
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 20489
+    }
+   ]
+  },
+  {
+   "company": "West River Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.westriver.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 23910450.0,
+   "Residential-Customers": 16583.0,
+   "Commercial-Sales-($)": 11504027.0,
+   "Commercial-Customers": 2036.0,
+   "Industrial-Sales-($)": 2673160.0,
+   "Industrial-Customers": 19.0,
+   "Total-Customers": 18638.0,
+   "cities-served": [
+    "Box Elder, SD",
+    "Buffalo Chip, SD",
+    "Cottonwood, SD",
+    "Interior, SD",
+    "New Underwood, SD",
+    "Quinn, SD",
+    "Rapid City, SD",
+    "Sturgis, SD",
+    "Wall, SD",
+    "Wasta, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Pennington County, SD",
+     "population": 109222
+    },
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Jackson County, SD",
+     "population": 2806
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 18637
+    }
+   ]
+  },
+  {
+   "company": "Watertown Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.watertownmu.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11201000.0,
+   "Residential-Customers": 10878.0,
+   "Commercial-Sales-($)": 10530000.0,
+   "Commercial-Customers": 2503.0,
+   "Industrial-Sales-($)": 9378000.0,
+   "Industrial-Customers": 98.0,
+   "Total-Customers": 13479.0,
+   "cities-served": [
+    "Watertown"
+   ],
+   "counties-served": [
+    {
+     "county": "Codington County, SD",
+     "population": 28325
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 13479
+    }
+   ]
+  },
+  {
+   "company": "Brookings Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.brookingsutilities.com/?page_id=146",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 11317000.0,
+   "Residential-Customers": 9936.0,
+   "Commercial-Sales-($)": 4443000.0,
+   "Commercial-Customers": 1512.0,
+   "Industrial-Sales-($)": 14525000.0,
+   "Industrial-Customers": 166.0,
+   "Total-Customers": 11614.0,
+   "cities-served": [
+    "Brookings"
+   ],
+   "counties-served": [
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 11614
+    }
+   ]
+  },
+  {
+   "company": "Black Hills Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.bhec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16927436.0,
+   "Residential-Customers": 8660.0,
+   "Commercial-Sales-($)": 4873578.0,
+   "Commercial-Customers": 1864.0,
+   "Industrial-Sales-($)": 598371.0,
+   "Industrial-Customers": 87.0,
+   "Total-Customers": 10611.0,
+   "cities-served": [
+    "Buffalo Gap, SD",
+    "Fairburn, SD",
+    "Hermosa, SD",
+    "Hill City, SD",
+    "Hot Springs, SD",
+    "Oelrichs, SD",
+    "Pringle, SD",
+    "Rapid City, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Pennington County, SD",
+     "population": 109222
+    },
+    {
+     "county": "Lawrence County, SD",
+     "population": 25768
+    },
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Custer County, SD",
+     "population": 8318
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 10611
+    }
+   ]
+  },
+  {
+   "company": "City of Pierre Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofpierre.org/206/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6807603.0,
+   "Residential-Customers": 6148.0,
+   "Commercial-Sales-($)": 2714223.0,
+   "Commercial-Customers": 1031.0,
+   "Industrial-Sales-($)": 5354119.0,
+   "Industrial-Customers": 162.0,
+   "Total-Customers": 7341.0,
+   "cities-served": [
+    "Pierre"
+   ],
+   "counties-served": [
+    {
+     "county": "Hughes County, SD",
+     "population": 17765
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 7341
+    }
+   ]
+  },
+  {
+   "company": "Central Electric Coop SD",
+   "company-type": "Cooperative",
+   "website": "http://www.centralec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14395767.0,
+   "Residential-Customers": 6406.0,
+   "Commercial-Sales-($)": 3207962.0,
+   "Commercial-Customers": 663.0,
+   "Industrial-Sales-($)": 17558390.0,
+   "Industrial-Customers": 172.0,
+   "Total-Customers": 7241.0,
+   "cities-served": [
+    "Alpena, SD",
+    "Carthage, SD",
+    "Chamberlain, SD",
+    "Emery, SD",
+    "Farmer, SD",
+    "Fulton, SD",
+    "Kimball, SD",
+    "Letcher, SD",
+    "Mitchell, SD",
+    "Oacoma, SD",
+    "Plankinton, SD",
+    "Pukwana, SD",
+    "Stickney, SD",
+    "Wessington Springs, SD",
+    "Woonsocket, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Davison County, SD",
+     "population": 19956
+    },
+    {
+     "county": "Brule County, SD",
+     "population": 5247
+    },
+    {
+     "county": "Hanson County, SD",
+     "population": 3461
+    },
+    {
+     "county": "Aurora County, SD",
+     "population": 2747
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Miner County, SD",
+     "population": 2298
+    },
+    {
+     "county": "Buffalo County, SD",
+     "population": 1948
+    },
+    {
+     "county": "Jerauld County, SD",
+     "population": 1663
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 7241
+    }
+   ]
+  },
+  {
+   "company": "Moreau-Grand Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mge.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 7877329.535,
+   "Residential-Customers": 6003.0,
+   "Commercial-Sales-($)": 4273270.465,
+   "Commercial-Customers": 986.0,
+   "Total-Customers": 6989.0,
+   "cities-served": [
+    "Dupree, SD",
+    "Eagle Butte, SD",
+    "Isabel, SD",
+    "McLaughlin, SD",
+    "Timber Lake, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Dewey County, SD",
+     "population": 5239
+    },
+    {
+     "county": "Corson County, SD",
+     "population": 3902
+    },
+    {
+     "county": "Ziebach County, SD",
+     "population": 2413
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6989
+    }
+   ]
+  },
+  {
+   "company": "West Central Electric Cooperative (South Dakota)",
+   "company-type": "Cooperative",
+   "website": "https://www.wce.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 9610710.409,
+   "Residential-Customers": 5513.0,
+   "Commercial-Sales-($)": 7385289.591,
+   "Commercial-Customers": 1274.0,
+   "Total-Customers": 6787.0,
+   "cities-served": [
+    "Alpena, SD",
+    "Belvidere, SD",
+    "Carthage, SD",
+    "Chamberlain, SD",
+    "Draper, SD",
+    "Emery, SD",
+    "Farmer, SD",
+    "Fulton, SD",
+    "Kadoka, SD",
+    "Kennebec, SD",
+    "Letcher, SD",
+    "Midland, SD",
+    "Mitchell, SD",
+    "Murdo, SD",
+    "Oacoma, SD",
+    "Philip, SD",
+    "Plankinton, SD",
+    "Presho, SD",
+    "Pukwana, SD",
+    "Reliance, SD",
+    "Stickney, SD",
+    "Wessington Springs, SD",
+    "Woonsocket, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Davison County, SD",
+     "population": 19956
+    },
+    {
+     "county": "Brule County, SD",
+     "population": 5247
+    },
+    {
+     "county": "Lyman County, SD",
+     "population": 3718
+    },
+    {
+     "county": "Hanson County, SD",
+     "population": 3461
+    },
+    {
+     "county": "Stanley County, SD",
+     "population": 2980
+    },
+    {
+     "county": "Jackson County, SD",
+     "population": 2806
+    },
+    {
+     "county": "Aurora County, SD",
+     "population": 2747
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Miner County, SD",
+     "population": 2298
+    },
+    {
+     "county": "Buffalo County, SD",
+     "population": 1948
+    },
+    {
+     "county": "Mellette County, SD",
+     "population": 1918
+    },
+    {
+     "county": "Haakon County, SD",
+     "population": 1872
+    },
+    {
+     "county": "Jerauld County, SD",
+     "population": 1663
+    },
+    {
+     "county": "Jones County, SD",
+     "population": 917
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6787
+    }
+   ]
+  },
+  {
+   "company": "LaCreek Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.lacreek.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6321863.868,
+   "Residential-Customers": 4583.0,
+   "Commercial-Sales-($)": 2390266.624,
+   "Commercial-Customers": 620.0,
+   "Industrial-Sales-($)": 5484969.508,
+   "Industrial-Customers": 1564.0,
+   "Total-Customers": 6767.0,
+   "cities-served": [
+    "Batesland, SD",
+    "Martin, SD",
+    "Merriman, NE"
+   ],
+   "counties-served": [
+    {
+     "county": "Oglala Lakota County, SD",
+     "population": 13672
+    },
+    {
+     "county": "Todd County, SD",
+     "population": 9319
+    },
+    {
+     "county": "Cherry County, NE",
+     "population": 5455
+    },
+    {
+     "county": "Bennett County, SD",
+     "population": 3381
+    },
+    {
+     "county": "Jackson County, SD",
+     "population": 2806
+    },
+    {
+     "county": "Mellette County, SD",
+     "population": 1918
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6516
+    },
+    {
+     "state": "Nebraska",
+     "customers": 251
+    }
+   ]
+  },
+  {
+   "company": "Northern Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.northernelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14517682.0,
+   "Residential-Customers": 5422.0,
+   "Commercial-Sales-($)": 5014268.0,
+   "Commercial-Customers": 879.0,
+   "Industrial-Sales-($)": 10069153.0,
+   "Industrial-Customers": 240.0,
+   "Total-Customers": 6541.0,
+   "cities-served": [
+    "Aberdeen, SD",
+    "Claremont, SD",
+    "Columbia, SD",
+    "Groton, SD",
+    "Redfield, SD",
+    "Verdon, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    },
+    {
+     "county": "Spink County, SD",
+     "population": 6361
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6540
+    }
+   ]
+  },
+  {
+   "company": "Butte Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.butteelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9274783.572,
+   "Residential-Customers": 5365.0,
+   "Commercial-Sales-($)": 5008074.227,
+   "Commercial-Customers": 848.0,
+   "Industrial-Sales-($)": 349242.201,
+   "Industrial-Customers": 194.0,
+   "Total-Customers": 6407.0,
+   "cities-served": [
+    "Belle Fourche, SD",
+    "Deadwood, SD",
+    "Newell, SD",
+    "Spearfish, SD",
+    "Sturgis, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Lawrence County, SD",
+     "population": 25768
+    },
+    {
+     "county": "Butte County, SD",
+     "population": 10243
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 6407
+    }
+   ]
+  },
+  {
+   "company": "Cherry Todd Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cherry-todd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6471290.301,
+   "Residential-Customers": 4600.0,
+   "Commercial-Sales-($)": 1347665.947,
+   "Commercial-Customers": 105.0,
+   "Industrial-Sales-($)": 6145543.752,
+   "Industrial-Customers": 1277.0,
+   "Total-Customers": 5982.0,
+   "cities-served": [
+    "Mission, SD",
+    "St. Francis, SD",
+    "White River, SD",
+    "Wood, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Todd County, SD",
+     "population": 9319
+    },
+    {
+     "county": "Mellette County, SD",
+     "population": 1918
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 4900
+    },
+    {
+     "state": "Nebraska",
+     "customers": 1082
+    }
+   ]
+  },
+  {
+   "company": "Rosebud Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.rosebudelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6445000.0,
+   "Residential-Customers": 4794.0,
+   "Commercial-Sales-($)": 1948000.0,
+   "Commercial-Customers": 762.0,
+   "Industrial-Sales-($)": 75417.0,
+   "Industrial-Customers": 22.0,
+   "Total-Customers": 5578.0,
+   "cities-served": [
+    "Bonesteel, SD",
+    "Burke, SD",
+    "Colome, SD",
+    "Dallas, SD",
+    "Fairfax, SD",
+    "Gregory, SD",
+    "Herrick, SD",
+    "New Witten, SD",
+    "Winner, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Tripp County, SD",
+     "population": 5624
+    },
+    {
+     "county": "Gregory County, SD",
+     "population": 3994
+    },
+    {
+     "county": "Lyman County, SD",
+     "population": 3718
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 5579
+    }
+   ]
+  },
+  {
+   "company": "Grand Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.grandelectric.coop/",
+   "service-types": [
+    "Residential"
+   ],
+   "Residential-Sales-($)": 11520100.0,
+   "Residential-Customers": 5197.0,
+   "Total-Customers": 5197.0,
+   "cities-served": [
+    "Bison, SD",
+    "Buffalo, SD",
+    "Camp Crook, SD",
+    "Faith, SD",
+    "Lemmon, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    },
+    {
+     "county": "Butte County, SD",
+     "population": 10243
+    },
+    {
+     "county": "Perkins County, SD",
+     "population": 2835
+    },
+    {
+     "county": "Harding County, SD",
+     "population": 1311
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 5184
+    },
+    {
+     "state": "Montana",
+     "customers": 13
+    }
+   ]
+  },
+  {
+   "company": "City of Vermillion Electric Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.vermillion.us/208/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 4202815.217,
+   "Residential-Customers": 4260.0,
+   "Commercial-Sales-($)": 3688184.783,
+   "Commercial-Customers": 616.0,
+   "Total-Customers": 4876.0,
+   "cities-served": [
+    "Vermillion"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, SD",
+     "population": 14967
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 4876
+    }
+   ]
+  },
+  {
+   "company": "Bon Homme Yankton Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.byelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6911125.649,
+   "Residential-Customers": 3442.0,
+   "Commercial-Sales-($)": 2407004.52,
+   "Commercial-Customers": 438.0,
+   "Industrial-Sales-($)": 1048069.831,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 3882.0,
+   "cities-served": [
+    "Lesterville, SD",
+    "Springfield, SD",
+    "Tabor, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Bon Homme County, SD",
+     "population": 7003
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3882
+    }
+   ]
+  },
+  {
+   "company": "Clay-Union Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.clayunionelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6008350.093,
+   "Residential-Customers": 3260.0,
+   "Commercial-Sales-($)": 1334100.559,
+   "Commercial-Customers": 202.0,
+   "Industrial-Sales-($)": 1073549.348,
+   "Industrial-Customers": 313.0,
+   "Total-Customers": 3775.0,
+   "cities-served": [
+    "Gayville, SD",
+    "Vermillion, SD",
+    "Volin, SD",
+    "Wakonda, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Yankton County, SD",
+     "population": 23310
+    },
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    },
+    {
+     "county": "Clay County, SD",
+     "population": 14967
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3775
+    }
+   ]
+  },
+  {
+   "company": "HD Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.h-delectric.coop/",
+   "service-types": [
+    "Residential",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 10065882.353,
+   "Residential-Customers": 2672.0,
+   "Industrial-Sales-($)": 1342117.647,
+   "Industrial-Customers": 1002.0,
+   "Total-Customers": 3674.0,
+   "cities-served": [
+    "Altamont, SD",
+    "Brandt, SD",
+    "Castlewood, SD",
+    "Clear Lake, SD",
+    "Estelline, SD",
+    "Hayti, SD",
+    "Lake Norden, SD",
+    "Toronto, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    },
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    },
+    {
+     "county": "Deuel County, SD",
+     "population": 4295
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3663
+    },
+    {
+     "state": "Minnesota",
+     "customers": 11
+    }
+   ]
+  },
+  {
+   "company": "Dakota Energy Coop",
+   "company-type": "Cooperative",
+   "website": "http://dakotaenergy.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 9137200.0,
+   "Residential-Customers": 3274.0,
+   "Commercial-Sales-($)": 4498900.0,
+   "Commercial-Customers": 299.0,
+   "Industrial-Sales-($)": 9851700.0,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 3579.0,
+   "cities-served": [
+    "Cavour, SD",
+    "Huron, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Beadle County, SD",
+     "population": 19149
+    },
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    },
+    {
+     "county": "Hand County, SD",
+     "population": 3145
+    },
+    {
+     "county": "Buffalo County, SD",
+     "population": 1948
+    },
+    {
+     "county": "Hyde County, SD",
+     "population": 1262
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3579
+    }
+   ]
+  },
+  {
+   "company": "Lake Region Electric Webster, South Dakota",
+   "company-type": "Cooperative",
+   "website": "https://www.lakeregion.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6883814.244,
+   "Residential-Customers": 3307.0,
+   "Commercial-Sales-($)": 2099894.073,
+   "Commercial-Customers": 154.0,
+   "Industrial-Sales-($)": 8008291.683,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 3468.0,
+   "cities-served": [
+    "Lake City, SD",
+    "Ortley, SD",
+    "Roslyn, SD",
+    "Webster, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    },
+    {
+     "county": "Roberts County, SD",
+     "population": 10280
+    },
+    {
+     "county": "Day County, SD",
+     "population": 5449
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3468
+    }
+   ]
+  },
+  {
+   "company": "Whetstone Valley Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.whetstone.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7044439.356,
+   "Residential-Customers": 3031.0,
+   "Commercial-Sales-($)": 3153955.955,
+   "Commercial-Customers": 322.0,
+   "Industrial-Sales-($)": 52104.688,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 3392.0,
+   "cities-served": [
+    "La Bolt, SD",
+    "Marvin, SD",
+    "Milbank, SD",
+    "Revillo, SD",
+    "Sisseton, SD",
+    "Stockholm, SD",
+    "Twin Brooks, SD",
+    "Wilmot, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Roberts County, SD",
+     "population": 10280
+    },
+    {
+     "county": "Grant County, SD",
+     "population": 7556
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3392
+    }
+   ]
+  },
+  {
+   "company": "Codington Clark Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.ccelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 8048651.221,
+   "Residential-Customers": 3122.0,
+   "Commercial-Sales-($)": 4292348.779,
+   "Commercial-Customers": 248.0,
+   "Total-Customers": 3370.0,
+   "cities-served": [
+    "Florence, SD",
+    "Garden City, SD",
+    "Henry, SD",
+    "South Shore, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Codington County, SD",
+     "population": 28325
+    },
+    {
+     "county": "Grant County, SD",
+     "population": 7556
+    },
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    },
+    {
+     "county": "Day County, SD",
+     "population": 5449
+    },
+    {
+     "county": "Clark County, SD",
+     "population": 3837
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3370
+    }
+   ]
+  },
+  {
+   "company": "Madison SD Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmadisonsd.com/departments/utilities/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4223000.0,
+   "Residential-Customers": 2896.0,
+   "Commercial-Sales-($)": 3244000.0,
+   "Commercial-Customers": 424.0,
+   "Industrial-Sales-($)": 3038000.0,
+   "Industrial-Customers": 44.0,
+   "Total-Customers": 3364.0,
+   "cities-served": [
+    "Madison"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3363
+    }
+   ]
+  },
+  {
+   "company": "Oahe Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.oaheelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5054840.496,
+   "Residential-Customers": 2220.0,
+   "Commercial-Sales-($)": 4800686.504,
+   "Commercial-Customers": 755.0,
+   "Industrial-Sales-($)": 2847373.0,
+   "Industrial-Customers": 217.0,
+   "Total-Customers": 3192.0,
+   "cities-served": [
+    "Agar, SD",
+    "Onida, SD",
+    "Pierre, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Hughes County, SD",
+     "population": 17765
+    },
+    {
+     "county": "Sully County, SD",
+     "population": 1446
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 3192
+    }
+   ]
+  },
+  {
+   "company": "Traverse Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.traverseelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7014446.35,
+   "Residential-Customers": 2936.0,
+   "Commercial-Sales-($)": 2103539.517,
+   "Commercial-Customers": 134.0,
+   "Industrial-Sales-($)": 2446348.793,
+   "Industrial-Customers": 23.0,
+   "Total-Customers": 3093.0,
+   "cities-served": [
+    "Abercrombie, ND",
+    "Barney, ND",
+    "Chokio, MN",
+    "Christine, ND",
+    "Colfax, ND",
+    "Dwight, ND",
+    "Fairmount, ND",
+    "Graceville, MN",
+    "Great Bend, ND",
+    "Hankinson, ND",
+    "Herman, MN",
+    "Lidgerwood, ND",
+    "Mantador, ND",
+    "Mooreton, ND",
+    "Nashua, MN",
+    "New Effington, SD",
+    "Norcross, MN",
+    "Wahpeton, ND",
+    "Walcott, ND",
+    "Wyndmere, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, ND",
+     "population": 16529
+    },
+    {
+     "county": "Roberts County, SD",
+     "population": 10280
+    },
+    {
+     "county": "Stevens County, MN",
+     "population": 9671
+    },
+    {
+     "county": "Wilkin County, MN",
+     "population": 6506
+    },
+    {
+     "county": "Grant County, MN",
+     "population": 6074
+    },
+    {
+     "county": "Big Stone County, MN",
+     "population": 5166
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    },
+    {
+     "county": "Traverse County, MN",
+     "population": 3360
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 2012
+    },
+    {
+     "state": "South Dakota",
+     "customers": 1046
+    },
+    {
+     "state": "North Dakota",
+     "customers": 35
+    }
+   ]
+  },
+  {
+   "company": "Niobrara Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.niobrara-electric.org/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6604862.464,
+   "Residential-Customers": 1881.0,
+   "Commercial-Sales-($)": 2866577.364,
+   "Commercial-Customers": 997.0,
+   "Industrial-Sales-($)": 2229560.172,
+   "Industrial-Customers": 159.0,
+   "Total-Customers": 3037.0,
+   "cities-served": [
+    "Harrison"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawes County, NE",
+     "population": 8199
+    },
+    {
+     "county": "Fall River County, SD",
+     "population": 6973
+    },
+    {
+     "county": "Sioux County, NE",
+     "population": 1135
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Wyoming",
+     "customers": 2102
+    },
+    {
+     "state": "Nebraska",
+     "customers": 920
+    },
+    {
+     "state": "South Dakota",
+     "customers": 15
+    }
+   ]
+  },
+  {
+   "company": "City of Sioux Falls Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.siouxfalls.org/public-works/electric-light",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1340445.283,
+   "Residential-Customers": 1953.0,
+   "Commercial-Sales-($)": 7580554.717,
+   "Commercial-Customers": 960.0,
+   "Total-Customers": 2913.0,
+   "cities-served": [
+    "Sioux Falls"
+   ],
+   "counties-served": [
+    {
+     "county": "Minnehaha County, SD",
+     "population": 197214
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 2913
+    }
+   ]
+  },
+  {
+   "company": "Charles Mix Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.cme.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4709108.641,
+   "Residential-Customers": 2208.0,
+   "Commercial-Sales-($)": 3002682.318,
+   "Commercial-Customers": 215.0,
+   "Industrial-Sales-($)": 146209.041,
+   "Industrial-Customers": 141.0,
+   "Total-Customers": 2564.0,
+   "cities-served": [
+    "Dante, SD",
+    "Geddes, SD",
+    "Pickstown, SD",
+    "Platte, SD",
+    "Wagner, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Charles Mix County, SD",
+     "population": 9373
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 2564
+    }
+   ]
+  },
+  {
+   "company": "Cam Wal Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.cam-walnet.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5042927.441,
+   "Residential-Customers": 2170.0,
+   "Commercial-Sales-($)": 2025480.112,
+   "Commercial-Customers": 195.0,
+   "Industrial-Sales-($)": 428792.447,
+   "Industrial-Customers": 117.0,
+   "Total-Customers": 2482.0,
+   "cities-served": [
+    "Gettysburg, SD",
+    "Glenham, SD",
+    "Herreid, SD",
+    "Lowry, SD",
+    "Mobridge, SD",
+    "Selby, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Walworth County, SD",
+     "population": 5315
+    },
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "Potter County, SD",
+     "population": 2472
+    },
+    {
+     "county": "Campbell County, SD",
+     "population": 1377
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 2482
+    }
+   ]
+  },
+  {
+   "company": "FEM Electric Association",
+   "company-type": "Cooperative",
+   "website": "https://www.femelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 4742662.052,
+   "Residential-Customers": 1833.0,
+   "Commercial-Sales-($)": 4081371.379,
+   "Commercial-Customers": 268.0,
+   "Industrial-Sales-($)": 7220966.569,
+   "Industrial-Customers": 5.0,
+   "Total-Customers": 2106.0,
+   "cities-served": [
+    "Bowdle, SD",
+    "Chelsea, SD",
+    "Eureka, SD",
+    "Hillsview, SD",
+    "Hosmer, SD",
+    "Ipswich, SD",
+    "Long Lake, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "McPherson County, SD",
+     "population": 2411
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 2106
+    }
+   ]
+  },
+  {
+   "company": "Winner Municipal Utility",
+   "company-type": "Municipal",
+   "website": "https://www.brightenergysolutions.com/municipalities-container/sd/winner-municipal-utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2029261.031,
+   "Residential-Customers": 1416.0,
+   "Commercial-Sales-($)": 1908038.969,
+   "Commercial-Customers": 466.0,
+   "Total-Customers": 1882.0,
+   "cities-served": [
+    "Winner"
+   ],
+   "counties-served": [
+    {
+     "county": "Tripp County, SD",
+     "population": 5624
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1882
+    }
+   ]
+  },
+  {
+   "company": "Union County Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.unioncounty.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3292284.515,
+   "Residential-Customers": 1346.0,
+   "Commercial-Sales-($)": 648008.396,
+   "Commercial-Customers": 88.0,
+   "Industrial-Sales-($)": 367707.09,
+   "Industrial-Customers": 216.0,
+   "Total-Customers": 1650.0,
+   "cities-served": [
+    "Elk Point",
+    "Richland CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1650
+    }
+   ]
+  },
+  {
+   "company": "Flandreau, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofflandreau.com/index.asp?SEC=B22AAD1B-EAAD-4218-AB09-BFE71ABE320C&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1201320.426,
+   "Residential-Customers": 1105.0,
+   "Commercial-Sales-($)": 1617693.375,
+   "Commercial-Customers": 299.0,
+   "Industrial-Sales-($)": 33886.199,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 1408.0,
+   "cities-served": [
+    "Flandreau"
+   ],
+   "counties-served": [
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1408
+    }
+   ]
+  },
+  {
+   "company": "Fort Pierre, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.fortpierre.com/departments/public-works-administration/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1435641.574,
+   "Residential-Customers": 1063.0,
+   "Commercial-Sales-($)": 1018358.426,
+   "Commercial-Customers": 314.0,
+   "Total-Customers": 1377.0,
+   "Total-Production-MWh": 534.0,
+   "Production-from-Non-Renewable-Energy-MWh": 534.0,
+   "cities-served": [
+    "Fort Pierre"
+   ],
+   "counties-served": [
+    {
+     "county": "Stanley County, SD",
+     "population": 2980
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1377
+    }
+   ]
+  },
+  {
+   "company": "Beresford, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.beresfordsd.com/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1357650.714,
+   "Residential-Customers": 974.0,
+   "Commercial-Sales-($)": 641196.457,
+   "Commercial-Customers": 234.0,
+   "Industrial-Sales-($)": 1796152.829,
+   "Industrial-Customers": 18.0,
+   "Total-Customers": 1226.0,
+   "cities-served": [
+    "Beresford"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1226
+    }
+   ]
+  },
+  {
+   "company": "Volga, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.volgacity.com/2151/Utility-Rates",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1459713.0,
+   "Residential-Customers": 997.0,
+   "Commercial-Sales-($)": 181660.0,
+   "Commercial-Customers": 132.0,
+   "Industrial-Sales-($)": 4211947.0,
+   "Industrial-Customers": 39.0,
+   "Total-Customers": 1168.0,
+   "cities-served": [
+    "Volga"
+   ],
+   "counties-served": [
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1168
+    }
+   ]
+  },
+  {
+   "company": "Kingsbury Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kec-sd.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2898915.778,
+   "Residential-Customers": 1077.0,
+   "Commercial-Sales-($)": 237178.785,
+   "Commercial-Customers": 13.0,
+   "Industrial-Sales-($)": 18805.438,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 1105.0,
+   "cities-served": [
+    "Badger, SD",
+    "Bancroft, SD",
+    "De Smet, SD",
+    "Iroquois, SD"
+   ],
+   "counties-served": [
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1105
+    }
+   ]
+  },
+  {
+   "company": "Elk Point, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://elkpoint.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 932077.036,
+   "Residential-Customers": 809.0,
+   "Commercial-Sales-($)": 720241.346,
+   "Commercial-Customers": 187.0,
+   "Industrial-Sales-($)": 278681.619,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 1009.0,
+   "cities-served": [
+    "Elk Point"
+   ],
+   "counties-served": [
+    {
+     "county": "Union County, SD",
+     "population": 16811
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 1009
+    }
+   ]
+  },
+  {
+   "company": "Miller, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofmiller.com/167/Electric-Department",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1219504.655,
+   "Residential-Customers": 749.0,
+   "Commercial-Sales-($)": 1092495.345,
+   "Commercial-Customers": 193.0,
+   "Total-Customers": 942.0,
+   "cities-served": [
+    "Miller"
+   ],
+   "counties-served": [
+    {
+     "county": "Hand County, SD",
+     "population": 3145
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 942
+    }
+   ]
+  },
+  {
+   "company": "Douglas Electric Coop",
+   "company-type": "Cooperative",
+   "website": "https://www.douglaselec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2255151.097,
+   "Residential-Customers": 729.0,
+   "Commercial-Sales-($)": 684048.903,
+   "Commercial-Customers": 101.0,
+   "Total-Customers": 830.0,
+   "cities-served": [
+    "Corsica",
+    "New Holland CDP",
+    "Harrison CDP",
+    "Greenwood Colony CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Douglas County, SD",
+     "population": 2835
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 830
+    }
+   ]
+  },
+  {
+   "company": "Tyndall, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://tyndallsd.org/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 788991.962,
+   "Residential-Customers": 483.0,
+   "Commercial-Sales-($)": 344688.535,
+   "Commercial-Customers": 140.0,
+   "Industrial-Sales-($)": 148419.502,
+   "Industrial-Customers": 15.0,
+   "Total-Customers": 638.0,
+   "cities-served": [
+    "Tyndall"
+   ],
+   "counties-served": [
+    {
+     "county": "Bon Homme County, SD",
+     "population": 7003
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 638
+    }
+   ]
+  },
+  {
+   "company": "Howard, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhoward.com/index.asp?SEC=2000660D-6398-4651-96C0-4C63AFE37A8D",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 749904.571,
+   "Residential-Customers": 523.0,
+   "Commercial-Sales-($)": 369448.582,
+   "Commercial-Customers": 100.0,
+   "Industrial-Sales-($)": 218246.847,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 629.0,
+   "cities-served": [
+    "Howard"
+   ],
+   "counties-served": [
+    {
+     "county": "Miner County, SD",
+     "population": 2298
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 629
+    }
+   ]
+  },
+  {
+   "company": "Wessington Springs, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://wessingtonsprings.com/service-providers",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 773582.667,
+   "Residential-Customers": 507.0,
+   "Commercial-Sales-($)": 216721.746,
+   "Commercial-Customers": 77.0,
+   "Industrial-Sales-($)": 172895.587,
+   "Industrial-Customers": 36.0,
+   "Total-Customers": 620.0,
+   "cities-served": [
+    "Wessington Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Jerauld County, SD",
+     "population": 1663
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 620
+    }
+   ]
+  },
+  {
+   "company": "Parker Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.parkersd.org/index.asp?SEC=688A7525-2421-4E40-B28B-8A21F2BC27B5&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 709606.303,
+   "Residential-Customers": 515.0,
+   "Commercial-Sales-($)": 52884.215,
+   "Commercial-Customers": 18.0,
+   "Industrial-Sales-($)": 382009.482,
+   "Industrial-Customers": 73.0,
+   "Total-Customers": 606.0,
+   "cities-served": [
+    "Parker"
+   ],
+   "counties-served": [
+    {
+     "county": "Turner County, SD",
+     "population": 8673
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 606
+    }
+   ]
+  },
+  {
+   "company": "Groton, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.grotonsd.gov/city/electric.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1153248.98,
+   "Residential-Customers": 507.0,
+   "Commercial-Sales-($)": 559151.02,
+   "Commercial-Customers": 82.0,
+   "Total-Customers": 589.0,
+   "cities-served": [
+    "Groton"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 589
+    }
+   ]
+  },
+  {
+   "company": "Arlington, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.arlingtonsd.com/city_departments.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 625782.91,
+   "Residential-Customers": 496.0,
+   "Commercial-Sales-($)": 492144.991,
+   "Commercial-Customers": 90.0,
+   "Industrial-Sales-($)": 112272.099,
+   "Industrial-Customers": 3.0,
+   "Total-Customers": 589.0,
+   "cities-served": [
+    "Arlington"
+   ],
+   "counties-served": [
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 589
+    }
+   ]
+  },
+  {
+   "company": "City of Aurora Utilities",
+   "company-type": "Municipal",
+   "website": "https://aurorasd.govoffice3.com/index.asp?SEC=F861C6FE-4213-4EF8-97AB-26DB21B2EB3C&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 473694.258,
+   "Residential-Customers": 469.0,
+   "Commercial-Sales-($)": 40310.18,
+   "Commercial-Customers": 27.0,
+   "Industrial-Sales-($)": 125795.562,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 497.0,
+   "cities-served": [
+    "Aurora"
+   ],
+   "counties-served": [
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 497
+    }
+   ]
+  },
+  {
+   "company": "Onida, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://onidasd.org/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 766000.0,
+   "Residential-Customers": 426.0,
+   "Commercial-Sales-($)": 147000.0,
+   "Commercial-Customers": 70.0,
+   "Total-Customers": 496.0,
+   "cities-served": [
+    "Onida"
+   ],
+   "counties-served": [
+    {
+     "county": "Sully County, SD",
+     "population": 1446
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 496
+    }
+   ]
+  },
+  {
+   "company": "Burke, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.burkesouthdakota.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 348318.11,
+   "Residential-Customers": 339.0,
+   "Commercial-Sales-($)": 262681.89,
+   "Commercial-Customers": 133.0,
+   "Total-Customers": 472.0,
+   "cities-served": [
+    "Burke"
+   ],
+   "counties-served": [
+    {
+     "county": "Gregory County, SD",
+     "population": 3994
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 472
+    }
+   ]
+  },
+  {
+   "company": "Plankinton, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.cityofplankinton.com/cityhall.html",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 687202.201,
+   "Residential-Customers": 390.0,
+   "Commercial-Sales-($)": 242797.799,
+   "Commercial-Customers": 73.0,
+   "Total-Customers": 463.0,
+   "cities-served": [
+    "Plankinton"
+   ],
+   "counties-served": [
+    {
+     "county": "Aurora County, SD",
+     "population": 2747
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 463
+    }
+   ]
+  },
+  {
+   "company": "Estelline, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.estellinesd.com/services.htm",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 418351.361,
+   "Residential-Customers": 355.0,
+   "Commercial-Sales-($)": 63874.049,
+   "Commercial-Customers": 40.0,
+   "Industrial-Sales-($)": 164274.59,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 408.0,
+   "cities-served": [
+    "Estelline"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 408
+    }
+   ]
+  },
+  {
+   "company": "Big Stone City, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://bigstonecitysd.govoffice2.com/index.asp?SEC=4157CD6E-38B8-4C83-8CC6-A1DC01D63BA6&DE=FBAF8F8B-AFCA-4C25-891B-9C8D3D736561&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 416631.625,
+   "Residential-Customers": 341.0,
+   "Commercial-Sales-($)": 132882.509,
+   "Commercial-Customers": 61.0,
+   "Industrial-Sales-($)": 581485.866,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 404.0,
+   "cities-served": [
+    "Big Stone City"
+   ],
+   "counties-served": [
+    {
+     "county": "Grant County, SD",
+     "population": 7556
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 404
+    }
+   ]
+  },
+  {
+   "company": "Colman, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.colmansd.com/index.asp?SEC=FE04FB14-BAA3-41CE-855B-9456918CCD18&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 511120.302,
+   "Residential-Customers": 329.0,
+   "Commercial-Sales-($)": 128475.072,
+   "Commercial-Customers": 23.0,
+   "Industrial-Sales-($)": 360504.626,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 358.0,
+   "cities-served": [
+    "Colman"
+   ],
+   "counties-served": [
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 358
+    }
+   ]
+  },
+  {
+   "company": "McLaughlin, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://web.facebook.com/profile.php?id=100067689641041",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 261702.362,
+   "Residential-Customers": 262.0,
+   "Commercial-Sales-($)": 344797.638,
+   "Commercial-Customers": 88.0,
+   "Total-Customers": 350.0,
+   "cities-served": [
+    "McLaughlin"
+   ],
+   "counties-served": [
+    {
+     "county": "Corson County, SD",
+     "population": 3902
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 350
+    }
+   ]
+  },
+  {
+   "company": "Hecla, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.facebook.com/cityofhecla/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 216374.635,
+   "Residential-Customers": 237.0,
+   "Commercial-Sales-($)": 118005.281,
+   "Commercial-Customers": 57.0,
+   "Industrial-Sales-($)": 3320.084,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 300.0,
+   "cities-served": [
+    "Hecla"
+   ],
+   "counties-served": [
+    {
+     "county": "Brown County, SD",
+     "population": 38301
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 300
+    }
+   ]
+  },
+  {
+   "company": "White, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://white.govoffice2.com/index.asp?SEC=063E08B3-26EA-44BB-B89E-82A7E1186EB9&DE=FFA4917A-3643-4CEC-BA93-2BFC0EB62D3F&Type=B_DIR",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 391359.629,
+   "Residential-Customers": 251.0,
+   "Commercial-Sales-($)": 83328.992,
+   "Commercial-Customers": 42.0,
+   "Industrial-Sales-($)": 4811.379,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 294.0,
+   "cities-served": [
+    "White"
+   ],
+   "counties-served": [
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 294
+    }
+   ]
+  },
+  {
+   "company": "Faith, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://faith.govoffice.com/index.asp?SEC=46AA85DB-7606-4CA5-AE32-9977E9FBE541&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 310889.831,
+   "Residential-Customers": 209.0,
+   "Commercial-Sales-($)": 264110.169,
+   "Commercial-Customers": 50.0,
+   "Total-Customers": 259.0,
+   "cities-served": [
+    "Faith"
+   ],
+   "counties-served": [
+    {
+     "county": "Meade County, SD",
+     "population": 29852
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 259
+    }
+   ]
+  },
+  {
+   "company": "Bryant, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 281070.11,
+   "Residential-Customers": 201.0,
+   "Commercial-Sales-($)": 235729.89,
+   "Commercial-Customers": 54.0,
+   "Total-Customers": 255.0,
+   "cities-served": [
+    "Bryant"
+   ],
+   "counties-served": [
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 255
+    }
+   ]
+  },
+  {
+   "company": "Langford, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.langfordsd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 235404.372,
+   "Residential-Customers": 167.0,
+   "Commercial-Sales-($)": 154795.628,
+   "Commercial-Customers": 34.0,
+   "Total-Customers": 201.0,
+   "cities-served": [
+    "Langford"
+   ],
+   "counties-served": [
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 201
+    }
+   ]
+  },
+  {
+   "company": "Pickstown, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.pickstown-sd.net/index.asp?SEC=16CB06ED-18B3-49BE-95ED-7EC17ED5F40E&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 197533.148,
+   "Residential-Customers": 142.0,
+   "Commercial-Sales-($)": 85866.852,
+   "Commercial-Customers": 23.0,
+   "Total-Customers": 165.0,
+   "cities-served": [
+    "Pickstown"
+   ],
+   "counties-served": [
+    {
+     "county": "Charles Mix County, SD",
+     "population": 9373
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 165
+    }
+   ]
+  },
+  {
+   "company": "Badger, South Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 89213.945,
+   "Residential-Customers": 77.0,
+   "Commercial-Sales-($)": 92686.055,
+   "Commercial-Customers": 4.0,
+   "Total-Customers": 81.0,
+   "cities-served": [
+    "Badger"
+   ],
+   "counties-served": [
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    }
+   ],
+   "states-served": [
+    {
+     "state": "South Dakota",
+     "customers": 81
+    }
+   ]
+  }
+ ]
+}

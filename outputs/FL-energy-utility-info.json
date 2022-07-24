@@ -1,1 +1,2945 @@
-{"electrical-providers": [{"company": "Florida Power & Light", "company-type": "Investor Owned", "website": "https://www.fpl.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 7649564825.0, "Residential-Customers": 4811350.0, "Commercial-Sales-($)": 4675623675.0, "Commercial-Customers": 611193.0, "Industrial-Sales-($)": 270727750.0, "Industrial-Customers": 12490.0, "Total-Customers": 5435033.0, "Total-Production-MWh": 138454629.0, "Production-from-Renewable-Energy-MWh": 7214376.0, "Production-from-Non-Renewable-Energy-MWh": 131249496.0, "cities-served": ["Alford, FL", "Altha, FL", "Anna Maria, FL", "Arcadia, FL", "Atlantis, FL", "Aventura, FL", "Bal Harbour, FL", "Bascom, FL", "Bay Harbor Islands, FL", "Belle Glade, FL", "Beverly Beach, FL", "Biscayne Park, FL", "Blountstown, FL", "Boca Raton, FL", "Bonifay, FL", "Bonita Springs, FL", "Boynton Beach, FL", "Bradenton, FL", "Bradenton Beach, FL", "Briny Breezes, FL", "Bunnell, FL", "Callahan, FL", "Callaway, FL", "Campbellton, FL", "Cape Canaveral, FL", "Caryville, FL", "Century, FL", "Chipley, FL", "Cinco Bayou, FL", "Clewiston, FL", "Cloud Lake, FL", "Cocoa, FL", "Cocoa Beach, FL", "Coconut Creek, FL", "Cooper City, FL", "Coral Gables, FL", "Coral Springs, FL", "Cottondale, FL", "Crescent City, FL", "Crestview, FL", "Cutler Bay, FL", "Dania Beach, FL", "Davie, FL", "Daytona Beach, FL", "Daytona Beach Shores, FL", "DeBary, FL", "DeFuniak Springs, FL", "DeLand, FL", "Deerfield Beach, FL", "Delray Beach, FL", "Deltona, FL", "Destin, FL", "Doral, FL", "Ebro, FL", "Edgewater, FL", "El Portal, FL", "Estero, FL", "Esto, FL", "Fellsmere, FL", "Fernandina Beach, FL", "Flagler Beach, FL", "Florida City, FL", "Fort Lauderdale, FL", "Fort Myers, FL", "Fort Myers Beach, FL", "Fort Pierce, FL", "Fort Walton Beach, FL", "Freeport, FL", "Glen Ridge, FL", "Glen St. Mary, FL", "Golden Beach, FL", "Golf, FL", "Graceville, FL", "Grand Ridge, FL", "Grant-Valkaria, FL", "Greenacres, FL", "Greenwood, FL", "Gulf Breeze, FL", "Gulf Stream, FL", "Hallandale Beach, FL", "Hampton, FL", "Hastings, FL", "Haverhill, FL", "Hawthorne, FL", "Hialeah, FL", "Hialeah Gardens, FL", "Highland Beach, FL", "Hilliard, FL", "Hillsboro Beach, FL", "Holly Hill, FL", "Hollywood, FL", "Holmes Beach, FL", "Homestead, FL", "Hypoluxo, FL", "Indialantic, FL", "Indian Creek, FL", "Indian Harbour Beach, FL", "Indian River Shores, FL", "Interlachen, FL", "Jacksonville, FL", "Jacob City, FL", "Jay, FL", "Juno Beach, FL", "Jupiter, FL", "Jupiter Inlet Colony, FL", "Jupiter Island, FL", "Key Biscayne, FL", "LaBelle, FL", "Lake Butler, FL", "Lake City, FL", "Lake Clarke Shores, FL", "Lake Helen, FL", "Lake Mary, FL", "Lake Park, FL", "Lake Worth, FL", "Lake Worth Beach, FL", "Lantana, FL", "Lauderdale Lakes, FL", "Lauderdale-by-the-Sea, FL", "Lauderhill, FL", "Laurel Hill, FL", "Lawtey, FL", "Lazy Lake, FL", "Lighthouse Point, FL", "Live Oak, FL", "Longboat Key, FL", "Loxahatchee Groves, FL", "Lynn Haven, FL", "Macclenny, FL", "Malabar, FL", "Malone, FL", "Manalapan, FL", "Mangonia Park, FL", "Marco Island, FL", "Margate, FL", "Marianna, FL", "Marineland, FL", "Mary Esther, FL", "Medley, FL", "Melbourne, FL", "Melbourne Beach, FL", "Melbourne Village, FL", "Mexico Beach, FL", "Miami, FL", "Miami Beach, FL", "Miami Gardens, FL", "Miami Lakes, FL", "Miami Shores, FL", "Miami Springs, FL", "Milton, FL", "Miramar, FL", "Naples, FL", "New Smyrna Beach, FL", "Niceville, FL", "Noma, FL", "North Bay Village, FL", "North Lauderdale, FL", "North Miami, FL", "North Miami Beach, FL", "North Palm Beach, FL", "North Port, FL", "Oak Hill, FL", "Oakland Park, FL", "Ocean Breeze, FL", "Ocean Ridge, FL", "Okeechobee, FL", "Opa-locka, FL", "Orchid, FL", "Ormond Beach, FL", "Oviedo, FL", "Pahokee, FL", "Palatka, FL", "Palm Bay, FL", "Palm Beach, FL", "Palm Beach Gardens, FL", "Palm Beach Shores, FL", "Palm Coast, FL", "Palm Shores, FL", "Palm Springs, FL", "Palmetto, FL", "Palmetto Bay, FL", "Panama City, FL", "Panama City Beach, FL", "Parker, FL", "Parkland, FL", "Paxton, FL", "Pembroke Park, FL", "Pembroke Pines, FL", "Penney Farms, FL", "Pensacola, FL", "Pinecrest, FL", "Plantation, FL", "Pomona Park, FL", "Pompano Beach, FL", "Ponce Inlet, FL", "Ponce de Leon, FL", "Port Orange, FL", "Port St. Lucie, FL", "Punta Gorda, FL", "Raiford, FL", "Riviera Beach, FL", "Rockledge, FL", "Royal Palm Beach, FL", "Sanford, FL", "Sarasota, FL", "Satellite Beach, FL", "Sea Ranch Lakes, FL", "Sebastian, FL", "Sewall's Point, FL", "Shalimar, FL", "Sneads, FL", "South Bay, FL", "South Daytona, FL", "South Miami, FL", "South Palm Beach, FL", "Southwest Ranches, FL", "Springfield, FL", "St. Augustine, FL", "St. Augustine Beach, FL", "St. Marys, GA", "Starke, FL", "Stuart, FL", "Sunny Isles Beach, FL", "Sunrise, FL", "Surfside, FL", "Sweetwater, FL", "Tamarac, FL", "Tequesta, FL", "Titusville, FL", "Valparaiso, FL", "Venice, FL", "Vernon, FL", "Vero Beach, FL", "Virginia Gardens, FL", "Waldo, FL", "Wausau, FL", "Welaka, FL", "Wellington, FL", "West Melbourne, FL", "West Miami, FL", "West Palm Beach, FL", "West Park, FL", "Westlake, FL", "Weston, FL", "Westville, FL", "Wilton Manors, FL"], "counties-served": [{"county": "Glades County, FL", "population": 12126}, {"county": "Calhoun County, FL", "population": 13648}, {"county": "Union County, FL", "population": 16147}, {"county": "Holmes County, FL", "population": 19653}, {"county": "Washington County, FL", "population": 25318}, {"county": "Hardee County, FL", "population": 25327}, {"county": "Baker County, FL", "population": 28259}, {"county": "Bradford County, FL", "population": 28303}, {"county": "DeSoto County, FL", "population": 33976}, {"county": "Hendry County, FL", "population": 39619}, {"county": "Okeechobee County, FL", "population": 39644}, {"county": "Suwannee County, FL", "population": 43474}, {"county": "Jackson County, FL", "population": 47319}, {"county": "Columbia County, FL", "population": 69698}, {"county": "Putnam County, FL", "population": 73321}, {"county": "Walton County, FL", "population": 75305}, {"county": "Nassau County, FL", "population": 90352}, {"county": "Highlands County, FL", "population": 101235}, {"county": "Flagler County, FL", "population": 115378}, {"county": "Martin County, FL", "population": 158431}, {"county": "Indian River County, FL", "population": 159788}, {"county": "Bay County, FL", "population": 175216}, {"county": "Charlotte County, FL", "population": 186847}, {"county": "Santa Rosa County, FL", "population": 188000}, {"county": "Okaloosa County, FL", "population": 211668}, {"county": "Clay County, FL", "population": 218245}, {"county": "St. Johns County, FL", "population": 273425}, {"county": "Escambia County, FL", "population": 321905}, {"county": "St. Lucie County, FL", "population": 329226}, {"county": "Collier County, FL", "population": 375752}, {"county": "Manatee County, FL", "population": 399710}, {"county": "Sarasota County, FL", "population": 434006}, {"county": "Seminole County, FL", "population": 470856}, {"county": "Volusia County, FL", "population": 553543}, {"county": "Brevard County, FL", "population": 606612}, {"county": "Lee County, FL", "population": 760822}, {"county": "Duval County, FL", "population": 995567}, {"county": "Palm Beach County, FL", "population": 1492191}, {"county": "Broward County, FL", "population": 1944375}, {"county": "Miami-Dade County, FL", "population": 2701767}], "states-served": [{"state": "Florida", "customers": 5795459}]}, {"company": "Duke Energy Florida", "company-type": "Investor Owned", "website": "https://www.duke-energy.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 3009856064.0, "Residential-Customers": 1685806.0, "Commercial-Sales-($)": 1556880082.0, "Commercial-Customers": 209356.0, "Industrial-Sales-($)": 267508742.0, "Industrial-Customers": 1916.0, "Total-Customers": 1897078.0, "Total-Production-MWh": 40680832.0, "Production-from-Renewable-Energy-MWh": 1043621.0, "Production-from-Non-Renewable-Energy-MWh": 39637211.0, "cities-served": ["Alachua, FL", "Altamonte Springs, FL", "Apalachicola, FL", "Apopka, FL", "Archer, FL", "Astatula, FL", "Auburndale, FL", "Avon Park, FL", "Bartow, FL", "Bay Lake, FL", "Bell, FL", "Belle Isle, FL", "Belleair, FL", "Belleair Beach, FL", "Belleair Bluffs, FL", "Belleair Shore, FL", "Belleview, FL", "Bowling Green, FL", "Branford, FL", "Bristol, FL", "Bronson, FL", "Brooker, FL", "Brooksville, FL", "Bunnell, FL", "Bushnell, FL", "Callaway, FL", "Carrabelle, FL", "Casselberry, FL", "Cedar Key, FL", "Center Hill, FL", "Chiefland, FL", "Clearwater, FL", "Clermont, FL", "Coleman, FL", "Cross City, FL", "Crystal River, FL", "Davenport, FL", "Daytona Beach, FL", "DeBary, FL", "DeLand, FL", "Deltona, FL", "Dundee, FL", "Dunedin, FL", "Dunnellon, FL", "Eatonville, FL", "Edgewood, FL", "Eustis, FL", "Fanning Springs, FL", "Fort Meade, FL", "Fort White, FL", "Frostproof, FL", "Fruitland Park, FL", "Greenville, FL", "Groveland, FL", "Gulfport, FL", "Haines City, FL", "High Springs, FL", "Highland Park, FL", "Hillcrest Heights, FL", "Horseshoe Beach, FL", "Howey-in-the-Hills, FL", "Indian Rocks Beach, FL", "Indian Shores, FL", "Inglis, FL", "Inverness, FL", "Jasper, FL", "Jennings, FL", "Kenneth City, FL", "Lady Lake, FL", "Lake Buena Vista, FL", "Lake City, FL", "Lake Hamilton, FL", "Lake Helen, FL", "Lake Mary, FL", "Lake Placid, FL", "Lake Wales, FL", "Lakeland, FL", "Largo, FL", "Lee, FL", "Leesburg, FL", "Longwood, FL", "Lynn Haven, FL", "Madeira Beach, FL", "Madison, FL", "Maitland, FL", "Mascotte, FL", "Mayo, FL", "McIntosh, FL", "Melbourne, FL", "Mexico Beach, FL", "Micanopy, FL", "Minneola, FL", "Monticello, FL", "Montverde, FL", "Mount Dora, FL", "Mulberry, FL", "New Port Richey, FL", "New Smyrna Beach, FL", "North Redington Beach, FL", "Oak Hill, FL", "Oakland, FL", "Ocala, FL", "Ocoee, FL", "Oldsmar, FL", "Orange City, FL", "Orlando, FL", "Otter Creek, FL", "Oviedo, FL", "Palm Bay, FL", "Panama City, FL", "Panama City Beach, FL", "Parker, FL", "Perry, FL", "Pierson, FL", "Pinellas Park, FL", "Plant City, FL", "Polk City, FL", "Ponce Inlet, FL", "Port Richey, FL", "Port St. Joe, FL", "Reddick, FL", "Redington Beach, FL", "Redington Shores, FL", "Safety Harbor, FL", "San Antonio, FL", "Sanford, FL", "Sebring, FL", "Seminole, FL", "Sopchoppy, FL", "South Pasadena, FL", "Springfield, FL", "St. Leo, FL", "St. Marks, FL", "St. Pete Beach, FL", "St. Petersburg, FL", "Starke, FL", "Tallahassee, FL", "Tarpon Springs, FL", "Tavares, FL", "Treasure Island, FL", "Trenton, FL", "Umatilla, FL", "Wauchula, FL", "Webster, FL", "Weeki Wachee, FL", "Wewahitchka, FL", "White Springs, FL", "Wildwood, FL", "Williston, FL", "Windermere, FL", "Winter Garden, FL", "Winter Haven, FL", "Winter Park, FL", "Winter Springs, FL", "Yankeetown, FL", "Zephyrhills, FL", "Zolfo Springs, FL"], "counties-served": [{"county": "Liberty County, FL", "population": 7974}, {"county": "Lafayette County, FL", "population": 8226}, {"county": "Franklin County, FL", "population": 12451}, {"county": "Hamilton County, FL", "population": 14004}, {"county": "Gulf County, FL", "population": 14192}, {"county": "Jefferson County, FL", "population": 14510}, {"county": "Dixie County, FL", "population": 16759}, {"county": "Gilchrist County, FL", "population": 17864}, {"county": "Madison County, FL", "population": 17968}, {"county": "Taylor County, FL", "population": 21796}, {"county": "Hardee County, FL", "population": 25327}, {"county": "Bradford County, FL", "population": 28303}, {"county": "Wakulla County, FL", "population": 33764}, {"county": "Okeechobee County, FL", "population": 39644}, {"county": "Levy County, FL", "population": 42915}, {"county": "Suwannee County, FL", "population": 43474}, {"county": "Columbia County, FL", "population": 69698}, {"county": "Highlands County, FL", "population": 101235}, {"county": "Flagler County, FL", "population": 115378}, {"county": "Sumter County, FL", "population": 129752}, {"county": "Citrus County, FL", "population": 153843}, {"county": "Bay County, FL", "population": 175216}, {"county": "Hernando County, FL", "population": 194515}, {"county": "Alachua County, FL", "population": 278468}, {"county": "Leon County, FL", "population": 292198}, {"county": "Marion County, FL", "population": 375908}, {"county": "Lake County, FL", "population": 383956}, {"county": "Osceola County, FL", "population": 388656}, {"county": "Seminole County, FL", "population": 470856}, {"county": "Volusia County, FL", "population": 553543}, {"county": "Pasco County, FL", "population": 561891}, {"county": "Brevard County, FL", "population": 606612}, {"county": "Polk County, FL", "population": 725046}, {"county": "Pinellas County, FL", "population": 959107}, {"county": "Orange County, FL", "population": 1429908}, {"county": "Hillsborough County, FL", "population": 1459762}], "states-served": [{"state": "Florida", "customers": 1897078}]}, {"company": "Tampa Electric", "company-type": "Investor Owned", "website": "https://www.tampaelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 1194730025.0, "Residential-Customers": 717194.0, "Commercial-Sales-($)": 809800243.0, "Commercial-Customers": 87936.0, "Industrial-Sales-($)": 171699346.0, "Industrial-Customers": 1372.0, "Total-Customers": 806502.0, "Total-Production-MWh": 19002242.0, "Production-from-Renewable-Energy-MWh": 1271926.0, "Production-from-Non-Renewable-Energy-MWh": 17730316.0, "cities-served": ["Auburndale, FL", "Clearwater, FL", "Dade City, FL", "Eagle Lake, FL", "Lake Alfred, FL", "Lake Wales, FL", "Lakeland, FL", "Mulberry, FL", "Oldsmar, FL", "Plant City, FL", "Polk City, FL", "Safety Harbor, FL", "San Antonio, FL", "St. Leo, FL", "St. Petersburg, FL", "Tampa, FL", "Temple Terrace, FL", "Winter Haven, FL", "Zephyrhills, FL"], "counties-served": [{"county": "Pasco County, FL", "population": 561891}, {"county": "Polk County, FL", "population": 725046}, {"county": "Pinellas County, FL", "population": 959107}, {"county": "Hillsborough County, FL", "population": 1459762}], "states-served": [{"state": "Florida", "customers": 806502}]}, {"company": "Jacksonville Electric Authority", "company-type": "Municipal", "website": "https://www.jea.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 659441000.0, "Residential-Customers": 440493.0, "Commercial-Sales-($)": 408280207.0, "Commercial-Customers": 58543.0, "Industrial-Sales-($)": 201076000.0, "Industrial-Customers": 196.0, "Total-Customers": 499232.0, "Total-Production-MWh": 9871475.0, "Production-from-Renewable-Energy-MWh": 26310.0, "Production-from-Non-Renewable-Energy-MWh": 9845165.0, "cities-served": ["Atlantic Beach, FL", "Baldwin, FL", "Jacksonville, FL", "Neptune Beach, FL", "Orange Park, FL"], "counties-served": [{"county": "Nassau County, FL", "population": 90352}, {"county": "Clay County, FL", "population": 218245}, {"county": "St. Johns County, FL", "population": 273425}, {"county": "Duval County, FL", "population": 995567}], "states-served": [{"state": "Florida", "customers": 499234}]}, {"company": "Gulf Power Company", "company-type": "Investor Owned", "website": "https://www.gulfpower.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 761950881.0, "Residential-Customers": 418156.0, "Commercial-Sales-($)": 405340046.0, "Commercial-Customers": 58486.0, "Industrial-Sales-($)": 134974214.0, "Industrial-Customers": 238.0, "Total-Customers": 476880.0, "Total-Production-MWh": 7639856.0, "Production-from-Renewable-Energy-MWh": 187663.0, "Production-from-Non-Renewable-Energy-MWh": 7452193.0, "cities-served": ["Alford, FL", "Altha, FL", "Bascom, FL", "Blountstown, FL", "Bonifay, FL", "Callaway, FL", "Campbellton, FL", "Caryville, FL", "Century, FL", "Chipley, FL", "Cinco Bayou, FL", "Cottondale, FL", "Crestview, FL", "DeFuniak Springs, FL", "Destin, FL", "Ebro, FL", "Esto, FL", "Fort Walton Beach, FL", "Freeport, FL", "Graceville, FL", "Grand Ridge, FL", "Greenwood, FL", "Gulf Breeze, FL", "Jacob City, FL", "Jay, FL", "Laurel Hill, FL", "Lynn Haven, FL", "Malone, FL", "Marianna, FL", "Mary Esther, FL", "Mexico Beach, FL", "Milton, FL", "Niceville, FL", "Noma, FL", "Panama City, FL", "Panama City Beach, FL", "Parker, FL", "Paxton, FL", "Pensacola, FL", "Ponce de Leon, FL", "Shalimar, FL", "Sneads, FL", "Springfield, FL", "Valparaiso, FL", "Vernon, FL", "Wausau, FL", "Westville, FL"], "counties-served": [{"county": "Calhoun County, FL", "population": 13648}, {"county": "Holmes County, FL", "population": 19653}, {"county": "Washington County, FL", "population": 25318}, {"county": "Jackson County, FL", "population": 47319}, {"county": "Walton County, FL", "population": 75305}, {"county": "Bay County, FL", "population": 175216}, {"county": "Santa Rosa County, FL", "population": 188000}, {"county": "Okaloosa County, FL", "population": 211668}, {"county": "Escambia County, FL", "population": 321905}], "states-served": [{"state": "Florida", "customers": 478095}]}, {"company": "Orlando Utilities Commission", "company-type": "Municipal", "website": "https://www.ouc.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 311682000.0, "Residential-Customers": 221756.0, "Commercial-Sales-($)": 335361000.0, "Commercial-Customers": 31693.0, "Total-Customers": 253449.0, "Total-Production-MWh": 6188344.0, "Production-from-Renewable-Energy-MWh": 35324.0, "Production-from-Non-Renewable-Energy-MWh": 6153020.0, "cities-served": ["Belle Isle, FL", "Edgewood, FL", "Orlando, FL", "St. Cloud, FL", "Winter Park, FL"], "counties-served": [{"county": "Osceola County, FL", "population": 388656}, {"county": "Orange County, FL", "population": 1429908}], "states-served": [{"state": "Florida", "customers": 253449}]}, {"company": "Withlacoochee River Electric Cooperative", "company-type": "Cooperative", "website": "https://www.wrec.net/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 346846000.0, "Residential-Customers": 204271.0, "Commercial-Sales-($)": 91208000.0, "Commercial-Customers": 21316.0, "Industrial-Sales-($)": 15363600.0, "Industrial-Customers": 1109.0, "Total-Customers": 226696.0, "cities-served": ["Brooksville, FL", "Crystal River, FL", "Dade City, FL", "Inverness, FL", "New Port Richey, FL", "Port Richey, FL", "San Antonio, FL", "St. Leo, FL", "Weeki Wachee, FL", "Zephyrhills, FL"], "counties-served": [{"county": "Sumter County, FL", "population": 129752}, {"county": "Citrus County, FL", "population": 153843}, {"county": "Hernando County, FL", "population": 194515}, {"county": "Pasco County, FL", "population": 561891}, {"county": "Polk County, FL", "population": 725046}], "states-served": [{"state": "Florida", "customers": 226696}]}, {"company": "Lee County Electric Cooperative", "company-type": "Cooperative", "website": "https://www.lcec.net/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 320986800.0, "Residential-Customers": 204625.0, "Commercial-Sales-($)": 108221200.0, "Commercial-Customers": 19699.0, "Total-Customers": 224324.0, "cities-served": ["Cape Coral, FL", "Everglades, FL", "Marco Island, FL", "Sanibel, FL"], "counties-served": [{"county": "Hendry County, FL", "population": 39619}, {"county": "Charlotte County, FL", "population": 186847}, {"county": "Collier County, FL", "population": 375752}, {"county": "Lee County, FL", "population": 760822}], "states-served": [{"state": "Florida", "customers": 224324}]}, {"company": "SECO Energy", "company-type": "Cooperative", "website": "https://www.secoenergy.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 309379000.0, "Residential-Customers": 197388.0, "Commercial-Sales-($)": 32708000.0, "Commercial-Customers": 17690.0, "Industrial-Sales-($)": 71707000.0, "Industrial-Customers": 1399.0, "Total-Customers": 216477.0, "cities-served": ["Astatula, FL", "Belleview, FL", "Bushnell, FL", "Center Hill, FL", "Clermont, FL", "Coleman, FL", "Dunnellon, FL", "Eustis, FL", "Fruitland Park, FL", "Groveland, FL", "Howey-in-the-Hills, FL", "Inverness, FL", "Lady Lake, FL", "Leesburg, FL", "Mascotte, FL", "Minneola, FL", "Montverde, FL", "Mount Dora, FL", "Ocala, FL", "Tavares, FL", "Umatilla, FL", "Webster, FL", "Wildwood, FL"], "counties-served": [{"county": "Levy County, FL", "population": 42915}, {"county": "Sumter County, FL", "population": 129752}, {"county": "Citrus County, FL", "population": 153843}, {"county": "Hernando County, FL", "population": 194515}, {"county": "Marion County, FL", "population": 375908}, {"county": "Lake County, FL", "population": 383956}, {"county": "Pasco County, FL", "population": 561891}], "states-served": [{"state": "Florida", "customers": 216477}]}, {"company": "Clay Electric Cooperative", "company-type": "Cooperative", "website": "https://www.clayelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 271725200.0, "Residential-Customers": 159862.0, "Commercial-Sales-($)": 65784300.0, "Commercial-Customers": 20609.0, "Industrial-Sales-($)": 24577600.0, "Industrial-Customers": 32.0, "Total-Customers": 180503.0, "cities-served": ["Alachua, FL", "Archer, FL", "Gainesville, FL", "Green Cove Springs, FL", "Hawthorne, FL", "High Springs, FL", "Keystone Heights, FL", "La Crosse, FL", "Newberry, FL", "Palatka, FL", "Waldo, FL", "Worthington Springs, FL"], "counties-served": [{"county": "Union County, FL", "population": 16147}, {"county": "Baker County, FL", "population": 28259}, {"county": "Putnam County, FL", "population": 73321}, {"county": "Clay County, FL", "population": 218245}, {"county": "Alachua County, FL", "population": 278468}], "states-served": [{"state": "Florida", "customers": 180503}]}, {"company": "Lakeland Electric", "company-type": "Municipal", "website": "https://www.lakelandelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 158325300.0, "Residential-Customers": 112176.0, "Commercial-Sales-($)": 75145500.0, "Commercial-Customers": 21985.0, "Industrial-Sales-($)": 40988100.0, "Industrial-Customers": 82.0, "Total-Customers": 134243.0, "Total-Production-MWh": 2124160.0, "Production-from-Non-Renewable-Energy-MWh": 2124160.0, "cities-served": ["Auburndale, FL", "Lakeland, FL", "Polk City, FL"], "counties-served": [{"county": "Polk County, FL", "population": 725046}], "states-served": [{"state": "Florida", "customers": 134243}]}, {"company": "Tallahassee Utilities", "company-type": "Municipal", "website": "https://www.talgov.com/you/you-electric.aspx", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 127812000.0, "Residential-Customers": 105829.0, "Commercial-Sales-($)": 120734300.0, "Commercial-Customers": 15100.0, "Total-Customers": 120929.0, "Total-Production-MWh": 2535550.0, "Production-from-Non-Renewable-Energy-MWh": 2535550.0, "cities-served": ["Tallahassee", "Bradfordville CDP", "Woodville CDP"], "counties-served": [{"county": "Leon County, FL", "population": 292198}], "states-served": [{"state": "Florida", "customers": 120929}]}, {"company": "Gainesville Regional Utilities", "company-type": "Municipal", "website": "https://www.gru.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 110697000.0, "Residential-Customers": 88391.0, "Commercial-Sales-($)": 110985100.0, "Commercial-Customers": 11264.0, "Industrial-Sales-($)": 15954100.0, "Industrial-Customers": 10.0, "Total-Customers": 99665.0, "Total-Production-MWh": 2185176.0, "Production-from-Renewable-Energy-MWh": 541627.0, "Production-from-Non-Renewable-Energy-MWh": 1643549.0, "cities-served": ["Alachua, FL", "Gainesville, FL"], "counties-served": [{"county": "Alachua County, FL", "population": 278468}], "states-served": [{"state": "Florida", "customers": 99665}]}, {"company": "Kissimmee Utility Authority", "company-type": "Municipal", "website": "https://www.kua.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 106158000.0, "Residential-Customers": 69350.0, "Commercial-Sales-($)": 55521000.0, "Commercial-Customers": 10363.0, "Industrial-Sales-($)": 13038000.0, "Industrial-Customers": 48.0, "Total-Customers": 79761.0, "Total-Production-MWh": 1055071.0, "Production-from-Renewable-Energy-MWh": 714.0, "Production-from-Non-Renewable-Energy-MWh": 1054358.0, "cities-served": ["Kissimmee, FL", "St. Cloud, FL"], "counties-served": [{"county": "Osceola County, FL", "population": 388656}], "states-served": [{"state": "Florida", "customers": 79761}]}, {"company": "Choctawhatchee Electric Cooperative", "company-type": "Cooperative", "website": "https://www.chelco.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 80358000.0, "Residential-Customers": 48666.0, "Commercial-Sales-($)": 21179000.0, "Commercial-Customers": 6996.0, "Industrial-Sales-($)": 1187000.0, "Industrial-Customers": 2.0, "Total-Customers": 55664.0, "cities-served": ["Crestview, FL", "DeFuniak Springs, FL", "Freeport, FL", "Laurel Hill, FL", "Paxton, FL", "Ponce de Leon, FL"], "counties-served": [{"county": "Holmes County, FL", "population": 19653}, {"county": "Walton County, FL", "population": 75305}, {"county": "Okaloosa County, FL", "population": 211668}], "states-served": [{"state": "Florida", "customers": 55664}]}, {"company": "Talquin Electric", "company-type": "Cooperative", "website": "https://www.talquinelectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 92720700.0, "Residential-Customers": 51682.0, "Commercial-Sales-($)": 18881200.0, "Commercial-Customers": 3329.0, "Industrial-Sales-($)": 13779100.0, "Industrial-Customers": 7.0, "Total-Customers": 55018.0, "cities-served": ["Bristol, FL", "Chattahoochee, FL", "Greensboro, FL", "Gretna, FL", "Havana, FL", "Midway, FL", "Quincy, FL", "Tallahassee, FL"], "counties-served": [{"county": "Liberty County, FL", "population": 7974}, {"county": "Wakulla County, FL", "population": 33764}, {"county": "Gadsden County, FL", "population": 43826}, {"county": "Leon County, FL", "population": 292198}], "states-served": [{"state": "Florida", "customers": 55018}]}, {"company": "Ocala Electric", "company-type": "Municipal", "website": "https://www.ocalafl.org/government/electric-utility", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 55939500.0, "Residential-Customers": 43157.0, "Commercial-Sales-($)": 20362000.0, "Commercial-Customers": 10579.0, "Industrial-Sales-($)": 44952200.0, "Industrial-Customers": 930.0, "Total-Customers": 54666.0, "cities-served": ["Ocala", "Liberty Triangle CDP", "Silver Springs CDP"], "counties-served": [{"county": "Marion County, FL", "population": 375908}], "states-served": [{"state": "Florida", "customers": 54666}]}, {"company": "Peace River Electric", "company-type": "Cooperative", "website": "https://www.preco.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 74891800.0, "Residential-Customers": 41664.0, "Commercial-Sales-($)": 33059100.0, "Commercial-Customers": 8686.0, "Industrial-Sales-($)": 337400.0, "Industrial-Customers": 42.0, "Total-Customers": 50392.0, "cities-served": ["Arcadia, FL", "Avon Park, FL", "Bowling Green, FL", "Bradenton, FL", "North Port, FL", "Palmetto, FL", "Wauchula, FL", "Zolfo Springs, FL"], "counties-served": [{"county": "Hardee County, FL", "population": 25327}, {"county": "DeSoto County, FL", "population": 33976}, {"county": "Okeechobee County, FL", "population": 39644}, {"county": "Highlands County, FL", "population": 101235}, {"county": "Indian River County, FL", "population": 159788}, {"county": "Osceola County, FL", "population": 388656}, {"county": "Manatee County, FL", "population": 399710}, {"county": "Sarasota County, FL", "population": 434006}, {"county": "Brevard County, FL", "population": 606612}, {"county": "Polk County, FL", "population": 725046}], "states-served": [{"state": "Florida", "customers": 50392}]}, {"company": "Okefenoke Rural Electric", "company-type": "Cooperative", "website": "https://www.oremc.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 63613400.0, "Residential-Customers": 35370.0, "Commercial-Sales-($)": 8657900.0, "Commercial-Customers": 2804.0, "Industrial-Sales-($)": 1328900.0, "Industrial-Customers": 4.0, "Total-Customers": 38178.0, "cities-served": ["Callahan, FL", "Folkston, GA", "Glen St. Mary, FL", "Hilliard, FL", "Hoboken, GA", "Homeland, GA", "Kingsland, GA", "Macclenny, FL", "Nahunta, GA", "St. Marys, GA", "Waycross, GA", "Woodbine, GA"], "counties-served": [{"county": "McIntosh County, GA", "population": 10975}, {"county": "Charlton County, GA", "population": 12518}, {"county": "Brantley County, GA", "population": 18021}, {"county": "Baker County, FL", "population": 28259}, {"county": "Wayne County, GA", "population": 30144}, {"county": "Ware County, GA", "population": 36251}, {"county": "Camden County, GA", "population": 54768}, {"county": "Glynn County, GA", "population": 84499}, {"county": "Nassau County, FL", "population": 90352}], "states-served": [{"state": "Florida", "customers": 10890}, {"state": "Georgia", "customers": 27288}]}, {"company": "Beaches Energy", "company-type": "Municipal", "website": "https://www.beachesenergy.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 47499700.0, "Residential-Customers": 30300.0, "Commercial-Sales-($)": 28419800.0, "Commercial-Customers": 5447.0, "Total-Customers": 35747.0, "cities-served": ["Jacksonville Beach, FL", "Neptune Beach, FL"], "counties-served": [{"county": "St. Johns County, FL", "population": 273425}, {"county": "Duval County, FL", "population": 995567}], "states-served": [{"state": "Florida", "customers": 35747}]}, {"company": "Central Florida Electric Cooperative", "company-type": "Cooperative", "website": "http://www.cfec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 47703500.0, "Residential-Customers": 30664.0, "Commercial-Sales-($)": 10301300.0, "Commercial-Customers": 2971.0, "Industrial-Sales-($)": 5550700.0, "Industrial-Customers": 704.0, "Total-Customers": 34339.0, "cities-served": ["Archer, FL", "Bell, FL", "Bronson, FL", "Cedar Key, FL", "Chiefland, FL", "Cross City, FL", "Fanning Springs, FL", "High Springs, FL", "Horseshoe Beach, FL", "Inglis, FL", "Newberry, FL", "Otter Creek, FL", "Trenton, FL", "Williston, FL", "Yankeetown, FL"], "counties-served": [{"county": "Dixie County, FL", "population": 16759}, {"county": "Gilchrist County, FL", "population": 17864}, {"county": "Levy County, FL", "population": 42915}, {"county": "Alachua County, FL", "population": 278468}], "states-served": [{"state": "Florida", "customers": 34339}]}, {"company": "Florida Keys Electric Cooperative", "company-type": "Cooperative", "website": "https://www.fkec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 50288000.0, "Residential-Customers": 27407.0, "Commercial-Sales-($)": 12195000.0, "Commercial-Customers": 5227.0, "Industrial-Sales-($)": 20284000.0, "Industrial-Customers": 468.0, "Total-Customers": 33102.0, "cities-served": ["Key Colony Beach, FL", "Layton, FL", "Marathon, FL"], "counties-served": [{"county": "Monroe County, FL", "population": 82874}], "states-served": [{"state": "Florida", "customers": 33102}]}, {"company": "Keys Energy", "company-type": "Municipal", "website": "https://www.keysenergy.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 52287000.0, "Residential-Customers": 26460.0, "Commercial-Sales-($)": 44556000.0, "Commercial-Customers": 4448.0, "Total-Customers": 30908.0, "cities-served": ["Key West", "Stock Island CDP", "Big Pine Key CDP", "Big Coppitt Key CDP", "Cudjoe Key CDP"], "counties-served": [{"county": "Monroe County, FL", "population": 82874}], "states-served": [{"state": "Florida", "customers": 30908}]}, {"company": "Florida Public Utilities", "company-type": "Investor Owned", "website": "https://www.fpuc.com/electric/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 42232000.0, "Residential-Customers": 25384.0, "Commercial-Sales-($)": 37264000.0, "Commercial-Customers": 5277.0, "Industrial-Sales-($)": 2421000.0, "Industrial-Customers": 2.0, "Total-Customers": 30663.0, "cities-served": ["Alford, FL", "Altha, FL", "Bascom, FL", "Blountstown, FL", "Bristol, FL", "Callahan, FL", "Campbellton, FL", "Cottondale, FL", "Fernandina Beach, FL", "Graceville, FL", "Grand Ridge, FL", "Greenwood, FL", "Hilliard, FL", "Jacob City, FL", "Malone, FL", "Marianna, FL", "Sneads, FL"], "counties-served": [{"county": "Liberty County, FL", "population": 7974}, {"county": "Calhoun County, FL", "population": 13648}, {"county": "Jackson County, FL", "population": 47319}, {"county": "Nassau County, FL", "population": 90352}], "states-served": [{"state": "Florida", "customers": 30663}]}, {"company": "New Smyrna Beach Utilities", "company-type": "Municipal", "website": "https://www.ucnsb.org/electric-system-operations", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 29525000.0, "Residential-Customers": 26002.0, "Commercial-Sales-($)": 5501000.0, "Commercial-Customers": 3525.0, "Industrial-Sales-($)": 8183000.0, "Industrial-Customers": 132.0, "Total-Customers": 29659.0, "cities-served": ["New Smyrna Beach"], "counties-served": [{"county": "Volusia County, FL", "population": 553543}], "states-served": [{"state": "Florida", "customers": 29659}]}, {"company": "Fort Pierce Utilities Authority", "company-type": "Municipal", "website": "https://www.fpua.com/electric-service/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 29471000.0, "Residential-Customers": 23622.0, "Commercial-Sales-($)": 34044000.0, "Commercial-Customers": 5162.0, "Total-Customers": 28784.0, "cities-served": ["Fort Pierce, FL", "St. Lucie Village, FL"], "counties-served": [{"county": "St. Lucie County, FL", "population": 329226}], "states-served": [{"state": "Florida", "customers": 28784}]}, {"company": "West Florida Electric", "company-type": "Cooperative", "website": "https://www.westflorida.coop/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 43025000.0, "Residential-Customers": 25040.0, "Commercial-Sales-($)": 8501000.0, "Commercial-Customers": 3317.0, "Industrial-Sales-($)": 6198000.0, "Industrial-Customers": 1.0, "Total-Customers": 28358.0, "cities-served": ["Alford, FL", "Altha, FL", "Bascom, FL", "Blountstown, FL", "Bonifay, FL", "Campbellton, FL", "Caryville, FL", "Chipley, FL", "Cottondale, FL", "Esto, FL", "Graceville, FL", "Grand Ridge, FL", "Greenwood, FL", "Jacob City, FL", "Malone, FL", "Marianna, FL", "Noma, FL", "Ponce de Leon, FL", "Sneads, FL", "Vernon, FL", "Wausau, FL", "Westville, FL"], "counties-served": [{"county": "Calhoun County, FL", "population": 13648}, {"county": "Holmes County, FL", "population": 19653}, {"county": "Washington County, FL", "population": 25318}, {"county": "Jackson County, FL", "population": 47319}, {"county": "Walton County, FL", "population": 75305}], "states-served": [{"state": "Florida", "customers": 28358}]}, {"company": "Homestead Electric", "company-type": "Municipal", "website": "https://www.cityofhomestead.com/448/HPS-Energy-Electric-Services", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 45038600.0, "Residential-Customers": 25216.0, "Commercial-Sales-($)": 5087700.0, "Commercial-Customers": 2146.0, "Industrial-Sales-($)": 12211500.0, "Industrial-Customers": 592.0, "Total-Customers": 27954.0, "cities-served": ["Homestead", "Leisure City CDP"], "counties-served": [{"county": "Miami-Dade County, FL", "population": 2701767}], "states-served": [{"state": "Florida", "customers": 27954}]}, {"company": "City of Lake Worth Utilities", "company-type": "Municipal", "website": "https://www.lakeworthbeachfl.gov/utilities/electric/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 24692000.0, "Residential-Customers": 23822.0, "Commercial-Sales-($)": 15497000.0, "Commercial-Customers": 3784.0, "Total-Customers": 27606.0, "Total-Production-MWh": 6834.0, "Production-from-Non-Renewable-Energy-MWh": 6834.0, "cities-served": ["Lake Worth, FL", "Lake Worth Beach, FL", "Palm Springs, FL"], "counties-served": [{"county": "Palm Beach County, FL", "population": 1492191}], "states-served": [{"state": "Florida", "customers": 27606}]}, {"company": "Suwannee Valley Electric Cooperative", "company-type": "Cooperative", "website": "https://www.svec-coop.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 39114000.0, "Residential-Customers": 24015.0, "Commercial-Sales-($)": 11963000.0, "Commercial-Customers": 3365.0, "Industrial-Sales-($)": 5835000.0, "Industrial-Customers": 8.0, "Total-Customers": 27388.0, "cities-served": ["Branford, FL", "Lake City, FL", "Mayo, FL"], "counties-served": [{"county": "Lafayette County, FL", "population": 8226}, {"county": "Hamilton County, FL", "population": 14004}, {"county": "Dixie County, FL", "population": 16759}, {"county": "Gilchrist County, FL", "population": 17864}, {"county": "Suwannee County, FL", "population": 43474}, {"county": "Columbia County, FL", "population": 69698}], "states-served": [{"state": "Florida", "customers": 27388}]}, {"company": "Leesburg Electric", "company-type": "Municipal", "website": "https://www.leesburgflorida.gov/government/departments/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 29849100.0, "Residential-Customers": 22394.0, "Commercial-Sales-($)": 21979700.0, "Commercial-Customers": 4272.0, "Industrial-Sales-($)": 1376600.0, "Industrial-Customers": 1.0, "Total-Customers": 26667.0, "cities-served": ["Fruitland Park, FL", "Leesburg, FL"], "counties-served": [{"county": "Lake County, FL", "population": 383956}], "states-served": [{"state": "Florida", "customers": 26667}]}, {"company": "Gulf Coast Electric Cooperative", "company-type": "Cooperative", "website": "https://www.gcec.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 35692400.0, "Residential-Customers": 19382.0, "Commercial-Sales-($)": 8147500.0, "Commercial-Customers": 1451.0, "Total-Customers": 20833.0, "cities-served": ["Callaway, FL", "Ebro, FL", "Lynn Haven, FL", "Vernon, FL", "Wausau, FL", "Wewahitchka, FL"], "counties-served": [{"county": "Calhoun County, FL", "population": 13648}, {"county": "Gulf County, FL", "population": 14192}, {"county": "Washington County, FL", "population": 25318}, {"county": "Bay County, FL", "population": 175216}], "states-served": [{"state": "Florida", "customers": 20833}]}, {"company": "Tri-County Electric Cooperative (Florida)", "company-type": "Cooperative", "website": "https://www.tcec.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 24952800.0, "Residential-Customers": 17204.0, "Commercial-Sales-($)": 7223500.0, "Commercial-Customers": 1603.0, "Industrial-Sales-($)": 6432900.0, "Industrial-Customers": 274.0, "Total-Customers": 19081.0, "cities-served": ["Greenville, FL", "Lee, FL", "Madison, FL", "Monticello, FL", "Perry, FL"], "counties-served": [{"county": "Lafayette County, FL", "population": 8226}, {"county": "Jefferson County, FL", "population": 14510}, {"county": "Dixie County, FL", "population": 16759}, {"county": "Madison County, FL", "population": 17968}, {"county": "Taylor County, FL", "population": 21796}], "states-served": [{"state": "Florida", "customers": 19081}]}, {"company": "Glades Electric Cooperative", "company-type": "Cooperative", "website": "https://www.gladeselectric.com/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 24739000.0, "Residential-Customers": 13079.0, "Commercial-Sales-($)": 7749000.0, "Commercial-Customers": 3478.0, "Industrial-Sales-($)": 12492000.0, "Industrial-Customers": 468.0, "Total-Customers": 17025.0, "cities-served": ["LaBelle, FL", "Lake Placid, FL", "Okeechobee, FL", "Sebring, FL"], "counties-served": [{"county": "Glades County, FL", "population": 12126}, {"county": "Hendry County, FL", "population": 39619}, {"county": "Okeechobee County, FL", "population": 39644}, {"county": "Highlands County, FL", "population": 101235}, {"county": "Martin County, FL", "population": 158431}], "states-served": [{"state": "Florida", "customers": 17025}]}, {"company": "Winter Park Utilities", "company-type": "Municipal", "website": "https://www.cityofwinterpark.org/departments/electric-utility/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 20805000.0, "Residential-Customers": 12206.0, "Commercial-Sales-($)": 17815300.0, "Commercial-Customers": 2522.0, "Total-Customers": 14728.0, "cities-served": ["Winter Park"], "counties-served": [{"county": "Orange County, FL", "population": 1429908}], "states-served": [{"state": "Florida", "customers": 14728}]}, {"company": "Bartow Electric", "company-type": "Municipal", "website": "https://www.cityofbartow.net/departments-services/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 14649000.0, "Residential-Customers": 10733.0, "Commercial-Sales-($)": 6752600.0, "Commercial-Customers": 1513.0, "Industrial-Sales-($)": 5966500.0, "Industrial-Customers": 292.0, "Total-Customers": 12538.0, "cities-served": ["Bartow"], "counties-served": [{"county": "Polk County, FL", "population": 725046}], "states-served": [{"state": "Florida", "customers": 12538}]}, {"company": "Escambia River Electric Cooperative", "company-type": "Cooperative", "website": "https://www.erec.com/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 20229404.244, "Residential-Customers": 10527.0, "Commercial-Sales-($)": 4984595.756, "Commercial-Customers": 1120.0, "Total-Customers": 11647.0, "cities-served": ["Century, FL", "Jay, FL"], "counties-served": [{"county": "Santa Rosa County, FL", "population": 188000}, {"county": "Okaloosa County, FL", "population": 211668}, {"county": "Escambia County, FL", "population": 321905}], "states-served": [{"state": "Florida", "customers": 11647}]}, {"company": "City of Mount Dora Electric", "company-type": "Municipal", "website": "https://www.ci.mount-dora.fl.us/339/Electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 5577730.305, "Residential-Customers": 5009.0, "Commercial-Sales-($)": 3495869.695, "Commercial-Customers": 913.0, "Total-Customers": 5922.0, "cities-served": ["Mount Dora"], "counties-served": [{"county": "Lake County, FL", "population": 383956}], "states-served": [{"state": "Florida", "customers": 5922}]}, {"company": "City of Quincy Utilities", "company-type": "Municipal", "website": "http://www.myquincy.net/i/departments/utilities", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 5608573.976, "Residential-Customers": 3780.0, "Commercial-Sales-($)": 7325084.025, "Commercial-Customers": 863.0, "Industrial-Sales-($)": 1366341.999, "Industrial-Customers": 1.0, "Total-Customers": 4644.0, "cities-served": ["Quincy"], "counties-served": [{"county": "Gadsden County, FL", "population": 43826}], "states-served": [{"state": "Florida", "customers": 4644}]}, {"company": "Alachua Electric", "company-type": "Municipal", "website": "https://www.cityofalachua.com/government/public-services/electric", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 5025634.102, "Residential-Customers": 3914.0, "Commercial-Sales-($)": 8672365.898, "Commercial-Customers": 724.0, "Total-Customers": 4638.0, "cities-served": ["Alachua"], "counties-served": [{"county": "Alachua County, FL", "population": 278468}], "states-served": [{"state": "Florida", "customers": 4638}]}, {"company": "Green Cove Springs Electric", "company-type": "Municipal", "website": "https://www.greencovesprings.com/departments/electric_department/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 5217299.112, "Residential-Customers": 3604.0, "Commercial-Sales-($)": 6075700.888, "Commercial-Customers": 791.0, "Total-Customers": 4395.0, "cities-served": ["Green Cove Springs"], "counties-served": [{"county": "Clay County, FL", "population": 218245}], "states-served": [{"state": "Florida", "customers": 4395}]}, {"company": "Clewiston, Florida Electric Utility", "company-type": "Municipal", "website": "https://www.clewiston-fl.gov/department/index.php?structureid=12", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 5516910.375, "Residential-Customers": 3552.0, "Commercial-Sales-($)": 5060147.546, "Commercial-Customers": 628.0, "Industrial-Sales-($)": 1008842.079, "Industrial-Customers": 1.0, "Total-Customers": 4181.0, "cities-served": ["Clewiston", "Harlem CDP"], "counties-served": [{"county": "Hendry County, FL", "population": 39619}], "states-served": [{"state": "Florida", "customers": 4181}]}, {"company": "City of Starke Utilities", "company-type": "Municipal", "website": "https://www.cityofstarke.org/utilities/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 2583295.874, "Residential-Customers": 2103.0, "Commercial-Sales-($)": 4966704.126, "Commercial-Customers": 745.0, "Total-Customers": 2848.0, "cities-served": ["Starke"], "counties-served": [{"county": "Bradford County, FL", "population": 28303}], "states-served": [{"state": "Florida", "customers": 2848}]}, {"company": "City of Wauchula Electric", "company-type": "Municipal", "website": "https://www.cityofwauchula.com/public-works-electrical-division-0", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 3105084.105, "Residential-Customers": 2226.0, "Commercial-Sales-($)": 3348515.895, "Commercial-Customers": 614.0, "Total-Customers": 2840.0, "cities-served": ["Wauchula"], "counties-served": [{"county": "Hardee County, FL", "population": 25327}], "states-served": [{"state": "Florida", "customers": 2840}]}, {"company": "Fort Meade, Florida Electric Utility", "company-type": "Municipal", "website": "https://www.cityoffortmeade.com/departments/electric.php", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 3592688.326, "Residential-Customers": 2400.0, "Commercial-Sales-($)": 1506317.175, "Commercial-Customers": 391.0, "Industrial-Sales-($)": 11994.499, "Industrial-Customers": 1.0, "Total-Customers": 2792.0, "cities-served": ["Fort Meade"], "counties-served": [{"county": "Polk County, FL", "population": 725046}], "states-served": [{"state": "Florida", "customers": 2792}]}, {"company": "Newberry Utilities", "company-type": "Municipal", "website": "https://www.newberryfl.gov/utility/page/electric", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2475939.226, "Residential-Customers": 1759.0, "Commercial-Sales-($)": 1123443.79, "Commercial-Customers": 287.0, "Industrial-Sales-($)": 806516.984, "Industrial-Customers": 45.0, "Total-Customers": 2091.0, "cities-served": ["Newberry"], "counties-served": [{"county": "Alachua County, FL", "population": 278468}], "states-served": [{"state": "Florida", "customers": 2091}]}, {"company": "Bushnell, Florida Electric Utility", "company-type": "Municipal", "website": "https://www.cityofbushnellfl.com/departments/utilities_department/electric_division.php", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 2331154.759, "Residential-Customers": 1204.0, "Commercial-Sales-($)": 3806845.241, "Commercial-Customers": 456.0, "Total-Customers": 1660.0, "cities-served": ["Bushnell"], "counties-served": [{"county": "Sumter County, FL", "population": 129752}], "states-served": [{"state": "Florida", "customers": 1660}]}, {"company": "Williston Public Works", "company-type": "Municipal", "website": "https://www.willistonfl.org/public-works/", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 2048953.564, "Residential-Customers": 1118.0, "Commercial-Sales-($)": 2015261.879, "Commercial-Customers": 391.0, "Industrial-Sales-($)": 557784.557, "Industrial-Customers": 86.0, "Total-Customers": 1595.0, "cities-served": ["Williston", "East Williston CDP"], "counties-served": [{"county": "Levy County, FL", "population": 42915}], "states-served": [{"state": "Florida", "customers": 1595}]}, {"company": "Reedy Creek Improvement District", "company-type": "Municipal", "website": "https://www.rcid.org/doing-business/utilities/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 12000.0, "Residential-Customers": 9.0, "Commercial-Sales-($)": 88732000.0, "Commercial-Customers": 1523.0, "Total-Customers": 1532.0, "Total-Production-MWh": 447.0, "Production-from-Non-Renewable-Energy-MWh": 447.0, "cities-served": ["Bay Lake, FL", "Lake Buena Vista, FL"], "counties-served": [{"county": "Osceola County, FL", "population": 388656}, {"county": "Orange County, FL", "population": 1429908}], "states-served": [{"state": "Florida", "customers": 1532}]}, {"company": "Havana Electric", "company-type": "Municipal", "website": "https://www.townofhavana.com/utilities-2/", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 1535404.771, "Residential-Customers": 1144.0, "Commercial-Sales-($)": 1092595.229, "Commercial-Customers": 313.0, "Total-Customers": 1457.0, "cities-served": ["Havana"], "counties-served": [{"county": "Gadsden County, FL", "population": 43826}], "states-served": [{"state": "Florida", "customers": 1457}]}, {"company": "Blountstown, Florida Electric Utility", "company-type": "Municipal", "website": "https://blountstownfl.govoffice3.com/index.asp?SEC=2BF92237-882E-4F8B-9CB1-489D512E105A&DE=EAA2D27E-6FAF-45F1-B571-7CCB0DAAB0DD&Type=B_BASIC", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 1330303.263, "Residential-Customers": 974.0, "Commercial-Sales-($)": 2541696.737, "Commercial-Customers": 337.0, "Total-Customers": 1311.0, "cities-served": ["Blountstown"], "counties-served": [{"county": "Calhoun County, FL", "population": 13648}], "states-served": [{"state": "Florida", "customers": 1311}]}, {"company": "Moore Haven, Florida Electric Utility", "company-type": "Municipal", "website": "http://www.moorehaven.org/city-departments/utilities", "service-types": ["Residential", "Commercial"], "Residential-Sales-($)": 958517.539, "Residential-Customers": 954.0, "Commercial-Sales-($)": 723482.461, "Commercial-Customers": 164.0, "Total-Customers": 1118.0, "cities-served": ["Moore Haven"], "counties-served": [{"county": "Glades County, FL", "population": 12126}], "states-served": [{"state": "Florida", "customers": 1118}]}, {"company": "Chattahoochee, Florida Electric Utility", "company-type": "Municipal", "website": "https://chattahoocheefl.gov/city/government/departments.php", "service-types": ["Residential", "Commercial", "Industrial"], "Residential-Sales-($)": 1318681.048, "Residential-Customers": 925.0, "Commercial-Sales-($)": 572292.758, "Commercial-Customers": 173.0, "Industrial-Sales-($)": 1715026.194, "Industrial-Customers": 2.0, "Total-Customers": 1100.0, "cities-served": ["Chattahoochee"], "counties-served": [{"county": "Gadsden County, FL", "population": 43826}], "states-served": [{"state": "Florida", "customers": 1100}]}]}
+{
+ "electrical-providers": [
+  {
+   "company": "Florida Power & Light",
+   "company-type": "Investor Owned",
+   "website": "https://www.fpl.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7649564825.0,
+   "Residential-Customers": 4811350.0,
+   "Commercial-Sales-($)": 4675623675.0,
+   "Commercial-Customers": 611193.0,
+   "Industrial-Sales-($)": 270727750.0,
+   "Industrial-Customers": 12490.0,
+   "Total-Customers": 5435033.0,
+   "Total-Production-MWh": 138454629.0,
+   "Production-from-Renewable-Energy-MWh": 7214376.0,
+   "Production-from-Non-Renewable-Energy-MWh": 131249496.0,
+   "cities-served": [
+    "Alford, FL",
+    "Altha, FL",
+    "Anna Maria, FL",
+    "Arcadia, FL",
+    "Atlantis, FL",
+    "Aventura, FL",
+    "Bal Harbour, FL",
+    "Bascom, FL",
+    "Bay Harbor Islands, FL",
+    "Belle Glade, FL",
+    "Beverly Beach, FL",
+    "Biscayne Park, FL",
+    "Blountstown, FL",
+    "Boca Raton, FL",
+    "Bonifay, FL",
+    "Bonita Springs, FL",
+    "Boynton Beach, FL",
+    "Bradenton, FL",
+    "Bradenton Beach, FL",
+    "Briny Breezes, FL",
+    "Bunnell, FL",
+    "Callahan, FL",
+    "Callaway, FL",
+    "Campbellton, FL",
+    "Cape Canaveral, FL",
+    "Caryville, FL",
+    "Century, FL",
+    "Chipley, FL",
+    "Cinco Bayou, FL",
+    "Clewiston, FL",
+    "Cloud Lake, FL",
+    "Cocoa, FL",
+    "Cocoa Beach, FL",
+    "Coconut Creek, FL",
+    "Cooper City, FL",
+    "Coral Gables, FL",
+    "Coral Springs, FL",
+    "Cottondale, FL",
+    "Crescent City, FL",
+    "Crestview, FL",
+    "Cutler Bay, FL",
+    "Dania Beach, FL",
+    "Davie, FL",
+    "Daytona Beach, FL",
+    "Daytona Beach Shores, FL",
+    "DeBary, FL",
+    "DeFuniak Springs, FL",
+    "DeLand, FL",
+    "Deerfield Beach, FL",
+    "Delray Beach, FL",
+    "Deltona, FL",
+    "Destin, FL",
+    "Doral, FL",
+    "Ebro, FL",
+    "Edgewater, FL",
+    "El Portal, FL",
+    "Estero, FL",
+    "Esto, FL",
+    "Fellsmere, FL",
+    "Fernandina Beach, FL",
+    "Flagler Beach, FL",
+    "Florida City, FL",
+    "Fort Lauderdale, FL",
+    "Fort Myers, FL",
+    "Fort Myers Beach, FL",
+    "Fort Pierce, FL",
+    "Fort Walton Beach, FL",
+    "Freeport, FL",
+    "Glen Ridge, FL",
+    "Glen St. Mary, FL",
+    "Golden Beach, FL",
+    "Golf, FL",
+    "Graceville, FL",
+    "Grand Ridge, FL",
+    "Grant-Valkaria, FL",
+    "Greenacres, FL",
+    "Greenwood, FL",
+    "Gulf Breeze, FL",
+    "Gulf Stream, FL",
+    "Hallandale Beach, FL",
+    "Hampton, FL",
+    "Hastings, FL",
+    "Haverhill, FL",
+    "Hawthorne, FL",
+    "Hialeah, FL",
+    "Hialeah Gardens, FL",
+    "Highland Beach, FL",
+    "Hilliard, FL",
+    "Hillsboro Beach, FL",
+    "Holly Hill, FL",
+    "Hollywood, FL",
+    "Holmes Beach, FL",
+    "Homestead, FL",
+    "Hypoluxo, FL",
+    "Indialantic, FL",
+    "Indian Creek, FL",
+    "Indian Harbour Beach, FL",
+    "Indian River Shores, FL",
+    "Interlachen, FL",
+    "Jacksonville, FL",
+    "Jacob City, FL",
+    "Jay, FL",
+    "Juno Beach, FL",
+    "Jupiter, FL",
+    "Jupiter Inlet Colony, FL",
+    "Jupiter Island, FL",
+    "Key Biscayne, FL",
+    "LaBelle, FL",
+    "Lake Butler, FL",
+    "Lake City, FL",
+    "Lake Clarke Shores, FL",
+    "Lake Helen, FL",
+    "Lake Mary, FL",
+    "Lake Park, FL",
+    "Lake Worth, FL",
+    "Lake Worth Beach, FL",
+    "Lantana, FL",
+    "Lauderdale Lakes, FL",
+    "Lauderdale-by-the-Sea, FL",
+    "Lauderhill, FL",
+    "Laurel Hill, FL",
+    "Lawtey, FL",
+    "Lazy Lake, FL",
+    "Lighthouse Point, FL",
+    "Live Oak, FL",
+    "Longboat Key, FL",
+    "Loxahatchee Groves, FL",
+    "Lynn Haven, FL",
+    "Macclenny, FL",
+    "Malabar, FL",
+    "Malone, FL",
+    "Manalapan, FL",
+    "Mangonia Park, FL",
+    "Marco Island, FL",
+    "Margate, FL",
+    "Marianna, FL",
+    "Marineland, FL",
+    "Mary Esther, FL",
+    "Medley, FL",
+    "Melbourne, FL",
+    "Melbourne Beach, FL",
+    "Melbourne Village, FL",
+    "Mexico Beach, FL",
+    "Miami, FL",
+    "Miami Beach, FL",
+    "Miami Gardens, FL",
+    "Miami Lakes, FL",
+    "Miami Shores, FL",
+    "Miami Springs, FL",
+    "Milton, FL",
+    "Miramar, FL",
+    "Naples, FL",
+    "New Smyrna Beach, FL",
+    "Niceville, FL",
+    "Noma, FL",
+    "North Bay Village, FL",
+    "North Lauderdale, FL",
+    "North Miami, FL",
+    "North Miami Beach, FL",
+    "North Palm Beach, FL",
+    "North Port, FL",
+    "Oak Hill, FL",
+    "Oakland Park, FL",
+    "Ocean Breeze, FL",
+    "Ocean Ridge, FL",
+    "Okeechobee, FL",
+    "Opa-locka, FL",
+    "Orchid, FL",
+    "Ormond Beach, FL",
+    "Oviedo, FL",
+    "Pahokee, FL",
+    "Palatka, FL",
+    "Palm Bay, FL",
+    "Palm Beach, FL",
+    "Palm Beach Gardens, FL",
+    "Palm Beach Shores, FL",
+    "Palm Coast, FL",
+    "Palm Shores, FL",
+    "Palm Springs, FL",
+    "Palmetto, FL",
+    "Palmetto Bay, FL",
+    "Panama City, FL",
+    "Panama City Beach, FL",
+    "Parker, FL",
+    "Parkland, FL",
+    "Paxton, FL",
+    "Pembroke Park, FL",
+    "Pembroke Pines, FL",
+    "Penney Farms, FL",
+    "Pensacola, FL",
+    "Pinecrest, FL",
+    "Plantation, FL",
+    "Pomona Park, FL",
+    "Pompano Beach, FL",
+    "Ponce Inlet, FL",
+    "Ponce de Leon, FL",
+    "Port Orange, FL",
+    "Port St. Lucie, FL",
+    "Punta Gorda, FL",
+    "Raiford, FL",
+    "Riviera Beach, FL",
+    "Rockledge, FL",
+    "Royal Palm Beach, FL",
+    "Sanford, FL",
+    "Sarasota, FL",
+    "Satellite Beach, FL",
+    "Sea Ranch Lakes, FL",
+    "Sebastian, FL",
+    "Sewall's Point, FL",
+    "Shalimar, FL",
+    "Sneads, FL",
+    "South Bay, FL",
+    "South Daytona, FL",
+    "South Miami, FL",
+    "South Palm Beach, FL",
+    "Southwest Ranches, FL",
+    "Springfield, FL",
+    "St. Augustine, FL",
+    "St. Augustine Beach, FL",
+    "St. Marys, GA",
+    "Starke, FL",
+    "Stuart, FL",
+    "Sunny Isles Beach, FL",
+    "Sunrise, FL",
+    "Surfside, FL",
+    "Sweetwater, FL",
+    "Tamarac, FL",
+    "Tequesta, FL",
+    "Titusville, FL",
+    "Valparaiso, FL",
+    "Venice, FL",
+    "Vernon, FL",
+    "Vero Beach, FL",
+    "Virginia Gardens, FL",
+    "Waldo, FL",
+    "Wausau, FL",
+    "Welaka, FL",
+    "Wellington, FL",
+    "West Melbourne, FL",
+    "West Miami, FL",
+    "West Palm Beach, FL",
+    "West Park, FL",
+    "Westlake, FL",
+    "Weston, FL",
+    "Westville, FL",
+    "Wilton Manors, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Miami-Dade County, FL",
+     "population": 2701767
+    },
+    {
+     "county": "Broward County, FL",
+     "population": 1944375
+    },
+    {
+     "county": "Palm Beach County, FL",
+     "population": 1492191
+    },
+    {
+     "county": "Duval County, FL",
+     "population": 995567
+    },
+    {
+     "county": "Lee County, FL",
+     "population": 760822
+    },
+    {
+     "county": "Brevard County, FL",
+     "population": 606612
+    },
+    {
+     "county": "Volusia County, FL",
+     "population": 553543
+    },
+    {
+     "county": "Seminole County, FL",
+     "population": 470856
+    },
+    {
+     "county": "Sarasota County, FL",
+     "population": 434006
+    },
+    {
+     "county": "Manatee County, FL",
+     "population": 399710
+    },
+    {
+     "county": "Collier County, FL",
+     "population": 375752
+    },
+    {
+     "county": "St. Lucie County, FL",
+     "population": 329226
+    },
+    {
+     "county": "Escambia County, FL",
+     "population": 321905
+    },
+    {
+     "county": "St. Johns County, FL",
+     "population": 273425
+    },
+    {
+     "county": "Clay County, FL",
+     "population": 218245
+    },
+    {
+     "county": "Okaloosa County, FL",
+     "population": 211668
+    },
+    {
+     "county": "Santa Rosa County, FL",
+     "population": 188000
+    },
+    {
+     "county": "Charlotte County, FL",
+     "population": 186847
+    },
+    {
+     "county": "Bay County, FL",
+     "population": 175216
+    },
+    {
+     "county": "Indian River County, FL",
+     "population": 159788
+    },
+    {
+     "county": "Martin County, FL",
+     "population": 158431
+    },
+    {
+     "county": "Flagler County, FL",
+     "population": 115378
+    },
+    {
+     "county": "Highlands County, FL",
+     "population": 101235
+    },
+    {
+     "county": "Nassau County, FL",
+     "population": 90352
+    },
+    {
+     "county": "Walton County, FL",
+     "population": 75305
+    },
+    {
+     "county": "Putnam County, FL",
+     "population": 73321
+    },
+    {
+     "county": "Columbia County, FL",
+     "population": 69698
+    },
+    {
+     "county": "Jackson County, FL",
+     "population": 47319
+    },
+    {
+     "county": "Suwannee County, FL",
+     "population": 43474
+    },
+    {
+     "county": "Okeechobee County, FL",
+     "population": 39644
+    },
+    {
+     "county": "Hendry County, FL",
+     "population": 39619
+    },
+    {
+     "county": "DeSoto County, FL",
+     "population": 33976
+    },
+    {
+     "county": "Bradford County, FL",
+     "population": 28303
+    },
+    {
+     "county": "Baker County, FL",
+     "population": 28259
+    },
+    {
+     "county": "Hardee County, FL",
+     "population": 25327
+    },
+    {
+     "county": "Washington County, FL",
+     "population": 25318
+    },
+    {
+     "county": "Holmes County, FL",
+     "population": 19653
+    },
+    {
+     "county": "Union County, FL",
+     "population": 16147
+    },
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    },
+    {
+     "county": "Glades County, FL",
+     "population": 12126
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 5795459
+    }
+   ]
+  },
+  {
+   "company": "Duke Energy Florida",
+   "company-type": "Investor Owned",
+   "website": "https://www.duke-energy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3009856064.0,
+   "Residential-Customers": 1685806.0,
+   "Commercial-Sales-($)": 1556880082.0,
+   "Commercial-Customers": 209356.0,
+   "Industrial-Sales-($)": 267508742.0,
+   "Industrial-Customers": 1916.0,
+   "Total-Customers": 1897078.0,
+   "Total-Production-MWh": 40680832.0,
+   "Production-from-Renewable-Energy-MWh": 1043621.0,
+   "Production-from-Non-Renewable-Energy-MWh": 39637211.0,
+   "cities-served": [
+    "Alachua, FL",
+    "Altamonte Springs, FL",
+    "Apalachicola, FL",
+    "Apopka, FL",
+    "Archer, FL",
+    "Astatula, FL",
+    "Auburndale, FL",
+    "Avon Park, FL",
+    "Bartow, FL",
+    "Bay Lake, FL",
+    "Bell, FL",
+    "Belle Isle, FL",
+    "Belleair, FL",
+    "Belleair Beach, FL",
+    "Belleair Bluffs, FL",
+    "Belleair Shore, FL",
+    "Belleview, FL",
+    "Bowling Green, FL",
+    "Branford, FL",
+    "Bristol, FL",
+    "Bronson, FL",
+    "Brooker, FL",
+    "Brooksville, FL",
+    "Bunnell, FL",
+    "Bushnell, FL",
+    "Callaway, FL",
+    "Carrabelle, FL",
+    "Casselberry, FL",
+    "Cedar Key, FL",
+    "Center Hill, FL",
+    "Chiefland, FL",
+    "Clearwater, FL",
+    "Clermont, FL",
+    "Coleman, FL",
+    "Cross City, FL",
+    "Crystal River, FL",
+    "Davenport, FL",
+    "Daytona Beach, FL",
+    "DeBary, FL",
+    "DeLand, FL",
+    "Deltona, FL",
+    "Dundee, FL",
+    "Dunedin, FL",
+    "Dunnellon, FL",
+    "Eatonville, FL",
+    "Edgewood, FL",
+    "Eustis, FL",
+    "Fanning Springs, FL",
+    "Fort Meade, FL",
+    "Fort White, FL",
+    "Frostproof, FL",
+    "Fruitland Park, FL",
+    "Greenville, FL",
+    "Groveland, FL",
+    "Gulfport, FL",
+    "Haines City, FL",
+    "High Springs, FL",
+    "Highland Park, FL",
+    "Hillcrest Heights, FL",
+    "Horseshoe Beach, FL",
+    "Howey-in-the-Hills, FL",
+    "Indian Rocks Beach, FL",
+    "Indian Shores, FL",
+    "Inglis, FL",
+    "Inverness, FL",
+    "Jasper, FL",
+    "Jennings, FL",
+    "Kenneth City, FL",
+    "Lady Lake, FL",
+    "Lake Buena Vista, FL",
+    "Lake City, FL",
+    "Lake Hamilton, FL",
+    "Lake Helen, FL",
+    "Lake Mary, FL",
+    "Lake Placid, FL",
+    "Lake Wales, FL",
+    "Lakeland, FL",
+    "Largo, FL",
+    "Lee, FL",
+    "Leesburg, FL",
+    "Longwood, FL",
+    "Lynn Haven, FL",
+    "Madeira Beach, FL",
+    "Madison, FL",
+    "Maitland, FL",
+    "Mascotte, FL",
+    "Mayo, FL",
+    "McIntosh, FL",
+    "Melbourne, FL",
+    "Mexico Beach, FL",
+    "Micanopy, FL",
+    "Minneola, FL",
+    "Monticello, FL",
+    "Montverde, FL",
+    "Mount Dora, FL",
+    "Mulberry, FL",
+    "New Port Richey, FL",
+    "New Smyrna Beach, FL",
+    "North Redington Beach, FL",
+    "Oak Hill, FL",
+    "Oakland, FL",
+    "Ocala, FL",
+    "Ocoee, FL",
+    "Oldsmar, FL",
+    "Orange City, FL",
+    "Orlando, FL",
+    "Otter Creek, FL",
+    "Oviedo, FL",
+    "Palm Bay, FL",
+    "Panama City, FL",
+    "Panama City Beach, FL",
+    "Parker, FL",
+    "Perry, FL",
+    "Pierson, FL",
+    "Pinellas Park, FL",
+    "Plant City, FL",
+    "Polk City, FL",
+    "Ponce Inlet, FL",
+    "Port Richey, FL",
+    "Port St. Joe, FL",
+    "Reddick, FL",
+    "Redington Beach, FL",
+    "Redington Shores, FL",
+    "Safety Harbor, FL",
+    "San Antonio, FL",
+    "Sanford, FL",
+    "Sebring, FL",
+    "Seminole, FL",
+    "Sopchoppy, FL",
+    "South Pasadena, FL",
+    "Springfield, FL",
+    "St. Leo, FL",
+    "St. Marks, FL",
+    "St. Pete Beach, FL",
+    "St. Petersburg, FL",
+    "Starke, FL",
+    "Tallahassee, FL",
+    "Tarpon Springs, FL",
+    "Tavares, FL",
+    "Treasure Island, FL",
+    "Trenton, FL",
+    "Umatilla, FL",
+    "Wauchula, FL",
+    "Webster, FL",
+    "Weeki Wachee, FL",
+    "Wewahitchka, FL",
+    "White Springs, FL",
+    "Wildwood, FL",
+    "Williston, FL",
+    "Windermere, FL",
+    "Winter Garden, FL",
+    "Winter Haven, FL",
+    "Winter Park, FL",
+    "Winter Springs, FL",
+    "Yankeetown, FL",
+    "Zephyrhills, FL",
+    "Zolfo Springs, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Hillsborough County, FL",
+     "population": 1459762
+    },
+    {
+     "county": "Orange County, FL",
+     "population": 1429908
+    },
+    {
+     "county": "Pinellas County, FL",
+     "population": 959107
+    },
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    },
+    {
+     "county": "Brevard County, FL",
+     "population": 606612
+    },
+    {
+     "county": "Pasco County, FL",
+     "population": 561891
+    },
+    {
+     "county": "Volusia County, FL",
+     "population": 553543
+    },
+    {
+     "county": "Seminole County, FL",
+     "population": 470856
+    },
+    {
+     "county": "Osceola County, FL",
+     "population": 388656
+    },
+    {
+     "county": "Lake County, FL",
+     "population": 383956
+    },
+    {
+     "county": "Marion County, FL",
+     "population": 375908
+    },
+    {
+     "county": "Leon County, FL",
+     "population": 292198
+    },
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    },
+    {
+     "county": "Hernando County, FL",
+     "population": 194515
+    },
+    {
+     "county": "Bay County, FL",
+     "population": 175216
+    },
+    {
+     "county": "Citrus County, FL",
+     "population": 153843
+    },
+    {
+     "county": "Sumter County, FL",
+     "population": 129752
+    },
+    {
+     "county": "Flagler County, FL",
+     "population": 115378
+    },
+    {
+     "county": "Highlands County, FL",
+     "population": 101235
+    },
+    {
+     "county": "Columbia County, FL",
+     "population": 69698
+    },
+    {
+     "county": "Suwannee County, FL",
+     "population": 43474
+    },
+    {
+     "county": "Levy County, FL",
+     "population": 42915
+    },
+    {
+     "county": "Okeechobee County, FL",
+     "population": 39644
+    },
+    {
+     "county": "Wakulla County, FL",
+     "population": 33764
+    },
+    {
+     "county": "Bradford County, FL",
+     "population": 28303
+    },
+    {
+     "county": "Hardee County, FL",
+     "population": 25327
+    },
+    {
+     "county": "Taylor County, FL",
+     "population": 21796
+    },
+    {
+     "county": "Madison County, FL",
+     "population": 17968
+    },
+    {
+     "county": "Gilchrist County, FL",
+     "population": 17864
+    },
+    {
+     "county": "Dixie County, FL",
+     "population": 16759
+    },
+    {
+     "county": "Jefferson County, FL",
+     "population": 14510
+    },
+    {
+     "county": "Gulf County, FL",
+     "population": 14192
+    },
+    {
+     "county": "Hamilton County, FL",
+     "population": 14004
+    },
+    {
+     "county": "Franklin County, FL",
+     "population": 12451
+    },
+    {
+     "county": "Lafayette County, FL",
+     "population": 8226
+    },
+    {
+     "county": "Liberty County, FL",
+     "population": 7974
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1897078
+    }
+   ]
+  },
+  {
+   "company": "Tampa Electric",
+   "company-type": "Investor Owned",
+   "website": "https://www.tampaelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1194730025.0,
+   "Residential-Customers": 717194.0,
+   "Commercial-Sales-($)": 809800243.0,
+   "Commercial-Customers": 87936.0,
+   "Industrial-Sales-($)": 171699346.0,
+   "Industrial-Customers": 1372.0,
+   "Total-Customers": 806502.0,
+   "Total-Production-MWh": 19002242.0,
+   "Production-from-Renewable-Energy-MWh": 1271926.0,
+   "Production-from-Non-Renewable-Energy-MWh": 17730316.0,
+   "cities-served": [
+    "Auburndale, FL",
+    "Clearwater, FL",
+    "Dade City, FL",
+    "Eagle Lake, FL",
+    "Lake Alfred, FL",
+    "Lake Wales, FL",
+    "Lakeland, FL",
+    "Mulberry, FL",
+    "Oldsmar, FL",
+    "Plant City, FL",
+    "Polk City, FL",
+    "Safety Harbor, FL",
+    "San Antonio, FL",
+    "St. Leo, FL",
+    "St. Petersburg, FL",
+    "Tampa, FL",
+    "Temple Terrace, FL",
+    "Winter Haven, FL",
+    "Zephyrhills, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Hillsborough County, FL",
+     "population": 1459762
+    },
+    {
+     "county": "Pinellas County, FL",
+     "population": 959107
+    },
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    },
+    {
+     "county": "Pasco County, FL",
+     "population": 561891
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 806502
+    }
+   ]
+  },
+  {
+   "company": "Jacksonville Electric Authority",
+   "company-type": "Municipal",
+   "website": "https://www.jea.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 659441000.0,
+   "Residential-Customers": 440493.0,
+   "Commercial-Sales-($)": 408280207.0,
+   "Commercial-Customers": 58543.0,
+   "Industrial-Sales-($)": 201076000.0,
+   "Industrial-Customers": 196.0,
+   "Total-Customers": 499232.0,
+   "Total-Production-MWh": 9871475.0,
+   "Production-from-Renewable-Energy-MWh": 26310.0,
+   "Production-from-Non-Renewable-Energy-MWh": 9845165.0,
+   "cities-served": [
+    "Atlantic Beach, FL",
+    "Baldwin, FL",
+    "Jacksonville, FL",
+    "Neptune Beach, FL",
+    "Orange Park, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Duval County, FL",
+     "population": 995567
+    },
+    {
+     "county": "St. Johns County, FL",
+     "population": 273425
+    },
+    {
+     "county": "Clay County, FL",
+     "population": 218245
+    },
+    {
+     "county": "Nassau County, FL",
+     "population": 90352
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 499234
+    }
+   ]
+  },
+  {
+   "company": "Gulf Power Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.gulfpower.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 761950881.0,
+   "Residential-Customers": 418156.0,
+   "Commercial-Sales-($)": 405340046.0,
+   "Commercial-Customers": 58486.0,
+   "Industrial-Sales-($)": 134974214.0,
+   "Industrial-Customers": 238.0,
+   "Total-Customers": 476880.0,
+   "Total-Production-MWh": 7639856.0,
+   "Production-from-Renewable-Energy-MWh": 187663.0,
+   "Production-from-Non-Renewable-Energy-MWh": 7452193.0,
+   "cities-served": [
+    "Alford, FL",
+    "Altha, FL",
+    "Bascom, FL",
+    "Blountstown, FL",
+    "Bonifay, FL",
+    "Callaway, FL",
+    "Campbellton, FL",
+    "Caryville, FL",
+    "Century, FL",
+    "Chipley, FL",
+    "Cinco Bayou, FL",
+    "Cottondale, FL",
+    "Crestview, FL",
+    "DeFuniak Springs, FL",
+    "Destin, FL",
+    "Ebro, FL",
+    "Esto, FL",
+    "Fort Walton Beach, FL",
+    "Freeport, FL",
+    "Graceville, FL",
+    "Grand Ridge, FL",
+    "Greenwood, FL",
+    "Gulf Breeze, FL",
+    "Jacob City, FL",
+    "Jay, FL",
+    "Laurel Hill, FL",
+    "Lynn Haven, FL",
+    "Malone, FL",
+    "Marianna, FL",
+    "Mary Esther, FL",
+    "Mexico Beach, FL",
+    "Milton, FL",
+    "Niceville, FL",
+    "Noma, FL",
+    "Panama City, FL",
+    "Panama City Beach, FL",
+    "Parker, FL",
+    "Paxton, FL",
+    "Pensacola, FL",
+    "Ponce de Leon, FL",
+    "Shalimar, FL",
+    "Sneads, FL",
+    "Springfield, FL",
+    "Valparaiso, FL",
+    "Vernon, FL",
+    "Wausau, FL",
+    "Westville, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Escambia County, FL",
+     "population": 321905
+    },
+    {
+     "county": "Okaloosa County, FL",
+     "population": 211668
+    },
+    {
+     "county": "Santa Rosa County, FL",
+     "population": 188000
+    },
+    {
+     "county": "Bay County, FL",
+     "population": 175216
+    },
+    {
+     "county": "Walton County, FL",
+     "population": 75305
+    },
+    {
+     "county": "Jackson County, FL",
+     "population": 47319
+    },
+    {
+     "county": "Washington County, FL",
+     "population": 25318
+    },
+    {
+     "county": "Holmes County, FL",
+     "population": 19653
+    },
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 478095
+    }
+   ]
+  },
+  {
+   "company": "Orlando Utilities Commission",
+   "company-type": "Municipal",
+   "website": "https://www.ouc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 311682000.0,
+   "Residential-Customers": 221756.0,
+   "Commercial-Sales-($)": 335361000.0,
+   "Commercial-Customers": 31693.0,
+   "Total-Customers": 253449.0,
+   "Total-Production-MWh": 6188344.0,
+   "Production-from-Renewable-Energy-MWh": 35324.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6153020.0,
+   "cities-served": [
+    "Belle Isle, FL",
+    "Edgewood, FL",
+    "Orlando, FL",
+    "St. Cloud, FL",
+    "Winter Park, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Orange County, FL",
+     "population": 1429908
+    },
+    {
+     "county": "Osceola County, FL",
+     "population": 388656
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 253449
+    }
+   ]
+  },
+  {
+   "company": "Withlacoochee River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.wrec.net/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 346846000.0,
+   "Residential-Customers": 204271.0,
+   "Commercial-Sales-($)": 91208000.0,
+   "Commercial-Customers": 21316.0,
+   "Industrial-Sales-($)": 15363600.0,
+   "Industrial-Customers": 1109.0,
+   "Total-Customers": 226696.0,
+   "cities-served": [
+    "Brooksville, FL",
+    "Crystal River, FL",
+    "Dade City, FL",
+    "Inverness, FL",
+    "New Port Richey, FL",
+    "Port Richey, FL",
+    "San Antonio, FL",
+    "St. Leo, FL",
+    "Weeki Wachee, FL",
+    "Zephyrhills, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    },
+    {
+     "county": "Pasco County, FL",
+     "population": 561891
+    },
+    {
+     "county": "Hernando County, FL",
+     "population": 194515
+    },
+    {
+     "county": "Citrus County, FL",
+     "population": 153843
+    },
+    {
+     "county": "Sumter County, FL",
+     "population": 129752
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 226696
+    }
+   ]
+  },
+  {
+   "company": "Lee County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.lcec.net/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 320986800.0,
+   "Residential-Customers": 204625.0,
+   "Commercial-Sales-($)": 108221200.0,
+   "Commercial-Customers": 19699.0,
+   "Total-Customers": 224324.0,
+   "cities-served": [
+    "Cape Coral, FL",
+    "Everglades, FL",
+    "Marco Island, FL",
+    "Sanibel, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Lee County, FL",
+     "population": 760822
+    },
+    {
+     "county": "Collier County, FL",
+     "population": 375752
+    },
+    {
+     "county": "Charlotte County, FL",
+     "population": 186847
+    },
+    {
+     "county": "Hendry County, FL",
+     "population": 39619
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 224324
+    }
+   ]
+  },
+  {
+   "company": "SECO Energy",
+   "company-type": "Cooperative",
+   "website": "https://www.secoenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 309379000.0,
+   "Residential-Customers": 197388.0,
+   "Commercial-Sales-($)": 32708000.0,
+   "Commercial-Customers": 17690.0,
+   "Industrial-Sales-($)": 71707000.0,
+   "Industrial-Customers": 1399.0,
+   "Total-Customers": 216477.0,
+   "cities-served": [
+    "Astatula, FL",
+    "Belleview, FL",
+    "Bushnell, FL",
+    "Center Hill, FL",
+    "Clermont, FL",
+    "Coleman, FL",
+    "Dunnellon, FL",
+    "Eustis, FL",
+    "Fruitland Park, FL",
+    "Groveland, FL",
+    "Howey-in-the-Hills, FL",
+    "Inverness, FL",
+    "Lady Lake, FL",
+    "Leesburg, FL",
+    "Mascotte, FL",
+    "Minneola, FL",
+    "Montverde, FL",
+    "Mount Dora, FL",
+    "Ocala, FL",
+    "Tavares, FL",
+    "Umatilla, FL",
+    "Webster, FL",
+    "Wildwood, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Pasco County, FL",
+     "population": 561891
+    },
+    {
+     "county": "Lake County, FL",
+     "population": 383956
+    },
+    {
+     "county": "Marion County, FL",
+     "population": 375908
+    },
+    {
+     "county": "Hernando County, FL",
+     "population": 194515
+    },
+    {
+     "county": "Citrus County, FL",
+     "population": 153843
+    },
+    {
+     "county": "Sumter County, FL",
+     "population": 129752
+    },
+    {
+     "county": "Levy County, FL",
+     "population": 42915
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 216477
+    }
+   ]
+  },
+  {
+   "company": "Clay Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.clayelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 271725200.0,
+   "Residential-Customers": 159862.0,
+   "Commercial-Sales-($)": 65784300.0,
+   "Commercial-Customers": 20609.0,
+   "Industrial-Sales-($)": 24577600.0,
+   "Industrial-Customers": 32.0,
+   "Total-Customers": 180503.0,
+   "cities-served": [
+    "Alachua, FL",
+    "Archer, FL",
+    "Gainesville, FL",
+    "Green Cove Springs, FL",
+    "Hawthorne, FL",
+    "High Springs, FL",
+    "Keystone Heights, FL",
+    "La Crosse, FL",
+    "Newberry, FL",
+    "Palatka, FL",
+    "Waldo, FL",
+    "Worthington Springs, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    },
+    {
+     "county": "Clay County, FL",
+     "population": 218245
+    },
+    {
+     "county": "Putnam County, FL",
+     "population": 73321
+    },
+    {
+     "county": "Baker County, FL",
+     "population": 28259
+    },
+    {
+     "county": "Union County, FL",
+     "population": 16147
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 180503
+    }
+   ]
+  },
+  {
+   "company": "Lakeland Electric",
+   "company-type": "Municipal",
+   "website": "https://www.lakelandelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 158325300.0,
+   "Residential-Customers": 112176.0,
+   "Commercial-Sales-($)": 75145500.0,
+   "Commercial-Customers": 21985.0,
+   "Industrial-Sales-($)": 40988100.0,
+   "Industrial-Customers": 82.0,
+   "Total-Customers": 134243.0,
+   "Total-Production-MWh": 2124160.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2124160.0,
+   "cities-served": [
+    "Auburndale, FL",
+    "Lakeland, FL",
+    "Polk City, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 134243
+    }
+   ]
+  },
+  {
+   "company": "Tallahassee Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.talgov.com/you/you-electric.aspx",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 127812000.0,
+   "Residential-Customers": 105829.0,
+   "Commercial-Sales-($)": 120734300.0,
+   "Commercial-Customers": 15100.0,
+   "Total-Customers": 120929.0,
+   "Total-Production-MWh": 2535550.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2535550.0,
+   "cities-served": [
+    "Tallahassee",
+    "Bradfordville CDP",
+    "Woodville CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Leon County, FL",
+     "population": 292198
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 120929
+    }
+   ]
+  },
+  {
+   "company": "Gainesville Regional Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.gru.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 110697000.0,
+   "Residential-Customers": 88391.0,
+   "Commercial-Sales-($)": 110985100.0,
+   "Commercial-Customers": 11264.0,
+   "Industrial-Sales-($)": 15954100.0,
+   "Industrial-Customers": 10.0,
+   "Total-Customers": 99665.0,
+   "Total-Production-MWh": 2185176.0,
+   "Production-from-Renewable-Energy-MWh": 541627.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1643549.0,
+   "cities-served": [
+    "Alachua, FL",
+    "Gainesville, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 99665
+    }
+   ]
+  },
+  {
+   "company": "Kissimmee Utility Authority",
+   "company-type": "Municipal",
+   "website": "https://www.kua.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 106158000.0,
+   "Residential-Customers": 69350.0,
+   "Commercial-Sales-($)": 55521000.0,
+   "Commercial-Customers": 10363.0,
+   "Industrial-Sales-($)": 13038000.0,
+   "Industrial-Customers": 48.0,
+   "Total-Customers": 79761.0,
+   "Total-Production-MWh": 1055071.0,
+   "Production-from-Renewable-Energy-MWh": 714.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1054358.0,
+   "cities-served": [
+    "Kissimmee, FL",
+    "St. Cloud, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Osceola County, FL",
+     "population": 388656
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 79761
+    }
+   ]
+  },
+  {
+   "company": "Choctawhatchee Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.chelco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 80358000.0,
+   "Residential-Customers": 48666.0,
+   "Commercial-Sales-($)": 21179000.0,
+   "Commercial-Customers": 6996.0,
+   "Industrial-Sales-($)": 1187000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 55664.0,
+   "cities-served": [
+    "Crestview, FL",
+    "DeFuniak Springs, FL",
+    "Freeport, FL",
+    "Laurel Hill, FL",
+    "Paxton, FL",
+    "Ponce de Leon, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Okaloosa County, FL",
+     "population": 211668
+    },
+    {
+     "county": "Walton County, FL",
+     "population": 75305
+    },
+    {
+     "county": "Holmes County, FL",
+     "population": 19653
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 55664
+    }
+   ]
+  },
+  {
+   "company": "Talquin Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.talquinelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 92720700.0,
+   "Residential-Customers": 51682.0,
+   "Commercial-Sales-($)": 18881200.0,
+   "Commercial-Customers": 3329.0,
+   "Industrial-Sales-($)": 13779100.0,
+   "Industrial-Customers": 7.0,
+   "Total-Customers": 55018.0,
+   "cities-served": [
+    "Bristol, FL",
+    "Chattahoochee, FL",
+    "Greensboro, FL",
+    "Gretna, FL",
+    "Havana, FL",
+    "Midway, FL",
+    "Quincy, FL",
+    "Tallahassee, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Leon County, FL",
+     "population": 292198
+    },
+    {
+     "county": "Gadsden County, FL",
+     "population": 43826
+    },
+    {
+     "county": "Wakulla County, FL",
+     "population": 33764
+    },
+    {
+     "county": "Liberty County, FL",
+     "population": 7974
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 55018
+    }
+   ]
+  },
+  {
+   "company": "Ocala Electric",
+   "company-type": "Municipal",
+   "website": "https://www.ocalafl.org/government/electric-utility",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 55939500.0,
+   "Residential-Customers": 43157.0,
+   "Commercial-Sales-($)": 20362000.0,
+   "Commercial-Customers": 10579.0,
+   "Industrial-Sales-($)": 44952200.0,
+   "Industrial-Customers": 930.0,
+   "Total-Customers": 54666.0,
+   "cities-served": [
+    "Ocala",
+    "Liberty Triangle CDP",
+    "Silver Springs CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Marion County, FL",
+     "population": 375908
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 54666
+    }
+   ]
+  },
+  {
+   "company": "Peace River Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.preco.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 74891800.0,
+   "Residential-Customers": 41664.0,
+   "Commercial-Sales-($)": 33059100.0,
+   "Commercial-Customers": 8686.0,
+   "Industrial-Sales-($)": 337400.0,
+   "Industrial-Customers": 42.0,
+   "Total-Customers": 50392.0,
+   "cities-served": [
+    "Arcadia, FL",
+    "Avon Park, FL",
+    "Bowling Green, FL",
+    "Bradenton, FL",
+    "North Port, FL",
+    "Palmetto, FL",
+    "Wauchula, FL",
+    "Zolfo Springs, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    },
+    {
+     "county": "Brevard County, FL",
+     "population": 606612
+    },
+    {
+     "county": "Sarasota County, FL",
+     "population": 434006
+    },
+    {
+     "county": "Manatee County, FL",
+     "population": 399710
+    },
+    {
+     "county": "Osceola County, FL",
+     "population": 388656
+    },
+    {
+     "county": "Indian River County, FL",
+     "population": 159788
+    },
+    {
+     "county": "Highlands County, FL",
+     "population": 101235
+    },
+    {
+     "county": "Okeechobee County, FL",
+     "population": 39644
+    },
+    {
+     "county": "DeSoto County, FL",
+     "population": 33976
+    },
+    {
+     "county": "Hardee County, FL",
+     "population": 25327
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 50392
+    }
+   ]
+  },
+  {
+   "company": "Okefenoke Rural Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.oremc.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 63613400.0,
+   "Residential-Customers": 35370.0,
+   "Commercial-Sales-($)": 8657900.0,
+   "Commercial-Customers": 2804.0,
+   "Industrial-Sales-($)": 1328900.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 38178.0,
+   "cities-served": [
+    "Callahan, FL",
+    "Folkston, GA",
+    "Glen St. Mary, FL",
+    "Hilliard, FL",
+    "Hoboken, GA",
+    "Homeland, GA",
+    "Kingsland, GA",
+    "Macclenny, FL",
+    "Nahunta, GA",
+    "St. Marys, GA",
+    "Waycross, GA",
+    "Woodbine, GA"
+   ],
+   "counties-served": [
+    {
+     "county": "Nassau County, FL",
+     "population": 90352
+    },
+    {
+     "county": "Glynn County, GA",
+     "population": 84499
+    },
+    {
+     "county": "Camden County, GA",
+     "population": 54768
+    },
+    {
+     "county": "Ware County, GA",
+     "population": 36251
+    },
+    {
+     "county": "Wayne County, GA",
+     "population": 30144
+    },
+    {
+     "county": "Baker County, FL",
+     "population": 28259
+    },
+    {
+     "county": "Brantley County, GA",
+     "population": 18021
+    },
+    {
+     "county": "Charlton County, GA",
+     "population": 12518
+    },
+    {
+     "county": "McIntosh County, GA",
+     "population": 10975
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Georgia",
+     "customers": 27288
+    },
+    {
+     "state": "Florida",
+     "customers": 10890
+    }
+   ]
+  },
+  {
+   "company": "Beaches Energy",
+   "company-type": "Municipal",
+   "website": "https://www.beachesenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 47499700.0,
+   "Residential-Customers": 30300.0,
+   "Commercial-Sales-($)": 28419800.0,
+   "Commercial-Customers": 5447.0,
+   "Total-Customers": 35747.0,
+   "cities-served": [
+    "Jacksonville Beach, FL",
+    "Neptune Beach, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Duval County, FL",
+     "population": 995567
+    },
+    {
+     "county": "St. Johns County, FL",
+     "population": 273425
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 35747
+    }
+   ]
+  },
+  {
+   "company": "Central Florida Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.cfec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 47703500.0,
+   "Residential-Customers": 30664.0,
+   "Commercial-Sales-($)": 10301300.0,
+   "Commercial-Customers": 2971.0,
+   "Industrial-Sales-($)": 5550700.0,
+   "Industrial-Customers": 704.0,
+   "Total-Customers": 34339.0,
+   "cities-served": [
+    "Archer, FL",
+    "Bell, FL",
+    "Bronson, FL",
+    "Cedar Key, FL",
+    "Chiefland, FL",
+    "Cross City, FL",
+    "Fanning Springs, FL",
+    "High Springs, FL",
+    "Horseshoe Beach, FL",
+    "Inglis, FL",
+    "Newberry, FL",
+    "Otter Creek, FL",
+    "Trenton, FL",
+    "Williston, FL",
+    "Yankeetown, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    },
+    {
+     "county": "Levy County, FL",
+     "population": 42915
+    },
+    {
+     "county": "Gilchrist County, FL",
+     "population": 17864
+    },
+    {
+     "county": "Dixie County, FL",
+     "population": 16759
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 34339
+    }
+   ]
+  },
+  {
+   "company": "Florida Keys Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.fkec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 50288000.0,
+   "Residential-Customers": 27407.0,
+   "Commercial-Sales-($)": 12195000.0,
+   "Commercial-Customers": 5227.0,
+   "Industrial-Sales-($)": 20284000.0,
+   "Industrial-Customers": 468.0,
+   "Total-Customers": 33102.0,
+   "cities-served": [
+    "Key Colony Beach, FL",
+    "Layton, FL",
+    "Marathon, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Monroe County, FL",
+     "population": 82874
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 33102
+    }
+   ]
+  },
+  {
+   "company": "Keys Energy",
+   "company-type": "Municipal",
+   "website": "https://www.keysenergy.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 52287000.0,
+   "Residential-Customers": 26460.0,
+   "Commercial-Sales-($)": 44556000.0,
+   "Commercial-Customers": 4448.0,
+   "Total-Customers": 30908.0,
+   "cities-served": [
+    "Key West",
+    "Stock Island CDP",
+    "Big Pine Key CDP",
+    "Big Coppitt Key CDP",
+    "Cudjoe Key CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Monroe County, FL",
+     "population": 82874
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 30908
+    }
+   ]
+  },
+  {
+   "company": "Florida Public Utilities",
+   "company-type": "Investor Owned",
+   "website": "https://www.fpuc.com/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 42232000.0,
+   "Residential-Customers": 25384.0,
+   "Commercial-Sales-($)": 37264000.0,
+   "Commercial-Customers": 5277.0,
+   "Industrial-Sales-($)": 2421000.0,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 30663.0,
+   "cities-served": [
+    "Alford, FL",
+    "Altha, FL",
+    "Bascom, FL",
+    "Blountstown, FL",
+    "Bristol, FL",
+    "Callahan, FL",
+    "Campbellton, FL",
+    "Cottondale, FL",
+    "Fernandina Beach, FL",
+    "Graceville, FL",
+    "Grand Ridge, FL",
+    "Greenwood, FL",
+    "Hilliard, FL",
+    "Jacob City, FL",
+    "Malone, FL",
+    "Marianna, FL",
+    "Sneads, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Nassau County, FL",
+     "population": 90352
+    },
+    {
+     "county": "Jackson County, FL",
+     "population": 47319
+    },
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    },
+    {
+     "county": "Liberty County, FL",
+     "population": 7974
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 30663
+    }
+   ]
+  },
+  {
+   "company": "New Smyrna Beach Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.ucnsb.org/electric-system-operations",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29525000.0,
+   "Residential-Customers": 26002.0,
+   "Commercial-Sales-($)": 5501000.0,
+   "Commercial-Customers": 3525.0,
+   "Industrial-Sales-($)": 8183000.0,
+   "Industrial-Customers": 132.0,
+   "Total-Customers": 29659.0,
+   "cities-served": [
+    "New Smyrna Beach"
+   ],
+   "counties-served": [
+    {
+     "county": "Volusia County, FL",
+     "population": 553543
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 29659
+    }
+   ]
+  },
+  {
+   "company": "Fort Pierce Utilities Authority",
+   "company-type": "Municipal",
+   "website": "https://www.fpua.com/electric-service/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 29471000.0,
+   "Residential-Customers": 23622.0,
+   "Commercial-Sales-($)": 34044000.0,
+   "Commercial-Customers": 5162.0,
+   "Total-Customers": 28784.0,
+   "cities-served": [
+    "Fort Pierce, FL",
+    "St. Lucie Village, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "St. Lucie County, FL",
+     "population": 329226
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 28784
+    }
+   ]
+  },
+  {
+   "company": "West Florida Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.westflorida.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 43025000.0,
+   "Residential-Customers": 25040.0,
+   "Commercial-Sales-($)": 8501000.0,
+   "Commercial-Customers": 3317.0,
+   "Industrial-Sales-($)": 6198000.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 28358.0,
+   "cities-served": [
+    "Alford, FL",
+    "Altha, FL",
+    "Bascom, FL",
+    "Blountstown, FL",
+    "Bonifay, FL",
+    "Campbellton, FL",
+    "Caryville, FL",
+    "Chipley, FL",
+    "Cottondale, FL",
+    "Esto, FL",
+    "Graceville, FL",
+    "Grand Ridge, FL",
+    "Greenwood, FL",
+    "Jacob City, FL",
+    "Malone, FL",
+    "Marianna, FL",
+    "Noma, FL",
+    "Ponce de Leon, FL",
+    "Sneads, FL",
+    "Vernon, FL",
+    "Wausau, FL",
+    "Westville, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Walton County, FL",
+     "population": 75305
+    },
+    {
+     "county": "Jackson County, FL",
+     "population": 47319
+    },
+    {
+     "county": "Washington County, FL",
+     "population": 25318
+    },
+    {
+     "county": "Holmes County, FL",
+     "population": 19653
+    },
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 28358
+    }
+   ]
+  },
+  {
+   "company": "Homestead Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofhomestead.com/448/HPS-Energy-Electric-Services",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 45038600.0,
+   "Residential-Customers": 25216.0,
+   "Commercial-Sales-($)": 5087700.0,
+   "Commercial-Customers": 2146.0,
+   "Industrial-Sales-($)": 12211500.0,
+   "Industrial-Customers": 592.0,
+   "Total-Customers": 27954.0,
+   "cities-served": [
+    "Homestead",
+    "Leisure City CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Miami-Dade County, FL",
+     "population": 2701767
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 27954
+    }
+   ]
+  },
+  {
+   "company": "City of Lake Worth Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.lakeworthbeachfl.gov/utilities/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 24692000.0,
+   "Residential-Customers": 23822.0,
+   "Commercial-Sales-($)": 15497000.0,
+   "Commercial-Customers": 3784.0,
+   "Total-Customers": 27606.0,
+   "Total-Production-MWh": 6834.0,
+   "Production-from-Non-Renewable-Energy-MWh": 6834.0,
+   "cities-served": [
+    "Lake Worth, FL",
+    "Lake Worth Beach, FL",
+    "Palm Springs, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Palm Beach County, FL",
+     "population": 1492191
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 27606
+    }
+   ]
+  },
+  {
+   "company": "Suwannee Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.svec-coop.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 39114000.0,
+   "Residential-Customers": 24015.0,
+   "Commercial-Sales-($)": 11963000.0,
+   "Commercial-Customers": 3365.0,
+   "Industrial-Sales-($)": 5835000.0,
+   "Industrial-Customers": 8.0,
+   "Total-Customers": 27388.0,
+   "cities-served": [
+    "Branford, FL",
+    "Lake City, FL",
+    "Mayo, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Columbia County, FL",
+     "population": 69698
+    },
+    {
+     "county": "Suwannee County, FL",
+     "population": 43474
+    },
+    {
+     "county": "Gilchrist County, FL",
+     "population": 17864
+    },
+    {
+     "county": "Dixie County, FL",
+     "population": 16759
+    },
+    {
+     "county": "Hamilton County, FL",
+     "population": 14004
+    },
+    {
+     "county": "Lafayette County, FL",
+     "population": 8226
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 27388
+    }
+   ]
+  },
+  {
+   "company": "Leesburg Electric",
+   "company-type": "Municipal",
+   "website": "https://www.leesburgflorida.gov/government/departments/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 29849100.0,
+   "Residential-Customers": 22394.0,
+   "Commercial-Sales-($)": 21979700.0,
+   "Commercial-Customers": 4272.0,
+   "Industrial-Sales-($)": 1376600.0,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 26667.0,
+   "cities-served": [
+    "Fruitland Park, FL",
+    "Leesburg, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake County, FL",
+     "population": 383956
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 26667
+    }
+   ]
+  },
+  {
+   "company": "Gulf Coast Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.gcec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 35692400.0,
+   "Residential-Customers": 19382.0,
+   "Commercial-Sales-($)": 8147500.0,
+   "Commercial-Customers": 1451.0,
+   "Total-Customers": 20833.0,
+   "cities-served": [
+    "Callaway, FL",
+    "Ebro, FL",
+    "Lynn Haven, FL",
+    "Vernon, FL",
+    "Wausau, FL",
+    "Wewahitchka, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Bay County, FL",
+     "population": 175216
+    },
+    {
+     "county": "Washington County, FL",
+     "population": 25318
+    },
+    {
+     "county": "Gulf County, FL",
+     "population": 14192
+    },
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 20833
+    }
+   ]
+  },
+  {
+   "company": "Tri-County Electric Cooperative (Florida)",
+   "company-type": "Cooperative",
+   "website": "https://www.tcec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24952800.0,
+   "Residential-Customers": 17204.0,
+   "Commercial-Sales-($)": 7223500.0,
+   "Commercial-Customers": 1603.0,
+   "Industrial-Sales-($)": 6432900.0,
+   "Industrial-Customers": 274.0,
+   "Total-Customers": 19081.0,
+   "cities-served": [
+    "Greenville, FL",
+    "Lee, FL",
+    "Madison, FL",
+    "Monticello, FL",
+    "Perry, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Taylor County, FL",
+     "population": 21796
+    },
+    {
+     "county": "Madison County, FL",
+     "population": 17968
+    },
+    {
+     "county": "Dixie County, FL",
+     "population": 16759
+    },
+    {
+     "county": "Jefferson County, FL",
+     "population": 14510
+    },
+    {
+     "county": "Lafayette County, FL",
+     "population": 8226
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 19081
+    }
+   ]
+  },
+  {
+   "company": "Glades Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.gladeselectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24739000.0,
+   "Residential-Customers": 13079.0,
+   "Commercial-Sales-($)": 7749000.0,
+   "Commercial-Customers": 3478.0,
+   "Industrial-Sales-($)": 12492000.0,
+   "Industrial-Customers": 468.0,
+   "Total-Customers": 17025.0,
+   "cities-served": [
+    "LaBelle, FL",
+    "Lake Placid, FL",
+    "Okeechobee, FL",
+    "Sebring, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Martin County, FL",
+     "population": 158431
+    },
+    {
+     "county": "Highlands County, FL",
+     "population": 101235
+    },
+    {
+     "county": "Okeechobee County, FL",
+     "population": 39644
+    },
+    {
+     "county": "Hendry County, FL",
+     "population": 39619
+    },
+    {
+     "county": "Glades County, FL",
+     "population": 12126
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 17025
+    }
+   ]
+  },
+  {
+   "company": "Winter Park Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwinterpark.org/departments/electric-utility/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20805000.0,
+   "Residential-Customers": 12206.0,
+   "Commercial-Sales-($)": 17815300.0,
+   "Commercial-Customers": 2522.0,
+   "Total-Customers": 14728.0,
+   "cities-served": [
+    "Winter Park"
+   ],
+   "counties-served": [
+    {
+     "county": "Orange County, FL",
+     "population": 1429908
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 14728
+    }
+   ]
+  },
+  {
+   "company": "Bartow Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbartow.net/departments-services/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14649000.0,
+   "Residential-Customers": 10733.0,
+   "Commercial-Sales-($)": 6752600.0,
+   "Commercial-Customers": 1513.0,
+   "Industrial-Sales-($)": 5966500.0,
+   "Industrial-Customers": 292.0,
+   "Total-Customers": 12538.0,
+   "cities-served": [
+    "Bartow"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 12538
+    }
+   ]
+  },
+  {
+   "company": "Escambia River Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.erec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 20229404.244,
+   "Residential-Customers": 10527.0,
+   "Commercial-Sales-($)": 4984595.756,
+   "Commercial-Customers": 1120.0,
+   "Total-Customers": 11647.0,
+   "cities-served": [
+    "Century, FL",
+    "Jay, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Escambia County, FL",
+     "population": 321905
+    },
+    {
+     "county": "Okaloosa County, FL",
+     "population": 211668
+    },
+    {
+     "county": "Santa Rosa County, FL",
+     "population": 188000
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 11647
+    }
+   ]
+  },
+  {
+   "company": "City of Mount Dora Electric",
+   "company-type": "Municipal",
+   "website": "https://www.ci.mount-dora.fl.us/339/Electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5577730.305,
+   "Residential-Customers": 5009.0,
+   "Commercial-Sales-($)": 3495869.695,
+   "Commercial-Customers": 913.0,
+   "Total-Customers": 5922.0,
+   "cities-served": [
+    "Mount Dora"
+   ],
+   "counties-served": [
+    {
+     "county": "Lake County, FL",
+     "population": 383956
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 5922
+    }
+   ]
+  },
+  {
+   "company": "City of Quincy Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.myquincy.net/i/departments/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5608573.976,
+   "Residential-Customers": 3780.0,
+   "Commercial-Sales-($)": 7325084.025,
+   "Commercial-Customers": 863.0,
+   "Industrial-Sales-($)": 1366341.999,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4644.0,
+   "cities-served": [
+    "Quincy"
+   ],
+   "counties-served": [
+    {
+     "county": "Gadsden County, FL",
+     "population": 43826
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 4644
+    }
+   ]
+  },
+  {
+   "company": "Alachua Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofalachua.com/government/public-services/electric",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5025634.102,
+   "Residential-Customers": 3914.0,
+   "Commercial-Sales-($)": 8672365.898,
+   "Commercial-Customers": 724.0,
+   "Total-Customers": 4638.0,
+   "cities-served": [
+    "Alachua"
+   ],
+   "counties-served": [
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 4638
+    }
+   ]
+  },
+  {
+   "company": "Green Cove Springs Electric",
+   "company-type": "Municipal",
+   "website": "https://www.greencovesprings.com/departments/electric_department/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 5217299.112,
+   "Residential-Customers": 3604.0,
+   "Commercial-Sales-($)": 6075700.888,
+   "Commercial-Customers": 791.0,
+   "Total-Customers": 4395.0,
+   "cities-served": [
+    "Green Cove Springs"
+   ],
+   "counties-served": [
+    {
+     "county": "Clay County, FL",
+     "population": 218245
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 4395
+    }
+   ]
+  },
+  {
+   "company": "Clewiston, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.clewiston-fl.gov/department/index.php?structureid=12",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5516910.375,
+   "Residential-Customers": 3552.0,
+   "Commercial-Sales-($)": 5060147.546,
+   "Commercial-Customers": 628.0,
+   "Industrial-Sales-($)": 1008842.079,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4181.0,
+   "cities-served": [
+    "Clewiston",
+    "Harlem CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Hendry County, FL",
+     "population": 39619
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 4181
+    }
+   ]
+  },
+  {
+   "company": "City of Starke Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.cityofstarke.org/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2583295.874,
+   "Residential-Customers": 2103.0,
+   "Commercial-Sales-($)": 4966704.126,
+   "Commercial-Customers": 745.0,
+   "Total-Customers": 2848.0,
+   "cities-served": [
+    "Starke"
+   ],
+   "counties-served": [
+    {
+     "county": "Bradford County, FL",
+     "population": 28303
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 2848
+    }
+   ]
+  },
+  {
+   "company": "City of Wauchula Electric",
+   "company-type": "Municipal",
+   "website": "https://www.cityofwauchula.com/public-works-electrical-division-0",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3105084.105,
+   "Residential-Customers": 2226.0,
+   "Commercial-Sales-($)": 3348515.895,
+   "Commercial-Customers": 614.0,
+   "Total-Customers": 2840.0,
+   "cities-served": [
+    "Wauchula"
+   ],
+   "counties-served": [
+    {
+     "county": "Hardee County, FL",
+     "population": 25327
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 2840
+    }
+   ]
+  },
+  {
+   "company": "Fort Meade, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityoffortmeade.com/departments/electric.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3592688.326,
+   "Residential-Customers": 2400.0,
+   "Commercial-Sales-($)": 1506317.175,
+   "Commercial-Customers": 391.0,
+   "Industrial-Sales-($)": 11994.499,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 2792.0,
+   "cities-served": [
+    "Fort Meade"
+   ],
+   "counties-served": [
+    {
+     "county": "Polk County, FL",
+     "population": 725046
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 2792
+    }
+   ]
+  },
+  {
+   "company": "Newberry Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.newberryfl.gov/utility/page/electric",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2475939.226,
+   "Residential-Customers": 1759.0,
+   "Commercial-Sales-($)": 1123443.79,
+   "Commercial-Customers": 287.0,
+   "Industrial-Sales-($)": 806516.984,
+   "Industrial-Customers": 45.0,
+   "Total-Customers": 2091.0,
+   "cities-served": [
+    "Newberry"
+   ],
+   "counties-served": [
+    {
+     "county": "Alachua County, FL",
+     "population": 278468
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 2091
+    }
+   ]
+  },
+  {
+   "company": "Bushnell, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofbushnellfl.com/departments/utilities_department/electric_division.php",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 2331154.759,
+   "Residential-Customers": 1204.0,
+   "Commercial-Sales-($)": 3806845.241,
+   "Commercial-Customers": 456.0,
+   "Total-Customers": 1660.0,
+   "cities-served": [
+    "Bushnell"
+   ],
+   "counties-served": [
+    {
+     "county": "Sumter County, FL",
+     "population": 129752
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1660
+    }
+   ]
+  },
+  {
+   "company": "Williston Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.willistonfl.org/public-works/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2048953.564,
+   "Residential-Customers": 1118.0,
+   "Commercial-Sales-($)": 2015261.879,
+   "Commercial-Customers": 391.0,
+   "Industrial-Sales-($)": 557784.557,
+   "Industrial-Customers": 86.0,
+   "Total-Customers": 1595.0,
+   "cities-served": [
+    "Williston",
+    "East Williston CDP"
+   ],
+   "counties-served": [
+    {
+     "county": "Levy County, FL",
+     "population": 42915
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1595
+    }
+   ]
+  },
+  {
+   "company": "Reedy Creek Improvement District",
+   "company-type": "Municipal",
+   "website": "https://www.rcid.org/doing-business/utilities/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 12000.0,
+   "Residential-Customers": 9.0,
+   "Commercial-Sales-($)": 88732000.0,
+   "Commercial-Customers": 1523.0,
+   "Total-Customers": 1532.0,
+   "Total-Production-MWh": 447.0,
+   "Production-from-Non-Renewable-Energy-MWh": 447.0,
+   "cities-served": [
+    "Bay Lake, FL",
+    "Lake Buena Vista, FL"
+   ],
+   "counties-served": [
+    {
+     "county": "Orange County, FL",
+     "population": 1429908
+    },
+    {
+     "county": "Osceola County, FL",
+     "population": 388656
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1532
+    }
+   ]
+  },
+  {
+   "company": "Havana Electric",
+   "company-type": "Municipal",
+   "website": "https://www.townofhavana.com/utilities-2/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1535404.771,
+   "Residential-Customers": 1144.0,
+   "Commercial-Sales-($)": 1092595.229,
+   "Commercial-Customers": 313.0,
+   "Total-Customers": 1457.0,
+   "cities-served": [
+    "Havana"
+   ],
+   "counties-served": [
+    {
+     "county": "Gadsden County, FL",
+     "population": 43826
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1457
+    }
+   ]
+  },
+  {
+   "company": "Blountstown, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://blountstownfl.govoffice3.com/index.asp?SEC=2BF92237-882E-4F8B-9CB1-489D512E105A&DE=EAA2D27E-6FAF-45F1-B571-7CCB0DAAB0DD&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1330303.263,
+   "Residential-Customers": 974.0,
+   "Commercial-Sales-($)": 2541696.737,
+   "Commercial-Customers": 337.0,
+   "Total-Customers": 1311.0,
+   "cities-served": [
+    "Blountstown"
+   ],
+   "counties-served": [
+    {
+     "county": "Calhoun County, FL",
+     "population": 13648
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1311
+    }
+   ]
+  },
+  {
+   "company": "Moore Haven, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.moorehaven.org/city-departments/utilities",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 958517.539,
+   "Residential-Customers": 954.0,
+   "Commercial-Sales-($)": 723482.461,
+   "Commercial-Customers": 164.0,
+   "Total-Customers": 1118.0,
+   "cities-served": [
+    "Moore Haven"
+   ],
+   "counties-served": [
+    {
+     "county": "Glades County, FL",
+     "population": 12126
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1118
+    }
+   ]
+  },
+  {
+   "company": "Chattahoochee, Florida Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://chattahoocheefl.gov/city/government/departments.php",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1318681.048,
+   "Residential-Customers": 925.0,
+   "Commercial-Sales-($)": 572292.758,
+   "Commercial-Customers": 173.0,
+   "Industrial-Sales-($)": 1715026.194,
+   "Industrial-Customers": 2.0,
+   "Total-Customers": 1100.0,
+   "cities-served": [
+    "Chattahoochee"
+   ],
+   "counties-served": [
+    {
+     "county": "Gadsden County, FL",
+     "population": 43826
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Florida",
+     "customers": 1100
+    }
+   ]
+  }
+ ]
+}

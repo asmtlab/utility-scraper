@@ -1,0 +1,3951 @@
+{
+ "electrical-providers": [
+  {
+   "company": "Northern States Power Company",
+   "company-type": "Investor Owned",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1812736065.0,
+   "Residential-Customers": 1580958.0,
+   "Commercial-Sales-($)": 2043186174.0,
+   "Commercial-Customers": 211241.0,
+   "Industrial-Sales-($)": 913733715.0,
+   "Industrial-Customers": 672.0,
+   "Total-Customers": 1792871.0,
+   "Total-Production-MWh": 37807690.0,
+   "Production-from-Renewable-Energy-MWh": 7513190.0,
+   "Production-from-Non-Renewable-Energy-MWh": 30294501.0,
+   "cities-served": [
+    "Abbotsford, WI",
+    "Afton, MN",
+    "Albany, MN",
+    "Albertville, MN",
+    "Alexandria, SD",
+    "Alice, ND",
+    "Alma, WI",
+    "Alma Center, WI",
+    "Almena, WI",
+    "Altoona, WI",
+    "Altura, MN",
+    "Amenia, ND",
+    "Amery, WI",
+    "Anamoose, ND",
+    "Annandale, MN",
+    "Apple Valley, MN",
+    "Arcadia, WI",
+    "Arden Hills, MN",
+    "Argusville, ND",
+    "Artesian, SD",
+    "Arthur, ND",
+    "Ashland, WI",
+    "Athens, WI",
+    "Augusta, WI",
+    "Avon, MN",
+    "Ayr, ND",
+    "Balaton, MN",
+    "Baldwin, WI",
+    "Balfour, ND",
+    "Balsam Lake, WI",
+    "Baltic, SD",
+    "Bangor, WI",
+    "Bantry, ND",
+    "Barron, WI",
+    "Bay City, WI",
+    "Bayfield, WI",
+    "Bayport, MN",
+    "Becker, MN",
+    "Belgrade, MN",
+    "Bell Center, WI",
+    "Belle Plaine, MN",
+    "Bellechester, MN",
+    "Belview, MN",
+    "Beresford, SD",
+    "Bergen, ND",
+    "Berthold, ND",
+    "Bessemer, MI",
+    "Big Lake, MN",
+    "Birchwood, WI",
+    "Birchwood Village, MN",
+    "Bird Island, MN",
+    "Birnamwood, WI",
+    "Black River Falls, WI",
+    "Blaine, MN",
+    "Blair, WI",
+    "Blomkest, MN",
+    "Bloomer, WI",
+    "Bloomington, MN",
+    "Borup, MN",
+    "Boyceville, WI",
+    "Boyd, WI",
+    "Brandon, SD",
+    "Brant Lake, SD",
+    "Briarwood, ND",
+    "Bridgewater, SD",
+    "Brooklyn Center, MN",
+    "Brooklyn Park, MN",
+    "Brooten, MN",
+    "Brownton, MN",
+    "Bruce, WI",
+    "Buffalo, ND",
+    "Buffalo City, WI",
+    "Buffalo Lake, MN",
+    "Burlington, ND",
+    "Burnsville, MN",
+    "Butterfield, MN",
+    "Butternut, WI",
+    "Buxton, ND",
+    "Byron, MN",
+    "Cadott, WI",
+    "Cameron, WI",
+    "Canistota, SD",
+    "Cannon Falls, MN",
+    "Canova, SD",
+    "Canton, SD",
+    "Carpio, ND",
+    "Carthage, SD",
+    "Carver, MN",
+    "Cashton, WI",
+    "Casselton, ND",
+    "Catawba, WI",
+    "Center City, MN",
+    "Centerville, MN",
+    "Centerville, SD",
+    "Centuria, WI",
+    "Champlin, MN",
+    "Chancellor, SD",
+    "Chandler, MN",
+    "Chanhassen, MN",
+    "Chaseburg, WI",
+    "Chaska, MN",
+    "Chetek, WI",
+    "Chippewa Falls, WI",
+    "Chisago City, MN",
+    "Circle Pines, MN",
+    "Clara City, MN",
+    "Claremont, MN",
+    "Clarkfield, MN",
+    "Clarks Grove, MN",
+    "Clayton, WI",
+    "Clear Lake, WI",
+    "Clear Lake, MN",
+    "Clearwater, MN",
+    "Clements, MN",
+    "Cleveland, MN",
+    "Clifford, ND",
+    "Coates, MN",
+    "Cobden, MN",
+    "Cochrane, WI",
+    "Cokato, MN",
+    "Colby, WI",
+    "Cold Spring, MN",
+    "Colfax, WI",
+    "Colman, SD",
+    "Cologne, MN",
+    "Colton, SD",
+    "Columbia Heights, MN",
+    "Comstock, MN",
+    "Conrath, WI",
+    "Coon Rapids, MN",
+    "Coon Valley, WI",
+    "Corcoran, MN",
+    "Cornell, WI",
+    "Cosmos, MN",
+    "Cottage Grove, MN",
+    "Cottonwood, MN",
+    "Couderay, WI",
+    "Courtland, MN",
+    "Crooks, SD",
+    "Crystal, MN",
+    "Cumberland, WI",
+    "Currie, MN",
+    "Curtiss, WI",
+    "Dakota, MN",
+    "Dallas, WI",
+    "Danube, MN",
+    "Dassel, MN",
+    "Davenport, ND",
+    "Davis, SD",
+    "Dayton, MN",
+    "De Soto, WI",
+    "Deephaven, MN",
+    "Deer Park, WI",
+    "Deering, ND",
+    "Delano, MN",
+    "Delhi, MN",
+    "Dell Rapids, SD",
+    "Dellwood, MN",
+    "Dennison, MN",
+    "Des Lacs, ND",
+    "Dilworth, MN",
+    "Dimock, SD",
+    "Dodge Center, MN",
+    "Dolton, SD",
+    "Donnybrook, ND",
+    "Dorchester, WI",
+    "Douglas, ND",
+    "Downing, WI",
+    "Drake, ND",
+    "Dresser, WI",
+    "Dundas, MN",
+    "Durand, WI",
+    "Eagan, MN",
+    "Eagle Lake, MN",
+    "Eagle River, WI",
+    "Eastman, WI",
+    "Eau Claire, WI",
+    "Echo, MN",
+    "Eden Prairie, MN",
+    "Eden Valley, MN",
+    "Edgar, WI",
+    "Edgerton, MN",
+    "Edina, MN",
+    "Egan, SD",
+    "Elba, MN",
+    "Elderon, WI",
+    "Eleva, WI",
+    "Elk Mound, WI",
+    "Elko New Market, MN",
+    "Ellsworth, WI",
+    "Elmwood, WI",
+    "Elysian, MN",
+    "Emerado, ND",
+    "Emery, SD",
+    "Enderlin, ND",
+    "Ettrick, WI",
+    "Evan, MN",
+    "Excelsior, MN",
+    "Exeland, WI",
+    "Fairchild, WI",
+    "Fairview, SD",
+    "Falcon Heights, MN",
+    "Fall Creek, WI",
+    "Fargo, ND",
+    "Faribault, MN",
+    "Farmer, SD",
+    "Farmington, MN",
+    "Felton, MN",
+    "Fenwood, WI",
+    "Ferryville, WI",
+    "Flandreau, SD",
+    "Florence, MN",
+    "Foley, MN",
+    "Forest Lake, MN",
+    "Fountain City, WI",
+    "Franklin, MN",
+    "Frederic, WI",
+    "Freeman, SD",
+    "Freeport, MN",
+    "Fridley, MN",
+    "Frontier, ND",
+    "Fulton, SD",
+    "Galesburg, ND",
+    "Galesville, WI",
+    "Gardner, ND",
+    "Garretson, SD",
+    "Garvin, MN",
+    "Gaylord, MN",
+    "Gays Mills, WI",
+    "Gem Lake, MN",
+    "Genoa, WI",
+    "Gibbon, MN",
+    "Gilby, ND",
+    "Gilman, WI",
+    "Glen Flora, WI",
+    "Glenwood, MN",
+    "Glenwood City, WI",
+    "Glyndon, MN",
+    "Golden Valley, MN",
+    "Good Thunder, MN",
+    "Goodhue, MN",
+    "Goodview, MN",
+    "Grand Forks, ND",
+    "Grandin, ND",
+    "Granite Falls, MN",
+    "Grant, MN",
+    "Granton, WI",
+    "Granville, ND",
+    "Green Isle, MN",
+    "Greenfield, MN",
+    "Greenwald, MN",
+    "Greenwood, WI",
+    "Greenwood, MN",
+    "Hadley, MN",
+    "Hamburg, MN",
+    "Hammond, WI",
+    "Hammond, MN",
+    "Hampton, MN",
+    "Hanley Falls, MN",
+    "Hanover, MN",
+    "Harrisburg, SD",
+    "Hartford, SD",
+    "Hartland, MN",
+    "Harwood, ND",
+    "Hastings, MN",
+    "Hatfield, MN",
+    "Hatley, WI",
+    "Hatton, ND",
+    "Haugen, WI",
+    "Hawkins, WI",
+    "Hayfield, MN",
+    "Hayward, WI",
+    "Hazel Run, MN",
+    "Hector, MN",
+    "Henderson, MN",
+    "Hillsboro, ND",
+    "Hillsboro, WI",
+    "Hilltop, MN",
+    "Hixton, WI",
+    "Hokah, MN",
+    "Holdingford, MN",
+    "Holland, MN",
+    "Holmen, WI",
+    "Hopkins, MN",
+    "Horace, ND",
+    "Howard, SD",
+    "Howard Lake, MN",
+    "Hudson, WI",
+    "Hudson, SD",
+    "Hugo, MN",
+    "Humboldt, SD",
+    "Hunter, ND",
+    "Hurley, WI",
+    "Hurley, SD",
+    "Ihlen, MN",
+    "Independence, MN",
+    "Independence, WI",
+    "Ingram, WI",
+    "Inkster, ND",
+    "Inver Grove Heights, MN",
+    "Iona, MN",
+    "Irene, SD",
+    "Ironwood, MI",
+    "Janesville, MN",
+    "Jasper, MN",
+    "Jordan, MN",
+    "Karlsruhe, ND",
+    "Kasota, MN",
+    "Kasson, MN",
+    "Kellogg, MN",
+    "Kendall, WI",
+    "Kenmare, ND",
+    "Kennan, WI",
+    "Kief, ND",
+    "Kilkenny, MN",
+    "Kimball, MN",
+    "Kindred, ND",
+    "Kingston, MN",
+    "Knapp, WI",
+    "Kronenwetter, WI",
+    "La Crescent, MN",
+    "La Crosse, WI",
+    "La Farge, WI",
+    "Ladysmith, WI",
+    "Lafayette, MN",
+    "Lake City, MN",
+    "Lake Elmo, MN",
+    "Lake Hallie, WI",
+    "Lake Henry, MN",
+    "Lake Lillian, MN",
+    "Lake St. Croix Beach, MN",
+    "Lake Wilson, MN",
+    "Lakeland, MN",
+    "Lakeland Shores, MN",
+    "Lakeville, MN",
+    "Landfall, MN",
+    "Larimore, ND",
+    "Lauderdale, MN",
+    "Lennox, SD",
+    "Leonard, ND",
+    "Lester Prairie, MN",
+    "Letcher, SD",
+    "Lexington, MN",
+    "Lilydale, MN",
+    "Lindstrom, MN",
+    "Lino Lakes, MN",
+    "Little Canada, MN",
+    "Long Beach, MN",
+    "Long Lake, MN",
+    "Lonsdale, MN",
+    "Loretto, MN",
+    "Lowry, MN",
+    "Loyal, WI",
+    "Lublin, WI",
+    "Luck, WI",
+    "Lynxville, WI",
+    "Madison, SD",
+    "Madison Lake, MN",
+    "Mahtomedi, MN",
+    "Maiden Rock, WI",
+    "Maine, WI",
+    "Makoti, ND",
+    "Manchester, MN",
+    "Mankato, MN",
+    "Mantorville, MN",
+    "Manvel, ND",
+    "Maple Grove, MN",
+    "Maple Lake, MN",
+    "Maple Plain, MN",
+    "Mapleton, MN",
+    "Mapleton, ND",
+    "Maplewood, MN",
+    "Marathon City, WI",
+    "Marine on St. Croix, MN",
+    "Marion, SD",
+    "Marshfield, WI",
+    "Mason, WI",
+    "Mayer, MN",
+    "Maynard, MN",
+    "Mayville, ND",
+    "Mazeppa, MN",
+    "Medford, WI",
+    "Medford, MN",
+    "Medicine Lake, MN",
+    "Medina, MN",
+    "Meire Grove, MN",
+    "Mellen, WI",
+    "Melrose, MN",
+    "Melrose, WI",
+    "Melvina, WI",
+    "Mendota, MN",
+    "Mendota Heights, MN",
+    "Menno, SD",
+    "Menomonie, WI",
+    "Merrill, WI",
+    "Merrillan, WI",
+    "Milltown, WI",
+    "Millville, MN",
+    "Minneapolis, MN",
+    "Minneiska, MN",
+    "Minnesota City, MN",
+    "Minnesota Lake, MN",
+    "Minnetonka, MN",
+    "Minnetonka Beach, MN",
+    "Minnetrista, MN",
+    "Minong, WI",
+    "Minot, ND",
+    "Mondovi, WI",
+    "Monroe, SD",
+    "Montevideo, MN",
+    "Monticello, MN",
+    "Montreal, WI",
+    "Montrose, MN",
+    "Montrose, SD",
+    "Moorhead, MN",
+    "Morgan, MN",
+    "Morristown, MN",
+    "Morton, MN",
+    "Mosinee, WI",
+    "Mound, MN",
+    "Mounds View, MN",
+    "Mount Sterling, WI",
+    "Neillsville, WI",
+    "Nelson, WI",
+    "Nerstrand, MN",
+    "New Auburn, WI",
+    "New Auburn, MN",
+    "New Brighton, MN",
+    "New Germany, MN",
+    "New Hope, MN",
+    "New London, MN",
+    "New Munich, MN",
+    "New Prague, MN",
+    "New Richland, MN",
+    "New Richmond, WI",
+    "Newport, MN",
+    "Niagara, ND",
+    "Nicollet, MN",
+    "North Branch, MN",
+    "North Hudson, WI",
+    "North Mankato, MN",
+    "North Oaks, MN",
+    "North River, ND",
+    "Northfield, MN",
+    "Northwood, ND",
+    "Norwalk, WI",
+    "Norwood Young America, MN",
+    "Nunda, SD",
+    "Oak Park Heights, MN",
+    "Oakdale, MN",
+    "Oakdale, WI",
+    "Olivet, SD",
+    "Onalaska, WI",
+    "Ontario, WI",
+    "Ontonagon, MI",
+    "Orono, MN",
+    "Osakis, MN",
+    "Osceola, WI",
+    "Osseo, MN",
+    "Osseo, WI",
+    "Otsego, MN",
+    "Owatonna, MN",
+    "Owen, WI",
+    "Oxbow, ND",
+    "Page, ND",
+    "Park Falls, WI",
+    "Parker, SD",
+    "Parkston, SD",
+    "Paynesville, MN",
+    "Pemberton, MN",
+    "Pepin, WI",
+    "Phillips, WI",
+    "Pigeon Falls, WI",
+    "Pine Island, MN",
+    "Pine Springs, MN",
+    "Pipestone, MN",
+    "Plato, MN",
+    "Plum City, WI",
+    "Plymouth, MN",
+    "Portland, ND",
+    "Prairie Farm, WI",
+    "Prairie Rose, ND",
+    "Prairie du Chien, WI",
+    "Prentice, WI",
+    "Prescott, WI",
+    "Prinsburg, MN",
+    "Prior Lake, MN",
+    "Radisson, WI",
+    "Ramona, SD",
+    "Randolph, MN",
+    "Raymond, MN",
+    "Readstown, WI",
+    "Red Wing, MN",
+    "Regal, MN",
+    "Reile's Acres, ND",
+    "Renville, MN",
+    "Reynolds, ND",
+    "Rhinelander, WI",
+    "Rib Lake, WI",
+    "Rice Lake, WI",
+    "Richfield, MN",
+    "Richmond, MN",
+    "Ridgeland, WI",
+    "River Falls, WI",
+    "Robbinsdale, MN",
+    "Roberts, WI",
+    "Rockford, MN",
+    "Rockland, WI",
+    "Rockville, MN",
+    "Rogers, MN",
+    "Rollingstone, MN",
+    "Roscoe, MN",
+    "Rosemount, MN",
+    "Roseville, MN",
+    "Rothschild, WI",
+    "Ruthton, MN",
+    "Ryder, ND",
+    "Sabin, MN",
+    "Sacred Heart, MN",
+    "Salem, SD",
+    "Sartell, MN",
+    "Sauk Rapids, MN",
+    "Savage, MN",
+    "Sawyer, ND",
+    "Scandia, MN",
+    "Schofield, WI",
+    "Sedan, MN",
+    "Shafer, MN",
+    "Shakopee, MN",
+    "Sheldon, WI",
+    "Shell Lake, WI",
+    "Sherman, SD",
+    "Shoreview, MN",
+    "Shorewood, MN",
+    "Silver Lake, MN",
+    "Sioux Falls, SD",
+    "Skyline, MN",
+    "Slayton, MN",
+    "Soldiers Grove, WI",
+    "Somerset, WI",
+    "South Haven, MN",
+    "South St. Paul, MN",
+    "Sparta, WI",
+    "Spencer, WI",
+    "Spencer, SD",
+    "Spicer, MN",
+    "Spooner, WI",
+    "Spring Hill, MN",
+    "Spring Lake Park, MN",
+    "Spring Park, MN",
+    "Spring Valley, WI",
+    "St. Bonifacius, MN",
+    "St. Clair, MN",
+    "St. Cloud, MN",
+    "St. Croix Falls, WI",
+    "St. Joseph, MN",
+    "St. Louis Park, MN",
+    "St. Martin, MN",
+    "St. Marys Point, MN",
+    "St. Michael, MN",
+    "St. Paul, MN",
+    "St. Paul Park, MN",
+    "Stacy, MN",
+    "Stanley, WI",
+    "Star Prairie, WI",
+    "Starbuck, MN",
+    "Stetsonville, WI",
+    "Steuben, WI",
+    "Stewart, MN",
+    "Stillwater, MN",
+    "Stockholm, WI",
+    "Stoddard, WI",
+    "Stratford, WI",
+    "Strum, WI",
+    "Sunfish Lake, MN",
+    "Surrey, ND",
+    "Taylor, WI",
+    "Taylors Falls, MN",
+    "Tea, SD",
+    "Thompson, ND",
+    "Thorp, WI",
+    "Tomah, WI",
+    "Tomahawk, WI",
+    "Tonka Bay, MN",
+    "Tony, WI",
+    "Tower City, ND",
+    "Towner, ND",
+    "Tracy, MN",
+    "Trempealeau, WI",
+    "Trent, SD",
+    "Tripp, SD",
+    "Trosky, MN",
+    "Turtle Lake, WI",
+    "Unity, WI",
+    "Upham, ND",
+    "Vadnais Heights, MN",
+    "Valley Springs, SD",
+    "Velva, ND",
+    "Vermillion, MN",
+    "Viborg, SD",
+    "Victoria, MN",
+    "Vilas, SD",
+    "Villard, MN",
+    "Viola, WI",
+    "Viroqua, WI",
+    "Voltaire, ND",
+    "Wabasha, MN",
+    "Waconia, MN",
+    "Waite Park, MN",
+    "Wakefield, MI",
+    "Waldorf, MN",
+    "Waltham, MN",
+    "Wanamingo, MN",
+    "Ward, SD",
+    "Warrens, WI",
+    "Waseca, MN",
+    "Washburn, WI",
+    "Watertown, MN",
+    "Waterville, MN",
+    "Watkins, MN",
+    "Watson, MN",
+    "Wausau, WI",
+    "Wauzeka, WI",
+    "Waverly, MN",
+    "Wayzata, MN",
+    "Wentworth, SD",
+    "West Concord, MN",
+    "West Fargo, ND",
+    "West Salem, WI",
+    "West St. Paul, MN",
+    "West Union, MN",
+    "Westby, WI",
+    "Weston, WI",
+    "Westport, MN",
+    "Weyerhaeuser, WI",
+    "Wheeler, WI",
+    "White Bear Lake, MN",
+    "Whitehall, WI",
+    "Willernie, MN",
+    "Wilson, WI",
+    "Wilton, WI",
+    "Winona, MN",
+    "Winsted, MN",
+    "Winter, WI",
+    "Withee, WI",
+    "Wolverton, MN",
+    "Wood Lake, MN",
+    "Woodbury, MN",
+    "Woodland, MN",
+    "Woodstock, MN",
+    "Woodville, WI",
+    "Woonsocket, SD",
+    "Worthing, SD",
+    "Wyeville, WI",
+    "Wyoming, MN",
+    "Zumbro Falls, MN",
+    "Zumbrota, MN"
+   ],
+   "counties-served": [
+    {
+     "county": "Hennepin County, MN",
+     "population": 1281565
+    },
+    {
+     "county": "Ramsey County, MN",
+     "population": 552352
+    },
+    {
+     "county": "Dakota County, MN",
+     "population": 439882
+    },
+    {
+     "county": "Anoka County, MN",
+     "population": 363887
+    },
+    {
+     "county": "Washington County, MN",
+     "population": 267568
+    },
+    {
+     "county": "Minnehaha County, SD",
+     "population": 197214
+    },
+    {
+     "county": "Cass County, ND",
+     "population": 184525
+    },
+    {
+     "county": "Olmsted County, MN",
+     "population": 162847
+    },
+    {
+     "county": "Stearns County, MN",
+     "population": 158292
+    },
+    {
+     "county": "Scott County, MN",
+     "population": 150928
+    },
+    {
+     "county": "Wright County, MN",
+     "population": 141337
+    },
+    {
+     "county": "Marathon County, WI",
+     "population": 138013
+    },
+    {
+     "county": "La Crosse County, WI",
+     "population": 120784
+    },
+    {
+     "county": "Carver County, MN",
+     "population": 106922
+    },
+    {
+     "county": "Eau Claire County, WI",
+     "population": 105710
+    },
+    {
+     "county": "Sherburne County, MN",
+     "population": 97183
+    },
+    {
+     "county": "St. Croix County, WI",
+     "population": 93536
+    },
+    {
+     "county": "Grand Forks County, ND",
+     "population": 73170
+    },
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Blue Earth County, MN",
+     "population": 69112
+    },
+    {
+     "county": "Rice County, MN",
+     "population": 67097
+    },
+    {
+     "county": "Chippewa County, WI",
+     "population": 66297
+    },
+    {
+     "county": "Clay County, MN",
+     "population": 65318
+    },
+    {
+     "county": "Lincoln County, SD",
+     "population": 65161
+    },
+    {
+     "county": "Chisago County, MN",
+     "population": 56621
+    },
+    {
+     "county": "Winona County, MN",
+     "population": 49671
+    },
+    {
+     "county": "Goodhue County, MN",
+     "population": 47582
+    },
+    {
+     "county": "Barron County, WI",
+     "population": 46711
+    },
+    {
+     "county": "Monroe County, WI",
+     "population": 46274
+    },
+    {
+     "county": "Dunn County, WI",
+     "population": 45440
+    },
+    {
+     "county": "Polk County, WI",
+     "population": 44977
+    },
+    {
+     "county": "Kandiyohi County, MN",
+     "population": 43732
+    },
+    {
+     "county": "Pierce County, WI",
+     "population": 42212
+    },
+    {
+     "county": "Benton County, MN",
+     "population": 41379
+    },
+    {
+     "county": "Mower County, MN",
+     "population": 40029
+    },
+    {
+     "county": "Oneida County, WI",
+     "population": 37845
+    },
+    {
+     "county": "Steele County, MN",
+     "population": 37406
+    },
+    {
+     "county": "McLeod County, MN",
+     "population": 36771
+    },
+    {
+     "county": "Clark County, WI",
+     "population": 34659
+    },
+    {
+     "county": "Nicollet County, MN",
+     "population": 34454
+    },
+    {
+     "county": "Freeborn County, MN",
+     "population": 30895
+    },
+    {
+     "county": "Trempealeau County, WI",
+     "population": 30760
+    },
+    {
+     "county": "Vernon County, WI",
+     "population": 30714
+    },
+    {
+     "county": "Le Sueur County, MN",
+     "population": 28674
+    },
+    {
+     "county": "Lincoln County, WI",
+     "population": 28415
+    },
+    {
+     "county": "Brown County, MN",
+     "population": 25912
+    },
+    {
+     "county": "Lyon County, MN",
+     "population": 25269
+    },
+    {
+     "county": "Meeker County, MN",
+     "population": 23400
+    },
+    {
+     "county": "Vilas County, WI",
+     "population": 23047
+    },
+    {
+     "county": "Wabasha County, MN",
+     "population": 21387
+    },
+    {
+     "county": "Jackson County, WI",
+     "population": 21145
+    },
+    {
+     "county": "Dodge County, MN",
+     "population": 20867
+    },
+    {
+     "county": "Taylor County, WI",
+     "population": 19913
+    },
+    {
+     "county": "Waseca County, MN",
+     "population": 18968
+    },
+    {
+     "county": "Houston County, MN",
+     "population": 18843
+    },
+    {
+     "county": "Sawyer County, WI",
+     "population": 18074
+    },
+    {
+     "county": "Washburn County, WI",
+     "population": 16623
+    },
+    {
+     "county": "Bayfield County, WI",
+     "population": 16220
+    },
+    {
+     "county": "Crawford County, WI",
+     "population": 16113
+    },
+    {
+     "county": "Ashland County, WI",
+     "population": 16027
+    },
+    {
+     "county": "Redwood County, MN",
+     "population": 15425
+    },
+    {
+     "county": "Sibley County, MN",
+     "population": 14836
+    },
+    {
+     "county": "Renville County, MN",
+     "population": 14723
+    },
+    {
+     "county": "Gogebic County, MI",
+     "population": 14380
+    },
+    {
+     "county": "Rusk County, WI",
+     "population": 14188
+    },
+    {
+     "county": "Price County, WI",
+     "population": 14054
+    },
+    {
+     "county": "Buffalo County, WI",
+     "population": 13317
+    },
+    {
+     "county": "Chippewa County, MN",
+     "population": 12598
+    },
+    {
+     "county": "Pope County, MN",
+     "population": 11308
+    },
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    },
+    {
+     "county": "Yellow Medicine County, MN",
+     "population": 9528
+    },
+    {
+     "county": "Pipestone County, MN",
+     "population": 9424
+    },
+    {
+     "county": "Turner County, SD",
+     "population": 8673
+    },
+    {
+     "county": "Murray County, MN",
+     "population": 8179
+    },
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    },
+    {
+     "county": "Hutchinson County, SD",
+     "population": 7427
+    },
+    {
+     "county": "Pepin County, WI",
+     "population": 7318
+    },
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    },
+    {
+     "county": "Iron County, WI",
+     "population": 6137
+    },
+    {
+     "county": "Ontonagon County, MI",
+     "population": 5816
+    },
+    {
+     "county": "McCook County, SD",
+     "population": 5682
+    },
+    {
+     "county": "Lincoln County, MN",
+     "population": 5640
+    },
+    {
+     "county": "McHenry County, ND",
+     "population": 5345
+    },
+    {
+     "county": "Hanson County, SD",
+     "population": 3461
+    },
+    {
+     "county": "Sanborn County, SD",
+     "population": 2330
+    },
+    {
+     "county": "Miner County, SD",
+     "population": 2298
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 1333219
+    },
+    {
+     "state": "Wisconsin",
+     "customers": 256737
+    },
+    {
+     "state": "South Dakota",
+     "customers": 98987
+    },
+    {
+     "state": "North Dakota",
+     "customers": 94993
+    },
+    {
+     "state": "Michigan",
+     "customers": 8936
+    }
+   ]
+  },
+  {
+   "company": "Montana Dakota Utilities",
+   "company-type": "Investor Owned",
+   "website": "https://www.montana-dakota.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 126314000.0,
+   "Residential-Customers": 119008.0,
+   "Commercial-Sales-($)": 142458000.0,
+   "Commercial-Customers": 24894.0,
+   "Industrial-Sales-($)": 40658000.0,
+   "Industrial-Customers": 231.0,
+   "Total-Customers": 144133.0,
+   "Total-Production-MWh": 2023237.0,
+   "Production-from-Renewable-Energy-MWh": 715633.0,
+   "Production-from-Non-Renewable-Energy-MWh": 1307604.0,
+   "cities-served": [
+    "Akaska, SD",
+    "Alamo, ND",
+    "Alexander, ND",
+    "Almont, ND",
+    "Ambrose, ND",
+    "Amidon, ND",
+    "Antler, ND",
+    "Arnegard, ND",
+    "Artas, SD",
+    "Ashley, ND",
+    "Bainville, MT",
+    "Baker, MT",
+    "Beach, ND",
+    "Belfield, ND",
+    "Berlin, ND",
+    "Berthold, ND",
+    "Beulah, ND",
+    "Bismarck, ND",
+    "Bottineau, ND",
+    "Bowbells, ND",
+    "Bowdle, SD",
+    "Bowman, ND",
+    "Braddock, ND",
+    "Brockton, MT",
+    "Bucyrus, ND",
+    "Burlington, ND",
+    "Camp Crook, SD",
+    "Carpio, ND",
+    "Carson, ND",
+    "Center, ND",
+    "Columbus, ND",
+    "Crosby, ND",
+    "Culbertson, MT",
+    "Dawson, ND",
+    "Dayton, WY",
+    "Des Lacs, ND",
+    "Dickey, ND",
+    "Dickinson, ND",
+    "Dodge, ND",
+    "Donnybrook, ND",
+    "Douglas, ND",
+    "Dunn Center, ND",
+    "Edgeley, ND",
+    "Ekalaka, MT",
+    "Elgin, ND",
+    "Ellendale, ND",
+    "Epping, ND",
+    "Eureka, SD",
+    "Fairview, MT",
+    "Flasher, ND",
+    "Flaxton, ND",
+    "Forbes, SD",
+    "Fort Yates, ND",
+    "Fortuna, ND",
+    "Frederick, SD",
+    "Fredonia, ND",
+    "Froid, MT",
+    "Fullerton, ND",
+    "Gackle, ND",
+    "Gardena, ND",
+    "Gascoyne, ND",
+    "Gettysburg, SD",
+    "Gladstone, ND",
+    "Glen Ullin, ND",
+    "Glenburn, ND",
+    "Glendive, MT",
+    "Glenham, SD",
+    "Golden Valley, ND",
+    "Golva, ND",
+    "Grano, ND",
+    "Grenora, ND",
+    "Hague, ND",
+    "Halliday, ND",
+    "Haynes, ND",
+    "Hazelton, ND",
+    "Hazen, ND",
+    "Hebron, ND",
+    "Herreid, SD",
+    "Hettinger, ND",
+    "Hillsview, SD",
+    "Hosmer, SD",
+    "Hoven, SD",
+    "Ipswich, SD",
+    "Java, SD",
+    "Jud, ND",
+    "Kenmare, ND",
+    "Killdeer, ND",
+    "Kramer, ND",
+    "Kulm, ND",
+    "LaMoure, ND",
+    "Landa, ND",
+    "Lansford, ND",
+    "Lebanon, SD",
+    "Lehr, ND",
+    "Leith, ND",
+    "Lemmon, SD",
+    "Leola, SD",
+    "Lignite, ND",
+    "Lincoln, ND",
+    "Linton, ND",
+    "Loraine, ND",
+    "Ludden, ND",
+    "Makoti, ND",
+    "Mandan, ND",
+    "Marion, ND",
+    "Marmarth, ND",
+    "Maxbass, ND",
+    "McIntosh, SD",
+    "Medicine Lake, MT",
+    "Miles City, MT",
+    "Minot, ND",
+    "Mobridge, SD",
+    "Mohall, ND",
+    "Monango, ND",
+    "Morristown, SD",
+    "Mott, ND",
+    "Mound City, SD",
+    "Napoleon, ND",
+    "New England, ND",
+    "New Leipzig, ND",
+    "New Salem, ND",
+    "New Town, ND",
+    "Newburg, ND",
+    "Noonan, ND",
+    "Oakes, ND",
+    "Onaka, SD",
+    "Overly, ND",
+    "Palermo, ND",
+    "Parshall, ND",
+    "Pettibone, ND",
+    "Pick City, ND",
+    "Plaza, ND",
+    "Plevna, MT",
+    "Pollock, SD",
+    "Poplar, MT",
+    "Portal, ND",
+    "Powers Lake, ND",
+    "Ranchester, WY",
+    "Ray, ND",
+    "Reeder, ND",
+    "Regan, ND",
+    "Regent, ND",
+    "Rhame, ND",
+    "Richardton, ND",
+    "Richey, MT",
+    "Robinson, ND",
+    "Roscoe, SD",
+    "Ross, ND",
+    "Ryder, ND",
+    "Sawyer, ND",
+    "Scranton, ND",
+    "Selby, SD",
+    "Selfridge, ND",
+    "Seneca, SD",
+    "Sentinel Butte, ND",
+    "Sheridan, WY",
+    "Sherwood, ND",
+    "Sidney, MT",
+    "Solen, ND",
+    "Souris, ND",
+    "South Heart, ND",
+    "Springbrook, ND",
+    "Stanley, ND",
+    "Stanton, ND",
+    "Steele, ND",
+    "Strasburg, ND",
+    "Surrey, ND",
+    "Tappen, ND",
+    "Taylor, ND",
+    "Terry, MT",
+    "Tioga, ND",
+    "Tolley, ND",
+    "Tolstoy, SD",
+    "Tuttle, ND",
+    "Venturia, ND",
+    "Verona, ND",
+    "Watford City, ND",
+    "Westhope, ND",
+    "Wetonka, SD",
+    "White Earth, ND",
+    "Wibaux, MT",
+    "Wildrose, ND",
+    "Williston, ND",
+    "Willow City, ND",
+    "Wilton, ND",
+    "Wing, ND",
+    "Wishek, ND",
+    "Wolf Point, MT",
+    "Zap, ND",
+    "Zeeland, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Burleigh County, ND",
+     "population": 98458
+    },
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "Stark County, ND",
+     "population": 33646
+    },
+    {
+     "county": "Morton County, ND",
+     "population": 33291
+    },
+    {
+     "county": "Sheridan County, WY",
+     "population": 30921
+    },
+    {
+     "county": "McKenzie County, ND",
+     "population": 14704
+    },
+    {
+     "county": "Custer County, MT",
+     "population": 11867
+    },
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Mercer County, ND",
+     "population": 8350
+    },
+    {
+     "county": "Rosebud County, MT",
+     "population": 8329
+    },
+    {
+     "county": "Valley County, MT",
+     "population": 7578
+    },
+    {
+     "county": "Bottineau County, ND",
+     "population": 6379
+    },
+    {
+     "county": "Walworth County, SD",
+     "population": 5315
+    },
+    {
+     "county": "Dickey County, ND",
+     "population": 4999
+    },
+    {
+     "county": "Dunn County, ND",
+     "population": 4095
+    },
+    {
+     "county": "LaMoure County, ND",
+     "population": 4093
+    },
+    {
+     "county": "Edmunds County, SD",
+     "population": 3986
+    },
+    {
+     "county": "Sioux County, ND",
+     "population": 3898
+    },
+    {
+     "county": "Sheridan County, MT",
+     "population": 3539
+    },
+    {
+     "county": "Emmons County, ND",
+     "population": 3301
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Bowman County, ND",
+     "population": 2993
+    },
+    {
+     "county": "McIntosh County, ND",
+     "population": 2530
+    },
+    {
+     "county": "Hettinger County, ND",
+     "population": 2489
+    },
+    {
+     "county": "Potter County, SD",
+     "population": 2472
+    },
+    {
+     "county": "McPherson County, SD",
+     "population": 2411
+    },
+    {
+     "county": "Kidder County, ND",
+     "population": 2394
+    },
+    {
+     "county": "Grant County, ND",
+     "population": 2301
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Burke County, ND",
+     "population": 2201
+    },
+    {
+     "county": "Adams County, ND",
+     "population": 2200
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    },
+    {
+     "county": "Faulk County, SD",
+     "population": 2125
+    },
+    {
+     "county": "Oliver County, ND",
+     "population": 1877
+    },
+    {
+     "county": "Logan County, ND",
+     "population": 1876
+    },
+    {
+     "county": "Golden Valley County, ND",
+     "population": 1736
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Carter County, MT",
+     "population": 1415
+    },
+    {
+     "county": "Campbell County, SD",
+     "population": 1377
+    },
+    {
+     "county": "Prairie County, MT",
+     "population": 1088
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    },
+    {
+     "county": "Slope County, ND",
+     "population": 706
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 93445
+    },
+    {
+     "state": "Montana",
+     "customers": 25593
+    },
+    {
+     "state": "Wyoming",
+     "customers": 16608
+    },
+    {
+     "state": "South Dakota",
+     "customers": 8487
+    }
+   ]
+  },
+  {
+   "company": "Otter Tail Power Company",
+   "company-type": "Investor Owned",
+   "website": "https://www.otpco.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 141073975.0,
+   "Residential-Customers": 104320.0,
+   "Commercial-Sales-($)": 224659357.0,
+   "Commercial-Customers": 29661.0,
+   "Industrial-Sales-($)": 59881212.0,
+   "Industrial-Customers": 14.0,
+   "Total-Customers": 133995.0,
+   "Total-Production-MWh": 3343399.0,
+   "Production-from-Renewable-Energy-MWh": 973668.0,
+   "Production-from-Non-Renewable-Energy-MWh": 2369731.0,
+   "cities-served": [
+    "Abercrombie, ND",
+    "Adams, ND",
+    "Albee, SD",
+    "Alberta, MN",
+    "Alexandria, MN",
+    "Alice, ND",
+    "Alsen, ND",
+    "Amenia, ND",
+    "Anamoose, ND",
+    "Aneta, ND",
+    "Antler, ND",
+    "Appleton, MN",
+    "Ardoch, ND",
+    "Argusville, ND",
+    "Argyle, MN",
+    "Arthur, ND",
+    "Ashby, MN",
+    "Astoria, SD",
+    "Audubon, MN",
+    "Ayr, ND",
+    "Badger, MN",
+    "Balfour, ND",
+    "Balta, ND",
+    "Bantry, ND",
+    "Barney, ND",
+    "Barrett, MN",
+    "Barry, MN",
+    "Bathgate, ND",
+    "Battle Lake, MN",
+    "Beardsley, MN",
+    "Bejou, MN",
+    "Bellingham, MN",
+    "Beltrami, MN",
+    "Bemidji, MN",
+    "Benedict, ND",
+    "Bergen, ND",
+    "Berlin, ND",
+    "Berthold, ND",
+    "Binford, ND",
+    "Bisbee, ND",
+    "Bismarck, ND",
+    "Bottineau, ND",
+    "Bowdon, ND",
+    "Boyd, MN",
+    "Brandon, MN",
+    "Brandt, SD",
+    "Breckenridge, MN",
+    "Briarwood, ND",
+    "Brinsmade, ND",
+    "Britton, SD",
+    "Brocket, ND",
+    "Brooks, MN",
+    "Browns Valley, MN",
+    "Bruce, SD",
+    "Buchanan, ND",
+    "Buffalo, ND",
+    "Burlington, ND",
+    "Bushnell, SD",
+    "Butte, ND",
+    "Buxton, ND",
+    "Calio, ND",
+    "Callaway, MN",
+    "Calvin, ND",
+    "Campbell, MN",
+    "Canby, MN",
+    "Cando, ND",
+    "Canton City, ND",
+    "Carlos, MN",
+    "Carpio, ND",
+    "Carrington, ND",
+    "Cass Lake, MN",
+    "Casselton, ND",
+    "Castlewood, SD",
+    "Cathay, ND",
+    "Cavalier, ND",
+    "Cayuga, ND",
+    "Chokio, MN",
+    "Christine, ND",
+    "Churchs Ferry, ND",
+    "Claire City, SD",
+    "Clear Lake, SD",
+    "Clearbrook, MN",
+    "Cleveland, ND",
+    "Clifford, ND",
+    "Climax, MN",
+    "Clinton, MN",
+    "Clitherall, MN",
+    "Clontarf, MN",
+    "Cogswell, ND",
+    "Coleharbor, ND",
+    "Colfax, ND",
+    "Colman, SD",
+    "Conway, ND",
+    "Cooperstown, ND",
+    "Corona, SD",
+    "Correll, MN",
+    "Courtenay, ND",
+    "Crary, ND",
+    "Crookston, MN",
+    "Crystal, ND",
+    "Cyrus, MN",
+    "Dalton, MN",
+    "Danvers, MN",
+    "Davenport, ND",
+    "Dawson, MN",
+    "Dawson, ND",
+    "Dazey, ND",
+    "De Graff, MN",
+    "De Smet, SD",
+    "Deer Creek, MN",
+    "Deering, ND",
+    "Dent, MN",
+    "Des Lacs, ND",
+    "Devils Lake, ND",
+    "Dickey, ND",
+    "Donaldson, MN",
+    "Donnelly, MN",
+    "Donnybrook, ND",
+    "Doran, MN",
+    "Douglas, ND",
+    "Drake, ND",
+    "Drayton, ND",
+    "Dumont, MN",
+    "Dunseith, ND",
+    "Dwight, ND",
+    "Eden, SD",
+    "Edgeley, ND",
+    "Edinburg, ND",
+    "Edmore, ND",
+    "Egan, SD",
+    "Egeland, ND",
+    "Elizabeth, MN",
+    "Elkton, SD",
+    "Ellendale, ND",
+    "Elliott, ND",
+    "Emerado, ND",
+    "Enderlin, ND",
+    "Erhard, MN",
+    "Erskine, MN",
+    "Erwin, SD",
+    "Esmond, ND",
+    "Evansville, MN",
+    "Fairdale, ND",
+    "Fairmount, ND",
+    "Fargo, ND",
+    "Farwell, MN",
+    "Fergus Falls, MN",
+    "Fertile, MN",
+    "Fessenden, ND",
+    "Fingal, ND",
+    "Finley, ND",
+    "Fisher, MN",
+    "Forada, MN",
+    "Forbes, SD",
+    "Fordville, ND",
+    "Forest River, ND",
+    "Forman, ND",
+    "Fort Ransom, ND",
+    "Foxhome, MN",
+    "Frazee, MN",
+    "Fredonia, ND",
+    "Frontier, ND",
+    "Fullerton, ND",
+    "Gackle, ND",
+    "Galesburg, ND",
+    "Gardena, ND",
+    "Gardner, ND",
+    "Garfield, MN",
+    "Garrison, ND",
+    "Gary, SD",
+    "Gary, MN",
+    "Ghent, MN",
+    "Gilby, ND",
+    "Glenburn, ND",
+    "Glenfield, ND",
+    "Gonvick, MN",
+    "Goodrich, ND",
+    "Grace City, ND",
+    "Graceville, MN",
+    "Grafton, ND",
+    "Grand Forks, ND",
+    "Grandin, ND",
+    "Grano, ND",
+    "Granville, ND",
+    "Great Bend, ND",
+    "Greenbush, MN",
+    "Grenville, SD",
+    "Gully, MN",
+    "Gwinner, ND",
+    "Hallock, MN",
+    "Halma, MN",
+    "Hamberg, ND",
+    "Hamilton, ND",
+    "Hampden, ND",
+    "Hancock, MN",
+    "Hankinson, ND",
+    "Hannaford, ND",
+    "Hannah, ND",
+    "Hansboro, ND",
+    "Harvey, ND",
+    "Harwood, ND",
+    "Hatton, ND",
+    "Havana, ND",
+    "Hayti, SD",
+    "Hendricks, MN",
+    "Herman, MN",
+    "Hetland, SD",
+    "Hillsboro, ND",
+    "Hitterdal, MN",
+    "Hoffman, MN",
+    "Holloway, MN",
+    "Holt, MN",
+    "Hoople, ND",
+    "Hope, ND",
+    "Horace, ND",
+    "Humboldt, MN",
+    "Hunter, ND",
+    "Hurdsfield, ND",
+    "Inkster, ND",
+    "Ivanhoe, MN",
+    "Jamestown, ND",
+    "Johnson, MN",
+    "Jud, ND",
+    "Karlsruhe, ND",
+    "Karlstad, MN",
+    "Kathryn, ND",
+    "Kenmare, ND",
+    "Kennedy, MN",
+    "Kensal, ND",
+    "Kensington, MN",
+    "Kent, MN",
+    "Kerkhoven, MN",
+    "Kief, ND",
+    "Kindred, ND",
+    "Knox, ND",
+    "Kramer, ND",
+    "Kulm, ND",
+    "La Bolt, SD",
+    "LaMoure, ND",
+    "Lake Benton, MN",
+    "Lake Bronson, MN",
+    "Lake City, SD",
+    "Lake Norden, SD",
+    "Lake Preston, SD",
+    "Lakota, ND",
+    "Lancaster, MN",
+    "Landa, ND",
+    "Langdon, ND",
+    "Lankin, ND",
+    "Lansford, ND",
+    "Larimore, ND",
+    "Lawton, ND",
+    "Leal, ND",
+    "Leeds, ND",
+    "Lehr, ND",
+    "Leonard, ND",
+    "Lidgerwood, ND",
+    "Lincoln, ND",
+    "Lisbon, ND",
+    "Litchville, ND",
+    "Loma, ND",
+    "Loraine, ND",
+    "Louisburg, MN",
+    "Ludden, ND",
+    "Luverne, ND",
+    "Maddock, ND",
+    "Mahnomen, MN",
+    "Makoti, ND",
+    "Mantador, ND",
+    "Manvel, ND",
+    "Mapleton, ND",
+    "Marietta, MN",
+    "Marion, ND",
+    "Martin, ND",
+    "Marvin, SD",
+    "Max, ND",
+    "Maxbass, ND",
+    "Mayville, ND",
+    "McClusky, ND",
+    "McHenry, ND",
+    "McIntosh, MN",
+    "McVille, ND",
+    "Medina, ND",
+    "Mentor, MN",
+    "Mercer, ND",
+    "Michigan City, ND",
+    "Middle River, MN",
+    "Milan, MN",
+    "Milbank, SD",
+    "Millerville, MN",
+    "Milnor, ND",
+    "Milroy, MN",
+    "Milton, ND",
+    "Miltona, MN",
+    "Minneota, MN",
+    "Minnewaukan, ND",
+    "Minot, ND",
+    "Minto, ND",
+    "Mohall, ND",
+    "Monango, ND",
+    "Montpelier, ND",
+    "Mooreton, ND",
+    "Morris, MN",
+    "Mountain, ND",
+    "Munich, ND",
+    "Murdock, MN",
+    "Mylo, ND",
+    "Napoleon, ND",
+    "Nashua, MN",
+    "Nassau, MN",
+    "Neche, ND",
+    "Nekoma, ND",
+    "New Effington, SD",
+    "New Rockford, ND",
+    "New Town, ND",
+    "New York Mills, MN",
+    "Newburg, ND",
+    "Niagara, ND",
+    "Nome, ND",
+    "Norcross, MN",
+    "North River, ND",
+    "Northwood, ND",
+    "Nunda, SD",
+    "Oakes, ND",
+    "Oberon, ND",
+    "Odessa, MN",
+    "Ogema, MN",
+    "Oklee, MN",
+    "Oldham, SD",
+    "Oriska, ND",
+    "Ortley, SD",
+    "Oslo, ND",
+    "Osnabrock, ND",
+    "Ottertail, MN",
+    "Overly, ND",
+    "Oxbow, ND",
+    "Page, ND",
+    "Palermo, ND",
+    "Park River, ND",
+    "Parkers Prairie, MN",
+    "Parshall, ND",
+    "Peever, SD",
+    "Pekin, ND",
+    "Pelican Rapids, MN",
+    "Pembina, ND",
+    "Pennock, MN",
+    "Perham, MN",
+    "Perth, ND",
+    "Petersburg, ND",
+    "Pettibone, ND",
+    "Pillsbury, ND",
+    "Pingree, ND",
+    "Pisek, ND",
+    "Plaza, ND",
+    "Plummer, MN",
+    "Porter, MN",
+    "Portland, ND",
+    "Prairie Rose, ND",
+    "Red Lake Falls, MN",
+    "Regan, ND",
+    "Reile's Acres, ND",
+    "Revillo, SD",
+    "Reynolds, ND",
+    "Richville, MN",
+    "Riverdale, ND",
+    "Robinson, ND",
+    "Rocklake, ND",
+    "Rogers, ND",
+    "Rolette, ND",
+    "Rolla, ND",
+    "Rosholt, SD",
+    "Roslyn, SD",
+    "Ross, ND",
+    "Rothsay, MN",
+    "Rugby, ND",
+    "Ruso, ND",
+    "Rutland, ND",
+    "Ryder, ND",
+    "Sanborn, ND",
+    "Sarles, ND",
+    "Sawyer, ND",
+    "Sharon, ND",
+    "Sheldon, ND",
+    "Sherwood, ND",
+    "Shevlin, MN",
+    "Sheyenne, ND",
+    "Sibley, ND",
+    "Sisseton, SD",
+    "Solway, MN",
+    "Souris, ND",
+    "South Shore, SD",
+    "Spiritwood Lake, ND",
+    "St. Hilaire, MN",
+    "St. John, ND",
+    "St. Leo, MN",
+    "St. Thomas, ND",
+    "St. Vincent, MN",
+    "Stanley, ND",
+    "Starkweather, ND",
+    "Steele, ND",
+    "Stockholm, SD",
+    "Strandburg, SD",
+    "Strandquist, MN",
+    "Streeter, ND",
+    "Summit, SD",
+    "Sunburg, MN",
+    "Surrey, ND",
+    "Sykeston, ND",
+    "Tappen, ND",
+    "Taunton, MN",
+    "Thompson, ND",
+    "Tintah, MN",
+    "Tolley, ND",
+    "Tolna, ND",
+    "Toronto, SD",
+    "Tower City, ND",
+    "Towner, ND",
+    "Trail, MN",
+    "Trent, SD",
+    "Turtle Lake, ND",
+    "Tuttle, ND",
+    "Twin Brooks, SD",
+    "Twin Valley, MN",
+    "Ulen, MN",
+    "Underwood, ND",
+    "Underwood, MN",
+    "Upham, ND",
+    "Urbank, MN",
+    "Valley City, ND",
+    "Veblen, SD",
+    "Velva, ND",
+    "Vergas, MN",
+    "Verona, ND",
+    "Viking, MN",
+    "Vining, MN",
+    "Voltaire, ND",
+    "Wahpeton, ND",
+    "Walcott, ND",
+    "Wales, ND",
+    "Walhalla, ND",
+    "Ward, SD",
+    "Warwick, ND",
+    "Washburn, ND",
+    "Waubay, SD",
+    "Waubun, MN",
+    "Wendell, MN",
+    "Wentworth, SD",
+    "West Fargo, ND",
+    "Westhope, ND",
+    "Wheaton, MN",
+    "White, SD",
+    "White Earth, ND",
+    "White Rock, SD",
+    "Willow City, ND",
+    "Wilmot, SD",
+    "Wilton, ND",
+    "Wilton, MN",
+    "Wimbledon, ND",
+    "Wing, ND",
+    "Winger, MN",
+    "Wolford, ND",
+    "Woodworth, ND",
+    "Wyndmere, ND",
+    "York, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, ND",
+     "population": 184525
+    },
+    {
+     "county": "Burleigh County, ND",
+     "population": 98458
+    },
+    {
+     "county": "Grand Forks County, ND",
+     "population": 73170
+    },
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Otter Tail County, MN",
+     "population": 60081
+    },
+    {
+     "county": "Beltrami County, MN",
+     "population": 46228
+    },
+    {
+     "county": "Kandiyohi County, MN",
+     "population": 43732
+    },
+    {
+     "county": "Douglas County, MN",
+     "population": 39006
+    },
+    {
+     "county": "Brookings County, SD",
+     "population": 34375
+    },
+    {
+     "county": "Polk County, MN",
+     "population": 31192
+    },
+    {
+     "county": "Lyon County, MN",
+     "population": 25269
+    },
+    {
+     "county": "Stutsman County, ND",
+     "population": 21593
+    },
+    {
+     "county": "Richland County, ND",
+     "population": 16529
+    },
+    {
+     "county": "Chippewa County, MN",
+     "population": 12598
+    },
+    {
+     "county": "Rolette County, ND",
+     "population": 12187
+    },
+    {
+     "county": "Ramsey County, ND",
+     "population": 11605
+    },
+    {
+     "county": "Lake County, SD",
+     "population": 11059
+    },
+    {
+     "county": "Barnes County, ND",
+     "population": 10853
+    },
+    {
+     "county": "Walsh County, ND",
+     "population": 10563
+    },
+    {
+     "county": "Roberts County, SD",
+     "population": 10280
+    },
+    {
+     "county": "Swift County, MN",
+     "population": 9838
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "McLean County, ND",
+     "population": 9771
+    },
+    {
+     "county": "Stevens County, MN",
+     "population": 9671
+    },
+    {
+     "county": "Yellow Medicine County, MN",
+     "population": 9528
+    },
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    },
+    {
+     "county": "Grant County, SD",
+     "population": 7556
+    },
+    {
+     "county": "Pembina County, ND",
+     "population": 6844
+    },
+    {
+     "county": "Lac qui Parle County, MN",
+     "population": 6719
+    },
+    {
+     "county": "Wilkin County, MN",
+     "population": 6506
+    },
+    {
+     "county": "Bottineau County, ND",
+     "population": 6379
+    },
+    {
+     "county": "Moody County, SD",
+     "population": 6336
+    },
+    {
+     "county": "Hamlin County, SD",
+     "population": 6164
+    },
+    {
+     "county": "Grant County, MN",
+     "population": 6074
+    },
+    {
+     "county": "Benson County, ND",
+     "population": 5964
+    },
+    {
+     "county": "Ransom County, ND",
+     "population": 5703
+    },
+    {
+     "county": "Lincoln County, MN",
+     "population": 5640
+    },
+    {
+     "county": "Day County, SD",
+     "population": 5449
+    },
+    {
+     "county": "McHenry County, ND",
+     "population": 5345
+    },
+    {
+     "county": "Kingsbury County, SD",
+     "population": 5187
+    },
+    {
+     "county": "Big Stone County, MN",
+     "population": 5166
+    },
+    {
+     "county": "Dickey County, ND",
+     "population": 4999
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    },
+    {
+     "county": "Deuel County, SD",
+     "population": 4295
+    },
+    {
+     "county": "Kittson County, MN",
+     "population": 4207
+    },
+    {
+     "county": "LaMoure County, ND",
+     "population": 4093
+    },
+    {
+     "county": "Pierce County, ND",
+     "population": 3990
+    },
+    {
+     "county": "Wells County, ND",
+     "population": 3982
+    },
+    {
+     "county": "Red Lake County, MN",
+     "population": 3935
+    },
+    {
+     "county": "Sargent County, ND",
+     "population": 3862
+    },
+    {
+     "county": "Cavalier County, ND",
+     "population": 3704
+    },
+    {
+     "county": "Foster County, ND",
+     "population": 3397
+    },
+    {
+     "county": "Traverse County, MN",
+     "population": 3360
+    },
+    {
+     "county": "Nelson County, ND",
+     "population": 3015
+    },
+    {
+     "county": "Kidder County, ND",
+     "population": 2394
+    },
+    {
+     "county": "Eddy County, ND",
+     "population": 2347
+    },
+    {
+     "county": "Griggs County, ND",
+     "population": 2306
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Towner County, ND",
+     "population": 2162
+    },
+    {
+     "county": "Logan County, ND",
+     "population": 1876
+    },
+    {
+     "county": "Steele County, ND",
+     "population": 1798
+    },
+    {
+     "county": "Sheridan County, ND",
+     "population": 1265
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 62891
+    },
+    {
+     "state": "North Dakota",
+     "customers": 59268
+    },
+    {
+     "state": "South Dakota",
+     "customers": 11835
+    }
+   ]
+  },
+  {
+   "company": "Cass County Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.casscountyelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 74844000.0,
+   "Residential-Customers": 47713.0,
+   "Commercial-Sales-($)": 51561000.0,
+   "Commercial-Customers": 6433.0,
+   "Industrial-Sales-($)": 19450000.0,
+   "Industrial-Customers": 617.0,
+   "Total-Customers": 54763.0,
+   "cities-served": [
+    "Abercrombie, ND",
+    "Alice, ND",
+    "Amenia, ND",
+    "Argusville, ND",
+    "Arthur, ND",
+    "Ayr, ND",
+    "Briarwood, ND",
+    "Buffalo, ND",
+    "Casselton, ND",
+    "Christine, ND",
+    "Colfax, ND",
+    "Davenport, ND",
+    "Dazey, ND",
+    "Elliott, ND",
+    "Enderlin, ND",
+    "Fargo, ND",
+    "Fingal, ND",
+    "Fort Ransom, ND",
+    "Frontier, ND",
+    "Gardner, ND",
+    "Grandin, ND",
+    "Harwood, ND",
+    "Horace, ND",
+    "Hunter, ND",
+    "Kathryn, ND",
+    "Kindred, ND",
+    "Leal, ND",
+    "Leonard, ND",
+    "Lisbon, ND",
+    "Litchville, ND",
+    "Mapleton, ND",
+    "Nome, ND",
+    "North River, ND",
+    "Oriska, ND",
+    "Oxbow, ND",
+    "Page, ND",
+    "Pillsbury, ND",
+    "Prairie Rose, ND",
+    "Reile's Acres, ND",
+    "Rogers, ND",
+    "Sanborn, ND",
+    "Sheldon, ND",
+    "Sibley, ND",
+    "Tower City, ND",
+    "Valley City, ND",
+    "Verona, ND",
+    "Walcott, ND",
+    "West Fargo, ND",
+    "Wimbledon, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, ND",
+     "population": 184525
+    },
+    {
+     "county": "Richland County, ND",
+     "population": 16529
+    },
+    {
+     "county": "Barnes County, ND",
+     "population": 10853
+    },
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    },
+    {
+     "county": "Ransom County, ND",
+     "population": 5703
+    },
+    {
+     "county": "Dickey County, ND",
+     "population": 4999
+    },
+    {
+     "county": "LaMoure County, ND",
+     "population": 4093
+    },
+    {
+     "county": "Sargent County, ND",
+     "population": 3862
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 54763
+    }
+   ]
+  },
+  {
+   "company": "Capital Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://capitalelec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 24313500.0,
+   "Residential-Customers": 18581.0,
+   "Commercial-Sales-($)": 14362400.0,
+   "Commercial-Customers": 2663.0,
+   "Industrial-Sales-($)": 259900.0,
+   "Industrial-Customers": 61.0,
+   "Total-Customers": 21305.0,
+   "cities-served": [
+    "Bismarck, ND",
+    "Lincoln, ND",
+    "Regan, ND",
+    "Wilton, ND",
+    "Wing, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Burleigh County, ND",
+     "population": 98458
+    },
+    {
+     "county": "Sheridan County, ND",
+     "population": 1265
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 21305
+    }
+   ]
+  },
+  {
+   "company": "Mountrail Williams Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mwec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 14711084.0,
+   "Residential-Customers": 12697.0,
+   "Commercial-Sales-($)": 6788509.0,
+   "Commercial-Customers": 3430.0,
+   "Industrial-Sales-($)": 275824259.0,
+   "Industrial-Customers": 4907.0,
+   "Total-Customers": 21034.0,
+   "cities-served": [
+    "Alamo, ND",
+    "Berthold, ND",
+    "Donnybrook, ND",
+    "Epping, ND",
+    "Grenora, ND",
+    "Makoti, ND",
+    "New Town, ND",
+    "Palermo, ND",
+    "Parshall, ND",
+    "Plaza, ND",
+    "Powers Lake, ND",
+    "Ray, ND",
+    "Ross, ND",
+    "Ryder, ND",
+    "Springbrook, ND",
+    "Stanley, ND",
+    "Tioga, ND",
+    "White Earth, ND",
+    "Wildrose, ND",
+    "Williston, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "McLean County, ND",
+     "population": 9771
+    },
+    {
+     "county": "Sheridan County, MT",
+     "population": 3539
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Burke County, ND",
+     "population": 2201
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 21034
+    }
+   ]
+  },
+  {
+   "company": "Nodak Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.nodakelectric.com/",
+   "service-types": [
+    "Residential",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 44557000.0,
+   "Residential-Customers": 20111.0,
+   "Industrial-Sales-($)": 61496000.0,
+   "Industrial-Customers": 517.0,
+   "Total-Customers": 20628.0,
+   "cities-served": [
+    "Adams, ND",
+    "Aneta, ND",
+    "Ardoch, ND",
+    "Bathgate, ND",
+    "Binford, ND",
+    "Brocket, ND",
+    "Buxton, ND",
+    "Canton City, ND",
+    "Cavalier, ND",
+    "Churchs Ferry, ND",
+    "Clifford, ND",
+    "Conway, ND",
+    "Cooperstown, ND",
+    "Crary, ND",
+    "Crystal, ND",
+    "Devils Lake, ND",
+    "Drayton, ND",
+    "East Grand Forks, MN",
+    "Edinburg, ND",
+    "Emerado, ND",
+    "Fairdale, ND",
+    "Finley, ND",
+    "Fordville, ND",
+    "Forest River, ND",
+    "Galesburg, ND",
+    "Gilby, ND",
+    "Grafton, ND",
+    "Grand Forks, ND",
+    "Grandin, ND",
+    "Hamilton, ND",
+    "Hannaford, ND",
+    "Hatton, ND",
+    "Hillsboro, ND",
+    "Hoople, ND",
+    "Hope, ND",
+    "Inkster, ND",
+    "Lakota, ND",
+    "Lankin, ND",
+    "Larimore, ND",
+    "Lawton, ND",
+    "Luverne, ND",
+    "Manvel, ND",
+    "Mayville, ND",
+    "McVille, ND",
+    "Michigan City, ND",
+    "Milton, ND",
+    "Minto, ND",
+    "Mountain, ND",
+    "Neche, ND",
+    "Niagara, ND",
+    "Northwood, ND",
+    "Oslo, ND",
+    "Park River, ND",
+    "Pekin, ND",
+    "Pembina, ND",
+    "Petersburg, ND",
+    "Pisek, ND",
+    "Portland, ND",
+    "Reynolds, ND",
+    "Sharon, ND",
+    "Sibley, ND",
+    "St. Thomas, ND",
+    "St. Vincent, MN",
+    "Thompson, ND",
+    "Tolna, ND",
+    "Walhalla, ND",
+    "Warwick, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Cass County, ND",
+     "population": 184525
+    },
+    {
+     "county": "Grand Forks County, ND",
+     "population": 73170
+    },
+    {
+     "county": "Polk County, MN",
+     "population": 31192
+    },
+    {
+     "county": "Ramsey County, ND",
+     "population": 11605
+    },
+    {
+     "county": "Barnes County, ND",
+     "population": 10853
+    },
+    {
+     "county": "Walsh County, ND",
+     "population": 10563
+    },
+    {
+     "county": "Marshall County, MN",
+     "population": 9040
+    },
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    },
+    {
+     "county": "Pembina County, ND",
+     "population": 6844
+    },
+    {
+     "county": "Benson County, ND",
+     "population": 5964
+    },
+    {
+     "county": "Kittson County, MN",
+     "population": 4207
+    },
+    {
+     "county": "Cavalier County, ND",
+     "population": 3704
+    },
+    {
+     "county": "Nelson County, ND",
+     "population": 3015
+    },
+    {
+     "county": "Eddy County, ND",
+     "population": 2347
+    },
+    {
+     "county": "Griggs County, ND",
+     "population": 2306
+    },
+    {
+     "county": "Steele County, ND",
+     "population": 1798
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 20628
+    }
+   ]
+  },
+  {
+   "company": "Verendrye Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.verendrye.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22967000.0,
+   "Residential-Customers": 14171.0,
+   "Commercial-Sales-($)": 14409000.0,
+   "Commercial-Customers": 2304.0,
+   "Industrial-Sales-($)": 13451000.0,
+   "Industrial-Customers": 70.0,
+   "Total-Customers": 16545.0,
+   "cities-served": [
+    "Anamoose, ND",
+    "Balfour, ND",
+    "Bergen, ND",
+    "Berthold, ND",
+    "Burlington, ND",
+    "Carpio, ND",
+    "Deering, ND",
+    "Des Lacs, ND",
+    "Donnybrook, ND",
+    "Douglas, ND",
+    "Drake, ND",
+    "Glenburn, ND",
+    "Granville, ND",
+    "Harvey, ND",
+    "Karlsruhe, ND",
+    "Kief, ND",
+    "Makoti, ND",
+    "Martin, ND",
+    "Minot, ND",
+    "Ryder, ND",
+    "Sawyer, ND",
+    "Surrey, ND",
+    "Towner, ND",
+    "Velva, ND",
+    "Voltaire, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "McLean County, ND",
+     "population": 9771
+    },
+    {
+     "county": "Bottineau County, ND",
+     "population": 6379
+    },
+    {
+     "county": "McHenry County, ND",
+     "population": 5345
+    },
+    {
+     "county": "Pierce County, ND",
+     "population": 3990
+    },
+    {
+     "county": "Wells County, ND",
+     "population": 3982
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Sheridan County, ND",
+     "population": 1265
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 16545
+    }
+   ]
+  },
+  {
+   "company": "Roughrider Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.roughriderelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 16639485.0,
+   "Residential-Customers": 11022.0,
+   "Commercial-Sales-($)": 38087449.0,
+   "Commercial-Customers": 3842.0,
+   "Industrial-Sales-($)": 19483593.0,
+   "Industrial-Customers": 73.0,
+   "Total-Customers": 14937.0,
+   "cities-served": [
+    "Belfield, ND",
+    "Beulah, ND",
+    "Center, ND",
+    "Dickinson, ND",
+    "Dodge, ND",
+    "Gladstone, ND",
+    "Golden Valley, ND",
+    "Hazen, ND",
+    "Medora, ND",
+    "Pick City, ND",
+    "Richardton, ND",
+    "South Heart, ND",
+    "Stanton, ND",
+    "Taylor, ND",
+    "Zap, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Stark County, ND",
+     "population": 33646
+    },
+    {
+     "county": "Mercer County, ND",
+     "population": 8350
+    },
+    {
+     "county": "Dunn County, ND",
+     "population": 4095
+    },
+    {
+     "county": "Oliver County, ND",
+     "population": 1877
+    },
+    {
+     "county": "Billings County, ND",
+     "population": 945
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 14937
+    }
+   ]
+  },
+  {
+   "company": "McKenzie Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.mckenzieelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 8663784.0,
+   "Residential-Customers": 5347.0,
+   "Commercial-Sales-($)": 128503799.0,
+   "Commercial-Customers": 6824.0,
+   "Industrial-Sales-($)": 227907442.0,
+   "Industrial-Customers": 1163.0,
+   "Total-Customers": 13334.0,
+   "cities-served": [
+    "Alexander, ND",
+    "Arnegard, ND",
+    "Dunn Center, ND",
+    "Halliday, ND",
+    "Killdeer, ND",
+    "Watford City, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "McKenzie County, ND",
+     "population": 14704
+    },
+    {
+     "county": "Dunn County, ND",
+     "population": 4095
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 13219
+    },
+    {
+     "state": "Montana",
+     "customers": 115
+    }
+   ]
+  },
+  {
+   "company": "Northern Plains Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.nplains.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 22957000.0,
+   "Residential-Customers": 10181.0,
+   "Commercial-Sales-($)": 7929000.0,
+   "Commercial-Customers": 1428.0,
+   "Industrial-Sales-($)": 8647000.0,
+   "Industrial-Customers": 172.0,
+   "Total-Customers": 11781.0,
+   "cities-served": [
+    "Balta, ND",
+    "Bisbee, ND",
+    "Bowdon, ND",
+    "Brinsmade, ND",
+    "Buchanan, ND",
+    "Cando, ND",
+    "Carrington, ND",
+    "Cathay, ND",
+    "Cleveland, ND",
+    "Courtenay, ND",
+    "Egeland, ND",
+    "Esmond, ND",
+    "Fessenden, ND",
+    "Glenfield, ND",
+    "Goodrich, ND",
+    "Grace City, ND",
+    "Hamberg, ND",
+    "Hansboro, ND",
+    "Harvey, ND",
+    "Hurdsfield, ND",
+    "Jamestown, ND",
+    "Kensal, ND",
+    "Knox, ND",
+    "Leeds, ND",
+    "Maddock, ND",
+    "Martin, ND",
+    "McHenry, ND",
+    "Medina, ND",
+    "Minnewaukan, ND",
+    "Mylo, ND",
+    "New Rockford, ND",
+    "Oberon, ND",
+    "Perth, ND",
+    "Pettibone, ND",
+    "Pingree, ND",
+    "Robinson, ND",
+    "Rocklake, ND",
+    "Rolla, ND",
+    "Rugby, ND",
+    "Sarles, ND",
+    "Sheyenne, ND",
+    "Spiritwood Lake, ND",
+    "St. John, ND",
+    "Sykeston, ND",
+    "Tuttle, ND",
+    "Wolford, ND",
+    "Woodworth, ND",
+    "York, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Stutsman County, ND",
+     "population": 21593
+    },
+    {
+     "county": "Rolette County, ND",
+     "population": 12187
+    },
+    {
+     "county": "Ramsey County, ND",
+     "population": 11605
+    },
+    {
+     "county": "Benson County, ND",
+     "population": 5964
+    },
+    {
+     "county": "Pierce County, ND",
+     "population": 3990
+    },
+    {
+     "county": "Wells County, ND",
+     "population": 3982
+    },
+    {
+     "county": "Foster County, ND",
+     "population": 3397
+    },
+    {
+     "county": "Kidder County, ND",
+     "population": 2394
+    },
+    {
+     "county": "Eddy County, ND",
+     "population": 2347
+    },
+    {
+     "county": "Griggs County, ND",
+     "population": 2306
+    },
+    {
+     "county": "Towner County, ND",
+     "population": 2162
+    },
+    {
+     "county": "Sheridan County, ND",
+     "population": 1265
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 11780
+    }
+   ]
+  },
+  {
+   "company": "Mor-Gran-Sou Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "http://www.morgransou.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 12717251.668,
+   "Residential-Customers": 7555.0,
+   "Commercial-Sales-($)": 7267722.459,
+   "Commercial-Customers": 1072.0,
+   "Industrial-Sales-($)": 902025.873,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 8628.0,
+   "cities-served": [
+    "Almont, ND",
+    "Carson, ND",
+    "Elgin, ND",
+    "Flasher, ND",
+    "Fort Yates, ND",
+    "Glen Ullin, ND",
+    "Hebron, ND",
+    "Leith, ND",
+    "Mandan, ND",
+    "New Leipzig, ND",
+    "New Salem, ND",
+    "Selfridge, ND",
+    "Solen, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Morton County, ND",
+     "population": 33291
+    },
+    {
+     "county": "Sioux County, ND",
+     "population": 3898
+    },
+    {
+     "county": "Grant County, ND",
+     "population": 2301
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 8628
+    }
+   ]
+  },
+  {
+   "company": "North Central Electric Bottineau, ND",
+   "company-type": "Cooperative",
+   "website": "http://www.nceci.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13181594.0,
+   "Residential-Customers": 6112.0,
+   "Commercial-Sales-($)": 10357333.0,
+   "Commercial-Customers": 1488.0,
+   "Industrial-Sales-($)": 928067.0,
+   "Industrial-Customers": 4.0,
+   "Total-Customers": 7604.0,
+   "cities-served": [
+    "Antler, ND",
+    "Bantry, ND",
+    "Bottineau, ND",
+    "Deering, ND",
+    "Dunseith, ND",
+    "Gardena, ND",
+    "Grano, ND",
+    "Kramer, ND",
+    "Landa, ND",
+    "Lansford, ND",
+    "Loraine, ND",
+    "Maxbass, ND",
+    "Mohall, ND",
+    "Newburg, ND",
+    "Overly, ND",
+    "Rolette, ND",
+    "Sherwood, ND",
+    "Souris, ND",
+    "Upham, ND",
+    "Westhope, ND",
+    "Willow City, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Rolette County, ND",
+     "population": 12187
+    },
+    {
+     "county": "Bottineau County, ND",
+     "population": 6379
+    },
+    {
+     "county": "McHenry County, ND",
+     "population": 5345
+    },
+    {
+     "county": "Pierce County, ND",
+     "population": 3990
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 7604
+    }
+   ]
+  },
+  {
+   "company": "Dakota Valley Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.dakotavalley.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 13290444.0,
+   "Residential-Customers": 5590.0,
+   "Commercial-Sales-($)": 7343425.0,
+   "Commercial-Customers": 755.0,
+   "Industrial-Sales-($)": 35458323.0,
+   "Industrial-Customers": 412.0,
+   "Total-Customers": 6757.0,
+   "cities-served": [
+    "Barney, ND",
+    "Berlin, ND",
+    "Cayuga, ND",
+    "Cogswell, ND",
+    "Dickey, ND",
+    "Dwight, ND",
+    "Edgeley, ND",
+    "Ellendale, ND",
+    "Fairmount, ND",
+    "Forbes, SD",
+    "Forman, ND",
+    "Fredonia, ND",
+    "Fullerton, ND",
+    "Gackle, ND",
+    "Great Bend, ND",
+    "Gwinner, ND",
+    "Hankinson, ND",
+    "Havana, ND",
+    "Jud, ND",
+    "Kulm, ND",
+    "LaMoure, ND",
+    "Lidgerwood, ND",
+    "Ludden, ND",
+    "Mantador, ND",
+    "Marion, ND",
+    "Milnor, ND",
+    "Monango, ND",
+    "Montpelier, ND",
+    "Mooreton, ND",
+    "Oakes, ND",
+    "Rutland, ND",
+    "Streeter, ND",
+    "Verona, ND",
+    "Wahpeton, ND",
+    "Wyndmere, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Stutsman County, ND",
+     "population": 21593
+    },
+    {
+     "county": "Richland County, ND",
+     "population": 16529
+    },
+    {
+     "county": "Ransom County, ND",
+     "population": 5703
+    },
+    {
+     "county": "Dickey County, ND",
+     "population": 4999
+    },
+    {
+     "county": "LaMoure County, ND",
+     "population": 4093
+    },
+    {
+     "county": "Sargent County, ND",
+     "population": 3862
+    },
+    {
+     "county": "McIntosh County, ND",
+     "population": 2530
+    },
+    {
+     "county": "Logan County, ND",
+     "population": 1876
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 6758
+    }
+   ]
+  },
+  {
+   "company": "Lower Yellowstone Electric REA",
+   "company-type": "Cooperative",
+   "website": "https://www.lyrec.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5694000.0,
+   "Residential-Customers": 4252.0,
+   "Commercial-Sales-($)": 2457000.0,
+   "Commercial-Customers": 851.0,
+   "Industrial-Sales-($)": 18698000.0,
+   "Industrial-Customers": 1114.0,
+   "Total-Customers": 6217.0,
+   "cities-served": [
+    "Fairview, MT",
+    "Sidney, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "McKenzie County, ND",
+     "population": 14704
+    },
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 5093
+    },
+    {
+     "state": "North Dakota",
+     "customers": 1124
+    }
+   ]
+  },
+  {
+   "company": "Valley City Public Works",
+   "company-type": "Municipal",
+   "website": "https://www.valleycity.us/electric/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3242401.98,
+   "Residential-Customers": 3372.0,
+   "Commercial-Sales-($)": 3810810.864,
+   "Commercial-Customers": 885.0,
+   "Industrial-Sales-($)": 535787.156,
+   "Industrial-Customers": 1.0,
+   "Total-Customers": 4258.0,
+   "cities-served": [
+    "Valley City"
+   ],
+   "counties-served": [
+    {
+     "county": "Barnes County, ND",
+     "population": 10853
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 4258
+    }
+   ]
+  },
+  {
+   "company": "McLean Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.mcleanelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 6926000.0,
+   "Residential-Customers": 3639.0,
+   "Commercial-Sales-($)": 3917000.0,
+   "Commercial-Customers": 442.0,
+   "Industrial-Sales-($)": 4239000.0,
+   "Industrial-Customers": 93.0,
+   "Total-Customers": 4174.0,
+   "cities-served": [
+    "Benedict, ND",
+    "Butte, ND",
+    "Coleharbor, ND",
+    "Garrison, ND",
+    "Max, ND",
+    "Mercer, ND",
+    "Riverdale, ND",
+    "Ruso, ND",
+    "Turtle Lake, ND",
+    "Underwood, ND",
+    "Washburn, ND",
+    "Wilton, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "McLean County, ND",
+     "population": 9771
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 4174
+    }
+   ]
+  },
+  {
+   "company": "Sheridan Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.sheridanelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 3970473.317,
+   "Residential-Customers": 2391.0,
+   "Commercial-Sales-($)": 11557195.016,
+   "Commercial-Customers": 849.0,
+   "Industrial-Sales-($)": 975331.667,
+   "Industrial-Customers": 899.0,
+   "Total-Customers": 4139.0,
+   "cities-served": [
+    "Bainville, MT",
+    "Brockton, MT",
+    "Culbertson, MT",
+    "Flaxville, MT",
+    "Fortuna, ND",
+    "Froid, MT",
+    "Medicine Lake, MT",
+    "Outlook, MT",
+    "Plentywood, MT",
+    "Poplar, MT",
+    "Scobey, MT",
+    "Westby, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, MT",
+     "population": 11491
+    },
+    {
+     "county": "Roosevelt County, MT",
+     "population": 10794
+    },
+    {
+     "county": "Sheridan County, MT",
+     "population": 3539
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    },
+    {
+     "county": "McCone County, MT",
+     "population": 1729
+    },
+    {
+     "county": "Daniels County, MT",
+     "population": 1661
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 3715
+    },
+    {
+     "state": "North Dakota",
+     "customers": 424
+    }
+   ]
+  },
+  {
+   "company": "Slope Electric",
+   "company-type": "Cooperative",
+   "website": "https://www.slopeelectric.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5492000.0,
+   "Residential-Customers": 3164.0,
+   "Commercial-Sales-($)": 2754000.0,
+   "Commercial-Customers": 556.0,
+   "Industrial-Sales-($)": 19814000.0,
+   "Industrial-Customers": 299.0,
+   "Total-Customers": 4019.0,
+   "cities-served": [
+    "Amidon, ND",
+    "Bowman, ND",
+    "Bucyrus, ND",
+    "Gascoyne, ND",
+    "Haynes, ND",
+    "Hettinger, ND",
+    "Marmarth, ND",
+    "Mott, ND",
+    "New England, ND",
+    "Reeder, ND",
+    "Regent, ND",
+    "Rhame, ND",
+    "Scranton, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Bowman County, ND",
+     "population": 2993
+    },
+    {
+     "county": "Hettinger County, ND",
+     "population": 2489
+    },
+    {
+     "county": "Adams County, ND",
+     "population": 2200
+    },
+    {
+     "county": "Golden Valley County, ND",
+     "population": 1736
+    },
+    {
+     "county": "Slope County, ND",
+     "population": 706
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 4019
+    }
+   ]
+  },
+  {
+   "company": "KEM Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.kemelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 5589978.947,
+   "Residential-Customers": 2983.0,
+   "Commercial-Sales-($)": 3903879.699,
+   "Commercial-Customers": 762.0,
+   "Industrial-Sales-($)": 1642141.353,
+   "Industrial-Customers": 186.0,
+   "Total-Customers": 3931.0,
+   "cities-served": [
+    "Braddock, ND",
+    "Dawson, ND",
+    "Hague, ND",
+    "Hazelton, ND",
+    "Linton, ND",
+    "Napoleon, ND",
+    "Steele, ND",
+    "Strasburg, ND",
+    "Tappen, ND",
+    "Venturia, ND",
+    "Wishek, ND",
+    "Zeeland, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Emmons County, ND",
+     "population": 3301
+    },
+    {
+     "county": "McIntosh County, ND",
+     "population": 2530
+    },
+    {
+     "county": "Kidder County, ND",
+     "population": 2394
+    },
+    {
+     "county": "Logan County, ND",
+     "population": 1876
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 3931
+    }
+   ]
+  },
+  {
+   "company": "Burke Divide Electric Cooperative",
+   "company-type": "Cooperative",
+   "website": "https://www.bdec.coop/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 3447000.0,
+   "Residential-Customers": 2197.0,
+   "Commercial-Sales-($)": 18365000.0,
+   "Commercial-Customers": 1218.0,
+   "Total-Customers": 3415.0,
+   "cities-served": [
+    "Alamo, ND",
+    "Ambrose, ND",
+    "Bowbells, ND",
+    "Columbus, ND",
+    "Crosby, ND",
+    "Flaxton, ND",
+    "Grenora, ND",
+    "Kenmare, ND",
+    "Lignite, ND",
+    "Noonan, ND",
+    "Portal, ND",
+    "Powers Lake, ND",
+    "Wildrose, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Ward County, ND",
+     "population": 69919
+    },
+    {
+     "county": "Williams County, ND",
+     "population": 40950
+    },
+    {
+     "county": "Mountrail County, ND",
+     "population": 9809
+    },
+    {
+     "county": "Renville County, ND",
+     "population": 2282
+    },
+    {
+     "county": "Burke County, ND",
+     "population": 2201
+    },
+    {
+     "county": "Divide County, ND",
+     "population": 2195
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 3415
+    }
+   ]
+  },
+  {
+   "company": "Traverse Electric",
+   "company-type": "Cooperative",
+   "website": "http://www.traverseelectric.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 7014446.35,
+   "Residential-Customers": 2936.0,
+   "Commercial-Sales-($)": 2103539.517,
+   "Commercial-Customers": 134.0,
+   "Industrial-Sales-($)": 2446348.793,
+   "Industrial-Customers": 23.0,
+   "Total-Customers": 3093.0,
+   "cities-served": [
+    "Abercrombie, ND",
+    "Barney, ND",
+    "Chokio, MN",
+    "Christine, ND",
+    "Colfax, ND",
+    "Dwight, ND",
+    "Fairmount, ND",
+    "Graceville, MN",
+    "Great Bend, ND",
+    "Hankinson, ND",
+    "Herman, MN",
+    "Lidgerwood, ND",
+    "Mantador, ND",
+    "Mooreton, ND",
+    "Nashua, MN",
+    "New Effington, SD",
+    "Norcross, MN",
+    "Wahpeton, ND",
+    "Walcott, ND",
+    "Wyndmere, ND"
+   ],
+   "counties-served": [
+    {
+     "county": "Richland County, ND",
+     "population": 16529
+    },
+    {
+     "county": "Roberts County, SD",
+     "population": 10280
+    },
+    {
+     "county": "Stevens County, MN",
+     "population": 9671
+    },
+    {
+     "county": "Wilkin County, MN",
+     "population": 6506
+    },
+    {
+     "county": "Grant County, MN",
+     "population": 6074
+    },
+    {
+     "county": "Big Stone County, MN",
+     "population": 5166
+    },
+    {
+     "county": "Marshall County, SD",
+     "population": 4306
+    },
+    {
+     "county": "Traverse County, MN",
+     "population": 3360
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Minnesota",
+     "customers": 2012
+    },
+    {
+     "state": "South Dakota",
+     "customers": 1046
+    },
+    {
+     "state": "North Dakota",
+     "customers": 35
+    }
+   ]
+  },
+  {
+   "company": "Grafton Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.graftongov.com/index.asp?SEC=4B60083C-78C6-4DD4-BA67-10788A63373C&Type=B_BASIC",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 2994308.909,
+   "Residential-Customers": 1970.0,
+   "Commercial-Sales-($)": 1167487.613,
+   "Commercial-Customers": 272.0,
+   "Industrial-Sales-($)": 2108403.478,
+   "Industrial-Customers": 38.0,
+   "Total-Customers": 2280.0,
+   "cities-served": [
+    "Grafton"
+   ],
+   "counties-served": [
+    {
+     "county": "Walsh County, ND",
+     "population": 10563
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 2280
+    }
+   ]
+  },
+  {
+   "company": "Goldenwest Electric Coop",
+   "company-type": "Cooperative",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1439253.057,
+   "Residential-Customers": 1572.0,
+   "Commercial-Sales-($)": 3376046.943,
+   "Commercial-Customers": 31.0,
+   "Total-Customers": 1603.0,
+   "cities-served": [
+    "Beach, ND",
+    "Glendive, MT",
+    "Golva, ND",
+    "Sentinel Butte, ND",
+    "Wibaux, MT"
+   ],
+   "counties-served": [
+    {
+     "county": "Dawson County, MT",
+     "population": 8940
+    },
+    {
+     "county": "Fallon County, MT",
+     "population": 3049
+    },
+    {
+     "county": "Golden Valley County, ND",
+     "population": 1736
+    },
+    {
+     "county": "Wibaux County, MT",
+     "population": 937
+    },
+    {
+     "county": "Slope County, ND",
+     "population": 706
+    }
+   ],
+   "states-served": [
+    {
+     "state": "Montana",
+     "customers": 822
+    },
+    {
+     "state": "North Dakota",
+     "customers": 781
+    }
+   ]
+  },
+  {
+   "company": "Hillsboro Utilities",
+   "company-type": "Municipal",
+   "website": "https://www.hillsboro-nd.com/index.asp?SEC=8D54C6B8-36F7-4BD4-B443-F5CA300EC217",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 1451961.276,
+   "Residential-Customers": 811.0,
+   "Commercial-Sales-($)": 988338.724,
+   "Commercial-Customers": 160.0,
+   "Total-Customers": 971.0,
+   "Total-Production-MWh": 33.0,
+   "Production-from-Non-Renewable-Energy-MWh": 33.0,
+   "cities-served": [
+    "Hillsboro"
+   ],
+   "counties-served": [
+    {
+     "county": "Traill County, ND",
+     "population": 7997
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 971
+    }
+   ]
+  },
+  {
+   "company": "Cavalier Municipal Utilities",
+   "company-type": "Municipal",
+   "website": "http://www.brightenergysolutions.com/municipalities/?category=home&state=nd&municipality=61",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 680030.396,
+   "Residential-Customers": 703.0,
+   "Commercial-Sales-($)": 631869.604,
+   "Commercial-Customers": 172.0,
+   "Total-Customers": 875.0,
+   "cities-served": [
+    "Cavalier"
+   ],
+   "counties-served": [
+    {
+     "county": "Pembina County, ND",
+     "population": 6844
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 875
+    }
+   ]
+  },
+  {
+   "company": "Park River, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.cityofparkriver.com/index.asp?SEC=F8B173ED-D20A-4ADA-AE9F-803F2CBE9F04&Type=B_DIR",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 1228833.469,
+   "Residential-Customers": 703.0,
+   "Commercial-Sales-($)": 286623.583,
+   "Commercial-Customers": 99.0,
+   "Industrial-Sales-($)": 782742.948,
+   "Industrial-Customers": 13.0,
+   "Total-Customers": 815.0,
+   "cities-served": [
+    "Park River"
+   ],
+   "counties-served": [
+    {
+     "county": "Walsh County, ND",
+     "population": 10563
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 815
+    }
+   ]
+  },
+  {
+   "company": "Northwood, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://sites.google.com/site/northwoodcitynorthdakota/home/services/electrical",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 671720.374,
+   "Residential-Customers": 476.0,
+   "Commercial-Sales-($)": 936779.626,
+   "Commercial-Customers": 183.0,
+   "Total-Customers": 659.0,
+   "cities-served": [
+    "Northwood"
+   ],
+   "counties-served": [
+    {
+     "county": "Grand Forks County, ND",
+     "population": 73170
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 659
+    }
+   ]
+  },
+  {
+   "company": "Lakota, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.lakota-nd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial",
+    "Industrial"
+   ],
+   "Residential-Sales-($)": 605315.747,
+   "Residential-Customers": 392.0,
+   "Commercial-Sales-($)": 441414.868,
+   "Commercial-Customers": 146.0,
+   "Industrial-Sales-($)": 118269.384,
+   "Industrial-Customers": 6.0,
+   "Total-Customers": 544.0,
+   "cities-served": [
+    "Lakota"
+   ],
+   "counties-served": [
+    {
+     "county": "Nelson County, ND",
+     "population": 3015
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 544
+    }
+   ]
+  },
+  {
+   "company": "Riverdale, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.riverdalenorthdakota.com/?SEC=F39D91D0-2335-4B69-AB82-65FABC3E209E",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 175663.329,
+   "Residential-Customers": 284.0,
+   "Commercial-Sales-($)": 167436.671,
+   "Commercial-Customers": 45.0,
+   "Total-Customers": 329.0,
+   "cities-served": [
+    "Riverdale"
+   ],
+   "counties-served": [
+    {
+     "county": "McLean County, ND",
+     "population": 9771
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 329
+    }
+   ]
+  },
+  {
+   "company": "Stanton, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "http://www.stantonnd.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 332464.994,
+   "Residential-Customers": 226.0,
+   "Commercial-Sales-($)": 162335.006,
+   "Commercial-Customers": 28.0,
+   "Total-Customers": 254.0,
+   "cities-served": [
+    "Stanton"
+   ],
+   "counties-served": [
+    {
+     "county": "Mercer County, ND",
+     "population": 8350
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 254
+    }
+   ]
+  },
+  {
+   "company": "Hope, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "https://www.hopend.com/",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 289612.183,
+   "Residential-Customers": 175.0,
+   "Commercial-Sales-($)": 112187.817,
+   "Commercial-Customers": 22.0,
+   "Total-Customers": 197.0,
+   "cities-served": [
+    "Hope"
+   ],
+   "counties-served": [
+    {
+     "county": "Steele County, ND",
+     "population": 1798
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 197
+    }
+   ]
+  },
+  {
+   "company": "Sharon, North Dakota Electric Utility",
+   "company-type": "Municipal",
+   "website": "",
+   "service-types": [
+    "Residential",
+    "Commercial"
+   ],
+   "Residential-Sales-($)": 70875.0,
+   "Residential-Customers": 60.0,
+   "Commercial-Sales-($)": 23625.0,
+   "Commercial-Customers": 20.0,
+   "Total-Customers": 80.0,
+   "cities-served": [
+    "Sharon"
+   ],
+   "counties-served": [
+    {
+     "county": "Steele County, ND",
+     "population": 1798
+    }
+   ],
+   "states-served": [
+    {
+     "state": "North Dakota",
+     "customers": 80
+    }
+   ]
+  }
+ ]
+}
