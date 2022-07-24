@@ -1,61 +1,28 @@
 import json
+import os
 
-from Collect_State_Info import STATES, OUTPUT_FILE
 
-JSON_DIR = "outputs"
+from Collect_State_Info import *
+from Scrape_Electrical_Providers import OUTPUT_DIR
 
-REGION_5_ABRV = [ 'IL', 'IN', 'MI', 'MN', 'OH', 'WI' ]
-REGION_5 = {
-    'Illinois': 'IL',
-    'Indiana': 'IN',
-    'Michigan': 'MI',
-    'Minnesota': 'MN',
-    'Ohio': 'OH',
-    'Wisconsin': 'WI'
-}
+OUTPUT_DIR = "outputs"
 
-in_filename = OUTPUT_FILE
-water_info_file = "region-5-water.json"
+out_filename = "all-states-utility-info.json"
 
-out_filename = "region-5-utility-info.json"
+states_dict = {}
 
-region_5_states = {}
+with open(OUTPUT_FILE, 'r') as rf:
+    all_states_info = json.load(rf)
 
-with open(in_filename, 'r') as rf:
-    all_states = json.load(rf)
+with os.scandir(OUTPUT_DIR) as outputs:
+    for file in outputs:
+        if not file.name.startswith('.'):
+            state_abrv = file.name.split('-')[0]
+            if state_abrv in all_states_info.keys():
+                with open("{}/{}".format(OUTPUT_DIR, file.name), 'r') as rf:
+                    state_info = json.load(rf)
+                all_states_info[state_abrv]['electrical-providers'] = state_info['electrical-providers']
 
-for key in all_states.keys():
-    if key in REGION_5_ABRV:
-        region_5_states[key] = all_states[key]
-        region_5_states[key]['water-providers'] = []
-        region_5_states[key]['electrical-providers'] = []
-
-all_water_info = []
-
-with open(water_info_file, 'r') as rf:
-    all_water_info = json.load(rf)
-
-for water_provider in all_water_info:
-    r5_state = water_provider['State']
-    
-    if r5_state in REGION_5.keys():
-        region_5_states[REGION_5[r5_state]]['water-providers'].append(water_provider)
-
-for state in region_5_states.keys():
-    water_providers = region_5_states[state]['water-providers']
-    region_5_states[state]['water-providers'] = sorted(
-        water_providers, reverse=True, key=lambda provider: provider['Population-served']
-    )
-
-for state in region_5_states.keys():
-    state_info = region_5_states[state]
-
-    if state in REGION_5_ABRV:
-        with open("{}/{}-energy-utility-info.json".format(JSON_DIR, state), 'r') as rf:
-            s = json.load(rf)
-            state_info['electrical-providers'] = s['electrical-providers']
-        
-        region_5_states[state] = state_info
 
 with open(out_filename, 'w') as wf:
-    json.dump(region_5_states, wf, indent=1)
+    json.dump(all_states_info, wf, indent=1)

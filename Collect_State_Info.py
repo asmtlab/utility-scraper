@@ -18,7 +18,7 @@
 
 # Water Provider Data
 # -------------------------------------------------
-# https://ordspub.epa.gov/ords/sfdw/sfdw/r/sdwis_fed_reports_public/103?clear=RP
+# https://ordspub.epa.gov/ords/sfdw/sfdw/r/sdwis_fed_reports_public/wsdetail?clear=RP,RIR
 
 # DATASET HEADER KEY
 # -------------------------------
@@ -96,24 +96,26 @@ REGION_8 = [ 'CO', 'MT', 'ND', 'SD', 'UT', 'WY' ]
 REGION_9 = [ 'AZ', 'CA', 'HI', 'NV' ]
 REGION_10 = [ 'AK', 'ID', 'OR', 'WA' ]
 
-REGIONS = [
-    REGION_1,
-    REGION_2,
-    REGION_3,
-    REGION_4,
-    REGION_5,
-    REGION_6,
-    REGION_7,
-    REGION_8,
-    REGION_9,
-    REGION_10
-]
+REGIONS = {
+     "1": REGION_1,
+     "2": REGION_2,
+     "3": REGION_3,
+     "4": REGION_4,
+     "5": REGION_5,
+     "6": REGION_6,
+     "7": REGION_7,
+     "8": REGION_8,
+     "9": REGION_9,
+    "10": REGION_10
+}
 
 #### FILE INFO ####
-DATASETS_DIRECTORY_PATH = "datasets" # path to dataset directory 
-ENERGY_PRODUCTION_BY_STATE_FILE = "annual_generation_state.xls"
-US_POPULATION_BY_CITY_FILE = "sub-est2021_all.csv"
-OUTPUT_FILE = "all-states-info.json"
+DATASETS_DIRECTORY_PATH             = "datasets" 
+US_ENERGY_PRODUCTION_BY_STATE_FILE  = "annual_generation_state.xls"
+US_POPULATION_BY_CITY_FILE          = "sub-est2021_all.csv"
+US_WATER_PROVIDERS_BY_STATE_FILE    = "Water System Detail.csv"
+
+OUTPUT_FILE = "all-states-water-population-info.json"
 
 #### CSV/XLS HEADER NAMES ####
 # These strings are from the files shown above and are consistent
@@ -131,16 +133,20 @@ POP_KEY_2 = 'estimate-2021'
 YEAR_MIN = 1990
 YEAR_MAX = 2020
 
+def capitalize(string: str) -> str:
+    '''Capitalize the first letter in a string.'''
+    return " ".join([ word.capitalize() for word in string.split() ])
+
 def write_json(filename: str, content: Dict) -> None:
     '''Writes content to a json file.'''
     with open(filename, 'w') as wf:
         json.dump(content, wf, indent=1)
 
-def get_excel_df(filepath: str) -> DataFrame:
+def get_excel_df(filepath: str, header: int, skiprows: int) -> DataFrame:
     '''Read xls file into a pandas data-frame.'''
     excel_data_df = None
     try:
-        excel_data_df = read_excel(filepath, header=[1], skiprows=0)
+        excel_data_df = read_excel(filepath, header=[header], skiprows=0)
         # header=[1] specifies the index of the header row in the xls file
         #   adjust accordingly to ignore rows at the top of the xls file
     except Exception as err:
@@ -158,29 +164,6 @@ def get_csv_df(filepath: str) -> DataFrame:
         print(err, file=sys.stderr)
 
     return csv_data_df
-
-def get_state_energy_production(df: DataFrame, state: str) -> Dict:
-    '''Get energy production by source and MWhs generated for a particular state.'''
-    state_info = {}
-
-    for year in range(YEAR_MIN, YEAR_MAX+1):
-        # Filter dataframe by state and year
-        state_df = df.query(
-            "(`STATE` == '{}') and (`TYPE OF PRODUCER` == 'Total Electric Power Industry')\
-                and (`YEAR` == {})".format(state, year)
-        )
-        
-        yearly_production = {}
-        for item in state_df.itertuples():
-            yearly_production[item._4] = item._5
-            # {
-            #     'source': item._4,
-            #     'generation-MWhs': item._5
-            # })
-        
-        state_info[year] = yearly_production
-
-    return state_info
 
 def get_state_population(df: DataFrame, state: str) -> Dict:
     '''Get state population data for a specific state from dataframe.'''
@@ -240,7 +223,55 @@ def get_city_populations(df, state) -> List[Dict]:
     # sort the list by population of the most recent year
     return sorted(cities, reverse=True, key=lambda city: city[POP_KEY_2])
 
-def get_state_info(state_name: str, state_abrev: str, energy_production_df: DataFrame, statewide_pop_df: DataFrame) -> Dict:
+def get_state_energy_production(df: DataFrame, state: str) -> Dict:
+    '''Get energy production by source and MWhs generated for a particular state.'''
+    state_info = {}
+
+    for year in range(YEAR_MIN, YEAR_MAX+1):
+        # Filter dataframe by state and year
+        state_df = df.query(
+            "(`STATE` == '{}') and (`TYPE OF PRODUCER` == 'Total Electric Power Industry')\
+                and (`YEAR` == {})".format(state, year)
+        )
+        
+        yearly_production = {}
+        for item in state_df.itertuples():
+            yearly_production[item._4] = item._5
+        
+        state_info[year] = yearly_production
+
+    return state_info
+
+def get_state_water_providers(df: DataFrame, state: str) -> List[Dict]:
+    state_providers = []
+
+    # Filter dataframe by state
+    state_df = df.query(
+        "`Primacy Agency` == '{}'".format(state)
+    )
+
+    for pws_id, pws_name, pws_type, owner_type, source, pop_served in \
+        zip(
+            state_df['PWS ID'], state_df['PWS Name'], state_df['PWS Type'], 
+            state_df['Owner Type'], state_df['Primary Source'], 
+            state_df['Population Served Count']
+        ):
+        # print(pop_served)
+        state_providers.append({
+            'PWS-ID': pws_id,
+            'PWS-Name': capitalize(pws_name),
+            'PWS-Type': capitalize(pws_type),
+            'Owner-Type': capitalize(owner_type),
+            'Primary-Source': capitalize(source),
+            'Population-Served': int("".join(pop_served.split(',')))
+        })
+
+    # Sort list of providers by population served (descending) and return
+    return sorted(state_providers, reverse=True, key=lambda provider: provider['Population-Served'])
+
+def get_state_info(state_name: str, state_abrev: str, 
+        energy_production_df: DataFrame, water_provider_df: DataFrame,
+        statewide_pop_df: DataFrame) -> Dict:
     '''Collects population and energy production data for all states.'''
     state_dict = {}
     # read energy production xlsx
@@ -256,17 +287,25 @@ def get_state_info(state_name: str, state_abrev: str, energy_production_df: Data
     state_dict['population']['cities'] = get_city_populations(statewide_pop_df, state_name)
     # get energy production
     state_dict['energy-production']['annual'] = get_state_energy_production(energy_production_df, state_abrev)
-    
+    # get water providers
+    state_dict['water-providers'] = get_state_water_providers(water_provider_df, state_name)
+
     return state_dict
 
 def main():
     energy_production_file = "{}/{}".format(
-        DATASETS_DIRECTORY_PATH, ENERGY_PRODUCTION_BY_STATE_FILE
+        DATASETS_DIRECTORY_PATH, US_ENERGY_PRODUCTION_BY_STATE_FILE
     )
     # read xls file into pandas dataframe
-    energy_production_df = get_excel_df(energy_production_file)
-    if energy_production_df is None: return None
+    energy_production_df = get_excel_df(energy_production_file, header=1, skiprows=0)
+    if energy_production_df is None: return 1
 
+    water_provider_file = "{}/{}".format(
+        DATASETS_DIRECTORY_PATH, US_WATER_PROVIDERS_BY_STATE_FILE
+    )
+
+    water_provider_df = get_csv_df(water_provider_file)
+    if water_provider_df is None: return 1
 
     population_file = "{}/{}".format(
         DATASETS_DIRECTORY_PATH, US_POPULATION_BY_CITY_FILE
@@ -280,7 +319,7 @@ def main():
     for state_name, state_abrev in STATES.items():
         states_dict[state_abrev] = get_state_info(
             state_name, state_abrev,
-            energy_production_df, statewide_pop_df
+            energy_production_df, water_provider_df, statewide_pop_df
         )
 
     # write info to json file
