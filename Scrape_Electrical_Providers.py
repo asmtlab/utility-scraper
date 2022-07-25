@@ -319,11 +319,11 @@ def get_electrical_providers(driver: webdriver) -> Set[Dict]:
     return providers
 
 
-def scrape_state(driver: webdriver, url: str, state: str) -> Dict:
+def scrape_state(driver: webdriver, url: str, state: str) -> List[Dict]:
     driver.get(url)
     driver.maximize_window()
     print("Scraping {}".format(state))
-    state_info = {}
+    state_info = []
 
     provider_urls = get_electrical_providers(driver)
 
@@ -332,9 +332,9 @@ def scrape_state(driver: webdriver, url: str, state: str) -> Dict:
         providers_info.append(get_provider_info(driver, providerURL))
 
     # sort providers by total customers served
-    state_info["electrical-providers"] = sorted(providers_info, 
+    state_info = sorted(providers_info, 
         key=lambda provider: provider["Total-Customers"], reverse=True)
-    
+
     return state_info
 
 def get_driver(browser: str, driver_path: str, options_list: List[str], ) -> webdriver:
@@ -378,7 +378,7 @@ def main():
     info = {}
     for state, state_abrv in STATES.items():
         url_query = "{}{}".format(BASE_URL, state_abrv)
-        info[state_abrv] = scrape_state(driver, url_query, state_abrv)
+        info[state_abrv]['electrical-providers'] = scrape_state(driver, url_query, state_abrv)
 
         with open('{}/{}-energy-utility-info.json'.format(OUTPUT_DIR, state_abrv), 'w') as wf:
             json.dump(info[state_abrv], wf, indent=1)

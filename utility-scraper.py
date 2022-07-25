@@ -1,3 +1,5 @@
+import os
+
 from Scrape_Electrical_Providers import *
 from Collect_State_Info import *
 
@@ -22,7 +24,7 @@ US_POPULATION_BY_CITY_FILE         = "sub-est2021_all.csv"
 US_WATER_PROVIDERS_BY_STATE_FILE   = "Water System Detail.csv"
 
 # Outputs
-OUTPUT_DIR = 'outputs'
+OUTPUT_DIR  = 'outputs'
 OUTPUT_FILE = "all-states-info.json"
 
 
@@ -61,27 +63,30 @@ def main():
         )
 
     # collect state electrical provider data
-    driver = get_driver('Firefox', ['--headless', '--no-sandbox' ], FIREFOX_PATH)
+    driver = get_driver('Firefox', FIREFOX_PATH, ['--headless', '--no-sandbox' ])
     if driver is None:
         print("Not able to create webdriver object")
         return 1
 
+    # create directory for outputs if not already there
+    if not os.path.exists(OUTPUT_DIR) or not os.path.isdir(OUTPUT_FILE):
+        os.makedirs(OUTPUT_DIR)
+    
     info = {}
     for name, abrv in STATES.items():
         urlQueryString = "{}{}".format(BASE_URL, abrv)
         info[abrv] = scrape_state(driver, urlQueryString, abrv)
 
-        states_dict[abrv] = info[abrv]
+        states_dict[abrv]['electrical-providers'] = info[abrv]
 
         with open('{}/{}-energy-utility-info.json'.format(OUTPUT_DIR, abrv), 'w') as wf:
             json.dump(info[abrv], wf)
-    
+
     driver.close()
 
     write_json(OUTPUT_FILE, states_dict)
 
     return 0
-    
 
 if __name__ == "__main__":
     sys.exit(main())
