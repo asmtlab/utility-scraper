@@ -13,7 +13,7 @@ from Collect_State_Info import *
 # Or to download the browser driver:
 #   https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 #
-FIREFOX_PATH = "./geckodriver" # replace with path to driver for your OS
+DRIVER_PATH = "./geckodriver" # replace with path to driver for your OS
 
 BASE_URL = "https://findenergy.com/"
 
@@ -63,7 +63,7 @@ def main():
         )
 
     # collect state electrical provider data
-    driver = get_driver('Firefox', FIREFOX_PATH, ['--headless', '--no-sandbox' ])
+    driver = get_driver('Firefox', DRIVER_PATH, ['--headless', '--no-sandbox' ])
     if driver is None:
         print("Not able to create webdriver object")
         return 1
