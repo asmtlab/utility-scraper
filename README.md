@@ -4,8 +4,7 @@
 
 ### Dependencies ###
 
-`python3 -m pip install pandas`
-`python3 -m pip install selenium`
+`python3 -m pip install pandas selenium`
 
 Download the necessary browser driver (Firefox preferred) from 
 [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) 
