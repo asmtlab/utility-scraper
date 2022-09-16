@@ -1,11 +1,13 @@
+# This script can be used to merge multiple json files output by 
+#  the Collect_State_Info and Scrape_Electrical_Providers scripts.
+#
+
 import json
 import os
 
 
 from Collect_State_Info import *
 from Scrape_Electrical_Providers import OUTPUT_DIR
-
-OUTPUT_DIR = "outputs"
 
 out_filename = "all-states-utility-info.json"
 

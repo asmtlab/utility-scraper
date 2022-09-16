@@ -4,9 +4,12 @@
 
 ### Dependencies ###
 
-`pip install selenium`
+`python3 -m pip install pandas`
+`python3 -m pip install selenium`
 
-Download the necessary browser driver (Firefox preferred) from [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) and update the filepath to this driver.
+Download the necessary browser driver (Firefox preferred) from 
+[here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) 
+and update the filepath to this driver.
 
 ```Py
 DRIVER_PATH = "./geckodriver" # replace with path to driver for your OS
@@ -14,7 +17,10 @@ DRIVER_PATH = "./geckodriver" # replace with path to driver for your OS
 
 ## Datasets ##
 
-The datasets used to collect necessary information are included in the repo under the `datasets` directory. To include a newer version of a specific dataset it should be included in the `datasets` directory and then update the corresponding variable in `utility-scraper.py` with the appropriate filename.
+The datasets used to collect necessary information are included in the repo under 
+the `datasets` directory. To include a newer version of a specific dataset it 
+should be included in the `datasets` directory and then update the corresponding
+ variable at the top of `utility-scraper.py` with the appropriate filename.
 
 ``` Py
     # Dataset files
@@ -50,8 +56,9 @@ This site aggregates information found from several government agency reports (m
 
 ## Usage ##
 
-Data for all 50 states can be collected out of the box by running the `utility-scraper.py` file.
+Data for all 50 states can be collected by running the `utility-scraper.py` file.
 
 ```
 python3 utility-scraper.py
 ```
+
